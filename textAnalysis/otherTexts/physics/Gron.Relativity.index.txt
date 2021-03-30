@@ -1,0 +1,1167 @@
+
+Index
+
+A
+Absolute space, 18
+Accelerated expansion, 321
+Accelerated frame, 108, 109, 112
+Accelerated frame hyperbolically, 108
+Accelerated reference frame, 89, 112
+4-acceleration, 272
+Acceleration in a rotating reference frame,
+
+142
+Acceleration of gravity, 14, 16, 135, 192,
+
+194, 271, 283
+Acceleration of particle in non-rotating
+
+frame, 142
+Acceleration of particle in rotating frame,
+
+142
+Acceleration scalar, 272
+Action, 127
+Adiabatic, 327
+Age-density relation, 384, 496
+Age of the universe, 311, 315, 383, 489
+Age-redshift relationship, 329, 341
+Ampere’s circuit law, 54
+Angular acceleration, 95
+Angular momentum, 228
+Anisotropic universe models, 351
+Anisotropy parameter, 352
+Antisymmetric tensor, 78, 86, 119, 426
+Antisymmetrization, 80
+Archimedean spiral, 99
+Atmospheric mesons, 421
+
+B
+Basis forms, 178
+Basis vector, 71, 147
+Bergmann, 393
+Bianchi
+
+1st identity, 185, 186
+component form, 185
+
+2nd identity, 186, 201
+Bianchi type-I, 351
+Big Bang, 275
+Big Bang cosmology, 361
+Big Rip, 351
+Binary system, 265, 266
+Black body radiation, 44
+Black hole, 221, 222, 263, 271, 273, 476
+
+horizon, 271
+radiation, 273
+temperature, 273
+
+Blueshift, 56
+Boltzmann’s constant, 273, 363
+Boost, 35
+Born-rigid motion, 108
+Born-stiff motion, 108
+Boyer-Lindquist coordinates, 276, 280, 299
+Boyer-Lindquist coordinate system, 277,
+
+281, 480, 482
+Brill, 19, 377
+
+C
+Canonical momentum, 128
+Cartan
+
+surface curvature, 183
+Cartan connection, 147, 150
+Cartan formalism, 183, 211
+Cartan’s structure equations, 178, 395
+Cartan structure equations 1st, 148, 149, 178,
+
+185, 212, 395, 456
+Cartan structure equations 2nd, 178, 179,
+
+185, 186, 212, 397, 457
+Cartesian basis, 169
+
+© Springer Nature Switzerland AG 2020
+Ø. Grøn, Introduction to Einstein’s Theory of Relativity,
+Undergraduate Texts in Physics, https://doi.org/10.1007/978-3-030-43862-3
+
+511
+
+512 Index
+
+Cartesian coordinates, 47, 73, 75, 155, 164,
+169
+
+Cartesian coordinate system, 23, 34, 49, 61,
+66, 67, 115, 116, 123, 140, 152, 177,
+198, 444
+
+Causal, 76
+Causal mass, 378, 380
+!CDM universe, 380
+Centrifugal acceleration, 143
+Centrifugal barrier, 230
+Centrifugal force, 19, 95
+Centripetal acceleration, 99, 105
+Chaotic inflation, 375
+Cherenkov radiation, 57, 422
+Chirp, 260, 267
+Chirp mass, 263, 264
+Christoffel, 122
+Christoffel symbols, 122, 130, 135, 141, 142,
+
+146, 155, 171, 177, 189, 190, 192,
+195, 215, 244, 272, 282, 402, 449,
+459, 475
+
+Christoffel symbols in coordinate basis, 123
+Christoffel symbols physical interpretation,
+
+215
+Christoffel symbols rotating reference
+
+frame, 141
+Classical electron radius, 300
+Clock, 78, 98
+Codifferential, 157, 166
+Cohen, 19, 377
+Coincidence problem, 348
+Commutator, 68, 143, 149, 155
+Co-moving coordinate system, 64, 311
+Conformally flat, 295, 296
+Conformal time, 331, 383, 489
+Connection coefficients, 123, 140, 142, 144,
+
+145, 148, 176, 188
+Connection coefficients in coordinate basis,
+
+123
+Connection coefficients rotating reference
+
+frame, 140
+Connection forms, 147, 177, 183, 212, 457
+Connections coefficients, 177
+Conservation energy-momentum, 197
+Conservation of mass-energy, 198
+Constants of motion, 128, 156, 171, 453
+Continuity equation, 197, 198, 366
+Contraction, 69, 86, 149, 168, 177
+Contractions of tensors, 427
+Contravariant components, 74
+Contravariant tensor, 70
+Convective derivative, 151, 152
+Coordinate basis, 120, 143, 150
+
+Coordinate basis connection coefficients,
+123
+
+Coordinate basis forms, 161
+Coordinate basis vector, 64, 66, 67, 141, 161,
+
+179
+Coordinate clocks, 24, 94, 109, 141, 216
+Coordinate cyclic, 128, 129
+Coordinate Gaussian, 123
+Coordinate singularity, 239
+Coordinate system, 23, 64
+Coordinate time, 24, 98, 109, 112
+Coordinate transformation, 65, 87, 91, 93
+Coordinate vector, 62
+Coriolis acceleration, 143, 193
+Cosmic fluids, 317
+Cosmic Microwave Background (CMB),
+
+372
+Cosmic microwave background radiation,
+
+372
+Cosmic red-shift, 323, 326
+Cosmic time, 311
+Cosmological constant, 204, 242, 318, 367,
+
+462, 471, 484
+Cosmological horizon, 359
+Cosmological red-shift, 315–317
+Cosmology, 311
+Covariance principle, 17, 122
+Covariant, 18
+Covariant components, 86
+Covariant derivative, 119, 122, 144–146,
+
+153, 189
+Covariant differentiation, 119
+Covariant directional derivative, 124, 140,
+
+144, 145, 153, 173, 188, 453
+Covariant equation, 72
+Covariant Euler-Lagrange equations, 127,
+
+128
+Covariant tensor, 70
+Critical density, 345
+Curl, 157, 160–162, 445
+Current form, 166
+Curvature, 173, 195, 456
+
+forms
+of surface, 183
+
+Gaussian, 183, 184
+geodesic, 181
+normal, 181
+principal, 182
+Ricci, 177
+Riemann tensor, 175
+surface (Cartan formalism), 183
+
+Curvature coordinates, 211, 216, 220, 222,
+226
+
+
+
+Index 513
+
+Curvature forms, 177, 212, 457
+Curvature of space, 196
+Curvature scalar, 457
+Cyclic coordinate, 128, 228, 250
+Cylinder conditions, 394
+Cylinder coordinates, 93, 225
+Cylinder dimension, 404
+
+D
+D’Alembertian wave operator, 162, 164
+D’Alembert’s wave operator, 157, 244
+Deceleration parameter, 324, 342, 385, 494,
+
+498
+Deflection of light, 211, 236
+Density parameter, 322, 345, 386, 499
+de Sitter spacetime, 241, 321, 387, 471
+de Sitter universe, 505
+de Sitter universe models, 386, 501
+Determinant, 81
+Differential forms, 211
+
+curvature
+of surface, 183
+
+Differential forms connection, 212
+Differential forms curvature, 212
+Differential forms, directional derivatives of,
+
+145
+Differential geometry, 179
+Differential operator, 66, 140, 169, 444
+Differentiation covariant, 124
+Differentiation of forms, 119
+Dimension, 59
+Dirac delta function, 6
+Directional derivative, 66, 140, 153, 156, 179
+Distance coordinate, 211
+Distance physical, 211
+Divergence, 157, 162, 167, 170, 198, 445
+D’Lambertian wave operator, 159
+Domain wall, 309, 485
+Doppler effect, 26, 311, 326, 418, 477
+Dragging angular velocity, 251, 278
+Dual, 82, 83, 160, 161, 167
+Dual forms, 84, 169, 442
+Dust, 200, 205, 317, 321, 328, 348
+Dust dominated universe, 331
+Dust-dominated universe model, 331, 333
+
+E
+Earth, 12, 20, 33, 34, 117, 226, 227, 232,
+
+253, 264, 412, 413
+Earth-Moon system, 21, 413, 414
+Eccentricity, 266
+Eddington, 255
+
+Eddington–Finkelstein coordinates, 216,
+219
+
+Eddington-Finkelstein coordinate system,
+220
+
+Effective potential, 230
+Ehrenfest’s paradox, 89
+Einstein, 15, 17, 19, 23, 31, 44, 45, 52, 99,
+
+197, 201, 393
+Einstein–de Sitter, 333
+Einstein–de Sitter model, 342
+Einstein–de Sitter universe, 378, 379, 490
+Einstein field equations, 202, 241
+Einstein’s constant of gravity, 202
+Einstein’s curvature tensor, 201, 211, 285,
+
+484
+Einstein’s field equations, 197, 201, 202,
+
+206–208, 238, 243, 244–247, 255,
+275, 284, 285, 295, 326, 462, 497
+
+Einstein spaces, 204
+Einstein’s theory, 211
+Einstein synchronization, 92, 101
+Einstein synchronized, 25
+Einstein tensor, 202, 211, 213, 284, 469
+Electrical field, 53
+Electric field, 209
+Electric field strength, 163
+Electricity, 51
+Electric scalar potential, 163
+Electromagnetic current form, 165
+Electromagnetic field, 51, 167, 168, 201, 207
+Electromagnetic field form, 163, 166
+Electromagnetic field tensor, 207
+Electromagnetic potential form, 162
+Electromagnetic vector potential, 163, 207
+Electromagnetic waves, 33, 167
+Electromagnetism, 162
+Ellipse, 266
+Embedding, 225
+Embeddingof theSchwarzschildmetric, 225
+Emission point of time, 329
+Empty space, 204
+Energy, 44, 47
+Energy conservation, 168
+Energy-momentum conservation, 197, 208,
+
+326
+Energy-momentum tensor, 197–200, 205,
+
+207, 209, 210, 238, 246, 247, 460
+Eötvös, 15
+Equation of continuity, 167, 210, 460
+Equation of geodesic deviation, 189, 196
+Equation of state, 462
+Equatorial plane, 229
+Euclidean geometry, 94
+
+514 Index
+
+Euclidean plane, 87, 155, 428
+Euclidean space, 169, 442
+Euclidean 3-space, 82, 161
+Euclidean spatial geometry, 323, 361
+Euler equation, 240
+Euler equation of motion, 198, 199, 210, 460
+Euler–Lagrange equation, 119, 128, 131,
+
+135
+Event, 23, 77
+Event horizons, 386, 501
+Expansion, 153
+Exterior derivative, 119–121, 147, 150, 157–
+
+161, 163, 165, 166, 178
+Exterior differentiation, 150
+Exterior Schwarzschild metric, 215
+Extrinsic curvature tensor, 298
+
+F
+Fabry-Pérot cavities, 260
+False vacuum, 362
+Fermi gamma ray space telescope, 269
+Field equations Einstein, 202
+Field equations vacuum, 204
+First order phase transition, 363
+Flamm paraboloid, 226
+Flatness problem, 360, 365
+Flat spacetime, 76
+Flat universe model, 319
+Force, 47–49
+Form-components, 80
+Form-invariant, 18
+Forms, 59, 78, 119
+Four-acceleration, 62
+Four momentum, 61
+Four-vectors, 85, 424
+Four-velocity, 60, 65, 76
+Four-velocity identity, 76
+Free fall, 15, 217
+Freely falling reference frame, 15
+Free particle, 130, 135
+Frequency, 116
+Friedman-Lemaître Eq., 328
+Friedmann–Lemaître, 338
+Friedmann–Lemaître model, 342, 348
+Friedmann–Lemaître universe model, 347
+Friedmann equation, 366, 488
+Friedmann-Lemaître equations, 319, 331,
+
+332
+Friedmann metric, 488
+Friedmann models, 360, 362, 365
+Friedmann’s 1st equation, 500
+
+G
+Galilean kinematics, 23
+Galilei, 14
+Galilei transformation, 18, 35
+Galileo, 1
+Gamma ray burst, 269
+Gauge transformation, 164, 394
+Gauss
+
+curvature, 183
+theorema egregium, 184
+
+Gauss’ equation, 180
+Gaussian coordinates, 123
+Gaussian curvature, 183, 184, 457
+Gauss integral theorem, 6
+Gauss’ law, 410
+Gauss’s integral theorem, 246
+General principle of relativity, 17
+General theory of relativity, 1, 16, 19, 62,
+
+95, 119, 122, 123, 215, 232, 233, 243,
+266, 290, 305
+
+Geodesic
+curvature, 181
+
+Geodesic curve, 78, 125, 130, 156, 181, 206,
+448
+
+Geodesic deviation, 188, 257
+Geodesic equation, 125, 171, 312, 453
+Geodesic normal coordinates, 189
+Geodesic postulate, 204
+Geodesic world lines, 133
+Geometrical optics, 118, 439
+GPS, 242, 473
+GPS-satellite, 474
+Gradient, 157, 159, 161, 170, 444
+Gravitation, 18
+Gravitational acceleration, 214
+
+Tolman-Whittaker expression, 284
+Gravitational antenna, 258
+Gravitational collapse, 382, 486
+Gravitational field, 4, 16, 95, 112, 118, 138,
+
+192, 243, 438
+Gravitational force, 412
+Gravitational frequency shift, 211
+Gravitational mass, 283
+Gravitational mass–density, 321
+Gravitational potential, 193, 246, 411
+Gravitational radiation emission, 266
+Gravitational redshift, 140
+Gravitational self energy, 295
+Gravitational shift of wavelength, 326
+Gravitational time dilation, 89, 98, 99, 112,
+
+134
+Gravitational wave detector, 264
+
+
+
+Index 515
+
+Gravitational waves, 243, 245, 253–257,
+260, 263, 266
+
+Gravito-electric’ field, 252
+Gravitoelectromagnetic fields, 253
+Gravitoelectromagnetism, 251
+Gravitomagnetic clock effect, 281, 483
+Gravitomagnetic field, 252
+Gravitomagnetic vector potential, 251
+Gravitomagnetism, 243
+Gravity, 119
+Gravity probe B, 253
+Guth, Alan, 363
+
+H
+Hafele-Keating experiment, 232
+Hamiltons principle, 127
+Harrison-Zel’dovich spectrum, 373
+Hawking, 273
+Hawking radiation, 271, 273
+Heat capacity of black hole, 274
+Heisenberg uncertainty relationships, 200
+Higgs field, 361, 362
+Higgs mechanism, 361
+Hilbert, 204, 206
+Hilbert’s variational principle, 206
+Hodge Laplacian, 158
+Horizon, 113, 220, 222, 271, 277, 380, 471
+Horizon problem, 358, 364
+Horizon radius, 379
+Hubble age, 315, 334, 340, 342, 359, 360,
+
+379, 490, 494
+Hubble constant, 314, 320, 322, 339
+Hubble flow, 305, 308, 315
+Hubble-Lemaître expansion law, 311
+Hubble-Lemaître law, 314, 315
+Hubble length, 315, 323
+Hubble parameter, 314, 320, 322, 342, 348,
+
+350, 367, 368, 383, 489, 494
+Hubble slow roll parameters, 368
+Hydrostatic equilibrium, 8
+Hyperbolically accelerated frame, 107
+Hyperbolic motion, 41–43
+
+I
+Incompressible star, 7, 288
+Inertial dragging, 243, 250, 253, 271, 277,
+
+377, 378, 405
+Inertial dragging angular velocity, 377
+Inertial effects, 193
+Inertial forces, 19
+Inertial frame, 16, 47, 93, 108, 123, 198, 250
+
+Inertial reference frame, 16, 40, 41, 64, 123,
+133, 140
+
+Inertial rest frame, 116
+Infalling coordinates, 382
+Inflation, 363
+Inflationary era, 364, 366, 372, 377
+Inflationary model, 363
+Inflationary universe models, 361
+Inflaton field, 366, 367, 375
+Inflaton potential, 368
+Inhomogeneous universe models, 355
+Instantaneous rest frame, 92
+INTEGRAL telescope, 269
+Interference, 99
+Interference fringes, 99
+Interferometer, 260, 264
+Internal coordinate transformation, 91
+Internal Schwarzschild solution, 283
+Internal Schwarzschild space-time, 289
+Interval, 37, 40, 77, 78
+Invariant, 72, 73
+Invariant basis, 155, 156
+Invariant equation, 72
+Invariant interval, 116
+Isotropic coordinates, 241, 468
+Israel formalism, 283, 290, 291, 309, 485
+
+J
+Jupiter, 21
+
+K
+Kaluza-Klein theory, 206, 393, 400, 404
+Kasner universe, 353
+Kepler motion, 240, 463, 465
+Kepler’s 2nd law, 235
+Kepler’s 3rd law, 236, 263, 484
+Kerr, 275
+Kerr black hole, 278, 280
+Kerr metric, 275, 278
+Kerr-Newman spacetime, 299, 302, 304
+Kerr solution, 276
+Kerr spacetime, 271, 275, 277, 280, 281,
+
+283, 479, 481, 483
+Killing equation, 154–156
+Killing vectors, 154–157
+Kinetic energy, 46
+Klein, 404
+Koszul connection coefficient, 140
+Kretschmann curvature scalar, 216, 297
+Kruskal–Szekeres, 216, 222, 224
+Kruskal–Szekeres line element, 224
+
+516 Index
+
+L
+LAGEOS satellites, 253
+Lagrange density, 204
+Lagrange dynamics, 463
+Lagrange equation, 128, 129, 228, 464
+Lagrange equations free particle, 129
+Lagrange function, 127–129, 131, 171, 206,
+
+250, 276, 403, 463, 476
+Lagrange function free particles, 129
+Lagrange multiplicator, 181
+Lagrangian, 206, 306
+Lagrangian function, 217, 447
+Lambda-Cold-Dark-Matter, 338
+Laplace–Beltrami operator, 158, 167
+Laplace equation, 5
+Laplacian, 157, 158, 162, 170
+LCDM-universe, 357, 358
+Leads to an Einstein–de Sitter universe, 333
+Leibowitz, 401
+Leibowitz-Rosen tensor, 401
+Lemaître, 200, 321
+Lemaître-Friedmann-Robertson-Walker
+
+universe models, 311
+Lemaître-Tolman-Bondi, 355
+Length, 35
+Length contraction, 33
+Lense, 19
+Lense-Thirring effect, 19, 250
+Lever paradox, 49
+Levi-Civita, 124, 295
+Levi-Civita Bertotti-Robinson metric, 283
+Levi-Civita Bertotti Robinson solution, 295
+Levi-Civita Bertotti Robinson spacetime,
+
+297
+Levi-Civita connection, 123
+Levi-Civita symbol, 80, 251
+LFRW cosmological models, 330
+LFRW universe, 500
+LFRW universe models, 325, 348, 384, 493
+Lie derivative, 155, 156
+Light, 33
+Light cone, 24, 218
+Light cone coordinates, 223
+Light deceleration of, 226
+Light deflection of, 236
+Light-like, 37, 39, 78
+LIGO, 243, 260, 263, 269
+Linear combination, 59
+Linear field approximation, 243, 252
+Linearized field equations, 246
+Linearly independent, 59
+Line element, 40, 75, 83, 93, 94, 98, 101,
+
+104, 161
+
+Line element free particle, 129
+LIVE, 200, 210, 242, 285, 306, 311, 318,
+
+321, 328, 336, 338, 339, 344, 345,
+348, 353, 354, 357, 358, 366, 374,
+386, 460, 462, 492, 497, 502
+
+LIVE-Cold-Dark-Matter, 338
+Local derivative, 151
+Local inertial frame, 215
+Local inertial reference frame, 135
+Locally Cartesian coordinates, 192
+Locally Cartesian coordinate system, 186
+Lookback time, 329, 335, 383, 489
+Lopez, 300
+Lopez’s source of the Kerr-Newman metric,
+
+303
+Lorentz contracted, 95
+Lorentz contraction, 33, 35, 56, 95, 96, 108,
+
+420
+Lorentz factor, 30
+Lorentz force, 252
+Lorentz invariance, 200
+Lorentz invariant, 37, 47, 75, 460
+Lorentz invariant vacuum energy, 200, 311,
+
+318, 338
+Lorentz’s force law, 52
+Lorentz transformation, 34–37, 47, 58, 92,
+
+95, 109, 423, 425, 460
+Lorenz condition, 164
+Lorenz gauge, 164
+Lorenz gauge condition, 252, 254
+Lowering an index, 74
+Luminosity distance, 385
+Lyth bound, 371
+
+M
+Mach, 19
+Mach’s principle, 18
+Magnetic flux density, 163
+Magnetism, 51
+Manifestly covariant, 18
+Mass, 44, 45
+Material derivative, 151
+Matrix, 81
+Matter-dominated universe, 385
+Mattig’s formula, 385, 496
+Maximally linearly independent, 59
+Maximally symmetric, 155
+Maxwell, 33
+Maxwell’s equations, 18, 51, 162, 252, 424
+Maxwell source equations, 166
+Maxwell’s source free equations, 165, 208
+Measuring rods, 97
+
+
+
+Index 517
+
+Mechanical energy, 266
+Mercury, 227, 241, 471
+Mercury’s orbit, 236
+Mercury’s perihelion precession, 233
+Meson, 56
+Metric, 72
+
+Kerr (rotating), 275
+Metric covariant differentiation, 146
+Metric perturbations, 257
+Metric static, stationary, 129
+Metric tensor, 72, 74, 81, 82, 94, 146, 200,
+
+216, 232
+Michelson and Morley, 33
+Michelson interferometers, 260
+Michelson–Morley experiment, 33
+Milky Way, 107, 108
+Milne universe, 353, 383, 388, 490, 507
+Milne universe model, 319
+Mini-black hole, 275
+Minkowski diagram, 23, 24, 30, 42, 102,
+
+106, 133, 388, 433
+Minkowski-force, 62
+Minkowski force form, 168
+Minkowski line-element, 76
+Minkowski metric, 76, 86, 148, 210, 243,
+
+317, 433, 459
+Minkowski space, 116
+Minkowski spacetime, 75, 78, 133, 166, 214,
+
+223, 244, 277, 295, 296, 300, 319,
+320, 377, 460
+
+Minkowski space-time from Schwarzschild
+solution, 214
+
+Minkowski universe, 353
+Mixed components, 86
+Mixed metric tensor, 74
+Mixed tensor, 70, 71
+Møller coordinates, 108
+Momentum, 47, 48
+Momentum-energy tensor, 198
+Moon, 12, 21, 413
+Multilinear function, 70
+Multi messenger astronomy., 269
+
+N
+Natural Inflation, 389, 508
+Newton, 1, 18
+Newton fluid, 198
+Newtonian 3-velocity, 151
+Newtonian approximation, 190, 210, 215,
+
+459, 497
+Newtonian fluid, 197, 198
+Newtonian force, 16
+
+Newtonian gravitational potential, 190, 251
+Newtonian gravity, 230, 289
+Newtonian hydrodynamics, 151, 198
+Newtonian law of gravitation, 203
+Newtonian limit, 135, 191, 203, 214, 325,
+
+459, 470
+Newtonian physics, 190
+Newtonian potential, 20, 21, 203, 230, 410
+Newtonian theory, 265
+Newtonian tidal tensor, 191
+Newton’s 1st law, 16, 64, 135, 192
+Newton’s 2nd law, 14, 57, 412, 423
+Newton’s law of gravitation, 1, 4, 201, 409
+Newton’s law of gravity, 411
+Newton’s theory, 16, 95, 119, 193, 230
+Newton’s theory of gravitation, 1, 192
+Non-Euclidean, 94
+Non-tidal gravitational field, 195
+Normal curvature, 181
+Null-geodesic curve, 17, 359
+Number of e-folds, 370
+
+O
+One-form basis, 69
+Orbit equation, 231
+Orthogonal basis, 82
+Orthonormal basis, 64, 67, 76, 102, 104, 109,
+
+142, 150, 160, 211, 212, 239
+Orthonormal basis field, 148, 150
+Outer product, 120
+
+P
+Parallel transport, 124, 174, 195, 453
+Partial derivative, 122, 144
+Particle horizon, 359, 379, 380, 494, 495
+Particle trajectories, 228
+Particle trajectory Schwarzschild 3-space,
+
+228
+Past light cone, 378
+Peculiar velocity, 315
+Perfect dragging, 378
+Perfect fluid, 199, 210, 317, 459, 493
+Perfect inertial dragging, 341, 379
+Perihelion precession, 471
+Perihelion precession of Mercury, 242
+Perihelion shift of Mercury, 211
+Permeability of empty space, 166, 207
+Permeability of vacuum, 54
+Permittivity of empty space, 166
+P-form, 78
+Phantom energy, 348, 350
+Photon, 99
+
+518 Index
+
+Photon clock, 28
+Photon sphere, 242, 474
+Physical components, 160
+Physical laws, 18
+Physical singularity, 216
+Planck length, 240
+Planck mass, 274, 375
+Planck spectrum, 273
+Planck time, 275
+Plane polar coordinates, 66, 69, 73, 75, 123,
+
+140, 150
+Poincaré’s lemma, 121, 158, 160, 162, 164,
+
+165, 167, 178, 185, 395
+Poisson equation, 7, 385
+Polarization, 256, 257, 372
+Polynomial inflation, 375
+Pound-Rebka experiment, 140
+Power spectra, 373
+Precession, 235
+Precession of Mercury’s perihelion, 233
+Pressure, 44
+Pressure forces, 8
+Primordial black hole, 275
+Principal curvatures, 182
+Principle of equivalence, 1, 15, 16, 95, 192,
+
+215
+Principle of general relativity, 136
+Principle of relativity, 1, 17, 18, 41, 95, 380
+Projectile motion, 171
+Projection, 89, 153
+Projection tensor, 113, 114, 153
+Proper acceleration, 105, 107, 114
+Proper distance, 92
+Proper time, 30, 38, 78, 98, 112, 116, 127,
+
+134, 216
+Proper time-interval, 40, 106, 232
+Proxima Centauri, 137
+
+Q
+Quasars, 417
+
+R
+Radar method, 25
+Radially moving photons, 219
+Radiation, 45, 200, 317, 321, 328
+Radiation dominated universe, 330, 361,
+
+384, 496
+Radiation-dominated universe model, 330
+Radiation pressure, 44
+Rank, 70, 71
+Rapidity, 36, 109, 110
+Redshift, 56
+
+Kerr spacetime, 276
+Redshift cosmological, 315
+Redshift–luminosity relation, 385, 496
+Reduced mass, 263
+Reference frame, 16, 17, 64
+Reference frame inertial, 123
+Reference particle, 94
+Reinterpretation principle, 50
+Reissner-Nordström solution, 211, 239, 406
+Reissner-Nordström spacetime, 238
+Relativistic Doppler effect, 67, 421
+Relativistic Doppler shift, 56
+Relativistic gravitational potential, 325
+Relativistic gravity, 230
+Relativistic rotating disc, 115, 429
+Relativity of simultaneity, 30, 32, 50, 92, 93,
+
+96
+Repulsive gravitation, 285, 321
+Rest acceleration, 42, 43
+Rest frame, 61
+Rest length, 33
+Ricci
+
+curvature, 177
+identity, 184
+
+component form, 184
+Ricci curvature scalar, 177, 179, 207, 213,
+
+243
+Ricci curvature tensor, 177, 179, 213, 243,
+
+457
+Ricci curvature tensor, divergence, 201
+Ricci identity, 184
+Ricci scalar, 244
+Ricci tensor, 201
+Riemann curvature forms, 179
+Riemann curvature tensor, 173, 175–178,
+
+184, 186, 190, 195, 213, 243, 457
+Riemannian space, 188
+Riemann tensor, 175–177, 179, 184, 189,
+
+255
+Rigid rotation, 104
+Rindler coordinates, 108
+River model of space, 283
+River of space, 306
+Robb, 54
+Robb’s formula, 417
+Robertson–Walker line element, 314
+Robertson–Walker metric, 312, 359
+Robertson–Walker universe, 383
+Roche limit, 21, 416, 417
+Rosen, 401
+Rosser, 47
+Rotating black hole, 275
+Rotating frame, 94–96, 101, 102, 141
+
+
+
+Index 519
+
+Rotating frame of reference, 170, 447
+Rotating motion, 95
+Rotating reference frame, 92, 99, 101, 195,
+
+447, 456
+Rotating reference frame connection coeffi-
+
+cients, 140
+Rotating spherical shell, 247
+Rotation, 152, 153
+Rotational motion, 380
+Running of the spectral indices, 373
+
+S
+Sagnac effect, 99, 280
+Sagnac experiment, 89
+Scalar field, 318, 444
+Scalar perturbation, 372
+Scalar product, 72
+Scalar quantity, 70
+Scale factor, 311, 317, 379
+Scale invariant, 373
+Schwarzchild spacetime, 223, 272
+Schwarzschild 3-space, 228
+Schwarzschild 3-space energy, 228
+Schwarzschild 3-space momentum, 228
+Schwarzschild black hole, 273, 279, 476
+Schwarzschild-de Sitter metric, 241, 309,
+
+469, 484
+Schwarzschild-de Sitter spacetime, 306, 485
+Schwarzschild horizon, 241, 308
+Schwarzschild light cones, 218
+Schwarzschild line-element, 223, 475, 487
+Schwarzschild metric, 215, 216, 225, 239,
+
+241, 293
+Schwarzschild metric embedding, 225
+Schwarzschild radius, 3, 19, 216, 218, 222,
+
+226, 227, 236, 238, 243, 264, 268,
+271, 278, 279, 293, 299, 378–382,
+469, 474, 486, 488
+
+Schwarzschild’s exterior solution, 211
+Schwarzschild’s interior solution, 287
+Schwarzschild solution, 211, 241, 468, 469
+Schwarzschild space, 241
+Schwarzschild spacetime, 211, 216–218,
+
+225, 238, 247, 250, 272, 468, 479,
+481, 487
+
+Semi-latus rectum, 266
+Shapiro, 226
+Shapiro experiment, 226
+Shear, 152, 153
+Shoemaker-Levy, 21
+Shoemaker-Levy 9, 417
+Simultaneity, 101
+
+Simultaneity space, 91, 102, 104, 115, 153
+Simultaneous events, 93
+Singularity coordinate, 216
+Singularity physical, 216
+Singular mass shells, 290
+Slow roll approximation, 367
+Slow roll era, 374
+Slow roll parameters, 368, 375
+Space, 42
+Space-like, 37, 78
+Space ship, 117
+Spacetime, 16, 61, 64, 65, 247
+Spacetime curvature, 17, 190
+Spacetime interval, 37
+Spatial geodesics, 447
+Spatial geometry, 89, 95
+Spatial line-element, 90, 94, 114
+Spatial metric, 102, 114
+Spatial metric tensor, 89, 91, 94, 114
+Spatial simultaneity space, 456
+Special principle of relativity, 17
+Special theory of relativity, 23, 25, 41, 98,
+
+200
+Spectral indices, 373
+Spectral parameters, 509
+Spectral tilt, 375
+Spherical coordinates, 161, 169, 214, 247,
+
+444
+Spherical coordinate system, 82
+Spherically symmetric spacetime, 209
+Spontaneous symmetry breaking, 361, 362
+Standard clock, 98, 112, 116, 134, 217
+Standard measuring rod, 95, 96
+Static border, 278
+Static metric, 129, 275
+Stationary metric, 129, 275
+Stefan–Boltzmann law, 274, 330, 364
+Structure coefficients, 68, 143, 148, 176, 188
+Sun, 226, 227, 236, 238, 264, 269, 274
+Surface curvature, 183
+Surface gravity, 271, 273
+Synchronization, 25
+
+T
+Tachyons, 50
+Tachyon telephone paradox, 51
+Tangent vector, 66
+Tangent vector field, 62, 64, 125
+Taylor expansion, 193
+Tensor, 59, 69, 78, 146
+
+contraction of, 177
+Ricci curvature, 177
+
+520 Index
+
+Riemann curvature, 175
+Tensor covariant differentiation of, 146
+Tensor Einstein, 202
+Tensor equation, 18, 72
+Tensor momentum energy, 198
+Tensor perturbation, 373
+Tensor product, 70, 86, 426
+Tensor Riemann curvature, 213
+Tensor-to-scalar ratio, 373
+Tetrad, 102
+The de Sitter universe models, 336
+The Friedmann–Lemaître model, 337
+The Hubble parameter, 503
+Theorema egregium, 184
+Theory of relativity, 95
+The river of space, 305
+The static border, 278
+The twin paradox, 54, 417
+Thin dust shell, 291
+Thirring, 19, 377
+Tidal acceleration, 190
+Tidal field, 14
+Tidal force, 1, 10, 16, 173, 193
+
+pendulum
+relativistic, 196
+
+Tidal force pendulum, 19, 196, 409, 410, 458
+Tidal gravitational field, 194
+Tidal potential, 14
+Tilt, 373
+Time dilation, 28, 30, 38, 39, 56, 98, 134,
+
+420
+Time-like, 37, 76
+Tolman–Oppenheimer–Volkoff (TOV)
+
+equation, 285, 287, 288
+Tolman–Whittaker expression, 284
+Tolman-Whittaker formula, 299
+Torque, 49
+Torsion, 187
+Torsion form, 187
+Total derivative, 151, 153
+Transformation matrix, 81
+Transverse traceless gauge condition, 256
+Twin paradox, 40, 41, 136, 138
+
+U
+Uniformly accelerated motion, 42, 43, 114
+Uniformly accelerated reference frame, 43,
+
+89, 105, 107, 112, 116, 131, 139, 171,
+449
+
+Uniformly accelerated space ship, 436
+Uniformly accelerated system of reference,
+
+433
+Unit vector, 67
+Universe, 19
+Universe model dust dominated, 331
+Universe model inflationary, 363
+Universe model radiation dominated, 330
+
+V
+Vacuum energy, 200
+Vacuum field equations, 204
+Variational principle, 130, 131, 204, 206
+Vector, 18, 59
+Vector field, 64
+Vectorial form, 147
+Vector perturbation, 372
+Velocity, 47
+Velocity addition, 36
+Velocity field, 151
+4-velocity identity, 129
+Velocity of light, 24
+Venus, 226
+Vertical free fall, 131
+Vertical projectile motion, 451
+Virgo, 263, 269
+Volume-element, 82
+Volume expansion, 152
+Volume form, 80, 82, 83
+Vorticity, 372
+
+W
+Wave number, 373
+Weak gravitational field, 216
+Wedge product, 79, 84
+Weingarten’s equation, 181
+Wheeler, 204
+White hole, 221
+Wien’s displacement law, 273
+World line, 24, 38, 42, 76
+
+Z
+Zel’dovich fluid, 366
+Zero-Angular-Momentum-Observers
+
+(ZAMO), 250, 276, 277, 280, 377,
+480

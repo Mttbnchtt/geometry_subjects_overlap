@@ -1,0 +1,631 @@
+
+Index
+
+AAA similarity theorem, 175
+AA similarity theorem, 176
+Abscissa, 243
+Absolute geometry, 158, 370
+Absolute value, 18
+Acute angle, 98
+Addition of congruence classes, 136
+Addition theorem, for arc length, 328
+
+for ratios, 307
+Additivity postulate for area, 185
+Adjacent angles of a quadrilateral, 84
+Adjacent sides of a quadrilateral, 84
+Algebra with ruler and compass, 268
+Algebraic identity, 8
+All-or-none theorem, 375
+Alternate interior angles, 150
+Alternative forms of the parallel
+
+postulate, 415
+Altitude, of a cone, 354
+
+of a cylinder, 358
+of a pyramid, 357
+of a triangle, 178
+
+Angle, 65
+opposite to a side of a triangle, 78
+of parallelism, 371
+of a quadrilateral, 83
+of a triangle, 66
+
+Angle-addition postulate, 96
+Angle-addition theorem, 97
+Angle-construction postulate, 95
+Angle-construction theorem, 97
+Angle-subtraction theorem, 98
+Angle-sums in a triangle, 155, 382
+Angular measure, 93, 435
+
+preservation under inversions, 423
+Antipodal points, 145
+Appolonius, problem of, 275
+Apothem, 332
+Arc of a circle, 231
+Arc length, 320
+Archimedean postulate, 31, 305, 475
+Archimedes, 278
+Area, of a parallelogram, 189
+
+of a polygonal region, in hyperbolic
+geometry, 401
+
+of a right triangle, 187
+of a sector, 330, 333, 335
+of a trapezoid, 191
+of a triangle, 188
+
+Area function, 203
+Area postulates, 184
+ASA theorem, 106
+Associative law of addition, for real
+
+numbers, 2
+
+497
+
+498  Index
+
+Associative law of multiplication, for real
+numbers, 3
+
+Associative law for segments, 302
+
+Base, of a cone, 354
+of a cylinder, 358
+of a pyramid, 356
+
+Basic similarity theorem, 167
+proved using area theory, 193-94
+
+Bers, Lipman, 456
+Betweenness, defined in terms of
+
+distance, 60, 432
+synthetically considered, 126
+
+Betweenness postulates, 126
+Birkhoff, G. D., 126, 138, 264
+Bisector of an angle, 109
+Bolyai, Janos, 139, 416, 456
+Bolyai's theorem, 394, 396, 401, 410
+Border triangulation, 399
+Boundary arc, 331
+Bridges of Konigsberg, 87-90
+
+Cancellation law of addition, for real
+numbers, 5
+
+Cancellation law of multiplication, for
+real numbers, 6
+
+Cartesian coordinate system, 243
+Cartesian model, 439
+Categoric postulate sets, 457
+Cavalieri's principle, 353
+Center, 224
+Central angle, 231
+Characterization theorem, 214
+Chord of a circle, 224
+Circle, 224
+Circular cylinder, 358
+Circular sector, 331
+Closed interval, 483
+Closed triangle, 382
+Closure of the integers, 40
+Collinear, 44
+Commutative law of addition, for real
+
+numbers, 2
+Commutative law of multiplication, for
+
+real numbers, 3
+Commutative law for segments, 301
+Comparison theorem, 166
+Complementary angles, 98
+Complete in the sense of Dedekind, 315,
+
+458
+
+Completeness, Euclidean, 32
+Complex, 204, 390
+Composition of functions, 50
+Concentric circles, 224
+Concentric spheres, 225
+Cone, 354
+Congruence for angles, synthetically
+
+considered, 126
+Congruence for segments, synthetically
+
+considered, 126, 298
+Congruence postulate for area, 185
+Congruence postulates for angles, 127
+Congruence postulates for segments, 127
+Congruences between triangles, 100
+Congruent angles, 97, 439, 449
+Congruent segments, 69
+Conjugates in a quadratic extension field,
+
+285
+Consistency, of Euclidean geometry, 438
+
+of the hyperbolic postulates, 417
+Consistent postulate set, 158
+Construction of an area function, 203
+Constructions with ruler and compass,
+
+264
+Continuity of the defect, 407
+Contraction, 261
+Convex polygonal region, 390
+Convex quadrilateral, 83, 406
+Convex set, 72
+Coordinate system, on a line, 58
+
+in a plane, 243
+Coplanar, 44
+Corresponding angles, 102, 150
+Corresponding sides, 102, 174
+Countable set, 480
+Countably infinite set, 480
+Critical function, 373
+Critical number, 371
+Critical parallels, 376
+Cross ratio, 422
+Cross sections, 354
+Crossbar interior, 382
+Crossbar theorem, 82, 370
+Cubic equations, 289
+Cut in the rational numbers, 309
+Cylinder, 358
+
+Dedekind, Richard, 296
+Dedekind cut, 318
+Dedekind postulate, 305
+
+
+
+Index  499
+
+Defect, of a polygonal region, 398
+of a small triangle, 405
+of a triangle, 386
+
+Degree measure, 93
+of an arc, 231
+
+Descartes, Rene, 249, 314
+Diameter of a circle, 224
+Difference of two sets, 36
+Dihedral angle, 86, 221
+Dilations, 261
+Directed angle, 67
+Directrix of a cylinder, 358
+Disk, 331
+Distance formula, 244
+Distance function, 56
+Distributive law, for real numbers, 3
+
+for segments, 302
+Division, of real numbers, 4
+Domain of a function, 49
+Domino problem, 92
+Duplication of the cube, 294
+
+Edge of a triangular region, 184
+Einstein, Albert, 416
+Element of a cylinder, 358
+Empty set, 16
+End point, of an arc, 231
+
+of a ray, 65
+Equal-area, theory of, 202
+Equality, 1 1 1
+Equiangular triangles, 107
+Equidistant chords, 227
+Equidistant points, 212
+Equilateral triangle, 104
+Equivalence by finite decomposition, 392
+Equivalence relation, 69
+Equivalent open triangles, 378
+Equivalent rays, 378
+Equivalent sets, 479
+Euclid, 138
+Euclidean completeness postulate, 32
+Euclidean parallel postulate, 139, 160,
+
+376
+Eudoxus, 296
+Euler, Leonhard, 89, 92
+Existence of 7T, 322
+Exterior angle of a triangle, 117
+Exterior angle theorem, 117
+
+for closed triangles, 382
+
+Exterior of an angle, 78
+Exterior of a circle, 224
+
+Factor theorem, 470
+Fermat, Pierre, 249
+Field postulates, 10-11
+Figure, 44
+Finite additivity, 340
+Finite decomposition, 392
+Finite sequence, 479
+Formula area, 205, 206
+Function, 48
+
+definition of, 55
+Fundamental theorem of algebra, 471
+
+Gauss, C. F., 139, 381, 416, 456, 471
+General associative law, 38
+Graph of a condition, 245
+Graph of a continuous function, 348
+Great circle, 144
+Greatest common divisor, 463
+
+Half plane, 73
+Heine, Heinrich, 180
+Hilbert, David 112, 126, 134, 454
+Hinge theorem, 121
+Horizontal cross section of a cylinder, 359
+Hyperbolic geometry, 143, 382
+Hypotenuse, 123
+Hypotenuse-leg theorem, 124, 181
+
+Image, 51
+Impossibility of Euclidean area-theory in
+
+hyperbolic geometry, 411
+Impossible construction problems, 278
+Incidence geometry, 43
+Incidence theorems, 76-83, 440
+Independence of the SAS postulate, 112
+Independent postulate set, 159
+Induction Principle, 23, 25, 462
+Inequalities, 116
+Inequality for angle-sums in a triangle,
+
+155
+Inequality laws for segments, 128
+Infinite sequence, 480
+Inner measure, 336
+Inscribed angle, 233
+Inscribed broken line, 320
+Integers, 28
+Intercepted arc, 234
+
+500  Index
+
+Interior, of an angle, 77
+of a circle, 224
+of a convex polygon, 390
+of an open triangle, 381
+
+Interior ray, 372
+Intersection of two sets, 35
+Inverse of a function, 51
+Inversions of a punctured plane, 417
+Irregular rational function, 494
+Isometries between triangles, 254
+Isometry, 252, 439
+Isomorphism, 457
+Isosceles open triangles, 378
+Isosceles triangle, 104
+Isosceles triangle theorem, 104
+
+Jefferson, Thomas, 112, 456
+Jordan measure, 336
+
+Konigsberg, seven bridges of, 87-90
+k-sets, 419
+
+Landau, Edmund, 42, 319
+Lawes, Peter, 200
+Leading coefficient, 485
+Least upper bound, 304
+Lebesgue, Henri, 351
+Leg, of a right triangle, 123
+Leibniz, G. W., 249
+Limits, as the mesh approaches 0, 325
+
+of sequences, 474
+Lincoln, Abraham, 456
+Line, 44, 438
+Linear equation in x and y, 245
+Linear pair of angles, 96
+Line-circle theorem, 227
+Line-reflection, 259
+L-lines, 427
+Lobachevski, N. I., 139, 416, 456
+Lobachevskian parallel postulate, 139,
+
+376
+Locus, 215
+Longest side of a triangle, 156
+Lower base of a Saccheri quadrilateral,
+
+152
+Lower base angles of a Saccheri
+
+quadrilateral, 152
+Lower bound, 476
+Lowest terms, 464
+
+Major arc, 231
+Measurable in the sense of Jordan, 337
+Measurable set, 339
+Measurable solid, 352
+Measure of an arc, 231
+Mesh of a broken line, 326
+Metrization theorem, 313
+Midpoint of a segment, 71
+Minor arc, 231
+Mobius strip, 91
+Monotonicity, 335
+Multiplicity, 472
+
+Negative of a real number, 2
+Nested sequence of closed intervals, 483
+Newton, Isaac, 249
+n-fold sums, 37
+Non-Archimedean ordered field, 485
+Numeri ficti, 250
+
+Obtuse angle, 98
+One-to-one correspondence, 51
+Onto, 51
+Open sentence, 15
+Open triangle, 376
+Opposite angles of a quadrilateral, 84
+Opposite rays, 76
+Opposite sides of a line, 76
+Order relations, 21
+Ordered commutative ring with unity,
+
+486
+Ordered fields, 21, 485
+Ordering of the real numbers, 12
+Ordinate, 244
+Origin, 243
+Outer end of a radius, 224
+Outer measure, 336
+
+Pappus, 105
+Parallel decomposition, 208
+Parallel lines, 139, 148, 160
+Parallel lines and planes, 218
+Parallel postulate, alternative forms of,
+
+415
+Parallel projections, 163
+Parallelepiped, 358
+Parallelogram, 162
+Pasch, postulate of, 74
+Perpendicular lines and planes, 212
+
+
+
+Index  501
+
+Perpendicular lines and rays, 98, 163
+Perpendicular planes, 221
+Perpendiculars, existence of, in a plane,
+
+114
+Plane, 44
+Plane angle, 222
+Plane-separation postulate, 74, 434, 447
+Poincare model, 140, 417
+Point, 43
+
+of tangency, 225
+Polygonal inequality, 151
+Polygonal region, 184
+Polynomial, 286
+Pons asinorum theorem, 105
+Positive integers, 23
+Postulate of Pasch, 74, 370
+Postulate sets as codifications, 460
+Postulational method, 455
+Preservation of order, 302
+Prime number, 465
+Prism, 358
+Proportionalities, for positive numbers,
+
+172
+synthetically defined, 297
+
+Proportionality constant, 261
+Punctured plane, 417
+Pyramid, 356
+Pythagoras, 180
+Pythagorean theorem, 179, 195
+
+Quadratic extension, 283
+Quadrilateral, 83
+
+Radian measure of an angle, 325
+Radius of a circle, 224
+
+of a sector, 331
+Range of a function, 49
+Rational function, 487
+Rational numbers, 28, 297
+Ratios between segments, 303
+Ray, 44, 65
+Real numbers, 1-2
+Reciprocal of a real number, 3
+Rectangle formula, 186
+Redundant postulate, 159
+Reflections, 257
+
+in the Poincare model, 427
+Relation on a set, 55
+
+Remainder theorem, 470
+Remote interior angle, 117
+Rhombus, 162
+Riemannian parallel postulate, 140
+Right angle, 97
+
+synthetically considered, 132
+Right cylinder, 358
+Right triangle, 123
+Rigid motion, 252
+Root of an equation, 293
+Rotation, in the Cartesian model, 443
+Ruler placement theorem, 59
+Ruler postulate, 58, 431, 439
+
+SAA theorem, 123
+Saccheri, Gerolamo, 158
+Saccheri quadrilaterals, 152
+Same ratio, 300
+SAS postulate, 103, 435, 451
+SAS similarity theorem, 177
+Scalene triangle, 104
+Secant line, 226
+Secant plane, 229
+Sector, 331
+Segment, 44, 64
+Segment addition, 301
+Segment-addition theorem, 70
+Segment-construction theorem, 69
+Segment inequality laws, 128
+Segment of the integers, 479
+Segment-subtraction theorem, 70
+Semicircle, 231
+Separation, 72
+
+of space by planes, 85
+S-equation, 280
+Sequence, 480
+Sets, 35
+Set-theoretic interpretation of functions
+
+and relations, 53
+Seven bridges of Konigsberg, 87-90
+Side, of an angle, 65
+
+of a line, 76
+of a quadrilateral, 84
+of a triangle, 65
+
+Similarities, between triangles, 174
+between any two plane figures, 263
+
+Slope, 247, 441
+Solid mensuration, 352
+Solution set, 15
+
+502  Index
+
+Solving equations with ruler and
+compass, 271
+
+Space-separation postulate, 85
+Sphere, 225
+Spherical model for Riemannian
+
+geometry, 144
+Spherical sector, 368
+Spherical segment, 368
+Square region, 186
+Squeeze principle, 477
+SSS theorem, 107
+SSS similarity theorem, 176
+Standard form of factorization, 466
+Star triangulation, 390
+Straight angle, 67
+Strip complex, 205
+Strip decomposition, 206
+Subdivision, 390
+Subset, 35
+Subtraction, of real numbers, 4
+Supplement postulate, 96
+Supplementary angles, 96
+Supremum, 303
+Surd circle, 282
+Surd field, 279
+
+countability of, 482
+of order n, 288
+
+Surd line, 282
+Surd of order n, 288
+Surd plane, 282
+Synthetic postulates, 125-28
+
+Tangent angles, 426
+Tangent line to a circle, 225
+Tangent plane, 229
+Theory of equal-area, 202
+Theory of equations, 469
+Theory of numbers, 462
+Topology, 90
+Towers of Hanoi, 28
+Transitivity, 13
+Translation, in the Cartesian model, 442
+Transversal, 149
+Trapezoid, 162
+Triangle, 65
+
+Triangle theorem, 239
+Triangular inequality, 120
+
+synthetic form, 135
+Triangular region, 184
+Triangulation, 204, 389
+Trichotomy, 13
+Trisection of an angle, 279, 291
+Two-circle postulate, 242
+Two-circle theorem, 238
+
+Uncountability of the real numbers, 482
+Union of two sets, 35
+Unique factorization, 466
+Uniqueness of hyperbolic area theory,
+
+413
+Uniqueness of the L-line, 429
+Uniqueness of parallels, 160
+Unit postulate for area, 198
+Upper base of a Saccheri quadrilateral,
+
+152
+Upper base angles of a Saccheri
+
+quadrilateral, 152
+Upper bound, 304, 476
+
+Vertical projections, 163
+Vertex, of an angle or triangle, 65
+
+of a cone, 354
+of a pyramid, 356
+of a triangular region, 184
+
+Vertical angle theorem, 98
+Vertical line, 439
+Vertical pair of angles, 98
+Volumes, of prisms and cylinders, 360
+
+of pyramids and cones, 363
+of spheres, 366
+
+Well-ordering principle, 25, 26
+
+x-coordinate, 243
+
+y-coordinate, 244
+
+Zero angle, 67
+Zero polynomial, 286

@@ -1,0 +1,726 @@
+Index
+
+A
+
+abc conjecture 171
+
+abc polynomial 167
+
+Abelian extension 283, 296
+Abelian group 17, 67
+Absolute value 328, 342, 348
+Action 73
+
+Additive group 17
+
+Adic expansion 13, 134
+Adjoin 261
+
+Adjoint 251
+
+Afﬁne group or map 232
+Algebra 256
+
+Algebraic 258, 302
+
+Algebraic closure 252, 302, 348
+Algebraic extension 302
+Algebraic integer 322
+Algebraic number 380
+Algebraically closed 115, 262
+Algebraicallyindependent 157
+Alternating group 65
+Arbitrarily large 330
+Archimedean 331
+
+Artin’s conjecture 316
+
+Anin’s theorem 220, 286
+Associated linear map 191
+Associativity 16
+
+Asymptotic 10
+Automorphism 91, 104
+Automolphism of ﬁeld 277
+Automorphism of group 36, 96
+Automorphism of ring 90
+Automorphism of vector space 187
+Axiom of choice 358
+
+B
+
+Baker conjecture 172
+Base change 264
+
+Base ﬁeld 264
+
+Basis 180, 200, 205, 357
+Bemstein’s theorem 361
+Bijective 27
+Bimultiplicative 291
+Binomial cocﬁicient 5, 15
+Borcl subgroup 237. 240
+Bracket action 231
+Bracket product 231, 256
+Bruhat decomposition 237
+
+C
+
+Canonical homomorphism 46, 48, 204
+
+Cardinality 359
+
+Cartan decomposition 253
+
+Cauchy sequence 307, 325, 330
+
+CayleyiHamilton theorem 227
+
+Center 52, 74, 87, 192
+
+Centralizer 75
+
+Characteristic 95, 310
+
+Characteristic polynomial 217, 219
+
+Characters 231, 255, 256
+
+Chevalley’s theorem 158
+
+Chinese Remainder Thorem 14, 71,
+97
+
+Circle group 47
+
+Class ﬁeld theory 322
+
+Class formula 78
+
+Coefﬁcients of polynomial 106, 110,
+136
+
+Common divisor 5
+
+Commutative 17, 64, 84
+
+Commutators 53
+
+Commutator subgroup 53, 241
+
+Complement 353
+
+Complete 331
+
+Completion 307, 325, 342
+
+Complex numbers 346
+
+ 
+
+382 INDEX
+Component 188 E
+Composna ﬁeld 262, 288 Eigcnspace 216
+
+Composite mapping 28
+Congruence 12, 47, 91, 92
+Conjugate 53, 275
+Conjugate roots 271
+Conjugacy class 76
+Conjugate elements or ﬁelds
+Conjugation 37, 53, 74
+Conjugation action 74, 231, 254
+Constant term 110
+
+Continuity of the roots 142
+Converge 331
+
+Convolution 99
+
+Coordinate 180
+
+Coordinate maps 32
+Coordinate vector 180
+
+Coset 41
+
+Coset decomposition 42
+Cosetrepresentative 42
+Coven'ng 362
+
+Cubic extension 292
+
+Cubic polynomial 162, 292
+Cycle 60, 66
+
+Cyclic extension 283
+
+Cyclic group 22, 26, 55, 115
+Cyclic module 210
+
+Cyclotomic equation 124, 127
+Cyclotomic polynomial 127
+
+275
+
+D
+
+Davenport’s theorem 170
+Decimal expansion 343
+Decomposition formula 77
+Degree of element 259
+Degree of extension 259
+Degree of polynomial 108, 110, 153, 154
+Denominator 9
+
+Dense 342
+Denumerable 359
+Derivation 100
+Derivative 123
+Diagonalizc 217
+Differential equations 223
+Dimension 186
+Directproduct 18,198
+Directsum 38,71
+Discriminant 63,161,292
+Disjointsets 353,362
+Distributivelaw 85
+Divide 5,119,144
+Division ring 198
+Divisor of zero 86
+
+Eigenvalue 215, 233
+
+Eigenvoctor 215, 233
+
+Eisenstein Criterion 139, 149
+Element 1
+
+Elementary symmetric polynomials 159
+Embedding 35, 102, 267
+
+Empty set 1
+
+Endomorphism 84, 184, 194
+Equivalence class 12
+Equivalence relation 12
+Euclidean algorithm 4, 113
+Euler phi function 14
+
+Evaluation 109, 155
+
+Even permutation 65
+
+Exact 201
+
+Exponent 22, 40, 67, 210
+Extension of embedding 268, 270
+Extension of ﬁelds 258
+
+F
+
+Factor group 45
+
+Factor module 203
+
+Factor ring 93
+
+Factor space 204
+Factorial ring 144
+Factorization 122, 144
+Family 351
+
+Fan 235
+
+Feit—Thompson theorem 49
+Fermat’s theorem 128, 168
+Field 86
+
+Finite abelian group 67
+Finite extension 258
+Finite ﬁeld 117, 309
+
+Finite group 18
+
+Finite index 43, 51
+
+Finite order 22
+
+Finite period 23
+
+Finite set 378
+
+Finitely generated 208, 210
+Fixed ﬁeld 275, 277
+
+Free abelian group 208
+Free group 325
+
+Free module 200
+
+Frey 173
+
+Frobenius automorphism 313
+
+G
+
+Galois extension 280
+Galois group 281, 305
+
+ 
+
+INDEX 383
+
+Gauss’ lemma 139, 147
+
+General linear group 139, 147, 232
+
+Generalized Szpiro conjecture 173
+
+Generators 6, 20, 88, 109, 157, 179,
+193, 261, 357
+
+Geometry 31
+
+GL 187, 232
+
+Greatest common divisor 5, 119, 144
+
+Greatest element 355
+
+Group 16
+
+Groups of order eight 24, 25
+
+H
+
+Hall conjecture 172
+
+Hermitian 252
+
+Homogeneous polynomial 153, 159
+
+Homomorphism of groups 33, 38
+
+Homumorphism of modules or vector
+spaces 182, 194
+
+Homumorphism of rings 90
+
+[
+
+Ideal 6, 87
+
+Identity 28, 189
+
+Image 26
+
+Inclusion 28
+
+Independentvariables 157
+
+Index 43,51
+
+Indexed 351,352
+
+Induced homomorphism 47, 76
+
+Induced ordering 326
+
+Induction 2
+
+Inductively ordered 356
+
+Inequalities 327
+
+Inﬁnite cyclic 22
+
+Inﬁnite period 23
+
+Inﬁnite set 379
+
+Injective 27
+
+Inner automorphism 38, 40
+
+Integers 1, 373
+
+Integral ring 86
+
+Integral root 141
+
+Intersection 352
+
+Invan'ant subspace
+
+Inverse 17
+
+Inverse image 31, 32, 35, 353
+
+Inverse map 28, 183
+
+Invertible 232
+
+Irrcduciblc 120. 139, 140, 141, 143,
+259
+
+Isometry 30
+
+Isomorphism 35, 90, 91, 184, 231, 267
+
+222, 229
+
+Isotropy group 75
+Iwasawa decomposition 246, 251
+
+J
+
+Jordan basis 226
+Jordan normalform 227
+
+K
+
+Kernel 34, 90, 183, 194
+Kummer symbol 290
+
+L
+
+Law of composition 16
+Leading coeﬂlcient 110
+Least common multiple 14
+Least upper bound 331, 355
+Left coset 41
+
+Left ideal 87
+
+Leibniz rule 231, 256
+Length of module 107, 213
+Lie algebra 231, 256
+
+Lic product 231
+
+Limit 331
+
+Linear map 182, 194
+Linear polynomial 111
+Linearly dependent 179
+Linearly independent 179, 357
+Logarithmic deﬁvative 127
+
+M
+
+Mapping 26
+
+Mason Stothers theorem
+
+Masserioesterle 171
+
+Mat 188
+
+Matrix 188
+
+Maximal element 355
+
+Maximalideal 96,99
+
+Maximal subset of linearly independent
+elements 181
+
+Minimalpolynomial 221
+
+Module 192
+
+Module over principal n'ng 210
+
+Modulo 12,45, 93
+
+Mocbius function 99,127
+
+Monic 122
+
+Monomial 153
+
+Morphism 91,230
+
+Multiple root 122,165
+
+Multiplication table 24
+
+Multiplicative function 99
+
+128,167
+
+384
+
+Multiplicative group 16
+Multiplicity of root 122
+
+N
+
+Naturdlnumber 373
+Negative 326
+
+Nilpotent 87,97,234
+Non-archimedean 343
+Norm 274
+Normalextension 278
+Nomalsubgroup 45
+Normalized factorization 122
+Normalizer 52,75
+
+Null sequence 307,325,334
+Numeralor 9
+
+0
+
+Odd permutation 65
+Onto 27
+
+Operation 73
+
+Orbit 75
+
+Orbit decomposition 77
+Order at a prime 146
+Order of a group 18, 43
+Order of a set 2
+
+Order of 11' near group 235
+Order of orbit 77
+
+Order preserving 327
+Ordering of ring 326
+Ordering of sets 354, 375
+Over 268, 275
+
+P
+p-adic 134, 306, 308, 343
+p-gmup 67
+
+p-subgmup 79
+
+p-Sylow group 79
+
+Partial fraction 129,131
+Partial ordering 354
+
+Period 23, 210
+
+Permutation 28, 30, 43
+
+PGL 237, 239
+
+Polar decomposition 253
+Polynomial 106,152
+Polynomial function 108. 155
+Polynomial ring 106, 108
+Polynomials and matrices 220
+Positive 326
+
+Positive deﬁnite 252
+
+Posn 252
+
+Prime 10, 143, 148
+
+Prime ﬁeld 95
+
+INDEX
+
+Prime ideal 96
+
+Pﬁmc number 7
+
+Prime number theorem 10
+Primitive element or root 272, 315
+Pn'mitive polynomial 137, 147
+Primitive root of unity 116, 316
+Prinicipal ideal 88
+
+Principal ring 143
+
+Product 18, 41
+
+Projectjve limit 306
+
+Projective linear group 237
+Proper 1
+
+PSL 237,239
+
+Q
+
+Quadratic extension 292
+Quadratic map 252
+
+Quadratic polynomial 162, 292
+Quadratic residue 118, 316
+Qu‘itemion group 25
+Quaternions 249
+
+Quotient ﬁeld 102
+
+R
+
+Radical 171
+
+Radicaltower 301
+
+Radicals 298, 301
+
+Rational function 76, 103, 155
+Rational number 9
+Realnumber 336
+
+Reciprocity law 323
+
+Reduction criterion 140, 150
+Reduction of polynomial 137, 158, 318
+Regular characters 255, 256
+Regular representation 256
+Relation 355
+
+Relatively prime 7, 97, 120, 146
+Remainder 5
+
+Representation 323
+Representative 12, 42, 75, 92
+Restriction 27, 90, 268, 284, 355
+Riemann hypothesis 11
+
+Right coset 41
+
+Right ideal 87
+Rightmultiplication 189, 195
+Ring 83
+
+Root 111
+
+Root of unity 26, 116, 124
+
+S
+
+Scalarmatrix 189
+Square matrix 188
+
+ 
+
+SchroederiBel-nstein theorem 361
+Schur’s lemma 198
+Separable 273
+
+Sequence 330,351
+
+Set 1
+
+Shafarevich conjecture 325
+Sign 63
+
+Simple group 50,243
+Simple module 198,229
+Simple root 122,165
+SL2 239
+
+SLn 245,251,257
+Snyder’s proof 168
+Solvable extension 298
+Solvable group 49,61
+Special linear group 239, 245
+Splitting ﬁeld 275,310
+Square matn’x 188
+Strictly inductively ordered 356
+Subgroup 19,58
+Submodule 192,203
+Subdng 85
+
+Subset 1
+
+Subspace 178
+Substitution 109
+Suﬂicicmly large 330
+Sum 17,38
+
+Surjectivc 27
+
+Sylow group 79
+Symmetric group 59
+Symmetric matrix 191
+Symmetric polynomial 159
+Szpiro conjecture 173
+
+T
+
+Torsion group 67
+
+Torsion module 210
+
+Torsion subgroup 67, 208
+Total degree 154
+
+Totally ordered 355, 376
+Tower of ﬁelds 262
+
+Trace 274, 323
+
+TmnsccndcntaI 109
+Translation 37, 54, 74, 233, 264
+
+INDEX 385
+
+Transposition 59
+
+Trigonometﬁc degree 151
+Trigonometric polynomials 151
+Trivial 18, 19
+
+Twin pn'mes 10
+
+Two-sided ideal 87
+
+Type of a group or module 69, 213
+
+U
+
+Union 1, 352
+
+Unipment 246
+
+Unique factorization 120, 144, 148
+Unit 71, 86, 95
+
+Unit element 17, 84
+
+Unit ideal 6, 87
+
+Unit matrix 189
+
+Unitaly 246, 250, 251
+Upper bound 331, 355
+Upper half plane 243, 248
+Upper half 3-space 250
+Upper triangular matxix 192
+
+V
+
+Value 26
+Variable 109
+Vector space 177
+
+W
+
+Wedderbum 7Riefﬁel theorem 197
+Weight 158
+
+Well»ordering 2, 369
+Weylgroup 257
+Wilson’stheorem 117
+
+Z
+
+Zero element 17
+Zcroideal 6
+
+Zero polynomial 106
+Zorn’slemma 356
+Z»basis 206
+

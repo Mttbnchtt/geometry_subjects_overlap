@@ -1,0 +1,821 @@
+
+Index
+
+A
+Action potentials, 49–51
+Activating gates, 43, 44
+Activator-inhibitor system, 109, 110, 118, 147
+Adaptive dynamics model, 172
+Adaptive significance, 171
+Ad-hoc rules, 149
+Anisotropic growth, 1, 7
+Approximate Bayesian computation (ABC),
+
+204
+Arabidopsis thaliana inflorescence shoot apical
+
+meristems (SAMs), 90
+Auxin, 6, 8, 99, 100, 110–112
+Axiom, 113, 141, 148
+
+B
+Bifurcation theory, 62
+Boolean models, 71
+Bottom-up approach, 72
+Boundary conditions, 19–20
+B-spline surfaces, 121–123
+
+C
+Canalization model, 111, 112
+Cavitation bubbles, 25
+Cell division
+
+growing cell disk, 115, 116
+model of, 114, 115
+Voronoi regions, 114, 115
+
+Cellerator, 72
+Cell expansion, 15
+Cell geometry, 64
+Cellular automata, 140, 141
+
+Cellular membrane excitability
+action potentials, 49–51
+membrane currents, 47–49
+Nernst potential, 47
+
+Cellular Potts model (CPM), 6,
+131–133
+
+Cellular spaces, see Cellular automata
+Cell wall, 3
+Cell wall mechanical properties,
+
+3, 7
+Channel dynamics, 39–40
+Chemical Langevin equation, 96
+Circular tube flow, 23–24
+Classical (von Neumann) model, 140
+Claude-Louis Navier equation, 19
+Climate change, 182, 186
+Clonal analysis, 3
+Computational models, 140
+Computational Morphodynamics,
+
+88, 89
+Conservation of mass, 17–18, 27
+Context sensitive rules, 113
+Continuous concentration-based approach, 96,
+
+97
+Continuous model, 5–6, 198
+Continuum hypothesis, 17
+Convection-diffusion equation, 29
+Coordinate system, 124–125
+Corner-flow analysis, 28
+Cortical array (CA), see Plant cortical
+
+microtubule array
+Coupling biochemical process, 8
+Coupling biomechanical process, 8
+Creeping flow, 21
+Cyclin-dependent kinase (CDK) activity, 90
+
+© Springer Nature Switzerland AG 2018
+R. J. Morris (ed.), Mathematical Modelling in Plant Biology,
+https://doi.org/10.1007/978-3-319-99070-5
+
+213
+
+214 Index
+
+D
+Data driven growth, 123–125
+De novo pattern formation, 111
+Diffusion
+
+of ionic species, 38–39
+prospective framework, 200–201, 204, 207
+shear-enhanced diffusion, 32–35
+
+Discrete time steps, 58
+Diurnal Reference Cycles, 75
+Dormancy, 198
+Dynamic self-organization, 54
+Dynamics instability, 54–56
+
+E
+E-Cell, 72
+Ecology, 172, 173, 188, 190, 197
+Effective diffusivity, 34, 35
+Elastic modulus, 7, 9, 10
+Eulerian approach, 131, 141
+Event-driven simulations, 58
+Expression dynamics, 88, 185
+
+F
+Fickian flux rules, 38
+Fick’s law, 29, 33, 147
+Filamentous blue-green bacterium Anabaena
+
+catenula, 142
+Finite element method (FEM), 6, 129–131
+Finite hydraulic permeability, 74
+First-generation OnGuard software, 75, 76
+FitzHugh-Nagumo model, 38
+Fixed templates
+
+activator-inhibitor system, 109
+auxin, feedback of, 111, 112
+boundary conditions, 108
+de novo pattern formation, 111
+Mitchison’s polar transport model, 111
+reaction-diffusion patterning, 110
+realistic templates, 112, 113
+rectangular, hex and Voronoi regions, 112
+Sachs’ canalization mechanism, 110
+Turing mechanism, 108
+
+FLOWERING LOCUS C (FLC), 174
+Flowering phenology
+
+climate change, 182–183
+model construction and parameterization,
+
+184–187
+prediction, 185–188
+
+Flowering time
+evolution of, 180–182
+FLC generates diversity
+
+monocarpic annuals, 179–180
+
+monocarpic perennials, 180
+polycarpic-intermittent flowering, 180
+polycarpic-yearly flowering, 180
+
+forecasting flowering phenology
+flowering phenology and climate
+
+change, 182–183
+model construction and
+
+parameterization, 184–187
+prediction, 185–188
+
+genetic-physiological model
+allelic variations, 178
+bistability of cellular systems, 176
+chromatin remodeling, 176
+floral integrator gene, 175–176
+genetic component, 175
+leaf biomass, 177
+optimal flowering strategy, 178
+physiological component, 175
+repression state, 176
+stored resource (S) changes, 178
+temperature-dependent pathway, 175
+vernalization-specific genes, 175–176
+
+natural variation, vernalization responses,
+173–175
+
+proximate causes, 171–173
+ultimate causes, 171–173
+
+Fluid transport
+physical principles and mathematical
+
+equations
+boundary conditions, 19–20
+conservation of mass, 17–18
+continuum hypothesis, 17
+Navier-Stokes equation, 18–19
+Newtonian fluid, 17
+non-Newtonian fluid, 17
+Reynolds number, 20–21
+
+plant hydraulics
+flow in a straight tube, 21–25
+flow in a tube with varying diameter,
+
+26–28
+geometrical complications, 21
+Münch hypothesis, 21
+osmosis, 15
+pits, 21
+tracheids and vessels, 21
+transport routes for fluids, 16
+water influx, 15
+
+solute transport
+convection, 30–32
+diffusion equation, 29–31
+shear-enhanced diffusion, 32–35
+transport equation, 28–29
+
+Formal language theory, 145
+Forward Euler method, 149
+
+
+
+Index 215
+
+Fraction of channels, 45
+FRIGIDA (FRI), 174
+
+G
+Game theory, 172
+Gating, 39
+Gene expression analysis, 186
+Genetic-physiological model
+
+allelic variations, 178
+bistability of cellular systems, 176
+chromatin remodeling, 176
+floral integrator gene, 175–176
+genetic component, 175
+leaf biomass, 177
+optimal flowering strategy, 178
+physiological component, 175
+repression state, 176
+stored resource (S) changes, 178
+temperature-dependent pathway, 175
+vernalization-specific genes, 175–176
+
+Genetic regulatory network (GRN)
+activator-inhibitor model, 147
+bistable behaviour (hysteresis), 151
+cell division, 149, 150
+data structures, 148
+external PatS, 151
+Fick’s law, 147
+flux of PatS, 149
+heterocyst differentiation, 146
+HetR and PatS interactions, 146, 147
+module types and initial state, 148
+production for walls, 148–149
+reaction-diffusion model, 147
+refractory behaviour of heterocysts, 151
+simulation parameter values, 147, 150
+
+Genomic data analysis, 201–202
+Geometric concept, 140
+Geometric template model, 112, 113
+George Gabriel Stokes equation, 19
+Gibb’s free energy, 39
+Gillespie algorithm, 41–42, 96
+GRN, see Genetic regulatory network
+Growth anisotropy, 1, 7, 134
+Growth rate, 1, 7
+Guard cells, 49, 70–75, 81
+
+H
+Hamiltonian based methods, 131–134
+Hejnowicz coordinate system, 118–120
+Hill-Robertson effect, 196, 197, 208
+Hodgkin-Huxley formalism, 49
+Hodgkin-Huxley model, 38
+
+Homogeneous arrays, 65
+Humidity, 75–80
+Hybrid algorithms, 96
+Hydraulic transport routes, 16
+Hydromechanical model, 71
+
+I
+Inactivating gates, 43, 44
+Incomplete Lineage Sorting (ILS), 205
+Integral projection model, 172
+Ion channels
+
+activating gates, 43, 44
+averaging, 45–46
+cellular membrane excitability
+
+action potentials, 49–51
+membrane currents, 47–49
+Nernst potential, 47
+
+Gillespie algorithm, 41–42
+inactivating gates, 43, 44
+master equation, 44–45
+single ion channel dynamics
+
+channel dynamics, 39–40
+ionic species diffusion, 38–39
+Markov processes, 40–41
+
+transition probabilities, 42–43
+Ion flux, 73, 77
+Ionic species diffusion, 38–39
+Isotropic solution, 62
+Iterative computational modelling, 74
+
+K
+Kirchoff’s second law, 49
+
+L
+Lagrangian approach, 131, 141
+Lewontin paradox, 197
+Linkage disequilibrium (LD), 196
+Linked selection, 196, 197
+Lockhart’s model growth, 127
+L-systems, 113, 114
+
+cellular automata, 140, 141
+genetic regulatory network
+
+activator-inhibitor model, 147
+bistable behaviour (hysteresis), 151
+cell division, 149, 150
+data structures, 148
+external PatS, 151
+Fick’s law, 147
+flux of PatS, 149
+heterocyst differentiation, 146
+HetR and PatS interactions, 146, 147
+
+216 Index
+
+L-systems (cont.)
+module types and initial state, 148
+production for walls, 148–149
+reaction-diffusion model, 147
+refractory behaviour of heterocysts, 151
+simulation, 150
+simulation parameter values, 147
+
+geometric interpretation, 151–153
+modeling cell division patterns
+
+developmental sequence, 144
+L-system-based simulator CELIA, 143
+numerical parameter, 143
+vegetative segments of Anabaena, 142,
+
+143
+modeling phenotypic plasticity, 159–161
+operation of, 141, 142
+plant architecture models
+
+age of internodes, 155
+br_angle(t), 156
+decomposition rule, 155
+descriptive and mechanistic models,
+
+153–154, 158
+interpretation rule, 155, 156, 158
+leaf_length(t), 156
+Lychnis coronaria shoot, 159
+Lychnis model, 156, 157
+mature Lychnis coronaria plant, 154
+modules, 155
+nproduce statement, 158
+produce statement, 158
+simple branching structure model, 154
+turtle command
+
+Surface(LEAF_SURFACE,
+leaf_ length(t)), 156
+
+programming, 145
+trees modeling
+
+components, 161
+E1 and GetHead, 162
+elements, 163–165
+plant and environment, 165
+recursive branching pattern, 161
+
+Lychnis model, 156, 157
+
+M
+Mapping function, 116
+Markov processes, 40–41
+Mass-spring model, 125–129
+Master equation, 44–45
+Maximal growth direction, 1, 7
+Mechanical signals, 9–10
+Meinhardt activator-inhibitor system, 127
+Membrane currents, 47–49
+Metropolis algorithm, 131
+
+Microtubule associated proteins (MAPs), 53
+Microtubule (MT) cytoskeleton, see Plant
+
+cortical microtubule array
+Mitchison’s polar transport model, 111
+Morphogens, 130
+MorphoGraphX, 2
+Münch hypothesis, 21
+
+N
+Natural variation, vernalization responses,
+
+173–175
+Navier-Stokes equation, 18–19
+Nernst potential, 47
+Neutral and selective genetic diversity, 196
+Neutral evolutionary processes
+
+constant population size, 203
+past demographic events, 203–204
+recombination rate, 205, 206
+speciation, 204–205
+
+Newtonian fluid, 17
+Newton’s law of viscosity, 17
+Non-circular tube flow, 24–25
+Non-isotropic solutions, 51
+Non-Newtonian fluids, 17
+Non-persistent seed bank, 198
+Non-SB Wright–Fisher model, 204
+
+O
+OnGuard2 Arabidopsis model, 82
+OnGuard platform
+
+elements, 72–74
+macro-and microscopic processes, 81
+modelling stomata
+
+biophysical and kinetic features, 72
+Boolean models, 71
+effective modelling efforts, 70
+guard cell outward-rectifying K+
+
+channel, 72
+guard cell physiology, 70
+macroscopic approaches, 71
+microscopic level, 71
+reverse-engineering, 71
+robust models of gas exchange, 71
+stomatal function, 70, 71
+true mechanistic models, 71
+
+OnGuard2 Arabidopsis model, 82
+outputs, 80
+simulating stomatal physiology and
+
+response, 75–80
+whole-plant water relations
+
+diurnal Reference Cycles, 75
+finite hydraulic permeability, 74
+
+
+
+Index 217
+
+iterative computational modelling, 74
+Reference State, 75
+Reference State Wizard, 74
+
+Open and closed states, 39
+Optimal control theory, 172
+Order parameters, 60–63
+Organ-centric coordinate system, 116, 117,
+
+121
+Organ growth, 3, 10, 156
+Osmosis, 15
+
+P
+Passage/escape times, 40
+PatS external to it ([PatS]ext ), 151
+Péclet number, 33, 35
+Phenotypic diversity, 195
+Photosynthesis process, 16
+Phyllotaxis, 118
+Phytohormone auxin, 98
+Pits, 21
+Plant architecture
+
+age of internodes, 155
+br_angle(t), 156
+decomposition rule, 155
+descriptive and mechanistic models,
+
+153–154, 158
+interpretation rule, 155, 156, 158
+leaf_length(t), 156
+Lychnis coronaria shoot, 159
+Lychnis model, 156, 157
+mature Lychnis coronaria plant, 154
+modules, 155
+nproduce statement, 158
+produce statement, 158
+simple branching structure model, 154
+turtle command Surface(LEAF_SURFACE,
+
+leaf_length(t)), 156
+Plant cortical microtubule array
+
+behaviour levels
+in A. thaliana hypocotyl cell, 56
+coarse graining, 56–57
+dynamic instability, 54–55
+interactions, 55–56
+
+consensus model of dynamics, 57
+dynamic self-organization, 54
+order parameters, 60–63
+orientation, 63–64
+plant cell growth and development, 53–54
+severing enzyme katanin, 65
+time steps vs. event driven simulations,
+
+57–59
+Plant hydraulics, 15–16
+
+flow in a straight tube
+
+circular tube flow, 23–24
+non-circular tube flow, 24–25
+Poiseuille velocity profile, 22
+pressure gradient drives flow, 22
+tube collapse and cavitation, 25
+
+flow in a tube with varying diameter, 26–28
+geometrical complications, 21
+Münch hypothesis, 21
+osmosis, 15
+pits, 21
+tracheids and vessels, 21
+transport routes for fluids, 16
+water influx, 15
+
+Plant life history
+evolution of, 180–182
+FLC generates diversity
+
+monocarpic annuals, 179–180
+monocarpic perennials, 180
+polycarpic-intermittent flowering, 180
+polycarpic-yearly flowering, 180
+
+genetic-physiological model
+allelic variations, 178
+bistability of cellular systems, 176
+chromatin remodeling, 176
+floral integrator gene, 175–176
+genetic component, 175
+leaf biomass, 177
+optimal flowering strategy, 178
+physiological component, 175
+repression state, 176
+stored resource (S) changes, 178
+temperature-dependent pathway, 175
+vernalization-specific genes, 175–176
+
+natural variation, vernalization responses,
+173–175
+
+Plant morphogenesis, 108
+cellular Potts model, 6
+continuous model, 5–6
+elementary transformations, 1
+forces
+
+simple rheological behaviors and plant
+growth, 4–5
+
+tissues and cells, 3–4
+growth implementation, 7
+parameters, 1
+physical model
+
+isolated plant cell, 7–8
+mechanical feedback, 9–10
+organ elongation, 8
+sheet-like organs, 8–9
+variability, 10–11
+
+quantifying cell growth, 2
+quantifying organ growth, 3
+vertex-based model, 6
+
+218 Index
+
+Plant’s flowering behaviors, 172, 173
+Plant shoot apex, 116, 117
+Poiseuille velocity profile, 22
+Polarizer gradient, 130
+Pressure gradient drives flow, 22
+Protofilaments, 55
+
+Q
+Quantifying cell growth, 2
+Quantifying morphogenesis, 1, 2
+Quantitative image analysis
+
+cellular size and morphology parameters,
+93
+
+deconvolution, 92
+gene expression, 92, 93
+live imaging mCitrine-ATML1 expression
+
+data, 93, 94
+microscopy parameters, 92
+SAM, block matching algorithm, 92, 94
+spatiotemporal single cell data, 94
+3D nuclear segmentation, 92, 93
+time sampling, 92
+topological features, quantification of, 93,
+
+95
+watershed algorithm, 92, 93
+
+Quantitative measure, 60
+
+R
+Rate constants, 41
+Reaction-diffusion system, 118, 122, 128, 147
+Reference State Wizard, 74
+Refractory behaviour of heterocysts, 151
+Relative elemental rate of growth (RERG), 117
+Residual stress, 9
+Reynolds number, 20–21
+Rheological model, 4–5
+Root apex, 118–120
+
+S
+Sachs’ canalization mechanism, 110
+Selective processes
+
+linked sites, 207–208
+unlinked sites, 206, 207
+
+Sensing mechanisms, 10
+Shear-enhanced diffusion, 32–35
+Shedding, 163
+Shoot apex surface, 117
+Shoot meristem, 116
+Shortest wall rule, 114, 115
+Single-cell approaches
+
+Arabidopsis thaliana inflorescence SAMs,
+90
+
+cell division rules, 89–90
+Computational Morphodynamics workflow,
+
+88, 89
+dynamic pattern formation, 88
+experimental and computational tools, 88
+functional tissue formation, 87
+growth and division properties, 90
+modelling tissue morphogenesis
+
+bridging simulated data with
+experimental data, 98–100
+
+cell fate decisions, 95–97
+cell-to-cell interactions, 95–96, 98
+cellular growth and division patterns,
+
+96–98
+chemical Langevin equation, 96
+deterministic and stochastic processes,
+
+96
+hybrid algorithms, 96
+regulatory networks, 95
+
+quantitative image analysis
+cellular size and morphology
+
+parameters, 93
+deconvolution, 92
+gene expression, 92, 93
+live imaging mCitrine-ATML1
+
+expression data, 93, 94
+microscopy parameters, 92
+SAM, block matching algorithm,
+
+92, 94
+spatiotemporal single cell data, 94
+
+3D nuclear segmentation, 92, 93
+time sampling, 92
+topological features, quantification of,
+
+93, 95
+watershed algorithm, 92, 93
+
+signalling and gene regulatory mechanisms,
+88
+
+spatiotemporal description, 89
+time-lapse microscopy methods, 88, 89
+
+Single ion channel dynamics
+channel dynamics, 39–40
+ionic species diffusion, 38–39
+Markov processes, 40–41
+
+Soft sweeps, 207
+Soil seed banks
+
+effective population size, 196, 197
+genetic diversity, 196
+linked selection, 196, 197
+mutation rate, 196, 197
+neutral evolutionary processes
+
+constant population size, 203
+past demographic events, 203–204
+
+
+
+Index 219
+
+recombination rate, 205, 206
+speciation, 204–205
+
+prospective diffusion framework, 200–201
+retrospective coalescent view, 199–200
+selective processes
+
+linked sites, 207–208
+unlinked sites, 206, 207
+
+statistical measure, 201–202
+Solute transport
+
+convection, 30–32
+diffusion equation, 29–31
+shear-enhanced diffusion, 32–35
+transport equation, 28–29
+
+Spatial models, 108
+Stochasticity, 95, 96
+Stokes flow, 21
+Stomata
+
+biophysical and kinetic features, 72
+Boolean models, 71
+effective modelling efforts, 70
+guard cell outward-rectifying K+ channel,
+
+72
+guard cell physiology, 70
+macroscopic approaches, 71
+microscopic level, 71
+reverse-engineering, 71
+robust models of gas exchange, 71
+stomatal function, 70, 71
+true mechanistic models, 71
+
+Strain, 10, 17, 97, 100, 127
+Stress, 3–5, 9–11, 16–18, 51
+
+T
+Taylor-Aris dispersion, 28
+Temperature-dependent pathway, 175
+Theoretical and empirical evolutionary
+
+genetics, 196
+
+Tissue deformation, 7
+Tissue morphogenesis
+
+bridging simulated data with experimental
+data, 98–100
+
+cell fate decisions, 95–97
+cell-to-cell interactions, 95–96, 98
+cellular growth and division patterns, 96–98
+chemical Langevin equation, 96
+deterministic and stochastic processes, 96
+hybrid algorithms, 96
+regulatory networks, 95
+
+Tissue polarity, 130
+Transition probabilities, 42–43
+Transport equation, 28–29
+Transport-feedback patterning mechanism, 118
+True mechanistic models, 71
+Tube collapse and cavitation, 25
+Turgor pressure, 3
+Turing mechanism, 108
+Turing patterns, 108
+Turtle commands, 152
+
+V
+Vein-based model, 11
+Vernalization, 174
+Vertex-based model, 6
+Virtual Cell, 72
+Volvox, 8
+
+W
+Water influx, 15
+Wright–Fisher model, 198
+
+Z
+Zero Reynolds number flow, 21

@@ -1,0 +1,831 @@
+
+Index
+
+Affine geometry (see Geometry)
+Affinity, 42fI
+
+degenerate, 70fI
+Angle, 126, 128
+Annihilator, 81
+
+ideal, 151
+mapping, 81, 94
+
+Anti-automorphism, 120, 122
+Anti-isomorphism, 84
+Associative law
+
+for mapping multiplication, 3 (ex.
+3)
+
+for matrix multiplication, 73
+Automorphism
+
+of euclidean geometry, 1400
+of field, 56, 58 (incl. exx. 1, 2), 65,
+
+123
+of Hilbert space, 146
+of R-module, 154
+of sesquilinear space, 124
+of similarity euclidean geometry,
+
+144
+of vector space, 66
+groups for V, A, P, F, 59
+
+Axis, of central collineation, 48 (exx.
+3-5)
+
+Basis (base), 9fI
+cartesian, 127, 142, 146
+dual,80
+standard, of Fn, 12 (ex. 9), 13
+standard, of Fmxn, 74 (ex. 2)
+standard, of F[x]n, 168
+of torsion-free F[X]-module, 163
+
+Bilinear form, 89fI
+alternating, 99
+degenerate, 91, 92 (ex. 1)
+negative definite, 106
+orthosymmetric, 97, 101 (ex. 3)
+positive definite, 106
+skew-symmetric, 99, 101 (exx. 1, 4)
+symmetric, 97, 101 (exx. 1, 4, 8,
+
+9)
+Bilinear polynomial, 90
+
+193
+
+Canonical matrix
+Jordan (classical), 167
+rational, 166
+
+Cartesian basis, 127, 142, 146
+Center
+
+of affine polarity, III (ex. 5)
+of affine quadric, 119
+of (central) collineation, 48 (exx.
+
+3-6), 54 (ex. 1), 63, 83 (ex. 10)
+of perspective of two triangles,
+
+23
+of perspectivity, 48 (ex. 6), 65
+of sphere, 133 (ex. 3)
+
+Central collineation, 48 (exx. 3-6), 54
+(ex. 1), 62fI, 83 (ex. 10)
+
+center of (see Center)
+hyperplane of, 63
+
+Centroid, 48 (ex. 2)
+Characteristic, 2
+
+field of, 40, 99fI
+(Fano's Theorem), 40
+
+[Note rubrics at the beginning oj
+§ 5.6 (p. Ill) and § 5.7 (p. 115).]
+
+Classical (Jordan) canonical matrix,
+167
+
+Classification of collineations, 170fI
+Coefficient space, 50
+Collineation, 45, 1700
+
+central (S88 Central)
+Completeness of Hilbert space, 147
+Completion of affine quadric (to
+
+projective quadric), 117, 118, 120
+(ex. 8)
+
+Complexification
+of real bilinear form, 124, 146
+of real vector space, 14, 58 (ex. 4),
+
+112, 134 (ex. 6), 136, 140
+Cone, representative, 115
+Congruence
+
+of bilinear forms, 89, 90, 103fI
+of matrices, 86, 90, 103fI
+
+Conic, 111, 114 (exx. 4-10), 120 (exx.
+1,2)
+
+section, 116
+
+194 INDEX
+
+Coordinate row
+of an affine point, 44
+of a vector, 13
+(homogeneous) of a projective
+
+point, 47
+Coordinate system
+
+for an affine geometry, 44
+for a euclidean geometry, 129
+(homogeneous) for a projective
+
+geometry, 46
+for a vector space, 13
+
+Correlation, 85, 110, 120
+degenerate, 110
+
+Coset (translated subspace), 15ff
+dimension of, 16
+parallel, 18
+space of, 67 154
+subspace belonging to, 16
+
+Cross.ratio, 132, 133 (exx. 1, 2, 5,
+6)
+
+Degenerate
+affine polarity, 111 (ex. 6)
+affine quadric, 119
+affinity, 70
+bilinear form, 91, 92 (ex. I)
+correlation, 110
+null'polarity, 110
+polarity, 11 0
+projective quadric, 112
+projectivity, 70
+subspace (with respect to a bilinear
+
+form), 92 (ex. I), 95
+Desargue's Theorem
+
+(affine), 23
+(projective), 32 (ex. 6), 38, 41 (ex.
+
+3), 48 (ex. 5), 51 (ex. 2), 86
+(ex. I)
+
+converse of, 38
+related to a division ring, 39, 40,
+
+48 (ex. 5)
+Determinant, 144
+Dilatation, 44 (ex. 3), 49 (ex. 9), 54
+
+(ex. I), 63, 75 (ex. 11)
+Dimension
+
+of an affine geometry, 16
+of a coset, 16
+of a projective geometry, 30
+of a vector space, 1 Off
+finite, 9ff
+
+(Note the convention at the begin.
+ning of Ohapter II, p. 15.)
+
+projective, 30
+Direct sum
+
+of submodules, 155ff
+of subs paces, 7, 8 (exx. 7, 8),11,12
+
+(exx. 11-13),95,96, 102ff, 155ff
+
+Distance
+on a coset, 127
+on a euclidean space, 125
+on a Hilbert space, 146
+on a vector space, 125
+similar, 131
+
+Division ring, 39, 49 (exx. 10, 11), 75
+(ex. 7)
+
+Dual
+basis, 80
+configuration, 84
+frame of reference, 87, 88 (ex. I)
+geometry, 86ff
+proposition, 84
+self·, 171, 172
+space, 80
+
+Duality, 85
+principle of, 84
+
+Eigenspace, 71 (ex. 4), 135, 142, 143
+Eigenvalue, 71 (ex. 4),135, 137, 141ff
+Eigenvector, 71 (ex. 4), 135fl', 140
+
+(ex. 3), 141ff
+Elementary divisors
+
+of a finitely generated F[X].
+module, 159, 160
+
+of a linear mapping, 166
+of a matrix, 168, 169 (ex. 3)
+
+Elementary move, 164, 165 (ex. 1, 2)
+Elementary transformation, 70 (ex.
+
+10)
+Embedding Theorem, 32, 52 (ex. 6),
+
+61, 116, 130
+Equation
+
+of affine quadric, 117ff
+of euclidean quadric, 138ff
+of projective quadric, 112ff
+linear, 49ff, 79ff, 82
+
+Equivalence of matrices, 77, 165
+Exchange Lemma, 9
+Exponent of commutative group, 153
+
+(ex. 4)
+
+Family, 2
+Fano's Theorem, 40
+Field, 4, 5
+
+of characteristic 2, 40 99ff (conven.
+tions on pp. 111, 115)
+
+of gaussian numbers, 14 (ex. 1)
+of quotients, 160
+finite (see Finite field)
+ground,12
+
+Finite dimensional vector space, 9ff
+(Note the convention at beginning
+of Ohapter II, p. 15.)
+
+Finite field, 109 (exx. 8-11), 162
+(exx. 10-12), 174 (ex. 5)
+
+
+
+INDEX 195
+
+Finite geometry
+(affine), 20 (ex. 1), 29, 38 (ex. 3)
+(projective), 32 (exx. 4, 5), 40, 41,
+
+119, 174 (ex. 5)
+Form
+
+bilinear (see Bilinear form)
+hermitian, 122ff
+linear, 80ff, 101 (ex. 7)
+quadratic, 100ff
+sesquilinear, 121ff
+
+Frame of reference
+for an affine geometry, 43
+for a euclid ian geometry, 129
+for a projective geometry, 46
+for .9'( V) determined by a basis of
+
+V,46
+standard, for d(Fn), 43
+standard, for .9'(Fn+l), 47
+
+Function (see Mapping)
+
+Gaussian number field, 14 (ex. 1)
+Generator of a projective quadric, 114
+
+(exx. 11-14)
+Geometry
+
+affine, 16ff (generalized), 35
+affine, in .9'(V) determined by H,
+
+36, 61, 130
+"affine, of dimension n over F," 22
+euclidean 127ff
+finite (see Finite geometry)
+projective, 29ff (generalized), 35
+"projective, of dimension n over
+
+F," 32
+similarity euclidean, 131ff
+similarity euclidean, determined in
+
+.9'( V) by Hand D, 132
+Greatest common divisor, 161 (exx.
+
+3,6)
+Ground field, 12ff
+Group, 4
+
+abelian (commutative), 4, 150, 160,
+163 (ex. 13)
+
+affine, 59, 75
+automorphism, 59
+collineation (projective), 59
+commutative (see Group, abelian)
+general linear, 59
+homomorphism of, 59
+isomorphism of, 59
+orthogonal, 144
+permutation, 4, 62 (ex. 4)
+projective (see Group, collineation)
+rotation, 4, 144
+unitary, 146
+
+Harmonic
+conjugate, (affine) 27, (projective) 40
+
+constructive, (affine) 27, (projec.
+tive) 40, 52 (ex. 5)
+
+range, (affine) 27, (projective), 40,
+113 (ex. 2), 133 (ex. 1)
+
+Hermitian
+form, 122ff, 124 (exx. 2, 3)
+mapping, 147 (ex. 6)
+matrix, 124 (ex. 2)
+
+Hilbert space, 146ff
+Homogeneous
+
+(projective) coordinate row, 47
+linear equations, 50
+vector, 22ff, 30
+
+Homomorphism
+of groups, 59
+of R-modules, 154
+of vector spaces, 66
+
+Hyperplane
+in affine geometry, 16
+of a central collineation, 63ff
+at infinity, 36
+in projective geometry, 30
+
+Ideal, 152
+principal, 152
+annihilator, 151
+
+Identity
+element of group, 4
+element of ring, 149
+mapping, 2, 3 (ex. 1)
+matrix,73
+
+Image, 2
+Incidence propositions, (affine) 19,
+
+(projective) 31
+Indecomposable submodule, 159
+Index notation, 2
+Infinite dimensional vector space, 9,
+
+11 (exx. 3, 5, 7, 8), 68, 69 (exx.
+1, 2, 4, 9), 82 (exx. 1, 3, 5, 6), 92
+(exx. 1, 2, 3), 130 (ex. 4), 147
+
+Integral domain, 155 (exx. 1, 3), 160
+Intersection
+
+of cosets, 16
+of sets, 3
+of subspaces, 7
+
+Invariant configuration, 170ff
+Invariant factors
+
+of linear mapping, 166
+of matrix, 168, 169 (ex. 3)
+of module, 156, 160, 165
+
+Invariant subspace, 153
+Inverse
+
+of a group element, 4
+of a mapping, 3 (ex. 1).
+of a matrix, 73, 74
+
+Isomorphism
+of affine geometries, 2Off, 52ft"
+
+196 INDEX
+
+Isomorphism--cont.
+of bilinear spaces, 89
+of euclidean geometries, 128, 130
+
+(ex. 7)
+of fields, 56
+of groups, 59
+of modules, 154
+of projective geometries, 31, 52ff
+of similarity euclidean geometries,
+
+131
+of vector spaces, 12
+anti-isomorphism, 84
+linear isomorphism, 66, 91
+semi-linear isomorphism, 56
+
+Join
+of cosets, 1 fi
+(sum) of subspaces, 7
+
+Jordan (classical) canonical matrix,
+167
+
+Kernel
+of group homomorphism, 60, 62
+
+(ex. 4)
+of linear mapping, 66
+of module homomorphism, 154
+
+Kronecker delta, 69 (ex. 6), 73
+
+Length
+(norm) in euclidean space, 125
+(norm) in Hilbert space, 146
+of element in a principal ideal
+
+domain, 161 (exx. 5, 7)
+Line
+
+in affine geometry, 16
+at infinity, 36, 37
+projective, 30
+
+Linear algebra, 68, 136
+Linear automorphism, 66
+Linear combination, 6 (ex. 5)
+Linear complex, 110 (ex. 4)
+Linear dependence, 8ff
+Linear equations, 49ff, 79ff, 82
+Linear form, 80ff
+Linear independence
+
+over F, 9
+over F[X], 158
+
+Linear isomorphism, 12, 66, 91
+Linear mapping, 66
+
+commuting, 140 (ex. 3), 147 (ex. 4)
+a-symmetric, 135, 140 (ex. 1)
+similar, 154
+trace of, 75 (exx. 8, 9), 83 (ex. 9)
+transpose of, 83 (exx. 7, 8), 93 (ex.
+
+4), 169
+triangulable, 140 (ex. 3), 147 (ex. 4)
+
+Mapping (function), 2
+annihilator, 81, 94
+
+hennitian, 147 (ex. 6)
+inverse, 3 (ex. 1)
+linear (see Linear mapping)
+normal, 147 (ex. 6)
+one-one, 2
+product of, 2
+semi-linear, 120
+unitary, 147 (ex. 6)
+
+Matrix, 72ff
+addition of, 72
+alternating, 103
+of bilinear form, 90
+congruence of, 86, 103ff
+diagonal, 104
+equivalence of, 77, 165
+hermitian, 124 (ex. 2)
+identity, 73
+inverse of, 73, 74
+invertible (non-singular), 74
+Jordan canonical, 167
+of linear mapping, 72
+multiplication of, 72
+nilpotent, 74
+non-singular (invertible), 74
+orthogonal, 79 (exx. 2, 3), 143
+of quadratic form, 102
+rational canonical, 166
+similarity of, 79, 166ff
+skew-symmetric, 79 (exx. 1, 3), 101
+
+(ex. 1)
+symmetric, 77, 101 (ex. 1)
+transposed, 77
+triangular, 108, 109 (ex. 7), 140 (ex_
+
+3), 147 (ex. 4)
+unitary, 146
+zero, 72
+
+Metric, 125
+Mid-point, 29
+Minimum polynomial
+
+of linear mapping, 151
+of matrix, 168, 169 (ex_ 3)
+
+Minkowski's inequality, 129 (ex. 2)
+Module, 150
+
+cyclic, 153
+finitely generated, 153
+torsion, 152, 155 (exx. 1, 2), 165
+
+(ex. 2)
+torsion-free, 152, 163, 165 (exx. 2,
+
+3)
+
+Nilpotent matrix, 74 (ex. 4)
+Non-Desarguesian projective plane,
+
+39, 48 (ex. 5)
+Norm (length)
+
+in euclidean space, 125
+in Hilbert space, 146
+
+Normal mapping, 147 (ex. 6)
+
+
+
+INDEX 197
+
+Normal to a plane, 134 (ex. 7)
+n-tuple,2
+
+ordered,2
+Null-polarity, 110
+
+Order
+of (commutative) group, 153 (ex.
+
+4)
+of general linear group, 62 (ex. 3)
+
+Orientation, 144
+Origin of affine frame of reference,
+
+43
+Orthogonality, 93ff, 126, 137, 146
+
+(anticipated, 51)
+Orthosymmetry, 97, 101, (ex. 3), 122
+
+Pappus' Theorem, (affine) 25, (pro-
+jective) 39, 40, 51 (ex. 3), 88 (ex.
+5)
+
+Paraboloid, 119
+Parallel, 18
+Parallelogram, 37, 64
+
+law, 125
+Pencil
+
+of lines, 86 (ex. 3), 87
+of planes, 86 (ex. 3), 87
+
+Permutation, 4
+Perpendicular, 133, 134 (ex. 7)
+Perspective
+
+axis of, 38
+center of, 23
+triangles in, from a point, 23
+
+Perspectivity, 48 (exx. 6-8), 49 (ex.
+11),65
+
+Plane
+in affine geometry, 16
+projective, 30
+
+Point
+in affine geometry, 16
+at infinity, 36
+projective, 30
+
+Polarity, 110, 113 (exx. 2, 3, 4, 7, 8,
+16, 17)
+
+affine, 111 (exx. 5, 6), 120 (ex. 2)
+definite, 132
+
+Polynomials, vector space of, 6
+Positive definite
+
+hermitian form, 123
+symmetric bilinear form, 106
+
+Principal ideal, 152
+domain 160, 161 (exx. 1-8)
+
+Projection, 70 (ex. 9), 71 (ex. 3)
+Projective geometry (see Geometry)
+Projective space, 30
+Projectivity, 45ff, 88
+
+degenerate, 70ff
+Pythagoras' Theorem, 100
+
+Quadrangle, 40, 84
+Quadratic
+
+form, 100, 101 (ex. 5-9)
+polynomial, 100ff, 108 (ex. 5), IlIff,
+
+117
+Quadric
+
+affine, 116ff
+euclidean, 134ft'
+projective, I11ff
+
+Quadrilateral, 84
+Quaternion algebra (over R), 75 (ex.
+
+7), 101 (ex. 6)
+
+Radius of sphere, 133 (ex. 3)
+Range of points, 86 (ex. 3), 87
+Rank
+
+of affine quadric, 119
+of bilinear form, 91
+of linear mapping, 76ff, 94
+of matrix (including row and
+
+column),77
+of projective quadric, 112
+of sesquilinear form, 122
+of torsion-free F[X]-module, 163
+
+Rational canonical matrix, 166
+Reflexion, 143, 145 (ex. 4)
+Relativity, 107
+Representative cone, 115
+Ring, 149ff
+Rotation, 143, 145 (exx. I, 2, 3)
+
+group, 4, 144
+
+Scalar, 5
+Schwarz's inequality, 126
+Segre symbol, 170
+Self-polar simplex, 115 (ex. 15)
+Semi-linear
+
+isomorphism, 56
+mapping, 120
+
+Sequence, 2
+ordered,2
+
+Sesquilinear form, 121ff
+orthosymmetric, 122
+
+Sets, 1
+equality of, 2
+
+Signature, 106, 108 (ex. 4)
+Similarity
+
+of distances, 131
+of linear mappings, 154
+of matrices, 79, 166ft"
+
+Simplex of reference, 46
+Skew
+
+elements in projective geometry, 30
+lines in affine geometry, 20
+
+Space
+alternating (symplectic), 99, 102ff
+bilinear, 89
+
+198 INDEX
+
+Space--cont.
+coefficient, 50
+of cosets, 67, 154
+dual, 80
+eigen, 71 (ex. 4), 135
+euclidean, 107, 125ff
+Hilbert, 146ff
+metric, 125
+normed, 125
+orthogonal (symmetric), 98, 105ff
+projective, 30
+skew-symmetric, 99
+symmetric (orthogonal), 98, 105ff
+symplectic (alternating), 99, 102ff
+vector,5ff
+
+Space time, 107
+Sphere, 133 (exx. 3, 4)
+Split product of groups, 60, 144
+Standard basis
+
+of Fn, 12 (ex. 9), 13
+of Fm x n, 74 (ex. 2)
+of F[x]n, 168
+
+Subgeometry
+of affine geometry, 16
+of euclidean geometry, 127
+of projective geometry, 30
+of similarity euclidean geometry,
+
+131
+Subgroup, 4, 59ff, 144ff
+
+Sylow, 163 (ex. 13)
+Submodule, 153ff
+Subring, 149
+Subspace, 6ff
+
+belonging to a coset, 16
+direct sum of, 7
+invariant, 153
+spanned (generated) by a set, 7
+sum (join) of, 7
+translated (8ee Coset)
+
+Sylvester's Law of Inertia, 106
+
+Tangent to a projective quadric, 114
+(exx. 9-11)
+
+Torsion element, 152, 155 (ex. 3)
+Torsion-free F[X]-module, 163, 165
+
+(exx. 2, 3)
+Torsion module (8ee Module)
+Trace mapping, 75 (exx. 8, 9), 83 (ex.
+
+9)
+Translation
+
+in affine geometry, 42, 49 (ex. 9),
+54 (ex. 1), 63, 70 (ex. 11)
+
+group (in A and in V), 59
+in vector space, 42
+
+Transpose
+of linear mapping (8ee Linear
+
+mapping)
+of matrix, 77
+
+Transvection, 70 (ex. 11)
+Triangle, 23
+
+diagonal point, 40
+inequality, 125
+
+Union of sets, 3
+Unique factorization domain, 160,
+
+161 (ex. 4)
+Unit point of a projective frame of
+
+reference, 46
+
+Vector, 5
+eigen (8ee Eigenvector)
+homogeneous, 22ff, 30
+
+Vector space, 5ff
+dimension of, 1 Off
+finite dimensional, 9
+infinite dimensional (8ee Infinite
+
+dimensional vector space)
+
+Wedderburn's Theorem, 39
+
+Zorn's Lemma, 178 (solution of ex. 6
+of § 4.6)

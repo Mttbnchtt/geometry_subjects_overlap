@@ -1,0 +1,737 @@
+INDEX
+0,
+1,
+2,
+3,
+
+8
+7
+7, 151
+8, 88
+
+adjoint, 209–250
+and orders, 221–223
+cocompletion as, 212
+examples of, 217–223
+existence of, 227, 241, 250
+exponential as, 217
+freeness as, 209
+image as, 222
+in a poset, 222
+left/right, 211
+limit as, 218
+open interior as, 221
+polynomial ring as, 220
+preservation of limits, 227
+product as, 211
+quantifiers as, 223
+rules of inference, 224
+adjoint functor, 2
+Adjoint functor theorem, 241
+special, 245
+adjunction, 2, see adjoint
+counit of, 217
+Hom-set definition, 217
+preliminary definition, 210
+unit of, 211
+AFT, see Adjoint functor
+theorem
+algebra, 1, 4, 61
+and logic, 223
+boolean, see boolean algebra
+for a monad, 261
+and endofunctors, 274
+for an endofunctor, 268, 269
+and monads, 274
+heyting, see heyting algebra
+initial, 270, 273
+Lindenbaum-Tarski, 133
+presentation, 68, 69, 255
+arrow, 4
+classifying, 201
+associative law, 5
+
+atom
+in a Boolean algebra, 179
+automorphism, 12
+inner, 167
+
+Beck’s theorem, 276
+bifunctor, 161
+biHeyting
+algebra, 252
+BA, 151
+Boolean algebra, 34, 35, 51, 151, 153
+finite, 179
+boolean algebra, 15, 129
+
+Cantor, 273, 295
+Cat, 9, 24, 34, 147, 149
+cartesian closed, 161
+category, 2, 4
+algebraic, 266
+arrow, 16
+cartesian closed, 11, 122, 122–128, 168
+and lambda calculus, 135
+equational, 134
+cocomplete, 195
+comma, 243
+complete, 194, 244
+concrete, 7, 14, 150
+congruence, 84
+constructions on, 14–17
+coslice, 17, 26
+discrete, 11, 103, 149
+dual, 15
+Eilenberg-Moore, 261
+finite, 7
+finitely presented, 85–87
+free, 18–23, 27, 28
+homomorphism of, 8
+homomorphism theorem, 85
+Kleisli, 265, 279
+large, 24
+locally cartesian closed, 233, 237
+locally small, 25
+monoid, 11
+monoidal, 79, 168, 170
+strict, 79
+
+306
+
+category (cont.)
+of Boolean algebras, 151
+of categories, 9, 147
+of diagrams, 185, 202
+of elements, 196, 238
+of functors, see functor category
+of graphs, 166
+of groups, 80–83
+of indexed sets, 143
+of proofs, 10, 46
+of propositions, 252
+of subobjects, 90
+of types, 43, 136
+opposite, 15
+pointed sets, 17, 175
+poset, 9, 17
+preorder, 9
+product, 15
+quotient, 84
+skeletal, 183
+slice, 16, 177
+and indexed families, 234
+small, 14, 24
+with limits, 104
+with products, 48, 46–48
+category theory, 1–2, 8, 12, 23, 29, 38, 53,
+147
+and adjoints, 209
+history of, 1
+Cayley’s theorem, 13–14, 187
+CCC, see category, cartesian closed
+change of base, 233
+choice
+axiom of, 32, 51
+function, see function, choice
+co-, 55
+coalgebra
+for a comonad, 267
+cocompletion of a category, 229
+cocone, 105
+codomain, 4, 55
+coequalizer, 66, 65–71
+of monoids, 70
+of categories, 148
+of monoids, 73
+of posets, 148
+of sets, 72
+of spaces, 73
+cogenerating set, 245
+coherence theorem
+for monoidal categories, 170
+coHeyting
+algebra, 252
+boundary, 252
+negation, 252
+
+INDEX
+
+cokernel
+of groups, 88
+colimit, 105, 108–114
+creation of, 111
+ω-colimit, 273
+colimits
+of posets, 114
+comonad, 266, 266–267
+and adjoints, 267
+component, 156
+composition, 4
+of functions, 3
+computer science, 2, 10, 36
+concatination, 18
+cone, 101
+as a natural transformation,
+166
+congruence, 83–85, 88
+constant, 36
+C(X), 151
+contravariant, 107
+coproduct, 55, 55–61
+of monoids, 59
+in a CCC, 193
+in a posets, 58
+injection, 55
+of categories, 147
+of groups, 60
+of monoids, 56
+of posets, 58
+of sets, 56, 109
+of spaces, 57
+covariant, 48
+ωCPO, 112, 145
+map of, 113
+strict, 145
+Curry-Howard correspondence, 45,
+142
+
+data type, 10
+deduction, 10, 131
+transcendental, 164
+denotational semantics, 10, 138
+diagram
+as a functor, 185
+commutative, 3
+hyperdoctrine, 253
+of a group, 77
+of type, 101
+product, 39
+pullback, 92
+distributive law, 130
+and adjoints, 228
+domain, 4, 55
+
+INDEX
+
+duality, 15, 53–55, 66, 71, 267
+and equivalence, 178
+conceptual, 54
+formal, 54
+in Sets, 160
+of vector spaces, 159
+principle, 53
+stone, 153–155, 178
+
+Eckmann-Hilton argument, 78,
+88
+element
+generalized, 35–39, 91, 93
+global, 36
+variable, 36
+endofunctor, 249, 257, 268–276
+epi, see epimorphism
+epimorphism, 29, 51, 67
+of monoids, 31
+split, 32
+equalizer, 62, 62–65
+of abelian groups, 65
+of functors, 147
+of monoids, 65
+of posets, 65
+of spaces, 65
+equivalence
+and duality, 178
+class, 65
+of categories, 172, 171–181
+and isomorphism, 172
+relation, 65, 73, 90
+equivalent categories, 172
+evaluation, 121
+exponent, 107
+exponential, 121, 119–140
+in a poset, 129
+of categories, 161, 164
+of diagrams, 199
+of graphs, 125, 165
+of groups, 167
+of posets, 122
+of ωCPOs, 123
+
+Fib, 240
+and presheaves, 240
+fibration, 240
+field, 151
+filter, 35
+maximal, 35
+ultra-, see ultrafilter
+fixed point, 113, 271, 275
+forgetful functor, see functor, forgetful
+
+307
+
+foundations, 23–25
+free, 18
+category, 20
+cocompletion, 198
+monoid, 18, 57, 209
+monad, 264
+free algebra, 245
+Freyd, 241, 245
+Freyd, P., 253
+Fun, 158
+function, 1–3
+bijective, 12
+characteristic, 63, 98, 152, 201
+choice, 33
+continuous, 6
+equality of, 4
+identity, 4
+injective, 5, 29
+monotone, 6
+recursive, 6, 248
+surjective, 29, 50
+functor, 2, 8, 32, 147–149
+adjoint, see adjoint, see adjoint
+cocontinuous, 229
+codiagonal, 148
+comonadic, 267
+comparison for a monad, 266
+composition of, 9
+constant, 166, 194
+continuous, 106
+contravariant, 107
+coproduct, 61
+embedding, 187
+endo-, see endofunctor
+exponential, 126
+factoring, 182
+faithful, 148
+forgetful, 16, 18, 21, 50, 148
+adjoint, 246
+and limits, 111
+full, 148
+identity, 9
+injective, 148
+monadic, 266
+morphism of, 155
+of groups, 83
+of posets, 10
+polynomial, see polynomial functor, see
+polynomial functor
+precomposition, 231
+product, 47
+product preserving, 49
+projection, 15
+representable, see representable functor
+set-valued, 185
+
+308
+
+functor category, 158, 164–168, 185
+cocompleteness of, 195
+completeness of, 194
+of groups, 167
+of posets, 167
+
+Galois connection, 221
+generator, 150
+generators, 21, 68
+for a category, 85, 88
+for a CCC, 139
+insertion of, 18, 157
+graph, 6, 27
+as a functor, 166, 186
+directed, 20
+of a function, 254
+underlying, 21
+Graphs, 166
+graphs
+category of, 125
+Grothendieck, 2
+group, 5, 6, 12, 15, 75–88, 149
+abelian, 60, 72
+abstract, 75
+as a category, 83–85, 87
+factor, 81
+homomorphism theorem, 81
+in a category, 75–80, 87
+in lambda calculus, 80
+normal subgroup, 80
+ordered, 78
+permutation, 12
+representation, 83, 149
+structure, 150, 268
+topological, 78
+Group, 25
+group theory, 1
+groupoid, 168
+groups
+direct limit of, 109
+
+heyting algebra, 129, 129–134
+and adjoints, 223
+Hom-set, 11, 48, 48–50
+homomorphism
+category, 8
+complete, 180
+graph, 21
+group, 13, 77, 149
+monoid, 12
+of algebras, 269
+ring, 35
+
+INDEX
+
+ideal, 17
+adjoint, 233
+identity arrow, 4
+image
+direct, 222
+dual, 222
+inverse, 222
+indexed family, 177
+and adjoints, 233–236
+indexed
+sets, 143
+!
+C P , 196, 238
+interpretation
+of propositional calculus, 134
+invariant, 37
+IPC, see propositional calculus, intuitionistic
+isomorphic, 12
+isomorphism, 12, 12–14, 20, 25, 26, 31
+natural, 158
+junk, 18, 20
+Kan extension, 232
+Kan, Daniel, 209
+kernel
+of a functor, 84
+of a group homomorphism, 82
+Kleene closure, 18
+Kripke model, 240
+of λ-calculus, 144
+Kripke semantics
+for propositional calculus, 140
+λ-calculus, see lambda calculus
+lambda calculus, 10, 43, 80, 135–140, 194,
+240
+and CCC, 139
+completeness theorem, 138
+theory in, 137
+Lambek’s lemma, 271, 277
+large category, see category, large
+lattice, 129
+Lawvere, 2, 223, 253
+Lawvere, F.W., 248
+LCCC, see category, locally cartesian closed
+lifts, 33
+limit, 102
+creation of, 111
+direct, 109
+equalizer as, 103
+product as, 103
+pullback as, 104
+terminal object as, 103
+lim, 109
+−→
+
+INDEX
+
+lim, 102
+←−
+limits, 100
+and monomorphisms, 115
+by products and equalizers, 104
+of cardinality, 105
+of categories, 147
+of diagrams, 194
+preservation of, 105
+preserved by adjoints, 227
+locally small category, see category, locally
+small
+logic, 2, 10, 36, 46, 69, 80, 135, 194, 252
+algebraic, 223
+and adjoints, 223
+and topoi, 203
+categorical, 91
+first-order, 223
+higher-order, 194, 203
+intuitionistic, 131
+linear, 79, 170
+modal, 260, 267
+positive, 133
+Mac Lane, 1, 38, 61
+Mac Lane’s pentagon, 170
+mapping, 6, 8
+property, see universal mapping property
+model
+of propositional calculus, 134
+Mon , 11
+monad, 259, 255–279
+algebra for, 261
+and adjoints, 255, 257, 261
+Eilenberg-Moore category, 261
+on a poset, 260
+powerset, 260
+monadic, 266
+mono, see monomorphism
+monoid, 11, 30, 59, 70, 271
+and monad, 259
+free, 19, 18–20
+monoidal category, see category, monoidal
+monomorphism, 29, 51, 64, 89
+as a limit, 115
+pullback of, 115
+split, 32
+morphism, 5
+of T -algebras, 261
+of cocones, 109
+of cones, 102
+Natural numbers object, 253
+natural numbers object, 248, 246–250, 271,
+276
+
+309
+
+natural transformation, 2, 156, 157–161, 164
+naturality, 155–156
+Newton’s method, 113, 274
+NNO, see natural numbers object
+noise, 18, 20
+nonsense
+abstract, 147
+numbers, 11, 12, 20, 247
+ordinal, 171
+
+object, 4
+generating, see generator
+initial, 33–35
+natural numbers, see natural numbers
+object
+projective, 33, 51
+terminal, 33–36
+objects
+family of, 33
+Ord, 171
+
+Par, 175
+partial map, 175
+Π, 234
+point, 36, 175
+points
+enough, 36
+polynomial functor, 269, 279
+and trees, 272
+generalized, 270
+Pos, 7, 25
+not monadic, 266
+poset, 6, 30, 35, 57, 149
+complete, 130
+fibration of, 240
+preorder, 9, 90, 245
+presheaf, 187
+product, 39, 38–48
+cartesian, 39
+in a poset, 42
+of abelian groups, 60
+of categories, 42, 147
+of functors, 157
+of monoids, 42
+of posets, 42
+of sets, 41
+of topological spaces, 42
+programming language, 10
+projective, see object, projective
+propositional calculus, 131–134, 194
+and adjoints, 223
+completeness theorem, 134
+intuitionistic, 131
+
+310
+
+INDEX
+
+RAPL, 227–233
+recursion, 248, 271, 273
+reindexing, 234
+Rel, 7, 25
+relation, 7, 68
+composition, 7
+identity, 7
+local membership, 91
+relative product, 7
+representable functor, 48, 149, 187
+and colimits, 107
+and limits, 106
+characterization of, 244
+contravariant, 107, 150
+representation, 13, 187
+retract, 32
+retraction, 32, 32–33
+ring, 30
+of functions, 151
+pointed, 220
+polynomial, 220
+
+power, 34, 90, 130, 152, 260, 270
+as an adjoint, 251
+structured, 6, 11, 30, 41, 188
+and functors, 186
+set theory, 23
+Sets∗ , 17, 175
+sets
+cumulative hierarchy, 111
+family of, 99, 177, 233
+Sets, 5, 24, 25
+cartesian closed, 122
+SetsC , 185
+and adjoint functors, 231
+cartesian closed, 201
+cocomplete, 196
+complete, 194
+locally cartesian closed, 239
+slice category of, 238
+topos, 202
+Setsfin , 5, 171, 179
+SetsI , 177
+SetsI , 233
+sieve, 202
+Σ, 234
+simplicial
+nerve, 186, 204
+set, 186, 204
+small category, see category, small
+solution set, 241
+space, see topological space
+Stone duality, see duality, stone
+Stone duality theorem, 155
+Stone representation, 155
+Stone space, 181
+string, 265
+structure, 1, 29, 37, 151, 258
+finitary, 269
+representable, 149–153
+Sub, 90
+subcategory, 147
+full, 148
+subobject, 89, 89–91
+as an extension, 203
+classifier, 201, 205
+for presheaves, 202
+
+SAFT, see Adjoint functor theorem,
+special
+Scott, Dana, 146
+section, 32, 32–33
+semigroup, 11
+set, 3, 11, 14
+function, 120
+pointed, 17, 175
+
+T -algebra, 245
+T -algebra, 255
+for a monad, 261
+test object, 14, 36
+Top, 25
+topological space, 6, 42, 57, 130, 151, 267,
+278
+Alexandroﬀ, 182
+
+propositional function, 98
+in a topos, 203
+pseudo-inverse, 172
+pullback, 91, 91–100
+and characteristic functions, 98
+and extensions, 98
+and reindexing, 99
+by products and equalizers, 94
+functor, 96, 178
+inverse image as, 94
+of sets, 94
+properties of, 95–100
+two, lemma, 95
+pushout, 117
+of sets, 108
+
+quantifiers
+geometric interpretation, 225
+quantifiers as adjoints, 203, 223–227
+quotient, 65, 66
+of sets, 73
+
+INDEX
+
+topological space (cont.)
+interior, 221
+topology
+specialization order, 10, 26
+topos, 202, 201–203, 254
+and logic, 203
+transformation
+natural, see natural transformation
+transpose, 121
+tree, 271, 272
+triangle identities, 256, 255–257
+triple, see monad
+twist, 158
+type theory, 43–45, 135–140, see lambda
+calculus
+dependent, 240
+ultrafilter, 35, 51, 107, 153, 179
+principal, 154
+UMP, see universal mapping property
+unit law, 5
+universal, 19, 119
+subobject, 201
+universal mapping property, 19, 21, 29, 39,
+139
+and adjoints, 210
+of a congruence, 85
+of coequalizers, 66
+
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+
+311
+
+coproducts, 55
+equalizers, 62
+exponentials, 121
+free categories, 23
+free monoids, 19
+function sets, 120
+initial objects, 33
+limits, 102
+natural numbers, 248
+polynomials, 221
+products, 39, 51
+pullbacks, 92
+terminal objects, 33
+Yoneda, 198, 229
+
+vector space, 6, 30, 159
+finite dimensional, 160
+
+well powered, 245
+word, 18, 60
+empty, 18
+
+Yoneda embedding, 187, 187–188, 192
+Yoneda lemma, 188, 193, 238
+Yoneda principle, 193
+
+

@@ -1,0 +1,1835 @@
+
+Index
+
+absolute points
+definition, 133
+
+absolute quadric, 137
+use of, 137
+
+absolute value, 532
+acceleration vector j" (t), 423
+action, 12
+adjoint map, 174, 295
+adjoint of j, 174, 175, 194,296
+adjoint of a matrix, 300
+adjoint representation
+
+of g, 404
+of G, 404
+
+affine
+curvature, 454
+normal,454
+
+affine bijections, 39, 88
+affine combination, 16
+
+defini tion, 18
+of points, 7
+
+affine dependence, 29
+affine dilatation, 38
+affine form, 44
+
+definition, 44
+affine frame, 7, 27, 78
+affine frame with origin aD, definition
+
+first version, 28
+
+second version, 28
+affine geometry, vii, viii, 3, 7
+
+a glimpse , 40
+affine group, 56
+
+definition, 38
+affine Hermitian space, 297
+affine hyperplane, 7, 44
+
+definition, 25
+affine independence, 7, 26
+
+definition, 27
+affine isometry, 217
+
+definition, 217
+affine map, 6, 7, 31, 118, 182
+
+definition, 31
+representation in terms of a matrix ,
+
+36
+affine patch
+
+definition, 113
+affine space, 6, 11
+
+definition, 12
+example
+
+a line, 14
+a paraboloid of revolution, 15
+a plane, 15
+
+affine structure
+canonical, 14
+natural, 14
+
+552 Index
+
+affine subspace, 7
+definition, 20
+fiat , 21
+
+affinely dependent families, 29
+affinely independent families, 27
+algebraic arc length, 425
+algebraic curvature, 437, 461
+algebraic curve, 92
+algebraic geometry, 87, 93, 103, 105,
+
+114
+algebraic plane curves, 105
+algebraic radius of curvature, 438
+algebraic surface, 92, 105
+algebraic variety, 92
+altitude of a point, 136
+angle, 130
+
+of complex lines, 136
+of lines, 132, 133
+of unit vectors, 132
+
+angle of unit vectors
+definition, 233
+
+antipodal map, 255
+antipodal points, 94
+applications
+
+of curves, 452
+of Delaunay triangulations, 283
+of Euclidean geometry, 188, 264
+of Lie groups, 405
+of projective geometry, 137
+of surfaces, 518
+of Voronoi diagrams, 283
+to robotics, 61
+
+arbitrary field, 72
+arc length, 424
+Artin, Emil, 202
+associative algebra, 250
+astroid, 459
+asymptotic directions, 502, 521
+
+definition, 491
+asymptotic line, 510, 511
+
+definition, 510
+axis
+
+of a projectivity, 151
+of rotation, 209, 242
+
+Bezier sites, 76
+barycenter, 3, 7, 16, 72, 77
+
+definition, 18
+
+barycenter of a family of weighted
+points, 18
+
+barycentric combination
+definition, 18
+
+barycentric coordinates, 276
+barycentric coordinates of x w.r.t. an
+
+affine frame
+definition, 28
+
+base points of a pencil, 159
+basis, 8, 78
+
+-->
+of E, 28
+projective, 98
+vector space, 27
+
+basis associated with a projective
+frame, 98
+
+Beltrami, 336
+Beltrami's pseudosphere, 491
+Berger, 71
+Berger and Gostiaux, 415, 466, 467
+Bertrand, 464
+
+curves, 462
+bidual space, 126
+bijection between E and its dual E*,
+
+172
+bijective affine maps, 38
+bijective linear maps, 38
+binormal vector, 441
+birapport, 121
+biregular point, 423
+bisector
+
+hyperplane, 270
+line, 268
+plane, 268, 269
+
+block diagonalization
+of a normal linear map, 316
+of a normal matrix, 325
+of a skew self-adjoint linear map,
+
+320
+of a skew symmetric matrix, 326
+of an orthogonal linear map, 321
+of an orthogonal matrix, 326
+
+boldface notation of vectors, 14
+Bolyai,2
+Bonnet , 483, 503, 523
+Bonnet's formula, 508
+Bonnet 's theorem, 506
+boundary face of a simplex, 275
+boundary of a simplex, 275
+
+
+
+Boy surface, 114
+Brianchon's theorem, 155
+
+Calabi, x , 454, 465, 480
+camera
+
+calibration problem, 139
+extrinsic parameters, 138
+intrinsic parameters , 138
+position and orientation, 138
+projection matrix, 139
+reference frame, 138
+
+camera calibration
+and Cayley's formula, 136
+projective geometry, 137
+
+canonical
+frame of lP'k, 100
+isomorphism, 173
+projection, 91
+
+Caratheodory's theorem, 29, 64
+cardioid, 436, 460, 462
+Cartan,446
+Cartan, Elie, 202
+Cartan-Dieudonne theorem, ix, 197,
+
+198, 212, 228, 246, 294
+affine isometries, 229
+Euclidean case, 202
+sharper version, 323
+
+catenary, 456, 476
+catenoid, 475, 521
+Cauchy-Schwarz inequality, 165, 291
+caustics, 462, 527
+Cayley, 2, 3, 130
+Cayley's formula, 135, 140
+Cayley's representation of rotations,
+
+331
+center, 138
+
+of a circle, 157
+center of curvature, 428, 447
+center of mass, 19
+central dilatation, 7
+
+definition, 38
+central projection, 88, 89
+centroid, 53
+Ceva's theorem, 51
+change
+
+of basis, 10
+of frame, 10
+
+chart, 393
+Chasles, 130, 198, 223
+
+Chasles's identity, 16
+Chevalley, 368
+
+Index 553
+
+Christoffel symbols, 483, 485, 524
+of the first kind, 484
+of the second kind, 484
+
+circle, 87, 135,240
+circle of curvature, 431
+circulant matrix, 303
+circular convolution rule, 304
+circular helix, 448, 460 , 464
+circular points, 104, 132
+
+definition, 133
+circular shift matrix, 303
+cissoid of Diocles, 456
+Clairaut's relation, 524
+classical groups, 310
+classical Lie groups, 376
+closed curve of class CP, 419
+closed half-space
+
+associated with J, 63
+associated with H, 63
+definition, 63
+
+closed subgroup of GL(n, JR), 391
+closed under
+
+affine combinations, 20
+linear combinations, 20
+
+closed unit ball, 95
+clothoids, 461
+cocyclic, 149
+Codazzi, 503
+Codazzi-Mainardi equations, 506
+codimension one, 25
+cofactor , 238
+collinear, 149
+
+points, 25
+collineation, 110
+column vectors, 14
+complete quadrilaterals, 124
+complex, 276
+
+logarithm, 135
+complex Lie group, 383
+complexification
+
+of P(E), 131
+of a linear map, definition, 131
+of a vector space, 311
+of a vector space, definition, 131
+of an inner product, 312
+
+computational geometry, viii , ix, 188,
+267
+
+554 Index
+
+computer graphics, vii, 4, 140, 264,
+364
+
+computer science, vii
+computer vision, vii, 4, 136, 137, 189,
+
+264, 364
+condition number, 217
+conic, 52, 87, 132, 135, 190
+
+nondegenerate, 52
+projective, 152
+
+conjugate
+of a complex number, 249, 287
+of a matrix, 299
+of a quaternion, 250
+of a vector, 131
+vectors, 193, 305
+
+constant affine map, 35
+constrained minimization problems,
+
+359
+constrained optimization problems,
+
+454
+constraint, 359
+control points, 20, 458
+convex
+
+combination, 30
+hull, 30, 270
+polygon, 270
+polyhedron, 270
+set, viii, 30, 62, 270
+
+convex hull, 62
+and Delaunay triangulation, 282
+and Voronoi diagram, 283
+definition, 62
+
+convexity, 7
+convolution f * g, 304
+coordinate curves, 468
+coordinate system, 7
+coordinates in affine space, 28
+coordinates of x w.r.t. an affine frame
+
+definition, 28
+coplanar points, 25
+Cornu spirals, 461
+Courant-Fischer formula, 332
+Coxeter, 1
+cross product, 240
+
+definition, 237
+cross-product, 401
+cross-ratio, 108, 121, 132, 133, 149
+
+definition, 121
+of hyperplanes, 129
+
+cryptography, 140, 141
+curvature, 415, 426, 440, 447
+
+K,430
+definition, 428
+
+curve, 395
+continuously differentiable, 416
+in SO(3), 264
+nowhere differentiable, 416
+of class CP, 418
+
+curves, 7, 415
+CP-equivalent, 420
+global properties, 415
+local properties, 415
+on a surface, 473
+parametrized, 415
+
+curvilinear coordinate systems, 394
+cusp, 435, 455
+
+of the second kind, 455
+of the third kind, 455
+
+cuspidal cubic, 459
+
+Darboux, 161, 446, 467, 481, 505
+frame, 507
+vector, 443, 447
+
+data compression, 348
+de Casteljau's algorithm, 125
+QR-decomposition, ix, 177, 185, 188,
+
+197, 213, 215, 297, 301, 3.56
+QR-decomposition, in terms of
+
+Householder matrices, 213
+definite
+
+Hermitian form, 306
+symmetric bilinear form, 194
+
+degenerate conic, 153
+Delaunay triangulation, viii, ix, 188,
+
+267, 274
+definition, 279
+
+derivative of f at p, 402
+Desargues's theorem, 7, 160, 161
+
+affine version, 43
+dual, 150
+improved affine version, 52
+projective version, 111, 120
+
+determinant of a linear map, 185
+determining orbits of asteroids, 352
+developable
+
+ruled surface, 526
+diagonalization
+
+of a normal linear map, 318
+
+
+
+of a normal matrix, 327
+of a self-adjoint linear map, 318
+of a symmetric matrix, 325
+
+diagonalize a matrix, 188
+Dieudonne, 202, 247
+Differential geometry, viii, 4
+
+of curves, x, 415
+of surfaces, x, 465
+
+dilatation, 71 , 72
+affine, 38
+central, 38, 72
+
+dilatation of center a and ratio A
+definition, 38
+
+dilation, 38
+dimension
+
+of a complex, 277
+of a projective space, 92
+of a projective subspace, 95
+of a simplex, 275
+of a subspace, 24
+of an affine space
+
+definition, 12
+Dirac delta function, 191
+direction, 7
+direction of an affine subspace
+
+definition, 24
+Dirichlet, 270
+Dirichlet- Voronoi diagram, 267
+
+definition, 270
+discrete Fourier transform, 303
+discrete subgroup, 392
+
+definition, 392
+distance, 531
+distance d(a, U), 245
+distance d(U, V), 245
+distance between a and b, 180
+distance between points, 130
+do Carmo, 415, 466
+dual problem, 362
+dual space, 126,530
+duality, 95
+
+and conics, 155
+Delaunay triangulations, Voronoi
+
+diagrams, 283
+in Euclidean spaces, 172
+in projective geometry, 126, 127
+in projective plane, 128
+
+duality between subspaces, 127
+Dupin, 500, 509
+
+Index 555
+
+Dupin indicatrix, 493, 500
+Dupin's theorem, 510
+dynamics, 7, 37
+
+textbook on, 7
+
+edge of regression, 449, 450
+edges, 30
+efficient communication, 140
+eigenvalue, 202, 312, 494
+eigenvector, 312, 494
+eigenvector associated with A, 202
+element of arc length, 473
+element of area, 475
+ellipse, 434, 459
+ellipsoid, 470
+elliptic point, 489, 502
+embedded submanifold, 391
+embedding a real vector space into a
+
+complex vector space, 130
+embedding an affine space into a
+
+vector space, 70, 75
+energy function, 357
+engineering, vii
+Enneper surface, 493, 511, 521 , 522
+envelope of a conic, 155
+equation of a hyperplane, 97
+equation of a projective line, 144
+equation of the asymptotic lines, 511
+equation of the lines of curvature, 507
+equations of the geodesics, 512, 524
+equilibrium equations, 360, 361
+equivalence relation on pairs of lines,
+
+132
+error-correcting codes, 140, 141
+Euclid, 1
+Euclid's fifth postulate, 2
+Euclidean affine space, 163
+
+definition , 179
+Euclidean geometry, viii, ix, 3, 130,
+
+162
+Euclidean norm
+
+induced by an inner product , 167
+Euclidean space, 163, 267, 314, 415
+
+definition, 164
+generalization to, 136
+
+Euclidean space lEn, 156
+Euclidean structure, 163
+Euler, 4, 473, 487
+
+parameters, 262
+
+556 Index
+
+rotation matrix, 259
+Euler's formula, 278, 489
+Euler-Poincare characteristic, 278,
+
+279,517
+evolute, 430, 433
+
+of an ellipse, 430
+exponential map, ix, 261, 309, 367,
+
+513
+exp: 9 ----> G, 399
+for a surface patch, 514
+
+exponential of a matrix, 239
+extrinsic properties, 466, 481
+
+face of a simplex, 275
+fairness, 454, 519
+families
+
+of finite support, 11
+of scalars, 11
+
+family
+of points, 18
+of scalars, 18
+of weighted points, 18
+
+field
+K arbitrary, 11
+IR of real numbers, 11
+characteristic of a, 11
+
+finite field, 141
+finite projective spaces, 141
+finite support, 19, 72, 170
+first fundamental form, 474, 481, 486,
+
+503
+definition, 473
+
+fixed frame, 61
+fixed point, 36, 58
+
+of a projective map, 150
+of an affine map, 219
+of an isometry, 197
+
+flavor, 75
+flip, 229
+
+transformations, 185, 301
+flip about F
+
+definition, 198
+focal length, 138
+focal surfaces, 527
+focus of projection, 138
+force, 7, 11
+formula of Olinde Rodrigues, 499
+Fourier analysis, 165, 172
+Fourier matrix, 301, 303
+
+Fourier series, 169, 191
+Fourier transform, 172
+frame, 7
+
+projective, 98
+frame invariance, 10
+frame invariant properties, 9
+free vector, 8, 10, 11
+
+definition, 12
+Frenet equations, 444, 446
+Frenet frame, 440, 447, 478
+
+definition, 440
+Frenet matrix, 447
+Frenet-Serret frame, 440
+Fresnel integrals, 461
+from polar form to SVD, 341
+from SVD to polar form, 341
+Fulton, 93
+CP-continuous function, 417, 467
+C=-function, 417
+function of class CP, 417
+fundamental theorem of projective
+
+geometry, 110
+
+Gallier, vii, 70
+Gauss, 2, 4, 188, 352, 481
+Gauss formula, 517
+Gauss map, 494, 495
+
+definition, 494
+Gauss's Theor'ema Egregium, 503, 505
+Gauss-Bonnet theorem
+
+global version, 517
+local version, 516
+
+Gaussian curvature, 465, 487, 515,
+522
+
+definition, 488
+general linear group, 383
+generalized Frenet-Serret frame, 451
+genus, 518
+geodesic, 511, 515, 522
+
+definition, 512
+geodesic circle, 515
+geodesic curvature, 478, 483, 485,
+
+503, 512
+definition, 483
+
+geodesic line, 465, 514
+definition, 512
+
+geodesic normal vector
+definition, 479
+
+geodesic polygon, 516
+
+
+
+geodesic torsion, 507
+definition, 507
+
+en-continuity, 453
+geometric continuity, 453, 518
+geometric curve (or arc), 420
+
+of class CP, 420
+geometric modeling, vii
+geometric realization of K, 277
+geometry, 1
+
+in the large, 465
+in the small, 465
+
+Gergonne, 127
+Gershgorin's theorem, 330
+Givens- Householder, 330
+Gram determinant, 244, 302
+Gram- Schmidt
+
+orthonormalization, 185, 296
+orthonormalization procedure, 176
+
+Gramian, 244, 302
+Grassmann, 78
+Grassmann's relation, 46, 96
+Grassmannian variety, 148
+group
+
+of orthogonal transformations, 162
+of orientation preserving rigid
+
+motions, 162
+of rigid motions, 162
+of rotations, 163
+of transformations, 3
+
+group homomorphism, 38
+group of rigid motions 8E(n), 387
+group of rotations 80(3) , 249
+
+Hadamard, 163
+half-sphere S't-, 94
+half-spherical model of projective
+
+geometry, 94
+Hamilton, 249
+
+identities for the quaternions, 250
+quaternions, 250
+
+harmonic conjugates, 124
+harmonic division, 124, 135, 150
+
+more on, 124
+Harris, 93
+hat construction, viii, 70, 74
+hat space E
+
+definition, 74
+helicoid, 475, 521
+Helly's theorem, 29, 67
+
+Hermitian form
+definition , 289
+positive, 290
+positive definite, 290
+
+Index 557
+
+Hermitian geometry, ix, 287
+Hermitian inner product, 169
+Hermitian norm, 293
+Hermitian space, 287
+
+definition, 290
+Hilbert , 416
+Hilbert and Cohn-Vossen, 114, 466 ,
+
+502, 510, 511
+Hilbert curve, 416, 457
+Hilbert space, ix, 173, 295
+Hippocrates, 1
+holes in a surface, 518
+homogeneous coordinates, 99
+
+definition, 99
+homogeneous equation of a conic, 53
+homogeneous polynomial, 102, 131
+homogenization , 70
+homogenization of an affine space
+
+definition, 83
+homogenizing, 88
+homography, 106
+homology of center 0 and of axis .6.,
+
+160
+homology of center 0 and of plane of
+
+homology II, 160
+homomorphism of Lie algebras, 403
+homomorphism of Lie groups, 403
+homothety
+
+definition, 38
+Hopf fibration, 143
+Householder matrices, 186, 197, 329
+
+definition, 200
+hyperbolic functions, 476
+hyperbolic point, 489 , 502, 521
+hyperplane, 63, 71 , 95, 132, 173, 295,
+
+530
+affine, 44 , 71
+
+hyperplane at infinity, 112, 114, 118
+hyperplane model of projective
+
+geometry, 94
+hyperplane symmetry
+
+definition, 198
+hypersurface V(P) , 131
+
+image 1m f of f , 334
+
+558 Index
+
+image center , 138
+image plane, 138
+immersion , 472
+improper
+
+isometry, 185, 301
+orthogonal transformation, 185
+unitary transformation, 301
+
+independence
+affine, 26
+linear, 26
+
+infinitesimal transformations, 367
+inflection point, 455
+injective affine map, 35
+inner product , 3, 163
+
+definition, 164
+Hermitian, 249
+
+interior of a simplex, 275
+interpolant, 262
+intersection
+
+of affine spaces, 7
+of affine subspaces, 46
+of algebraic curves, 88
+
+intrinsic manner, 10
+intrinsic properties, 466, 481
+invariants of a curve, 447
+inverse discrete Fourier transform,
+
+303
+inversion, 158, 190, 196
+inversion of pole a and power k, 156
+involute, 433 , 462 , 528
+involution, 150, 151
+irreducible
+
+curves, 105
+polynomials, 105
+
+isolated point, 392
+isometry, 175
+
+w.r.t. cp, 194
+isomorphism 1/;: (JR3, x) -> 50(3),400
+isomorphism cp: (JR3, x) -+ 5u(2), 401
+isomorphism of Lie algebras, 403
+isomorphism of Lie groups, 403
+isotropic
+
+line, 136, 137
+vector, 173, 246
+
+isotropic line
+definition, 133
+
+Jacobi identity, 399, 404, 407
+Jacobian determinant , 472
+
+joint screw, 405
+Jordan, 336
+
+are, 419
+curve, 420
+
+kernel
+of a Hermitian form, 306
+of a symmetric bilinear form, 194
+of an affine form
+
+definition, 44
+of an affine map, 44
+
+kinematics, 7, 37
+Klein, 2, 130
+Klein quadric, 105, 148, 149
+Knapp, 405
+Krein and Millman's theorem, 63
+
+Lagrange identity, 239, 244, 480
+Lagrange multipliers, ix, 356
+
+definition, 360
+Lagrangian, 360
+Laguerre, 3, 130
+Laguerre's formula, 134, 137
+Laplace formula, 238
+largest empty circle, 284
+least affine subspace containing M
+
+and N, 47
+least squares, ix, 348, 352
+
+method,188
+problems, 187
+recursive, 356
+weighted, 356
+
+least squares solution x+, 354
+left translation La, 403
+left-invariant vector fields , 404
+Legendre, 188, 352
+
+polynomials, 178
+lemniscate of Bernoulli , 419
+length of a curve, 424
+length of a line segment , 162
+Lie algebra, ix, 240, 241, 262, 309,
+
+367, 376, 383, 391
+definition, 399
+
+Lie bracket , 241 , 377, 383, 397, 399
+fA, B] = ad(A)(B), 404
+
+Lie group , viii, ix, 195, 240, 241, 307,
+309, 367, 376, 383, 391
+
+definition , 397
+line, 24
+
+
+
+at infinity, 133
+line conic, 155
+line of curvature, 506, 510, 522
+
+on an ellipsoid, 510
+line of striction, 449, 450, 520, 525
+linear algebra, 3, 5, 7, 88
+linear combination
+
+of points, 13
+problem, 17
+
+of vectors, 7, 9
+linear form, 44, 74, 95 , 530
+linear independence, 7, 26
+linear isometry, 163, 175, 180
+
+definition, 180
+linear Lie group, 391
+
+definition, 397
+linear map, 6, 31
+
+associated with an affine map, 34
+linear systems of hyperplanes, 127
+linearization of an affine space
+
+definition, 83
+Lobachevski , 2
+local chart , 393
+local coordinates of p, 393
+logarithmic spiral, 435, 457, 460
+Lorentz group, 195
+
+Mobius, 144
+net, 101
+tetrahedra, 144
+
+magnification, 33, 38
+Mainardi, 503
+manifold, 255, 368, 415, 465, 515
+Marsden and Ratiu, 405
+matrix, 36
+
+adjoint , 326
+analysis, 188
+bidiagonal, 348
+block diagonal, 316
+conjugate, 326
+Hermitian, 304, 327
+normal, 327
+normal forms, 310
+of a bilinear form, 192
+of a sesquilinear form, 304
+orthogonal, 324
+skew Hermitian, 327
+skew symmetric, 324
+symmetric, 316, 324
+
+tridiagonal , 328, 348
+unitary, 327
+
+Index 559
+
+upper triangular, 186, 191 , 372
+weakly orthogonal, 342
+
+matrix group, 309, 391
+mean curvature, 465, 487, 523
+
+definition, 488
+measure
+
+of an angle, 132, 234
+definition, 234
+
+of the angle of two lines, 133
+Menelaus's theorem, 51
+mesh, 267
+metric, 531, 534
+metric map, 180
+metric notions, 162
+metric space, 531
+
+definition , 531
+Meusnier's theorem, 482
+Milnor, 392
+minimal surfaces, 493, 522
+minimization of a quadratic function ,
+
+356
+minimizing IIAx - b11 2 , 353
+minimum spanning tree, 284
+Minkowski inequality, 165, 291
+Minkowski sum, 69
+mixed product, 236, 239
+
+definition , 236
+modified Gram-Schmidt method,
+
+187, 191
+Monge, 130
+monkey saddle, 490
+motion, 7
+
+interpolation, 380, 405
+planning, vii , 4, 188 , 264, 284, 405
+
+moving frame, 61
+mutually skew lines, 149
+
+natural affine space, 24
+nearest neighbors problems, 283
+nondegenerate
+
+conic, 153
+Hermitian form, 306
+symmetric bilinear form, 173, 194,
+
+246
+non-Euclidean geometries, 137
+non isotropic vector, 246
+nontrivial vector space, 5
+
+560 Index
+
+norm, 164, 165, 167, 178, 293
+definition, 532
+
+normal curvature, 478
+definition, 479, 481
+
+normal equations, 189, 353
+definition, 353
+
+normal line, 426, 470
+normal linear map, 175, 310, 314, 318
+
+definition, 310
+normal neighborhood, 514
+normal plane, 439
+normal section, 482
+normal subgroup, 56
+normal vector, 426
+normed affine space, 534
+
+definition, 534
+normed vector space, 293, 531
+
+definition, 533
+north pole, 142
+null linear map, 35
+null set of an affine map, 44
+
+open curve of class CP, 418
+optical axis, 138
+optimal control, 406
+optimization problems, 352
+orientation, 231
+
+of E , 232
+orientation of a Euclidean affine space
+
+E , 232
+orientation of a Euclidean space, 231
+orientation of the plane, 132
+origin, 6, 8, 12
+orthocenter, 136
+orthogonal, 355
+
+basis, 185
+circles, 190
+complement, 168, 313
+family, 168
+line segments, 180
+linear map, 310, 321
+lines, 135
+reflection, 198
+spaces, 179
+symmetry, 198
+symmetry about F, 222
+transformation
+
+definition, 180
+vectors, 168, 294
+
+orthogonal group, 183, 197, 376
+definition, 185
+
+orthogonal matrix , 185
+definition, 184
+
+orthogonal of V, 127
+orthogonal versus orthonormal, 185
+orthogonality, 130, 162, 168
+
+and linear independence, 170
+orthonormal
+
+basis, 183, 296
+family, 168
+
+orthonormal basis
+existence, 176
+existence, second proof, 176
+
+osculating circle, 430, 435, 458
+definition, 430
+
+osculating plane, 420, 423
+definition, 423
+
+osculating sphere, 449
+definition, 449
+
+overdetermined linear system, 352
+
+pairing between E and E*, 127
+Pappus's theorem, 7, 151, 161
+
+affine version, 42
+dual, 151
+improved affine version, 52
+projective version, Ill, 118
+
+parabolic point, 490, 502
+paraboloid of revolution, 281
+parallel subspaces, 25
+parallel surface, 522
+parallelepiped, 30
+parallelism, 6, 7
+parallelogram, 30, 32
+parallelotope, 30, 236, 243
+parametric continuity, 452, 518
+parametric rational curve, 89
+parametrization of M at p
+
+centered at p , 393
+definition, 393
+
+partial map, 106
+partial sums, 171
+particle, 7
+
+moving in 3D space, 7
+Pascal's theorem, 53, 154
+Pauli spin matrices, 262, 401, 408
+Peano, 416
+pencil
+
+
+
+of circles, 104, 158, 190
+of conics, 104
+of hyperplanes, 98
+of lines, 97, 128, 151
+of planes, 128
+
+pencil of hyperplanes
+definition, 128
+
+pencil of lines
+definition , 98
+
+periodic, 419
+perpendicular
+
+line segments, 180
+vectors, 168
+
+perspectivities between lines, 110
+perspectivity, 151
+
+definition, 107
+Peterson, 503
+physical forces , 7
+physics, 7
+
+inspired by, 9
+pinhole model of a camera, 138
+pixel coordinates, 138
+Plucker coordinates, 147, 149
+planar point, 490, 502
+plane, 24
+plane curves, 426
+point , 7, 11-13, 75
+
+projective, 92
+point conic, 155
+point location problem, 284
+points, 6
+
+A-heavy, 75
+affinely dependent, 29
+affinely independent, 27
+assigned the weights Ai, 18
+collinear, 25
+coplanar, 25
+in general position, 271
+
+points are not vectors , 30
+points at infinity, 88, 94, 112, 114
+polar axis, 439, 440, 447, 449
+polar coordinates, 460, 514
+polar decomposition, 188, 336,344
+
+of A , 339
+polar form, ix, 333, 337
+
+definition, 339
+of a quadratic form, 165
+
+polar line, 101
+polygon
+
+definition , 277
+polyhedron
+
+Index 561
+
+definition, 277
+polynomial curve, 89, 458
+polytope
+
+definition, 277
+Poncelet, 3, 127, 130, 160
+
+points, 159
+position, 7
+
+vector, 8
+positive
+
+Hermitian matrix, 386
+symmetric matrix , 380
+
+positive definite
+bilinear form, 164
+Hermitian matrix, 386
+symmetric matrix, 357, 380
+
+positive definite self-adjoint linear
+map, 334
+
+positive self-adjoint linear map, 334
+positive semidefinite, 380
+post office problem, 269
+potential energy, 363
+power of P w.r.t. C, 195
+pre-Hilbert space, 290
+preservation of the ratio of volumes,
+
+40
+primal problem, 362
+principal axes, 348
+principal curvatures, 465, 487, 497,
+
+527
+definition, 488
+
+principal directions, 497
+definition, 488
+
+principal normal, 439, 462, 478
+line, 439
+
+principal normal vector, 441
+principal point , 138
+problem of Apollonius, 190
+projection
+
+central,89
+conic,89
+linear, 198
+perspective, 89
+
+projection of center c
+definition , 107
+
+projective
+hyperplane, 96
+line, 93, 96
+
+562 Index
+
+plane , 93 , 96
+point, 93, 96
+
+projective (linear) group, 106
+projective completion, 90
+
+definition, 114
+of an affine space, 70, 111
+
+projective frame
+definition, 98
+
+projective geometry, viii , 2, 3, 87
+projective isomorphism, 106
+projective map, 88, 118
+
+definition, 106
+projective space, 91
+
+definition, 91
+of circles, 101
+of conics, 104
+
+projective subspace
+definition, 95
+
+projective transformation, 106
+projectively independent points, 96
+projectivity, 106
+proper
+
+face of a simplex, 275
+isometry, 185
+orthogonal transformations, 185
+unitary transformations, 301
+
+pseudo-inverse, ix, 189, 348
+definition, 355
+Penrose properties, 355
+
+pseudosphere, 491, 521
+pure quaternions, 249
+Pythagoras, 1
+
+quadrangles, 124
+quadratic constrained minimization
+
+problem, 360
+quadratic form, 289
+
+associated with cp , 164
+quadric, 87, 132
+
+surface, 146
+quaternion interpolation, 262
+quaternions, 248
+
+and SO(3), 253
+and SO(4), 260
+definition, 249
+inner product , 252
+multiplication of, 250
+pure part, 251
+scalar part, 251
+
+quotient topology, 95
+
+radical axis, 196
+of two circles, 158
+
+radius of a circle, 157
+radius of curvature, 428, 430, 440
+radius of torsion, 443, 447
+Radon 's theorem, 29, 66
+Ramshaw, 75
+rank
+
+of a sesquilinear form, 305
+of a bilinear form, 192
+of a linear map, 334
+
+ratio, 162
+of three points
+
+definition, 37
+preservation by affine maps, 121
+
+rational curves, 89, 140
+rational surfaces, 89, 140
+Rayleigh quotient , 332
+real affine space of dimension n, 14
+real basis, 131
+real conic , 133
+real eigenvalues, 175, 188
+real Euclidean plane, 132
+real hypersurface, 131
+real points, 131
+real projective space lRp3, 249
+rectifiable, 424, 425
+rectifying plane, 442
+
+definition , 441
+reduced norm, 250
+reduced trace of a quaternion , 250
+reflection, 162, 243
+
+about a plane, 226
+with respect to F and parallel to
+
+G,198
+reflection about F
+
+definition, 198
+regular
+
+closed curve of class CP, 419
+curve of class CP , 418
+open curve of class CP , 418
+point on a curve, 418
+point on a surface, 469
+surface on n, 469
+
+regular point, 421
+Riemann, 2
+Riemannian manifold, 466, 475
+
+
+
+Riemannian metric, 474, 487
+right translation Ra, 403
+rigid body, 264
+rigid map, 217
+rigid motion, 3, 7, 37, 162, 180, 264,
+
+387, 410, 438
+definition, 218
+
+robotics, xii, 405
+Rodrigues, 250, 499
+
+formula, 242, 259, 379, 400
+rotation, 33, 162, 226, 233, 248
+
+angle, 255
+axis, 255
+definition, 185
+in terms of flips, 212
+matrix, 370, 376
+
+row vectors, 14
+ruled surface, 525, 526
+rulings, 525
+
+saddle point, 363
+Samuel, 103, 110
+scalar product
+
+definition, 164
+Schmidt, 336
+Schur's lemma, 373
+screw motion, 226
+screw system, 405
+second fundamental form, 481, 494,
+
+503
+and the shape operator, 499
+definition, 481
+
+Segre embedding, 146
+self-adjoint linear map, 310, 318, 320
+
+definition, 175
+self-intersection, 420
+semidirect product, 56, 398
+semidirect product of Hand K
+
+relative to B, 57
+semilinear map, 288
+seminorm, 293
+sending objects to infinity, 118
+sesquilinear form
+
+definition, 288
+(n, s)-set, 141
+set of lines through the origin, 92
+shape operator, 499
+
+definition, 494
+shear, 32, 33
+
+Index 563
+
+short exact sequence, 46
+signature of a sesquilinear form, 306
+signature of a bilinear form, 194
+similarity, 137
+similarity structure, 137
+
+definition, 135
+simple arc, 419
+simple closed curve, 420
+simple polygon, 278
+simplex, 244, 275
+
+n-simplex, 30
+definition, 275
+open, 275
+
+n-simplex, 275, 277
+simplicial complex
+
+definition, 276
+singular value decomposition, 188,
+
+333, 336, 339, 341
+case of a rectangular matrix, 346
+definition, 341
+
+singular values of J, 334
+skew self-adjoint linear map, 310
+skew symmetric matrices, 376
+slope of a line, 134
+smallest affine subspace generated by
+
+5,25
+smooth curve, 395
+smooth curve on a manifold, 395
+smooth diffeomorphism, 402
+smooth manifold, 392
+
+in jRN, definition, 393
+smooth map between manifolds, 402
+smooth surface, 395
+south pole, 142
+space curves, 439
+spanning tree, 281
+special affine group, 40, 57
+special Euclidean group, 58
+special linear group, 57, 185, 376, 383
+special orthogonal group, 58, 376
+
+definition, 185
+special unitary group, 383
+
+definition, 301
+spectral theorems, ix, 309
+speed, 425
+
+unit, 426
+sphere, 94
+3-sphere 53, 249
+n-sphere 5 n , 94
+
+564 Index
+
+spherical model
+of projective geometry, 94
+
+spherical model of projective
+geometry, 88
+
+spline surfaces, 518
+splines, 452
+B-splines, 452
+square-filling curve, 416
+standard frame in ]R3, 8
+star-shaped, 69, 514
+
+with respect to a, 69
+stationary point, 417, 418
+Steiner characterization of a conic,
+
+153
+Steiner's theorem, 159
+stereographic projection, 142, 158,
+
+393
+stiffness matrix, 361
+Strang, 5, 238
+subdivision, 424
+subspace
+
+affine, 118
+of a vector space, 20
+of an affine space, 20
+projective, 118
+
+subspace topology, 392
+surface, 395, 465
+surface gallery, 114
+surface of revolution, 520, 523, 524
+surface patch
+
+definition, 469
+surfaces, 7,465
+
+global properties, 465
+local properties, 465
+
+surjective affine map, 35
+surjectivity of exp:se(n) --+ SEen),
+
+388
+surjectivity of exp:so(n) --+ SO(n),
+
+378
+surjectivity of exp: su( n) --+ SU (n),
+
+384
+surjectivity of exp: u(n) --+ U(n), 384
+SVD, ix, 188, 339, 341
+SVD methods in computer vision, 139
+Sylvester, 336
+Sylvester's inertia theorem, 193, 305
+symmetric bilinear form, 164
+symmetric matrix, 175, 188
+symmetry
+
+with respect to F and parallel to
+G,198
+
+with respect to the origin, 199
+
+tangent, 421
+tangent line to a conic, 154
+tangent line, definition, 421
+tangent map of f at p, 402
+tangent plane
+
+definition, 469
+tangent space, 367, 391, 469
+tangent space TpM at p
+
+definition, 397
+tangent vector to M at p, 397
+tangent vector to a curve, 396
+tangential coordinates, 50
+tetrahedron, 30, 48, 161
+Thales, 1
+Thales' theorem, 7, 40
+Thiessen polygons, 270
+topological group, 376, 383, 392
+topological invariants, 279
+topological space, 95
+topology of the geometric realization,
+
+277
+torsion, 415, 442, 447
+
+definition, 443
+torus, 490
+total curvature
+
+definition, 488
+trace, 209, 374
+
+of a curve, 418, 419
+of a matrix, 243
+of a surface, 469
+
+tractrix, 456, 491
+trajectories, 7
+translation, 7, 11, 12, 33, 39, 71, 72
+
+definition, 35
+translation part of an affine map, 36
+transpose of a matrix, 183, 299, 324,
+
+326
+triangle, 30
+triangle inequality, 167, 532, 533
+triangulation, 277
+
+definition, 277
+triply orthogonal system, 510
+
+definition, 509
+trivial vector space, 5
+true circle, 157
+
+
+
+tube, 520
+twisted cubic, 49 , 441, 444, 450, 528
+
+umbilic, 490, 528
+umbilical point, 490, 502
+umbilics on an ellipsoid, 490, 522
+unique global minimum, 357
+unit circle, 248
+unit normal vector
+
+definition, 470
+unit quaternions, 253
+unit tangent (vector), 425
+unitary
+
+group, 299, 383
+map, 318
+matrix, 299
+
+unitary group
+definition, 301
+
+unitary matrix
+definition, 301
+
+unitary space
+definition, 290
+
+unitary transformation, 298
+definition, 298
+
+universal property
+of the homogenization, 83
+of the projective completion, 114
+
+up to a scalar, 88
+using curves to determine a Lie
+
+algebra, 399
+
+Vandermonde determinant, 49
+variance, 364
+variational problem, 359
+variety, 102
+
+Index 565
+
+Veblen and Young, 1, 88, 137
+vector, 7, 13, 75
+
+free, 8,10-12
+vector space, 6, 74
+
+acting on a set, 11
+associated with E, 13
+obtained by taking a as the origin,
+
+13
+velocity vector !'(t), 423
+Veronese map, 143
+vertex, 277
+
+of a simplex, 275
+view plane, 140
+viewing system, 140
+volume form
+
+definition, 236
+Von Neumann and Cartan, 391
+
+theorem, 397
+von Staudt, 130
+Voronoi, 270
+Voronoi diagram, viii, ix, 188, 267,
+
+270
+Voronoi region, 270
+
+Warner, 405
+weighed point
+
+definition, 18
+weight, 75
+weighted point , 76
+Weingarten equations, 497
+Weingarten operator, 499
+Weyl, xiii, 336
+world reference frame, 138
+
+zero locus, 92, 102

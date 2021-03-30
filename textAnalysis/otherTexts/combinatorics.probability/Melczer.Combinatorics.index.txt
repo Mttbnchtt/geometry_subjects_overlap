@@ -1,0 +1,591 @@
+
+Author Index
+
+A
+
+Aı̆zenberg, I. A. 97
+Abdelaziz, Youssef 111
+Adamczewski, Boris 105, 109
+Ambainis, Andris 376
+Andrews, George E. 83
+André, Désiré 26
+André, Yves 69
+Aparicio Monforte, Ainhoa 114
+Apéry, Roger 10, 128, 129
+Arnol’d, Vladimir Igorevich 381
+Arnold, Andrew 163
+Askey, Richard 83, 134
+Atiyah, Michael Francis 379, 381
+Avendaño, Martín 120
+
+B
+
+Bürgisser, Peter 133, 134
+Böhm, Walter 143
+Bach, Eric 376
+Baldoni, Welleda 134
+Banderier, Cyril 55, 56, 149,
+
+152, 173
+Barcucci, Elena 37
+Baryshnikov, Yuliy 14, 134,
+
+228, 229, 243, 278, 279, 309,
+323, 347, 373–375, 377–379,
+381–383
+
+Basu, Saugata 279
+
+Batyrev, Victor 132
+Bayer, David 285
+Becker, Thomas 286, 374
+Bell, Jason P. 105, 109
+Bender, Edward A. 13, 230, 244
+Bergeron, François 24, 75
+Bergman, George M. 116
+Bernardi, Olivier 143, 175
+Bernoulli, Daniel 10, 37
+Berstel, Jean 36, 39
+Bertozzi, Andrea 13, 308
+Birkho!, George D. 65
+Blumenthal, Otto 6
+Borcea, Julius 243, 378, 383
+Bostan, Alin 7, 8, 34,
+
+60, 61, 69, 104, 106, 111,
+128, 129, 135, 145, 152, 157,
+160, 161, 163, 164,
+173–175, 253, 401, 402
+
+Bott, Raoul Harry 379, 381
+Bottazzini, Umberto 96
+Boukraa, Salah 111, 129, 135
+Bousquet-Mélou, Mireille 35,
+
+37, 53, 55, 61, 110, 143,
+145, 152, 153, 155, 157,
+160, 161, 164,
+173–175, 401, 402
+
+Brändén, Petter 243, 378, 383
+Brady, Wil 377
+Bressler, Andrew 376, 377
+
+413© Springer Nature Switzerland AG 2021
+S. Melczer, Algorithmic and Symbolic Combinatorics, Texts & Monographs
+in Symbolic Computation, https://doi.org/10.1007/978-3-030-67080-1
+
+414 AUTHOR INDEX
+
+Brewbaker, Chad 221
+Brown, William G. 172
+Buchberger, Bruno 282
+Buescu, Jorge 5, 75
+Bugeaud, Yann 293
+Bürgisser, Peter 212
+
+C
+
+Cai, Long 221
+Campagnolo, Manuel L. 5, 75
+Carrell, Sean 62
+Cauchy, Augustin-Louis 23, 298
+Chabaud, Cyril 53, 54
+Chapuy, Guillaume 62
+Chen, Shaoshi 64
+Chomsky, Noam 55
+Christol, Gilles 105, 111, 129, 135
+Chudnovsky, David V. 60, 69, 70
+Chudnovsky, Gregory V. 60, 69, 70
+Chung, Fan 13, 173, 234
+Chyzak, Frédéric 7, 8, 34, 60, 64,
+
+174
+Clausen, Michael 212
+Conway, Andrew R. 62
+Conway, John H. 35
+Cori, Robert 173
+Courtiel, Julien 402
+Cox, David A. 132, 236,
+
+238, 240, 281
+
+D
+
+Darboux, Jean Gaston 31
+de Andrade, Rodrigo Ferraz 222,
+
+242
+de Bruijn, N. G. 13, 31, 143, 194
+de Moivre, Abraham 23, 33, 143
+de Wol!, Timo 120
+del Lungo, Alberto 37
+Delest, Maylis 55
+Deligne, Pierre 105
+Denef, Jan 76, 110
+Denise, Alain 173
+Denisov, Denis 163, 164, 175
+DeVries, Timothy 14, 53, 376
+
+Diaconis, Persi 13, 234
+Dreyfus, Thomas 175
+Drmota, Michael 13, 55, 56
+Du"n, Richard J. 75
+Dujella, Andrej 293
+Dummit, David S. 21
+Dumont, Louis 104, 173
+Duraj, Jetlir 171, 175
+Durrett, Rick 232
+Dynkin, Evgenii B. 175
+
+E
+
+Ebeling, Wolfgang 212
+Egorychev, Georgy P. 13
+Eisenbud, David 269
+Euler, Leonhard 23, 37
+Everest, Graham 34, 39
+
+F
+
+Fabry, Eugéne 64
+Fang, Wenjie 293
+Fasenmyer, Mary Celine 63
+Faugère, Jean-Charles 283, 285
+Fayolle, Guy 143, 153, 172, 173
+Feierl, Thomas 175
+Ferraro, Giovanni 24
+Fischler, Stéphane 70
+Flajolet, Philippe 5, 13,
+
+24, 30–32, 35, 40, 47, 48, 51,
+55, 67–69, 110, 143, 149, 152,
+173, 194, 235, 244
+
+Flatto, Leopold 172
+Foote, Richard M. 21
+Forsberg, Mikael 118
+Forsgård, Jens 120
+Françon, Jean 143
+Frobenius, Ferdinand G. 66
+Frosini, Andrea 37
+Fuchs, Lazarus 66
+Fulton, William 133
+Furstenberg, Harry 103, 105, 109
+
+G
+
+Gao, Jason 13
+
+
+
+AUTHOR INDEX 415
+
+Garbit, Rodolphe 175
+Gardy, Daniéle 173
+Garoufalidis, Stavros 69
+Garrabrant, Scott 62, 129, 130
+Gasper, George 134
+Gel’fand, I. M. 116, 240
+Gerhard, Jürgen 34, 45, 300
+Gerhold, Stefan 69
+Geronimo, Je!rey S. 382
+Gessel, Ira M. 53, 62,
+
+152, 173, 175
+Gianni, Patrizia 285, 286
+Gillis, Joseph E. 378
+Giusti, Marc 34, 60, 290
+Goresky, Mark 371, 372
+Gosper, Jr., R. William 63
+Gourdon, Xavier 38
+Gouyou-Beauchamps, Dominique
+
+173, 404
+Graça, Daniel S. 5, 75
+Grabiner, David J. 175
+Graham, Ron 13, 173, 234
+Gray, Jeremy 66, 96
+Greenwood, Torin 135
+Gri"ths, Phillip 201
+Grigor’ev, D. Yu. 270
+Grossman, Howard D. 143
+Gusein-Zade, Sabir M. 381
+Guttmann, Anthony J. 62
+Gȧrding, Lars 379, 381
+
+H
+
+Hadamard, Jacques 32
+Hahn, Susan Ann 172
+Hardouin, Charlotte 75, 175
+Hardy, G. H. 23
+Harris, Joseph 133, 201
+Harris, Jr., William A. 61
+Hartogs, Fritz 96
+Hassani, Saoud 111, 129, 135
+Hautus, Matheus L. J. 103
+Henrici, Peter 22, 24, 76
+Hille, Einar 43
+Ho#ten, Serkan 221
+Holden, Nina 143
+
+Horn, Roger A. 233
+Humphreys, Katherine 143
+Huènh, Dũng T. 285
+Hwang, Hsien-Kuei 13, 235
+Hörmander, Lars 94, 97, 99, 210,
+
+212, 269, 351, 372
+
+I
+
+Iasnogorodski, Roudolf 143,
+153, 172, 173
+
+Ikenmeyer, Christian 133, 134
+Irvine, Veronika 143
+
+J
+
+Jaroschek, Maximilian 2, 58
+Jehanne, Arnaud 173
+Johansson, Fredrik 2, 58
+Johnson, Charles R. 233
+Jouanolou, Jean-Pierre 240
+Jungen, Reinwald 31, 67
+
+K
+
+Kac, Mark 174
+Kapranov, Mikhail M. 116, 240
+Katz, Nicholas M. 69
+Katz, Sheldon 132
+Kauers, Manuel 2, 7, 8, 58, 61, 64,
+
+114, 160, 174, 175, 253, 401
+Kedlaya, Kiran S. 291
+Kenison, George 39
+Khera, Jessica 222
+Kingman, John F. C. 172
+Klarner, David A. 103
+Knuth, Donald E. 143, 172
+Kobel, Alexander 301
+Kogan, Roman 120
+Kogan, Yaakov 13, 308
+Kontsevich, Maxim 131
+Koutschan, Christoph 37, 38,
+
+64, 106, 111, 174
+Krantz, Steven G. 94
+Krattenthaler, Christian 143
+Kreuzer, Maximilian 132
+
+416 AUTHOR INDEX
+
+Kreweras, Germain 53, 173
+Krick, Teresa 287
+Kurkova, Irina 174
+
+L
+
+Labelle, Gilbert 24
+La!orgue, Thomas 13
+Lairez, Pierre 106, 112,
+
+123, 128, 132, 156, 383
+Landsberg, J. M. 133
+Laplace, Pierre-Simon 23
+Lazard, Daniel 284, 285
+Lebreton, Romain 34, 60
+Lecerf, Grégoire 34, 60, 290
+Lech, Christer 39
+Lenstra, Arjen K. 357
+Lenz, Wilhelm 135
+Leroux, Pierre 24
+Letsou, William 221
+Lichtin, Ben 13
+Lipshitz, Leonard 75, 76,
+
+105, 106, 110
+Lipton, Richard 39
+Little, John 236, 238, 240, 281
+Luksch, Peter 173
+Lundberg, Erik 222, 242
+
+M
+
+MacPherson, Robert 371, 372
+Magyar, Peter 175
+Mahler, Kurt 39
+Maillard, Jean-Marie 111, 129,
+
+135
+Maillet, Edmond 76
+Malyshev, Vadim 143, 153,
+
+172, 173
+Manivel, Laurent 133
+Mather, John 372
+Matusevich, Laura Felicia 120
+McKean, Jr., Henry P. 172
+McKenna, James 13, 308
+Mehlhop, Nathan 120
+Mehlhorn, Kurt 301
+Meinrenken, Eckhard 133
+
+Melczer, Stephen 9, 14,
+61, 134, 143, 145, 152, 157,
+160, 164, 165, 173–175, 222,
+229, 235, 243, 247, 264, 265,
+273, 278, 279, 290, 291, 309,
+323, 347, 373–375, 378, 379,
+381–383, 387, 402
+
+Mezzarobba, Marc 70, 72, 380
+Mignotte, Maurice 39, 296
+Mikhalkin, Grigory 119
+Milnor, John 371
+Mishna, Marni 9, 134,
+
+155, 160, 161, 165, 174, 175,
+247, 401, 402
+
+Mohanty, Sri Gopal 143
+Monagan, Michael 163
+Mora, Teo 281, 285, 286
+Morrison, David R. 132
+Morrison, John 173
+Mostowski, Tadeusz 372
+Mulmuley, Ketan D. 133
+Mumford, David 238, 358, 372
+
+N
+
+Nagle, Brendan 222, 242
+Narayana, T. V. 143
+Nayak, Ashwin 376
+Newton, Isaac 41
+Nisse, Mounir 120
+Noonan, John 62
+Noy, Marc 3
+
+O
+
+O’Shea, Donal 236, 238, 240, 281
+Odlyzko, Andrew 31, 47, 48,
+
+67, 173
+Orlik, Peter 310, 341
+Ouaknine, Joël 39, 40
+
+P
+
+Pak, Igor 3, 62, 75, 129, 130
+Panova, Greta 133, 134
+Pantone, Jay 243, 302, 382
+
+
+
+AUTHOR INDEX 417
+
+Pardo, Luis Miguel 287
+Passare, Mikael 118
+Pech, Lucien 7, 8, 174
+Pejkovi$, Tomislav 293
+Pemantle, Robin 13, 14, 115,
+
+134, 136, 210, 211, 228, 229,
+235, 243, 266, 278, 279, 309,
+323, 347, 365–367, 373–379,
+381–383
+
+Petkov%ek, Marko 64,
+152, 173, 174
+
+Petrovskiı̆, Ivan Georgievich 379
+Plaisted, David A. 119
+Pollack, Richard 279
+Popken, Jan 76
+Prellberg, Thomas 173
+Prodinger, Helmut 173
+Puiseux, Victor 41
+Purbhoo, Kevin 120
+Pólya, George 61, 103
+
+R
+
+Raichev, Alexander 14
+Ramanujan, Srinivasa 23
+Ramgoolam, Sanjaye 244
+Rannou, E. 372
+Raschel, Kilian 69, 161,
+
+163, 164, 173–175, 402
+Rechnitzer, Andrew 110, 165,
+
+173, 174
+Renegar, James 270
+Reutenauer, Christophe 75
+Reznick, Bruce 378
+Rice, Stephen O. 143
+Richard, Jean 173
+Richmond, L. Bruce 13, 230, 244
+Rinaldi, Simone 37
+Rivoal, Tanguy 70
+Rogers, D. G. 176
+Rojas, J. Maurice 120
+Roques, Julien 175
+Rosas, Mercedes 134
+Rouillier, Fabrice 289
+Roy, Marie-Françoise 279
+Roy, Ranjan 83
+
+Rozenberg, Grzegorz 55
+Rubel, Lee A. 74, 75
+Rudin, Walter 76
+Ruskey, Frank 143
+
+S
+
+Safey El Din, Mohab 290, 291
+Safonov, Konstantin V. 110
+Sagralo!, Michael 301
+Salomaa, Arto K. 55
+Salvy, Bruno 2, 5, 14, 34, 38,
+
+40, 42, 60, 62, 69, 70, 104,
+106, 128, 161,
+163, 164, 173, 174,
+264, 265, 273, 290, 291, 293
+
+Schappacher, Norbert 355
+Schmid, Joachim 287
+Schost, Éric 34, 60, 288, 290, 291
+Schützenberger, Marcel-Paul 55
+Scott, Alexander D. 134
+Sedgewick, Robert 24, 30–32,
+
+35, 51, 68, 110, 194, 235, 244
+Shannon, Claude E. 75
+Shapiro, Lou 176
+Shokrollahi, M. Amin 212
+Shorey, Tarlok N. 39
+Shparlinski, Igor 34, 39
+Sibuya, Yasutaka 61
+Siegel, Carl L. 69
+Singer, Michael F. 61, 75, 175
+Singh, Parmanand 34
+Sjamaar, Reyer 133
+Skolem, Thoralf 39
+Slavnov, Nikita A. 173
+Soittola, Matti 37
+Sokal, Alan D. 134
+Sombra, Martín 287
+Soria, Michéle 13
+Spitzer, Frank 175
+Stanley, Richard 3, 4, 22,
+
+26, 35, 45, 55, 61, 62, 104
+Stillman, Michael 285
+Straub, Armin 134, 243,
+
+278, 279, 378
+Sullivant, Seth 221
+
+418 AUTHOR INDEX
+
+Sun, Xin 143
+Sundaram, Sheila 134
+Szeg&, Gábor 134
+
+T
+
+Tate, Tatsuya 175
+Terao, Hiroaki 310, 341
+Theobald, Thorsten 120
+Tijdeman, Robert 39
+Timme, Sascha 120
+Titchmarsh, Edward Charles 32
+Trjitzinsky, W. J. 65
+Tsikh, August 118
+Tutte, William T. 75, 172
+
+U
+
+Umans, Christopher 291
+
+V
+
+van der Hoeven, Joris 14, 70,
+74, 376
+
+van der Poorten, Alfred 34, 39,
+63, 105, 128
+
+van der Put, Marius 75
+van Hoeij, Mark 7, 8, 174
+van Rensburg, E. J. Janse 143, 173
+Var'enko, A. N. 381
+Vassiliev, V. A. 372
+Vereshchagin, Nikolai 39
+Vergne, Michèle 134
+Vishwanath, Ashvin 376
+Vivanti, Giulio 32
+von zur Gathen, Joachim 34, 45,
+
+300
+Vorobjov, Jr., N. N. 270
+Vuillemin, Jean E. 143
+
+W
+
+Wachtel, Vitali 163, 164, 175
+Walker, Robert J. 41, 42
+
+Wallner, Michael 173, 235
+Walsh, Peter Gareth 44
+Walter, Michael 133, 134
+Wang, Pengming 301
+Ward, Thomas 34, 39
+Wasow, Wolfgang 66
+Waterman, Michael S. 266
+Watrous, John 376
+Weispfenning, Volker 286, 374
+Weyman, Jerzy 133
+Whitworth, William Allen 143
+Wilf, Herbert S. 2, 3, 24, 48, 63, 64
+Williamson, S. G. 13
+Wilson, Mark C. 9, 14,
+
+115, 136, 175, 210, 211, 229,
+235, 244, 266, 347, 365–367,
+382, 387
+
+Wimp, Jet 65
+Woan, Wen-Jin 176
+Woerdeman, Hugo J. 382
+Wong, Chung Y. 382
+Worrell, James 39, 40
+
+X
+
+Xin, Guoce 113
+
+Y
+
+Yakovlev, Andrei 13, 308
+Yushkevich, Aleksandr A. 175
+Yuzhakov, A. P. 97
+
+Z
+
+Zagier, Don 131
+Zahabi, Ali 244
+Zeilberger, Doron 62–65,
+
+174, 175, 378
+Zelditch, Steve 175
+Zelevinsky, Andrey V. 116, 240
+Zimmermann, Paul 2, 5, 40, 42
+Zudilin, Wadim 134, 378

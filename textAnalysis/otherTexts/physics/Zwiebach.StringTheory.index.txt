@@ -1,0 +1,871 @@
+
+Index
+
+action
+charged point particle, 98
+fields and symmetries, 157
+first defined, 78
+free particle in curved space, 99
+free point particle, 91
+free scalar field, 196
+Nambu–Goto, 111–112, 123, 178
+open string and charged endpoints, 368
+particle and EM field, 99, 356
+Polyakov string, 582–587
+saddle points, 87
+string and Kalb–Ramond field, 357
+transverse string coordinates, 248
+
+admissible states, 575
+AdS/CFT correspondence
+
+conformal field theory, 537
+finite temperature, 554–559
+holography, 553–554
+large N limit, 533–535
+motivating, 537–541
+near horizon geometry, 539
+parameters, 541–543
+
+anti-de Sitter
+black hole, 555
+conformal boundary, 552
+defined, 549
+isometries, 537
+metric, 552, 564, 565
+
+background fields, 361–362, 415–416
+black hole
+
+in anti-de Sitter space, 555
+basics, 513–514
+built with D-branes, 519–520
+entropy, 514–515, 520–521
+in IIB superstrings, 518–519
+temperature, 514
+
+Bohm–Aharonov effect, 406
+Born–Infeld electrodynamics
+
+and T-duality, 443–446
+capacitance, 446
+energy of a point charge, 441–443, 447
+general theory, 438–443
+Hamiltonian, 447
+Lagrangian density, 438
+
+Lagrangian for Dp-brane, 445
+string ending on D-brane, 448–450
+
+Calabi–Yau space, 479
+capacitance
+
+and moduli of annuli, 636–641
+Born–Infeld electrodynamics, 446
+
+Cauchy–Riemann equations, 599
+Chan–Paton labels, 345
+charge
+
+conserved
+for Lagrangian densities, 158
+Lagrangian mechanics, 156
+Lorentz, 167
+momentum, 160, 164
+
+electric, 154–155
+chiral fermions, 463–464, 468, 472
+conformal boundary
+
+AdS, 552
+Hn , 548
+defined, 547
+Minkowski space, 564
+R2, 548
+
+conformal gauge, 586
+conformal map, see Schwarz–Christoffel
+constraints
+
+from the Polyakov action, 587
+parameterization, 136, 138, 182, 569
+quantum Virasoro, 572–577
+solving in light-cone gauge, 187–189
+
+cosmic strings, 145–149
+counting
+
+symmetric products, 277
+with generating functions, 317–320
+
+cross section, 595
+current
+
+conserved
+defined, 154
+for Lagrangian densities, 158
+Lorentz, 167
+momentum, 159–161
+
+electric, 154–155
+four-vector, 50
+
+668 Index!
+cusp
+
+in closed strings, 144, 152
+in open strings, 151
+
+D-branes
+charge, 370–373
+classical motion of endpoints, 128
+classical open string motion, 149–151
+Dp-brane boundary conditions, 331–333
+D0-branes, 589
+dissolved, 429, 431
+first discussed in detail, 115–116
+instability, 270–274
+Lagrangian with EM fields, 445
+open strings between Dp- and Dq-branes, 345–350
+open strings between parallel Dp-branes, 338–345
+open strings on Dp-branes, 333–338
+tension Tp of Dp-brane, 413, 414
+tilted, 424, 425
+with electric fields, 418–422
+with magnetic fields, 423–429
+
+de Sitter space, 566
+deficit angle, 145
+degrees of freedom
+
+defined, 199
+gravity field, 212
+Maxwell field, 208
+
+descendent, see Virasoro descendent
+dilaton
+
+from covariant closed string, 590
+from quantum closed string, 293
+related to the string coupling, 294–296
+
+dimensional reduction, 47, 389–390
+Dirichlet boundary condition
+
+defined, 75
+open strings, 114
+reformulated, 83
+
+divergence
+in higher dimensions, 70
+theorem, 56–57
+
+double strike, 303, 386
+dual field strength F̃µ! , 437, 447
+duality
+
+defined, 376
+for a classical oscillator, 377–378
+in electromagnetism, 376–377
+T-duality, see T-duality
+
+Dynkin label, 466, 467
+
+Einstein
+general relativity, 58
+summation convention, 17
+
+electric field
+critical, 422
+motion of open strings, 429–430
+on D-branes, 418–422
+open string boundary conditions, 419
+
+electromagnetism
+gauge potentials, 48
+current vector, 50
+duality invariance, 376–377
+field strength defined, 48
+gauge transformations, 46
+Maxwell equations, 45
+
+ensemble
+canonical, 495–498
+microcanonical, 495–498
+
+entropy
+black hole, 514–515, 520–521
+defined, 495
+of a string, 506, 515–516
+
+extra dimensions
+Lorentz invariance, 30
+compact, 31
+large, 67–69
+
+Feynman diagram, 592–594, 630
+field strength, see electromagnetism
+fine-structure constant, 62, 294
+flux compactification, 484
+four-vector, 21
+free boundary condition, 114
+fundamental domain
+
+defined, 32
+modular group F0, 651–656
+modular group, exercise, 658
+modular group, identifications, 658
+
+gamma function
+analytic continuation, 70
+defined, 54
+recursion relation, 54
+Veneziano amplitude, 625
+
+gauge transformations
+U (1) structure, 404–406
+gravitational field, 60, 210
+Kalb–Ramond field, 214
+Maxwell and Kalb–Ramond, 368
+Maxwell field, 46, 206
+
+geodesic
+equation, 99
+on a cone, 147, 153
+
+graviton states
+from covariant closed strings, 590
+from gravity field, 212
+from light-cone closed strings, 292
+
+gravity field
+degrees of freedom, 212
+gauge transformations, 210
+light-cone gauge, 211
+quantum theory, 209–213
+
+group
+U (1), 344, 405
+U (N ), 344
+
+
+
+669 Index!
+Hagedorn temperature
+
+bosonic string theory, 505–507
+open superstring theory, 522
+
+Hamilton’s principle, 79
+Hamiltonian
+
+Born–Infeld electrodynamics, 447
+charged point particle, 99
+covariant open string, 570, 578
+density for scalar field, 197
+density for strings, 127
+energy for strings, 133
+light-cone closed string, 286, 289, 388
+light-cone open string, 238, 262
+light-cone point particle, 222
+point particle energy, 92
+
+Hardy–Ramanujan, 502
+Hawking–Page transition, 559
+helicity, 463
+hierarchy problem, 61, 69
+Higgs mechanism, 345, 463, 465, 493
+holography, 549
+holonomy W
+
+as angle variable, 410–412
+defined, 408
+Wilson line, see Wilson line
+
+hyperbolic space
+H2, 544
+H2 isometric embedding in R3, 562
+Hn defined, 545
+Hn metric, 547
+Hn conformal boundary, 548
+
+intersection number, 454, 457, 491
+interval, 15
+
+jumping rope
+angular momentum, 172
+relativistic, 150
+
+Kalb–Ramond field
+T 2 compactification, 398–399
+analysis, 214–215
+coupling to a string, 357
+coupling to Maxwell field on D-brane,
+
+368–370
+electric charge density, 359
+gauge transformations, 214
+motion of a string, 374–375
+of a string, 374
+particle states, 215
+states from light-cone closed string, 292
+
+Kaluza–Klein, 390
+
+Lagrangian
+Born–Infeld electrodynamics, 438
+density for nonrelativistic string, 81
+first defined, 78
+
+for Dp-brane with EM fields, 445
+nonrelativistic string, 81
+symmetry
+
+defined, 155
+more general, 159, 173–174
+
+landscape, 10, 482, 489
+light-cone
+
+components of tensors, 213
+coordinates, 22
+energy and momentum, 28
+gauge
+
+gravity field, 211
+Maxwell field, 207
+open and closed strings, 187
+point particle, 217
+
+Hamiltonian, see Hamiltonian
+metric, 24
+scalar field equation, 200
+
+lightlike
+compactification, 42
+separated events, 16
+
+linear fractional transformation
+constructed from three points, 611, 626
+defined, 610
+number of parameters, 611
+
+Lorentz algebra, 231, 234
+Lorentz force law, 46, 69
+Lorentz generators
+
+quantum open string, 259–262
+quantum point particle, 229–233
+
+Lorentz transformations
+boost, 19
+defined, 20
+infinitesimal, 165
+
+Luscher coefficient, 532
+
+M-theory, 325, 481
+magnetic field
+
+flux quantization, 427, 430
+motion of open string, 431–432
+on D-branes, 423–429
+related to tilting angle, 425
+
+mass-squared
+closed string, 288
+closed string with compactification, 387
+DD contribution, 336
+ND contribution, 350
+normal ordering contributions, 349
+NS sector, 314
+open string, 263
+open string (classical), 190
+open string between D-branes, 341
+R sector, 316
+twisted sector, 302
+
+massive vector field
+formulation, 215
+from separated D-branes, 342–343
+
+670 Index!
+Maxwell field
+
+coupling to open strings, 368, 415–418
+gauge transformations, 206
+holonomy, 408
+light-cone gauge, 207
+photon states, 209
+quantum theory, 206–209
+
+metric
+conformal, 586
+dynamical, 59
+for open string in magnetic field, 432
+induced on surface, 104
+induced on world-sheet, 111
+Minkowski, 17–18
+transformation under reparameterization, 105
+world-sheet h"# , 583
+
+mode expansion
+closed string coordinate
+
+no compactification, 284
+with compactification, 383
+
+for X! open string coordinate, 190
+for DD open string coordinate, 335
+for ND open string coordinate, 348
+for NN coordinate derivatives, 186
+for NN open string coordinate, 186
+
+modular group P SL(2, Z)
+defined, 655
+fundamental domain F0, 656
+generated by S and T , 658
+
+moduli space
+of S1 compactification, 393
+of T 2 compactification with B field, 656
+of Riemann surfaces, see Riemann surface
+
+moduli stabilization, 481–484
+
+Nambu–Goto
+free string equations of motion, 113
+string action, 111–112, 170, 178
+
+Neumann boundary condition, 76
+Neveu–Schwarz fermions, 312–315
+Newton
+
+constant G, 60
+constant in arbitrary dimension, 63
+constant in terms of g, 294
+gravitational law, 60
+
+nonlinear electrodynamics
+Born–Infeld theory, 438–443
+energy functional, 436, 446
+field "D, 436
+field "H , 436
+general framework, 433–437
+
+non-planar open string diagrams, 642–643
+normal ordering, 251
+null
+
+states, 577
+vector, 21
+vectors orthogonal to, 191
+
+number operator
+closed string, 287
+open string, 264
+
+operator
+creation and annihilation
+
+closed string, 285
+open string, 244–246
+quantum scalar field, 203
+
+Heisenberg, 218–220
+open string Heisenberg, 237
+open string Schrödinger, 237
+point particle
+
+Heisenberg, 221
+Schrödinger, 220
+
+scalar field operator, 204
+Schrödinger, 218–220
+
+orbifold
+T 2/Z3, 41
+C/ZN , 35
+R1/Z2
+
+closed strings, 296–298
+defined, 35
+twisted sector, 298–303
+
+construction, 41
+defined, 35
+spacetime, 43
+
+orientation
+of an open string, 339
+
+orientifold plane
+and coincident Dp-branes, 352
+and Dp-brane, 351
+and separated Dp-branes, 352–354
+closed string spectrum, 305
+
+particle states
+Kalb–Ramond states, 215
+one-graviton states, 212
+one-particle, 205–206
+one-photon states, 209
+role in quantum field theory, 201
+
+partition function
+defined, 496
+relativistic particle, 507–509, 522
+single string, 509–513
+
+partitions of N
+P(N ; b, f ), 505, 522
+p(N ), 499, 502
+pb(N ), 503–504
+q(N ), 504, 521
+generating functions, 522
+
+photon states
+from covariant open string, 579–580, 589
+from light-cone open string, 266–267
+from Maxwell field, 209
+
+physical state
+covariant quantization
+
+
+
+671 Index!
+defined, 577
+gravitons, 590
+photons, 580
+tachyons, 579
+
+light-cone quantization
+open string, 266
+point particle, 224
+
+Planck
+length, mass, time, 61
+constant, 36
+energy, 62
+length in arbitrary dimension, 63
+
+point particle
+action if charged, 98
+coupled to dynamical EM field, 99
+covariant quantization, 587
+free action, 91
+free equation of motion, 95
+free motion in curved space, 99
+Hamiltonian, when charged, 98
+Heisenberg operators, 221
+Lagrangian when free, 92
+light-cone Lorentz generators, 229–233
+light-cone momentum generators, 226–229
+quantum states, 223
+reparameterization symmetry, 234
+Schrödinger equation, 224
+Schrödinger operators, 220
+
+primary, see Virasoro primary
+proper time, 27
+
+as action, 91–92
+puncture, 602
+pure gauge
+
+defined, 208
+gravity field, 214
+Maxwell field, 209
+states, 577
+
+quantum field theory
+gravity field, 209–213
+Kalb–Ramond field, 214–215
+massive vector field, 215
+Maxwell field, 206–209
+scalar field, 200–206
+
+quark-antiquark potential, 531–532
+quark-gluon plasma
+
+jet-quenching, 561
+production, 559
+viscosity, 560
+
+Ramond fermions, 315–317
+Ramond–Ramond
+
+couplings to D-branes, 371
+fields in closed superstrings, 324
+
+Regge trajectory, 527
+reparameterization
+
+exercise for particle, 98
+
+generated by Virasoro, 257–259, 277,
+289–290
+
+invariance for particle, 93–94, 234
+invariance of area, 103–106
+invariance of Kalb–Ramond coupling, 373
+
+Riemann surface
+defined, 599
+moduli space
+
+M0,3, 616
+M0,4, 611–613, 646
+M1,0, 652
+N3, 616
+N4, 616–617
+of annuli, 633
+
+points approaching each other, 627
+the annulus, 632–634
+the complex plane C, 598
+the sphere Ĉ, 609–610
+the torus, 646–651
+the upper plane H̄ (bordered), 599
+the upper plane H, 599
+
+rotating open string
+coherent states, 530
+detailed analysis, 140–142
+further study, 149
+in light-cone gauge, 191
+quantum length, 561
+quantum states, 526–531
+
+scalar field
+action principle, 195–197
+degrees of freedom, 199
+free equation of motion, 197
+free Hamiltonian, 197
+light-cone field equation, 200
+plane wave solutions, 197–199
+quantum theory, 200–206
+
+Schwarz–Christoffel map
+closing off the polygon, 628
+for four open strings, 618–621
+for three open strings, 605–608
+in general, 603–605
+turning angle, 603
+
+sectors
+for open strings between D-branes, 339
+for type II superstrings, 322–324
+Ramond and Neveu–Schwarz, 312
+
+self-dual radius, 391
+Shapiro–Virasoro amplitude, 657
+slope parameter "#
+
+defined, 168
+related to string length, 170
+related to string tension, 169
+
+spacelike
+separated events, 16
+vector, 21
+
+spatial surface, 100, 121
+
+672 Index!
+sphere
+
+arbitrary dimension, 52
+volume, 54
+
+Standard Model
+first described, 5–6
+gauge group, 457–463
+matter content, 463–472
+string model, 472–479, 492–493
+
+state space
+closed string
+
+no compactification, 290–294
+with compactification, 388–392
+
+Lorentz covariant, 577–580
+open string
+
+between Dp- and Dq-branes, 344
+Dp-brane, 331–333
+parallel Dp-branes, 338–345
+spacefilling D-brane, 262–268
+
+static gauge
+defined, 116
+string action in, 123
+
+string bit, 515–516, 524
+string charge
+
+"Q, 360, 373
+behaving as Maxwell current, 362–363
+carried by electric field, 369–370
+density "j0, 359–361
+
+string coordinate, 107
+string coupling
+
+and Newton’s constant, 294
+change under T-duality, 414
+related to the dilaton, 294–296
+
+string endpoints
+are charged, 368
+covariant analysis of motion, 127
+exercises on free motion, 149
+free motion, 124–125
+motion attached to D-branes, 128
+
+string length, 14
+defined, 170
+related to "#, 170
+self-dual radius, 391
+
+string number N , 363
+string orientation, 360
+string spatial surface, 121
+string tension
+
+effective, 134
+nonrelativistic string, 73
+relativistic string, 111, 119
+
+supergravity, 518
+superstrings
+
+charged D-branes, 371
+closed superstrings, 322–324
+GSO truncation, 320–322
+heterotic, 324, 326, 479
+NS sector, 312–315
+
+open superstrings, 320–322
+R sector, 315–317
+type I, 324
+
+supersymmetry, 6, 478, 518
+symmetry, see Lagrangian, symmetry
+
+T-duality
+as torus duality, 376
+closed strings
+
+as X R $ !X R , 396
+from spectrum coincidence, 392–394
+
+effect on string coupling, 412, 414
+open string
+
+invariance of Hamiltonian, 413
+of DN coordinate, 413
+
+open strings
+derivation, 402–404
+effect on D-branes, 404
+motivated, 400–402
+
+tachyon
+scattering amplitude, 625
+states in closed string, 291
+states in open string, 266
+tachyon potential, 273, 278
+
+timelike
+separated events, 16
+vector, 21
+
+transverse oscillation
+defined, 73
+frequencies, 77
+wave equation, 75
+
+ultraviolet divergences, 630–631
+units
+
+basic, 13–14
+Heaviside–Lorentz, 45
+natural, 177–178
+Planckian, 60
+SI system, 13–14
+
+unoriented
+closed strings, 304
+open strings, 268, 278, 325
+type I theory, 324
+
+vacuum energy
+associated length scale, 70
+in flux compactification, 486–489, 494
+in the universe, 486
+in toy model, 485, 494
+
+Veneziano amplitude, 625
+Virasoro
+
+algebra
+as a Lie algebra, 276
+consistency of central extension, 276
+subalgebra, 276
+with central extension, 257
+without central extension, 255
+
+
+
+673 Index!
+descendent, 576–577, 588
+null state, 577
+operators
+
+covariant closed strings, 580–582
+covariant open strings, 571
+light-cone closed strings, 286–287
+light-cone open strings, 250–259
+ordering of L%0 , 251–253
+
+primary, 575, 588
+transverse modes, 189
+
+Weyl transformation, 586
+Wilson line
+
+defined, 408
+effect on particle spectrum, 410
+holonomy, see holonomy
+with constant Ax , 409
+
+winding
+closed strings, 378–381
+defined, 381
+
+number, 362
+string charge, 398
+
+Witt algebra, 255
+world-line, 16, 90, 107
+world-sheet
+
+class of parameterizations,
+181
+
+current Pµ, 159–161
+defined, 100
+fermion, 309
+momentum, 290
+
+Yang–Mills
+U (1) theory, 344
+U (3) vs. SU (3), 458–462
+U (N ) gauge fields, 344
+
+zeta-function
+analytic continuation, 275
+defined, 253

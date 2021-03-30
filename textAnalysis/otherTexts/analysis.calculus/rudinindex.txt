@@ -1,0 +1,824 @@
+
+Absolute convergence, 71
+
+of integral. 138
+Absolute value. 14
+Addition (see Sum)
+Addition formula. 178
+Additivity. 301
+Aﬁine chain, 268
+Aﬁine mapping, 266
+Affine simplex. 266
+Algebra. 161
+
+self—adjoint, 165
+
+uniformly closed, 161
+Algebraic numbers, 43
+Almost everywhere. 317
+Alternating series. 71
+Analytic function, 172
+Anticommutative law. 256
+Are. 136
+Area element, 283
+Arithmetic means, 80, 199
+Anin, E.. 192, 195
+Associative law, 5. 28. 259
+Axioms, 5
+
+Baire's theorem, 46, 82
+Ball, 31
+
+Base, 45
+
+Basic form, 257
+
+Basis, 205
+
+Bellman. R.. 198
+
+Bessel inequality. 188. 328
+Beta function. I93
+
+Binomial series. 201
+Bohr-Mollerup theorem. 193
+Borel-measurable function, 313
+
+Bore] set, 309
+
+Boundary, 269
+
+Bounded convergence, 322
+Bounded function. 89
+Bounded sequence, 48
+Bounded set, 32
+Brouwer‘s theorem, 203
+Buck, KO. 195
+
+Cantor. 0., 21. 30. 186
+Cantor set. 41. 81, 138, 168. 309
+Cardinal number. 25
+Cauchy criterion. 54. 59. 147
+Cauchy sequence. 21, 52. 82. 329
+Cauchy‘s condensation test, 61
+Cell, 31
+‘K‘tequivalence. 280
+Chain, 268
+
+afﬁne, 268
+
+differentiable. 270
+Chain rule, 105, 214
+Change ofvariables. 132, 252. 262
+Characteristic function, 313
+Circle of convergence, 69
+Closed curve. 136
+Closed form. 275
+Closed set, 32
+Closure, 35
+
+uniform. 151. 161
+Collection. 27
+Column matrix. 217
+Column vector. 210
+Common reﬁnement. 123
+Commutative law. 5. 28
+Compact metric space. 36
+Compact set. 36
+
+
+
+Comparison test. 60
+Complement. 32
+Complete metric space. 54, 82.
+151, 329
+Complete orthonormal set, 331
+Completion. 82
+Complex ﬁeld. 12. 184
+Complex number. 12
+Complex plane, 17
+Component ofa function. 87. 215
+Composition, 86, 105. 127, 207
+Condensation point. 45
+Conjugate. 14
+Connected set. 42
+Constant function, 85
+Continuity, 85
+uniform, 90
+Continuous functions. space of,
+150
+Continuous mapping. 85
+Continuou sly differentiable curve.
+136
+Continuously differentiable map-
+ping, 219
+Contraction. 220
+Convergence, 47
+absolute, 71
+bounded. 322
+dominated, 321
+of integral. 138
+pointwisc, 144
+radius of. 69. 79
+of sequences, 47
+of series. 59
+uniform. 147
+Convex function. 101
+Convex set. 3|
+
+
+
+Coordinate function. 88
+Coordinates, 16. 205
+Countable additivity, 301
+Countable base, 45
+Countable set. 25
+Cover, 36
+Cunningham. F.. 167
+Curl, 281
+Curve, 136
+closed. 136
+continuously diﬂ'erentiable. 136
+rectiﬁable, 136
+space-ﬁlling, 168
+Cut, 17
+
+Davis, P.J., 192
+Decimals, 11
+Dedekind, R., 21
+Dense subset, 9, 32
+Dependent set. 205
+Derivative. 104
+directional, 218
+of a form. 260
+of higher order, 110
+of an integral, 133. 236, 324
+integration of. 134, 324
+partial. 215
+of power series, 173
+total, 213
+of a transformation, 214
+of a vector—valued function. I 12
+Determinant, 232
+of an operator, 234
+product of, 233
+Diagonal process, 30, 157
+Diameter, 52
+Diferentiable function, 104, 212
+Differential, 213
+Differential equation, 119, 170
+Differential form (see Form)
+Differentiation (see Derivative)
+Dimension. 205
+Directional derivative. 218
+Dirichlet’s kernel. 189
+Discontinuities, 94
+Disjoint sets, 27
+Distance. 30
+Distributive law. 6, 20. 28
+Divergence, 281
+Divergence theorem, 253. 272.
+288
+Divergent sequence, 47
+Divergent series, 59
+Domain. 24
+Dominated convergence theorem.
+155. 167, 321
+Double sequence, 144
+
+e, 63
+
+Eberlein, W. F.. 184
+Elementary set, 303
+Empty set. 3
+Equicontinuity. 156
+
+Equivalence relation, 25
+Euclidean space, 16, 30
+
+Euler’s constant, 197
+
+Exact form, 275
+
+Existence theorem. 170
+Exponential function, 178
+Extended real number system, 1 1
+Extension, 99
+
+Family, 27
+Fatou's theorem, 320
+Fejér’s kernel, 199
+Fejér‘s theorem, 199
+Field axioms. 5
+Fine, N.J., 100
+Finite set, 25
+Fixed point. 117
+theorems, 117, 203, 220
+Fleming. W. H.. 280
+Flip, 249
+Form, 254
+basic, 257
+of class W56", 254
+closed. 275
+derivative of, 260
+exact, 275
+product of. 258, 260
+sum of. 256
+Fourier, J. 13., 186
+Fourier coefﬁcients. 186, 187
+Fourier series. 186, 187. 328
+Function. 24
+absolute value, 88
+analytic, 172
+Borel-measurable, 313
+bounded, 89
+characteristic, 313
+component of, 87
+constant. 85
+continuous. 85
+from left, 97
+from right, 97
+continuously differentiable, 219
+convex, 101
+decreasing, 95
+differentiable, 104, 212
+exponential, 178
+harmonic, 297
+increasing, 95
+inverse, 90
+Lebesgue-integrable, 315
+limit, 144
+linear, 206
+logarithmic. 180
+measurable. 310
+monotonic, 95
+nowhere differentiable continuous, 154
+one-to-one, 25
+orthogonal. 187
+periodic, 183
+product of. 85
+rational. 88
+Riemann-integrable, 121
+
+Function:
+simple. 313
+sum of, 85
+summable, 315
+trigonometric. 182
+uniformly continuous, 90
+uniformly differentiable, 1 15
+vector-valued, 85
+Fundamental theorem of calculus,
+134, 324
+
+Gamma function, 192
+
+Geometric series. 61
+
+Gradient, 217, 281
+
+Graph, 99
+
+Greatest lower bound, 4
+
+Green's identities, 297
+
+Green‘s theorem, 253. 255. 272.
+282
+
+Half-open interval, 31
+Harmonic function, 297
+Havin, V. P., 113
+Heine-Borel theorem. 39
+Helly's selection theorem, 167
+Herstein. 1. N., 65
+
+Hewitt, E.. 21
+
+Higher-order derivative, 1 10
+Hilbert space, 332
+
+H61der‘s inequality, 139
+
+1', 13
+Identity operator, 232
+Image. 24
+
+Imaginary pan, 14
+Implicit function theorem, 224
+Improper integral. 139
+Increasing index, 257
+Increasing sequence, 55
+Independent set, 205
+Index ofa curve, 201
+lnﬁmum, 4
+Inﬁnite series, 59
+Inﬁnite set, 25
+Inﬁnity, 11
+Initial-value problem. 119. 170
+Inner product, 16
+Integrable functions, spaces of.
+315. 326
+Integral:
+countable additivity of, 316
+differentiation of, 133, 236, 324
+Lebesgue, 314
+lower, 121, 122
+Riemann, 121
+Stieltjes, 122
+upper, 121, 122
+Integral test, 139
+Integration:
+of derivative, 134, 324
+by parts, 134, 139, 141
+Interior, 43
+
+Interior point, 32
+
+Intermediate value. 93, 100, 108
+Intersection, 27
+
+Interval, 31, 302
+
+Into. 24
+
+Inverse function. 90
+
+Inverse function theorem. 221
+Inverse image, 24
+
+Inverse of linear operator, 207
+Inverse mapping, 90
+
+Invertible transformation, 207
+Irrational number, 1. 10, 65
+Isolated point, 32
+
+Isometry. 82. I70
+Isomorphism, 21
+
+Jacobian. 234
+
+Kellogg. 0. D.. 281
+Kestelman, H., 167
+Knopp, K.. 21, 63
+
+Landau, E. G. H., 21
+Laplacian. 297
+Least upper bound, 4
+property, 4, 18
+Lebesgue. H.1L.. 186
+Lebesgue-integrable function, 315
+Lebesgue integral, 314
+Lebesgue measure. 308
+Lebesgue's theorem, 155, 167,
+318, 321
+Left-hand limit. 94
+Leibnitz, G. W.. 71
+Length, 136
+L‘Hospital‘s rule, 109. 113
+Limit, 47, 83, 144
+left-hand, 94
+lower. 56
+pointwise. 144
+right-hand, 94
+subsequential, 51
+upper, 56
+Limit function. 144
+Limit point. 32
+Line. 17
+Line integral, 255
+Linear combination, 204
+Linear function, 206
+Linear mapping, 206
+Linear operator, 207
+Linear transformation, 206
+Local maximum. 107
+Localization theorem, 190
+Locally one—to-one mapping. 223
+Logarithm. 22. 180
+Logarithmic function. 180
+Lower bound. 3
+Lower integral, 121. 122
+Lower limit. 56
+
+McShune. E. 3., 313
+
+Mapping, 24
+afﬁne. 266
+continuous, 85
+continuously differentiable, 219
+linear, 206
+open. 100. 223
+primitive, 248
+uniformly continuous, 90
+(See also Function)
+Matrix. 210
+product. 21 1
+Maximum, 90
+Mean Square approximation, 187
+Mean value theorem, 108. 235
+Measurable function. 310
+Measurable set, 305, 310
+Measurable space, 310
+Measure, 308
+outer. 304
+Measure space. 310
+Measure zero, set of. 309, 317
+Mertens. F., 74
+Metric space, 30
+Minimum, 90
+Möbius band, 298
+Monotone convergence theorem.
+318
+Monotonic function, 95, 302
+Monotonic sequence. 55
+Multiplication (see Product)
+
+Negative number. 7
+Negative orientation, 267
+Neighborhood, 32
+Newton’s method. 118
+Nijenhuis. A.. 223
+Niven, 1.. 65, 198
+Nonnegative number, 60
+Norm, 16, 140. 150, 326
+
+of operator, 208
+Normal derivative. 297
+Normal space, 101
+Normal vector. 284
+Nowhere differentiable function.
+
+154
+
+Null space. 228
+Null vector. 16
+Number:
+
+algebraic. 43
+
+cardinal, 25
+
+complex, 12
+
+decimal, 11
+
+ﬁnite. 12
+
+irrational. 1. 10, 65
+
+negative, 7
+
+nonnegative. 60
+
+positive. 7. 8
+
+rational, 1
+
+real, 8
+
+One-to-one correspondence. 25
+Onto, 24
+Open cover. 36
+
+INDEX 341
+
+Open mapping, 100, 223
+Open set, 32
+Order, 3, 17
+lexicographic. 22
+Ordered ﬁeld. 7. 20
+k—tuple. 16
+pair, 12
+set, 3, 18, 22
+Oriented simplex. 266
+Origin. 16
+Orthogonal set of functions, 187
+Orthonormal set. 187. 327, 331
+Outer measure, 304
+
+Parameter domain, 254
+Parameter interval, 136
+Parseval's theorem, 191. 198, 328.
+331
+
+Partial derivative. 215
+Partial sum, 59, 186
+Panition, 120
+
+of unity, 251
+Perfect set, 32
+Periodic function, 183, 190
+1r. 183
+Plane. 17
+Poincare‘s lemma. 275, 280
+Pointwise bounded sequence, 155
+Pointwise convergence. 144
+Polynomial, 88
+
+trigonometric. 185
+Positive orientation. 267
+Power series. 69, 172
+Primes. 197
+Primitive mapping, 248
+Product, 5
+
+Cauchy, 73
+
+of complex numbers, 12
+
+of determinants, 233
+
+of ﬁeld elements. 5
+
+of forms, 258, 260
+
+of functions, 85
+
+inner. 16
+
+of matrices, 211
+
+of real numbers. 19, 20
+
+scalar, 16
+
+of series, 73
+
+of transformations, 207
+Projection, 228
+Proper subset, 3
+
+Radius. 31, 32
+
+of convergence, 69, 79
+Range. 24. 207
+Rank. 228
+Rank theorem, 229
+Ratio test, 66
+Rational function. 88
+Rational number. 1
+Real ﬁeld. 8
+Real line. 17
+Real number, 8
+Real part, 14
+
+
+
+Rearrangement, 75
+Rectiﬁable curve, 136
+Reﬁnement, 123
+
+Reﬂexive property, 25
+Regular set function, 303
+Relatively open set, 35
+Remainder, 211, 244
+Restriction, 99
+
+
+Riemann integral, 121
+Riemann-Stieltjes integral, 122
+Riesz-Fischer theorem, 330
+Right-hand limit, 94
+
+Ring, 30]
+
+
+
+
+
+Root test, 65
+
+Row matrix, 217
+
+Saddle point, 240
+Scalar product, 16
+Schoenberg, LJ., 168
+Schwarz inequality, 15. 139, 326
+Segment, 3l
+Self-adjoint algebra, 165
+Separable space, 45
+Separated sets, 42
+Separation of points. 162
+Sequence, 26
+
+bounded, 48
+
+Cauchy. 52, 82, 329
+
+convergent, 47
+
+divergent. 47
+
+double. 144
+
+of functions, 143
+
+increasing, 55
+
+monotonic, 55
+
+pointwise bounded, 155
+
+pointwise convergent, 144
+
+uniformly bounded, 155
+
+uniformly convergent, 157
+Series, 59
+
+absolutely convergent, 71
+
+alternating. 71
+
+convergent, 59
+
+divergent. 59
+
+geometric, 61
+
+nonabsolutely convergent. 72
+
+power. 69, 172
+
+product of, 73
+
+trigonometric, I86
+
+uniformly convergent, 157
+Set, 3
+
+at most countable, 25
+
+Borel, 309
+
+bounded, 32
+
+bounded above, 3
+
+Cantor. 41, 81, I38, 168, 309
+
+closed. 32
+
+compact. 36
+
+complete orthonormal, 331
+
+connected. 42
+
+convex. 31
+
+countable, 25
+
+Set,
+dense, 9. 32
+elementary, 303
+empty, 3
+ﬁnite, 25
+independent, 205
+inﬁnite, 25
+measurable, 305, 310
+nonempty, 3
+open. 32
+ordered, 3
+perfect, 32, 41
+relatively open, 35
+uncountable, 25. 30, 41
+Set function, 301
+a-ring, 301
+Simple discontinuity, 94
+Simple function, 313
+Simplex, 247
+aﬁine, 266
+differentiable, 269
+oriented. 266
+Singer, 1. M., 280
+Solid angle, 294
+Space:
+compact metric, 36
+complete metric, 54
+connected, 42
+of continuous functions, 150
+euclidean, 16
+Hilbert, 332
+of integrable functions, 315, 326
+measurable, 310
+measure, 310
+metric, 30
+normal, 101
+separable, 45
+Span, 204
+Sphere, 272, 277, 294
+Spivak. M., 272. 280
+Square root, 2, 81, 118
+Standard basis, 205
+Standard presentation. 257
+Standard simplex, 266
+Stark, E. L.. 199
+Step function, 129
+Stieltjes integral. 122
+Stirling’s formula, 194, 200
+Stokes’ theorem, 253, 272, 287
+Stone-Weierstrass theorem, I62.
+190, 246
+Stromberg. K., 21
+Subadditivity. 304
+Subcover, 36
+Subﬁeld, 8, 13
+Subsequence, 51
+Subsequential limit, 51
+Subset, 3
+dense, 9, 32
+proper, 3
+Sum. 5
+of complex numbers. 12
+of ﬁeld elements, 5
+of forms, 256
+01' functions. 85
+
+Sum ,
+of linear transformations, 207
+of oriented simplexes, 268
+of real numbers, 18
+of series, 59
+of vectors, 16
+Summation by parts, 70
+Support, 246
+Supremum. 4
+Supremum norm, 150
+Surface, 254
+Symmetric difference, 305
+
+Tangent plane, 284
+
+Tangent vector. 286
+
+Tangential component. 286
+
+Taylor polynomial, 244
+
+Taylor’s theorem, 110, 116, 176, 24.
+
+
+
+
+
+Toms, 239-240, 285
+
+Total derivative. 213
+
+Transformation (see Function;
+Mapping)
+
+Transitivity, 25
+
+Triangle inequality, 14, 16, 30. I40
+
+Trigonometric functions, 182
+
+Trigonometric polynomial, 185
+
+Trigonometric series, 186
+
+Uncountable set. 25, 30, 41
+Uniform boundedness, 155
+Uniform closure, 15]
+Uniform continuity, 90
+Uniform convergence. 147
+Uniformly closed algebra, 161
+Uniformly continuous mapping, 90
+Union. 27
+
+Uniqueness theorem, 119, 258
+Unit cube, 247
+
+Unit vector, 217
+
+Upper bound, 3
+
+Upper integral, 121, 122
+Upper limit, 56
+
+Value, 24
+
+Variable of integration, 122
+
+Vector, 16
+
+Vector ﬁeld, 281
+
+Vector space, 16. 204
+
+Vector-valued function, 85
+derivative of, 112
+
+Volume, 255, 282
+
+Weierstrass test, 148
+Weierstrass theorem. 40, 159
+Winding number. 20]
+
+Zero set, 98, 117
+Zeta function. 141
+

@@ -1,0 +1,1111 @@
+Index
+
+Abel’s theorem, 228
+Abelian extension, 129, 240
+– of a function field, 169
+– of a global field, 168
+– of a real quadratic field, see Real
+multiplication
+– of an imaginary quadratic field, see
+Complex multiplication
+– of the rational numbers, see
+Kronecker-Weber theorem
+Maximal – of a local field, 165
+Abelian variety, 226
+polarized –, 227
+simple –, 230
+Absolute invariant (of an elliptic curve),
+215, 240, 299
+Absolute value, 132
+Discrete –, 133
+Equivalence of –s, 145
+Extension of –, 142, 145
+generalized –, 144
+Non-Archimedean –, 132
+Normalized –, 143
+Absolute value
+p-adic –, 133
+Addition theorem for elliptic functions,
+217
+Adele, 146
+Adjoint matrix, 116
+AF–algebra, 443, 447
+Algebra
+complete intersection O –
+local Noetherian O–, 370
+
+Algebraic closure of a field, 117
+Algebraic integer, 116
+Algebraic variety, 192
+Algebraically closed field, 117
+Algorithm, 10, 97
+– to calculate the continued fraction
+expansion of a quadratic irrational
+number, 53
+– to solve Pell’s equation, 28
+Euclidean, 12
+Factorization
+of Shanks, 85
+Factorization –
+CFRAC, 87
+CLASNO, 85
+SQUFOF, 89
+Williams –, 90
+Fermat factorization –, 84
+Newton-Raphson –, 134, 138
+Polynomial time –, 10
+Primality test
+– of Adleman-Pomerance-Rumely,
+77
+Miller-Rabin –, 67
+of Adleman-Pomerance-Rumely, 69
+Pollard’s –, 69
+Probabilistic –, 66
+Solovay-Strassen –, 67
+Primality testing, 10
+of Silver - Pollig - Hellman, 15
+Quadratic sieve, 91
+Repeated squaring –, 11
+Algorithmic undecidability, 113
+
+504
+
+Index
+
+Analogy between numbers and
+functions, 169, 195, 397
+Analytic conductor of a modular elliptic
+curve, 320
+Apéry’s method, 55
+Approximation
+Best –, 50, 52
+Approximation theorem, 150
+Arakelov geometry, 211, 399
+Arakelov Green function, 421
+arithmetic Chow group, 401
+arithmetic Chow groups, 400
+Arithmetical infinity, 195, 211, 399
+Artin conductor of a representation, 329
+Artin conjecture
+generalized, 290
+Artin reciprocity law, 158, 161, 188
+Artin reciprocity map, 158
+Artin symbol, 161
+Artin’s conjecture
+– – (on L series), 14, 276, 327
+– – (on primitive roots), 14
+Artin’s factorization formula for
+L-functions of representations, 275
+Atkin-Lehner theory, 333, 336
+Bernoulli number, 220, 298
+Beta - function, 73
+Betti realization of a motive, 293
+Biquadratic reciprocity law, 178
+Birch–Swinnerton-Dyer conjecture, 321
+Bit, 9
+Blichfeldt’s lemma, 151
+Bogomolov–Miyaoka–Yau inequality,
+331
+Brauer group
+– of a scheme, 204
+Brauer group of a field, 184
+Brauer’s theorem, 276
+Brauer-Siegel theorem, 154
+Bruhat-Tits tree, 418, 450
+canonical projective embedding, 257
+Carmichael numbers, 11
+Caroubien category, 292
+Cathalan equation, 58
+Cauchy sequence, 134
+Cauchy’s formula, 33
+Cayley graph, 442, 452
+
+Chain (of points in a topological space),
+194
+Character
+– of an l-adic representation, 242
+Hecke –, 279
+characteristic classes, 400
+Chatelet surface, 205
+Chebotarev density theorem, 159, 369
+Chevalley’s Theorem, 199
+Chinese Remainder Theorem, 14
+Chinese remainder theorem, 119, 150
+Chowla – Selberg formula, 170
+Church thesis, 113
+Class field theory, 155
+Class group, 37
+class group, 128
+Class number
+– formula, 277
+– formulae for quadratic fields, 278
+Class number of a number field, 128
+class number of a number field, 153
+CM-fields, 169
+Coates-Wiles theorem, 323
+Coboundary, 179
+Cocycle, 179
+Cohen-Gödel theorem, 97
+Cohen-Lenstra heuristics, 128
+Cohomology group
+Definition of –, 178
+Long exact sequence of –s, 180
+Properties of –, 180
+Compactification, 198
+– of an arithmetic scheme, 211, 399
+Completion of a field, 134
+Complex multiplication, 168, 240
+Complex torus, 215, 227
+Composition law
+for quadratic forms, 36
+Computable function, 97
+computable function, 103
+Conductor
+– of a Dirichlet character, 131
+– of a Hecke character, 279
+– of an elliptic curve, 226
+congruence relation of Eichler–Shimura,
+304, 319, 320, 360
+Congruence subgroup, 301
+congruence subgroup, 343
+Conjecture
+
+Index
+Fermat’s –, 115, 128
+finiteness –s of Shafarevich, 196
+Goldbach –, 35
+linear growth –, 210
+main – of Iwasawa theory, 246, 324
+Mordell –, 196, 207, 247
+Shafarevich, 247, 248
+Silvermann’s, 41
+Tate, 248
+Weil’s –s for the zeta function of a
+scheme over a finite field, 202
+Construction of skew products, 185
+Continued fraction, 51, 87
+Continued fraction
+– expansion of ζ(3), 55
+Periodic, 53
+Convergent of a continued fraction, 52
+Correspondence, 292
+Criterion
+– of Neron-Ogg-Shafarevich for good
+reduction of an elliptic curve, 239
+Euler’s, 71
+Lucas, 11
+Criterium
+Irrationality, 56
+Cryptography, 24, 63–65, 84, 91
+Cubic curve, 200
+Weierstrass normal form of, 38
+Cubic form, 38, 204
+Cubic reciprocity law, 178
+Cuntz–Krieger algebra, 446, 447
+Cup product, 181
+Curve
+– over a number field, 196
+algebraic, 213
+cubic, 214
+Cubic –, 38
+cubic –
+reduction of – modulo a prime, 47
+degenerating-, 416
+elliptic, 238
+Elliptic –, 39
+– over a finite field, 90
+elliptic –, 213, 242, 298
+– over a finite field, 243
+– with complex multiplication, 219,
+230, 240
+Frey’s –, 330
+modular –, 320
+
+505
+
+supersingular –, 244
+modular –, 304
+number of rational points on a –, 206
+rational, 40
+Weil, see modular elliptic curve
+curve
+–modular, 318
+Schottky–Mumford -, 451
+curve of Frey–Hellegouarch, 331
+Cusp, 297
+– form, 297
+Cusp form, 30
+Davenport–Hasse relations, 268
+de Franchis Theorem, 249
+Decomposition group, 158
+Decomposition of a prime ideal in a
+field extension, 129
+Decomposition theorem for maximal
+ideals, 129
+Dedekind domain, 127
+Dedekind eta-function, 320
+Dedekind ring, 127
+Degree
+– of a divisor, 213
+– of an invertible sheaf, 213
+Deligne’s estimate for the coeﬃcients of
+cusp forms, 304
+Deligne’s theorem, see Weil conjectures
+Deligne-Serre theorem, 119, 327
+Density
+– of a set of places, 159
+analytic – of a set of places, 159
+Local –, 34
+local –, 232
+Real –, 34
+Descent family, 206
+Diagonal cubic surface, 205
+Dickman’s function, 86
+Digit, 9
+Digit
+p-adic–, 136
+Dimension
+– of a scheme, 194, 197
+Kronecker – of a field, 197
+Diophantine equation, 22, 57, 198
+Linear –, 22
+Quadratic –, 24
+Diophantine set, 3, 98
+
+506
+
+Index
+
+directed edge matrix, 452
+Dirichlet character, 71, 118, 267
+Primitive –, 72, 131
+Dirichlet’s class number formula, 85
+Dirichlet’s Theorem, 250
+Dirichlet’s theorem on primes in an
+arithmetical progression, 156
+Dirichlet’s unit theorem, 122, 128, 152
+Proof of –, 125
+Discriminant
+– of a cyclotomic field, 130
+– of a number field, 116
+– of a quadratic field, 130
+– of a quadratic form, 36
+– of an algebraic number field, 121,
+125
+– of an elliptic curve, 215
+discriminant
+of a polynomial, 343
+of an elliptic curve, 343
+Discriminant of a number field, 151
+Distribution
+– of the arguments of the Frobenius
+elements, 334
+– of the arguments of the Gauss
+sums, 335
+– the of arguments of Gauss sums,
+271
+Divisibility theory, 133
+Divisor
+arithmetical –, 211, 399
+canonical –, 213
+Cartier –, 200
+eﬀective –, 200
+Poincaré –, 229
+Divisor Map, 152
+Divisor map, 133
+domain of discontinuity, 423
+dynamical system, 451
+Eichler–Shimura
+congruence relation of – –, 304
+Eichler–Shimura’s congruence relation,
+319, 320, 360
+Eichler–Shimura’s construction, 319,
+320, 360
+Eigenfunction of all Hecke operators,
+333
+Eisenstein series, 30, 219, 297
+
+elementary column operation, 23
+Elementary divisors, 23
+Elementary Operation on Partial
+functions, 103
+Elementary row operation, 23
+Elliptic curve, 39
+Elliptic function, 215
+Elliptic module, 169
+Embedding problem, 327
+Enumerable set, 3, 98, 103, 108
+Equivalence
+– of fractional ideals in the narrow
+sense, 37
+Equivalence
+SL2 –of real numbers, 53
+Étale cohomology group, 226, 267
+Étale topology, 267
+Euler characteristic, 438
+Euler criterium
+generalized –, 177
+Euler product, 261
+Euler system, 246, 324
+Euler’s function, 13
+Euler’s identity for the partition
+function, 31
+Eulerian pseudoprime, 66
+Exceptional prime, 318
+Explicit formula, 21, 287
+Exponential sum, 34
+estimating –s using the Weil
+conjectures, 267
+Factor set, 185
+Factorization basis, 87
+Farey series, 50
+Fast Fourier Transform (FFT), 78
+Fermat number, 89
+Fermat numbers, 11
+Fermat prime, 175
+Fermat’s equation, 115, 128
+Fermat’s last theorem, 321, 330
+Fermat’s little theorem, 10
+fiber product, 248
+Fibonacci number, 12, 102
+Field
+Field
+– of p-adic numbers, 134
+Complete –, 134
+Completion of a –, 134
+
+Index
+Cyclotomic –, 118, 130
+Finite –, 117
+Global –, 146
+Locally compact –, 143
+Quadratic –, 36, 87, 121, 130
+Residue –, 157
+Tate –, 143
+finite Galois representation, 347
+Fourier analysis in a number field, 282
+Fourier coeﬃcient, 4
+Fractional ideal, 37, 127
+Fractional linear transformation, 53,
+296
+Frey–Hellegouarch curve, 331
+Frobenius automorphism, 117, 157
+Frobenius endomorphism
+– at infinity, 293
+– of a scheme over a finite field, 265
+geometric –, 239
+Functional equation
+– for the L-function of a rational
+representation, 273
+– for the L-function of an elliptic
+curve, 322
+– for the zeta function of a scheme
+over a finite field, 265
+– in Tate’s theory, 283
+– of a Dirichlet L-series, 274
+– of the L-function of an automorphic
+representation of GL(2), 334
+– of the Dedekind zeta function, 284
+– of the Riemann zeta function, 274
+conjectural – for the L-function of a
+motive, 294
+Fundamental domain, 150
+– for a number field in its adele ring,
+150
+– for the idele classes, 153
+Fundamental domains
+– for a congruence subgroup in the
+upper half plane, 301
+fundamental parallelogram, 121
+Fundamental unit, 122
+Galois
+– representation, 5
+Galois action on the places of an
+extension field, 158
+Galois cohomology, 178
+
+507
+
+Galois extension of fields, 117
+Galois group, 117, 155
+Galois representation
+finite, 347
+Gamma factor of the L-function of a
+rational representation, 273
+Gamma function, 71
+Gauss sum, 35, 71, 268
+distibution of arguments of –s, see
+Distribution
+Generating function, 31, 33
+generating series, 344
+Generic point, 194
+Genus
+– of a projective non-singular curve,
+213
+– of a quadratic form, 232
+Geometric realization of algebraic
+number field, 120
+Geometry of numbers, 23
+Gödel’s function, 111
+Gödel’s theorem, 96
+Goldbach’s conjecture, 35
+Greatest common divisor, 12
+Group
+– of rational points on a non-singular
+cubic curve, 38
+Galois, 3
+Ideal class, 37, 84
+of classes of quadratic forms, 36
+of fractional ideals, 37
+Shafarevich - Tate, 38
+Haar measure, 143
+– on the adele ring, 149
+Hadamard product, see Weierstrass
+product expansion
+handlebody of genus g, 423
+Hasse’s theorem (for the Galois action
+on the invariant of an elliptic
+curve), 241
+Hasse’s theorem on norms, 188
+Hasse’s theorem on the number of
+points on a cubic curve modulo a
+prime, 48
+Hasse-Weil zeta function, 437
+Hecke basis, 35
+Heegner point, 246, 324
+Height
+
+508
+
+Index
+
+– in Arakelov geometry, 211, 399
+– of a rational point, 200, 202
+– on an elliptic curve, 224
+definition of –, 209
+Height
+Néron-Tate –, 229
+Néron-Tate –, 224
+Hensel’s Lemma, 138
+Hensel’s lemma, 134, 187
+Hermite Theorem, 248, 249
+Hermite’s Theorem, 125, 195, 250
+Hermitian metrization, 211, 399
+Hermitian vector bundle, 399
+Hilbert symbol, 139, 164
+Hilbert’s seventh problem, 61
+Hilbert’s tenth problem, 96, 113
+Hilbert’s Theorem 90, 180
+Hilbert’s twelfth problem, 169, 240
+Hodge decomposition, 293
+Hodge structure, 273
+Hurwitz
+formula , 248
+Hurwitz genus formula, 196
+Ideal, 13, 126
+– class group, 128
+Fractional –, 37, 127
+Maximal –, 127
+Prime –, 126
+Principal –, 126
+Principle, 13
+Ideal class group, 37
+Finiteness of –, 152
+Idele
+– class group, 154
+Idele group, 149
+Inertia group, 158
+Inertial degree, 142, 157
+Inflation-restriction sequence, 181, 378
+Integer, 116
+Integer
+p-adic –, 136
+Integral extension of a ring, 195
+integral linear programming, 24
+Integrally closed ring, 127
+Intersection number, 211, 399
+Intractable problem, 24
+Invariant of local ring
+kernel of augmentation, 370, 382
+
+tangent space, 370, 382
+Invariants of a local Noetherian
+O–algebra, 370, 382
+Isogeny of Abelian varieties, 226
+Iwasawa module, see Tate module of a
+number field
+Jacobi sum, 35, 73
+Jacobi symbol, 16
+Jacobi’s formula, 29
+Jacobian of a curve, 228
+Kloosterman sum
+distribution of –s, 271
+Kloostermann sum, 35
+Knapsack problem, 24
+Kronecker’s “Jugendtraum”, 169
+Kronecker-Weber Theorem, 119
+Kronecker-Weber theorem, 155, 168,
+240
+Kummer extension, 175
+Künneth formula, 293
+l-adic realization of a motive, 293
+L-function
+– of a curve, 291
+– of a modular form, 296
+– of a motive, 294
+– of a rational representation, 272
+– of an automorphic representation,
+333
+Artin –, 276
+automorphic –, 336
+generalized Dirichlet –, 279
+Hecke-Weil –, 290
+l-adic –, 246
+standard –, 339
+L-group, 335
+L-homomorphism, 338
+L-packet, 339
+Lagrange resolution, 180
+Lamé’s theorem, 12
+Langlands functoriality principle, 338
+Langlands program, 5, 160, 169, 276,
+339
+Langlands’ conjecture, 339
+Lattice
+– in a real vector space, 120
+Least common multiple, 12
+
+Index
+Lefschetz fixed point formula, 266
+Lefschetz module, 437
+Legendre symbol, 15
+Level
+– of a quadratic form, 303
+– structure, 231
+level, 343
+limit set of the action, 422, 443
+Linear algebraic group, 231
+Local Artin map, 163–168
+Local Artin symbol
+Cohomological definition of –, 182
+Local degree, 146
+Local invariant, 186
+Localization, 133
+Logarithm
+Discrete, 14, 70
+Integral –, 19
+Logarithm
+p-adic –, 137
+Logarithmic map
+– of a number field, 122
+Lubin–Tate formal group, 168
+Möbius function, 19
+mapping torus, 443
+Mass of a quadratic form, 232
+Matiyasevich’s Theorem, 109
+Matiyasevich’s theorem, 96, 203
+Maximal ideal, 127
+Mazur module, 246
+Mazur’s theorem on the rational torsion
+of an elliptic curve, 225
+Measure
+– of Fundamental domain for a
+number field in its adele ring, 151
+– of fundamental domain for the idele
+classes, 153
+Haar –, 143
+Multiplicative invariant, 71
+of irrationality, 56
+self-dual – on the additive group of a
+local field, 282
+Tamagawa –, 234
+Mellin transform, 286
+Mersenne prime, 68
+Mersenne primes, 11
+Method
+– of Baker, 58
+
+509
+
+Hardy-Littlewood –, 38
+Hardy-Littlewood circle, 33
+Hardy-Littlewood circle –, 38
+of Apéry, 56, 58–60
+Ruler-and-compass, 4
+Secant-tangent –, 39
+Vinogradov’s – of exponential sums,
+34
+minimal conductor, 344
+Minkowski Theorem, 248
+Minkowski’s lemma on a convex body.,
+123
+Minkowski’s Theorem, 125, 195
+Minkowski-Hasse principle, 23, 38, 187,
+189, 204, 231
+– for a quadratic form, 26
+Minkowski-Hasse theorem, 134, 189
+Minkowski-Siegel formula for the mass
+of a quadratic form, 233
+modular curve, 318, 343
+Modular form, 4, 297
+Siegel –, 337
+modular form, 343
+Modular function, 299
+Modular group, 217
+Module of an idele, 150
+moduli spaces, 257
+Mordell’s conjecture, 247
+Mordell’s theorem, 41
+Mordell-Weil theorem
+– for an Abelian variety, 229
+– for an elliptic curve, 221
+Mori’s theorem, 211
+Morita category, 410
+Morita equivalence, 410
+Motive, 292
+– of pure weight, 294
+false –, 292
+false eﬀective –, 292
+true –, 293
+Motivic Galois group, 293
+Néron diﬀerential, 257
+Néron diﬀerential, 322
+Néron-Tate height, see Height
+Newton-Raphson algorithm, 134, 138
+Nilpotent element of a ring, 193
+Noetherian ring, 127
+Non-singular model (of a field), 213
+
+510
+
+Index
+
+Noncommutative space, 409, 443, 448
+Norm
+– of a closed point of an arithmetic
+scheme, 261
+– of an algebraic number, 116, 120
+– of an element of the Weil group, 289
+– of an ideal, 127
+of an algebraic number, 28, 36
+of an ideal, 37
+Reduced –, 186
+Relative – of a non–Archimedean
+place, 160
+Norm residue homomorphism, 163
+Norm residue symbol, 139
+Normal form
+of a cubic curve modulo a prime, 47
+Obstruction
+Brauer-Manin –, 205
+descent –, 205
+One-way function, 64
+Order, 132
+Orthogonal group, 233
+Ostrowski’s theorem, 133, 145
+p-adic
+p-adic
+– digit, 136
+p-adic
+– Logarithm, 137
+p-adic number, 134
+Parameterization
+rational –, 40
+Partition, 31
+Partition function, 31
+Application of circle method to –, 33
+PEL–family, 231
+Pell’s equation, 28, 50, 54, 98, 121
+Minimal solution to –, 28
+Perfect number, 11
+Period matrix of a polarized Abelian
+variety, 230
+Petersson inner product, 35, 302
+Petersson-Ramanujan conjecture, see
+Deligne’s estimate
+Picard group., 200
+Pimsner–Voiculescu exact sequence, 444
+Place of a field, 145
+Poincaré divisor, see divisor
+
+Point
+– of finite order on an elliptic curve,
+218
+geometric, 197
+regular –, 200
+ring-valued – of a scheme, 197
+singular –, 200
+Points of finite order
+– of Tate’s curve, 219, 299
+Poisson summation formula, 283
+Polarization
+– of an Abelian variety, 227
+algebraic – of an Abelian variety, 228
+canonical principal – of a Jacobian,
+229
+principal – of an Abelian variety, 227
+Polarized Abelian variety, see Abelian
+variety
+Pontryagin duality, 147
+Power residue symbol, 177, 184
+Prime
+Commercial –, 67
+Large gaps between –s, 66
+prime element, 126
+Prime ideal, 126, 193
+Prime number theorem, 18, 66
+Primitive element theorem, 117
+Primitive form, 333
+Primitive root, 14
+Primitively enumerable set, 109
+Principal ideal, 126
+principal ideal
+group of –s, 128
+Principal polarization, see Polarization
+Principle
+finiteness for the height, 258
+Problem
+Waring’s –, 35
+Product
+Restricted topological –, 147
+Product formula for absolute values,
+141, 146
+Product formula for Hilbert symbols,
+140
+Product formula for local symbols, 188
+Projective space over a ring, 197
+Pseudo-Abelian category, see Caroubien
+category
+Pseudoprime, 11
+
+Index
+Eulerian –, 16
+Strict –, 67
+Pythagorean triples, 24
+Quadratic character, 130
+Quadratic form, 231
+Ambiguous binary –, 85
+Equivalence of –s, 35
+Primitive binary –, 36
+Proper equivalence of –s, 36
+Reduced binary –, 37
+Quadratic reciprocity law, 140, 164
+Quadric, 25
+Quasicharacter, 71, 280
+– of a topological group, 289
+Quaternion algebra, 244
+Ramanujan’s congruence, 317
+Ramanujan’s function, 216, 242, 299,
+304
+Ramanujan-Petersson conjecture, 334
+Ramification group, 329
+Ramification index, 142, 157
+Rank
+Rank
+– of a cubic curve over Q, 41
+– of an Abelian variety, 229
+– of an elliptic curve
+upper bound on –, 223
+Rational parameterization, 57
+Rational parametrization
+– of the circle, 24
+Rational surface, 205
+Real multiplication, 169
+Real part of a quasicharacter, 280
+Reciprocity Law
+Quadratic, 71
+Reciprocity law
+Quadratic, 4, 15, 345
+recursive function, 97, 104
+Reduction
+good and bad, 212, 399
+Reduction of a scheme of arithmetic
+type modulo a prime ideal, 197
+Regular function, 193
+Regular point, 200
+regular prime, 342
+Regulator
+– of a number field, 123
+
+511
+
+– of an elliptic curve, 225
+Regulator of a number field, 153
+Reidemeister torsion, 437
+Relative invariant, 381, 382
+relative residue field degree, 160
+Representation
+– by a quadratic form, 29
+– of the Weil group, 289
+– of zero by a quadratic form, 25
+automorphic, 334
+automorphic –, 296, 335
+Binary –, 11
+Cyclotomic –, 166
+Galois –, 317–331
+– in positive characteristic, 243
+– of an Abelian variety, 226
+– of an elliptic curve, 218
+– on Etale cohomology, 226
+– on the Tate module of an Abelian
+variety, 239
+– on the Tate module of an elliptic
+curve, 238
+Abelian l-adic –, 242
+Abelian –, 275
+cyclotomic –, 219
+entire –, 272
+irreducible two dimensional complex
+–, 327
+modular –, 330, 354, 359
+rational –, 272
+two-dimensional – over a finite field,
+330
+unramified –, 272
+Galois-type – of the Weil group, 290
+number of –s by a quadratic form,
+303, 337
+spinor –, 337
+standard –, 336
+Restricted generality quantor, 113
+Restricted topological product, 147
+Riemann hypothesis, 21, 102
+– for an algebraic variety over a finite
+field, 265
+generalized, 290
+Generalized –, 67
+generalized –, 276
+Riemann periodicity relations, 228
+Riemann surface, 195, 421, 423
+Riemann-Roch theorem for curves, 213
+
+512
+
+Index
+
+Riemannian form, 227, see form
+Ring
+– of arithmetical type, 194
+Ring
+– of p-adic integers, 136
+complete intersection –
+local –, 370
+Gorenstein –
+local –, 371
+Integrally closed –, 127
+Krull –, 133
+Noetherian –, 127
+of integers in a number field, 36
+of residue classes, 13
+Valuation –, 133
+Ring of adeles, 146
+Ring of integers of a number field, 116,
+127
+Root data, 335
+Rosatti involution, 230, 250
+Ruler and compass method, 172
+S-unit, 152
+Sato–Tate Conjecture, 49, 271, 328, 334
+Scew homomorphism, 179
+Scheme, 196
+– of arithmetic type, 196
+– of geometric type, 196
+– over Finite Field, 263
+aﬃne –, 196
+irreducible –, 196
+Scheme
+K- –, 196
+projective –, 198
+Schottky group, 419, 421, 422
+Schottky uniformization, 416, 419, 423
+Schur multiplier, 180
+Selberg trace formula, 339
+Selmer group
+– of an Abelian variety, 229
+Generalized – –of a Galois module,
+375
+of a Galois module, 375
+of an elliptic curve, 224, 375
+Semi-simplification of a representation,
+275
+semistable, 345
+Separable field extension, 117
+
+Serre’s conjecture on Galois representations over finite fields, 330,
+354
+Shafarevich Conjecture
+for elliptic curves, 249
+Shafarevich conjecture, 247, 248
+on bad reduction, 259
+on finiteness, 251
+Shafarevich Theorem, 249
+Shafarevich–Tate group, 205
+of an elliptic curve, 224
+Shafarevich-Tate group
+– of an Abelian variety, 229
+Sheaf
+ample –, 201, 213
+canonical –, 201
+invertible –, 200
+metrized invertible –, 209
+very ample –, 201
+shift operator, 443
+Shimura variety, see Variety
+Shimura–Taniyama–Weil Conjecture,
+320, 330, 341
+Siegel modular group, 231
+Siegel Theorem, 249
+Siegel upper half space, 230
+Siegel’s formula
+– for representation numbers for
+quadratic forms, 232
+Siegel’s Theorem, 247, 250
+Sieve
+Eratosthenes –, 10
+Sign of an elliptic curve, 322
+Simple central algebra, 184
+Simple function, 103
+Singular point, 200
+Singular series, 34
+Skolem–Noether theorem, 186
+Smale space, 443
+Smoothness of a natural number, 86, 90
+Solution
+Solution
+L-valued, 191
+Solvable set, 112
+Sophie Germain prime, 68
+Specialization, 194
+spectral triples, 421
+Spectrum of a ring, 193
+Spiegelungssatz
+
+Index
+Leopoldt’s Spiegelungssatz, 128
+Split
+a place –s completely, 160
+Prime which –s completely in an
+extension, 129
+Stark’s conjectures, 171
+Stereographic projection, 25
+Structural morphism, 196
+Surface
+arithmetical –, 211, 399
+surface
+– Del Pezzo, 203
+suspension flow, 443
+Symplectic group, 226
+Tamagawa number, 234
+tangle of bounded geodesics, 421
+Tannakian category, 293
+Tate curve, 219, 299
+Tate field, 143
+Tate module
+– of a number field, 244
+– of an Abelian variety, 239
+– of an elliptic curve, 238
+– of the multiplicative group, 238
+Tate’s conjecture, 248
+for Abelian varieties, 252
+for elliptic curves, 249
+on isogenies, 252
+Teichmüller representative, 136, 142
+Tensor product of fields
+Theorem on –, 119
+Theorem
+– of Coates-Wiles, 323
+– of Deligne-Serre, 119, 327
+finiteness for isogenies, 252
+Franchis de, 249
+on semisimplicity, 253
+Dirichlet, 250
+finiteness for forms of an Abelian
+variety, 251
+Hermite, 248–250
+Kronecker-Weber –, 119
+Main – of Galois theory, 117
+Minkowski, 248
+Shafarevich, 249
+Siegel, 247, 249, 250
+Torelli, 250
+Weil, 252
+
+513
+
+Theta function, 30
+cubic analogue of the –, 335
+Theta series, 303
+Thom isomorphism, 444
+Thue equation, 58
+Thue-Siegel-Roth theorem, 57
+Torelli’s Theorem, 250
+Torelli’s theorem, 229
+Torsion
+Torsion
+– of a cubic curve over Q, 41
+Torsor, 206
+totally ramified extension, 143
+Trace, 36
+– of Frobenius endomorphisms, 242
+– of an algebraic number, 116, 120
+Distribution of –s of Frobenius
+elements, 271
+Reduced –, 186
+Transcendental number, 61
+Transfer homomorphism, 162
+Transform
+Mellin –, 4
+Trap-door function, 64
+Unit in a number field, 121
+Unramified
+– integral extension, 195
+– place of a field, 158
+Unramified extension, 143
+Upper half plane, 296
+Valuation, 132
+– ring, 133
+Variety, 199
+Abelian, see Abelian variety
+absolutely (or geometrically)
+irreducible –, 199
+Kuga-Sato –, 318
+Shimura –, 231
+variety
+– Fano, 203
+– general type, 203
+– intermediate type, 203
+Verlagerung, see Transfer homomorphism
+Waring’s problem, 35
+Washington’s conjecture, 246
+
+514
+
+Index
+
+Weber-Fueter theorem, 240
+Weierstrass normal form, 38, 214
+Weierstrass product expansion, 286
+Weil conjectures on the zeta function of
+a scheme over a finite field, 265
+Weil group, 288
+Weil pairing
+– on an Abelian variety, 226
+– on an elliptic curve, 219
+Weil’s inverse theorem, 312
+analogue of–for GL(3), 336
+Weil’s Theorem
+
+for Abelian varieties over finite fields,
+252
+Wild invariant of a representation, 329
+Zariski topology, 193
+Zeta function
+– of a hypersurface, 268
+– of an arithmetic scheme, 261
+Dedekind –, 276
+Hasse-Weil – –, 437
+Riemann –, 19, 20, 261
+zeta function
+– of a modular curve, 319
+
+

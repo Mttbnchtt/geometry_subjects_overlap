@@ -1,0 +1,1506 @@
+
+Index
+
+absolute conic, 238, 571
+absolute coordinate, 41
+absolute distance, 598
+absolute envelope, 571
+absolute polar, 571
+absolute pole, 571
+absolute quadric, 238
+actual line, 572
+actual part
+
+of a linear variety, 82
+of a projective closure, 75
+
+actual point, 75, 572
+adapted basis, 34
+affine class, 94
+
+of a quadric, 281
+affine classification, 94
+
+of quadrics, 281
+affine coordinates, 72
+affine equation
+
+of a linear variety, 73
+of a quadric, 279
+
+affine geometry, 94
+affine group, 89
+affine invariant, 94
+
+of a quadric, 284
+affine linear variety, 72
+affine property, 94
+affine quadrics, 277
+affine ratio, 74
+affine reference, 72
+
+of a projective closure, 80
+affine relation, 94
+affine segment, 96
+affine space, 72
+affine transformation, 73
+affine type, 94
+
+of a quadric, 281
+affinely equivalent, 94
+
+affinity, 73
+between projective closures, 88
+
+algebraic condition, 369
+analytic geometry, xi
+angle of parallelism, 584
+antipolar line, 561
+apolarity, 397
+associated collineation
+
+to a correlation, 541
+to a pair of quadrics, 532
+
+associated morphism, to an affinity, 74
+associated pencil, to a range, 395
+associated reference
+
+to a reference of a conic, 319
+to an affine reference, 79
+
+associated vector space, to an affine
+space, 72
+
+asymptote, 297
+asymptotic cone, 297
+axiom, 568
+axis
+
+of a biaxial collineation, 172
+of a conic with proper centre, 442
+of a cylinder, 301
+of a hyperbolic transformation, 595
+of a parabola, 445
+of a paraboloid, 463
+of a perspectivity between pencils
+
+of lines, 138
+of a quadric, 473
+of a three-space quadric with proper
+
+centre, 462
+of homology, 167
+of revolution, 460
+
+barycentre, 98
+of a simplex, 99
+of a triangle, 98
+
+608 Index
+
+barycentric coordinates, 98
+base field, xv, 5
+base locus of a pencil, 376
+base point, 376
+
+imaginary, 376
+real, 376
+
+base variety, 102
+belongs, a rational curve to Pn, 364
+biaxial collineation, 172
+bidual space, 119
+bisector lines, 244
+bitangent conics, 383
+bitangent pencil, 383
+Bolyai–Lobachevsky’s theorem, 584
+Brianchon’s theorem, 326
+bunch of linear varieties, 25
+bundle of hyperplanes, 101
+
+camera, 255
+CCD, 255
+finite, 255
+pinhole, 255
+
+canonical equations, 406
+canonical form, 498
+canonical matrix, 498
+Carnot’s theorem, 308
+categorical, axioms, 570
+CCD camera, 255
+central projection, 92
+centre
+
+of a horocycle, 589
+of a quadric, 295
+of a bunch of linear varieties, 25
+of a camera, 255
+of a circle in non-Euclidean
+
+geometry, 588
+of a cylinder, 301
+of a degenerate involution, 422
+of a hyperbolic transformation, 595
+of a perspectivity, 27
+of a projection, 25
+of a radial vector field, 76
+
+of a stereographic projection, 338
+of an elliptic rotation, 597
+of an involution, 320
+of homology, 167
+of perspective, 554
+
+centroid, 98
+Ceva’s theorem, 98
+characteristic
+
+of a collineation, 509, 516
+of a correlation, 541
+of a regular pencil of quadrics, 529
+of an eigenvalue, 509
+
+characteristic divisor, 377
+characteristic equation, 378
+characteristic matrix, 504
+
+of a correlation, 539
+of a pencil of quadrics, 523
+
+characteristic polynomial
+of a collineation, 509
+of a correlation, 541
+of a pencil of quadrics, 378
+
+characteristic root, 540
+characteristic system, 525
+choice of the cyclic points, 240
+chord
+
+of a normal rational curve, 414
+of a quadric, 205
+
+circle, 439
+non Euclidean, 588
+
+circle of distance, 560
+circular points, 240
+circumscribed
+
+m-gon to a conic, 325
+conic to a quadrivertex, 380
+conic to a triangle, 325
+conic to an m-gon, 325
+quadrilateral to a conic, 380
+sphere, 487
+
+Clifford’s theorem, 413
+codimension, 7
+collinear points, 13
+collinear quadruple, 61
+
+
+
+Index 609
+
+collineation, 18
+complete intersection quartic, 534
+complete quadric, 226
+complete quadrilateral, 20
+complete quadrilateral theorem, 64
+complete system of invariants
+
+affine, 95
+metric, 249
+projective, 66
+
+complex conjugation, 128
+complex extension
+
+of a linear variety, 134
+of a pencil of quadrics, 379
+of a projective space, 127
+of a projectivity, 134
+of a quadric, 202
+
+complex quadric, 194
+complex-conjugate
+
+linear variety, 131
+points, 128
+
+complexification
+of a projective space, 127
+of a quadric, 202
+of a vector space, 125
+
+computer vision, 553
+concurrent, linear varieties, 13
+condition on quadrics
+
+algebraic, 369
+simple, 369
+
+imposed by a point, 368
+linear, 368
+
+simple, 368
+cone, 228
+
+affine, 291, 302
+imaginary, 266
+isotropic, 238
+ordinary, 229, 266
+projecting a twisted cubic, 424
+real, 266
+
+confocal conics, 455
+confocal range
+
+of conics, 455
+
+of quadrics, 466
+conformal centre, 564
+congruence, 249
+
+non-Euclidean, 593
+congruent quadrics, 438
+congruent reduced equations, 473
+conic, 194
+conic envelope, 224
+conjugate axis, 445
+conjugate diameters, 298
+conjugate diametral hyperplane, 298
+conjugate pair, 207
+conjugate points
+
+complex, 128
+relative to a quadric, 207
+
+conjugation
+of diameters, 298
+of points
+
+complex, 128
+relative to a quadric, 207
+
+of vectors, complex, 127
+consistency, 570
+constant, xv
+constant matrix, 493
+constant vector field, 76
+constructing a conic
+
+by points, 315
+by tangents, 315
+
+contact point
+of a tangent hyperplane to a quadric,
+
+220
+of a tangent line to a quadric, 205
+of a tangent line to a rational normal
+
+curve, 415
+of tangent linear variety to a quadric,
+
+206
+containing a quadric, 371
+coordinate frame, 34
+coordinates
+
+affine, 72
+homogeneous, 36
+induced, 38
+
+610 Index
+
+of a hyperplane, 113
+of a line of P3, 340
+on a conic, 318
+projective, 36
+subordinated, 38
+
+coplanar lines, 12
+coplanar points, 13
+correlation, 173
+corresponding fundamental variety
+
+and fundamental bundle, 165
+counting solutions according to
+
+multiplicities, 358
+cross ratio, 57
+cross-axis
+
+of a projectivity between lines, 140
+of a projectivity of a conic, 323
+
+cross-axis theorem
+for conics, 322
+for lines, 140
+
+cuspidal edge, 414
+cyclic points, 240
+cyclic, collineation, 30
+cylinder, 291, 301
+
+elliptic, 291
+hyperbolic, 291
+imaginary, 291
+parabolic, 291
+
+degenerate involution, 422
+degenerate quadric, 212
+degree
+
+of a group of points, 359
+of a polynomial matrix, 493
+of a rational curve, 363
+of a rational map, 361, 393
+
+dehomogenizing
+an equation of a quadric, 279
+equations of an affine linear variety,
+
+82
+dependent points, 14
+Desargues’ theorem, 23, 110
+
+on pencils of quadrics, 391
+
+on quadrivertices, 431
+descriptive geometry, 553
+determined, linear variety, 10
+diagonal
+
+of a parallelogram, 93
+of a quadrilateral, 21
+
+diagonal point, of a quadrivertex, 21
+diagonal triangle
+
+of a quadrivertex, 23
+of a quadrilateral, 23
+
+diagonal vanishing point, 560
+diameter, 297
+diametral variety, 297
+dilation ratio of two polynomials, 506
+dimension
+
+of a linear variety, 7
+of a projective space, 6
+
+direction
+of a vector, 75
+of an affine variety, 85
+
+director subspace, 73
+directrix, 588
+
+of a horocycle, 589
+of a conic with proper centre, 449
+of a parabola, 454
+of an involution of a twisted cubic,
+
+426
+discriminant, of a degree-two
+
+homogeneous equation, 143
+divisor, 359
+
+of solutions, 359
+double contact pencil, 387
+double hyperplane, 214
+double line, 213
+double plane, 213
+double point, 211
+dual coordinates, 113
+dual of a correlation, 175
+dual projectivity, 118
+dual reference, 113
+dual space, 101
+dual statement, 108
+
+
+
+Index 611
+
+dual term, 109
+
+eccentricity
+of conics with proper centre, 451
+of parabolas, 454
+
+edge
+of a simplex, 20
+of a trihedron, 110
+
+effective divisor of P1, 359
+element
+
+of a linear figure, 20
+of a quadric, 195
+
+elementary divisor
+of a collineation, 508
+of a constant matrix, 504
+of a correlation, 540
+of a polynomial matrix, 500
+
+elementary Jordan matrix, 510
+elementary matrices, 501
+elementary operation, 495
+ellipse, 290
+ellipsoid, 290
+elliptic axiom, 570
+elliptic cylinders, 291
+elliptic distance, 579
+elliptic geometry, 570
+elliptic model, 571
+elliptic projectivity, 146
+elliptic reflection, 594
+elliptic transformation, 593
+ends
+
+of a chord
+of a quadric, 205
+of a rational normal curve, 414
+
+of an affine segment, 96
+envelope
+
+of a quadric, 224
+of a quadric of a linear variety, 236
+of a rational normal curve, 413
+
+enveloped quadric, 224, 236
+equation
+
+of a group of points of P1, 359
+
+of a pair of points, 145
+of a projectivity between lines, 136
+
+symmetric, 137
+of a quadric, 196
+of the fixed points of a projectivity,
+
+146
+equations
+
+of a linear variety
+homogeneous, 46
+implicit, 46
+parametric, 44
+
+of a projectivity, 54
+of a rational map, 393
+of the centre, 296, 302
+
+equidistant curve, 589
+equilateral hyperbola, 445
+equinharmonic set, 65
+equivalent
+
+polynomial matrices, 495
+projective structures, 6
+
+Erlangen Program, 94
+Euclidean geometry, 95
+Euclidean model, 571
+Euclidean plane, 238
+Euclidean space, 238
+extension of an affinity, 88
+exterior of a quadric, 274
+exterior points, 274
+
+face
+of a simplex, 20
+of a trihedron, 110
+of the reference, 34
+
+Feuerbach’s circle, 489
+figure, 29
+
+linear, 20
+finite camera, 255
+finite part
+
+of a linear variety, 82
+of a projective closure, 75
+
+fixed hyperplane, 160
+fixed linear variety, 160
+
+612 Index
+
+fixed point, 145, 160
+flat pencil, 342
+focal conic, 465
+focal distance, 560
+focal point, 414
+focal properties, 447
+focal radius, 449
+focus
+
+of a conic, 449
+imaginary, 449
+
+of a parabola, 454
+of a quadric, 465
+
+fourth harmonic, 64
+free vector, 72
+Frégier point, 488
+fundamental bundles, 164
+fundamental point, of a quadratic
+
+transformation, 431
+fundamental simplex, 34
+fundamental tetrahedron, 34
+fundamental triangle, 34
+
+of an ordinary quadratic
+transformation, 431
+
+fundamental varieties
+of a collineation, 162
+of a correlation, 543
+
+further intersection point, 416
+
+general homology, 167
+general pencil, 385
+generating
+
+a conic, 309
+a conic envelope, 311
+
+generator
+of a degenerate quadric, 231
+of a ruled quadric of P3, 266, 328
+
+going through a quadric, 371
+Grassmann formula, 11
+
+affine, 96
+group of points, 359
+group of solutions, 359
+
+half-focal separation, 451
+
+half-line, hyperbolic, 600
+harmonic biaxial collineation, 172
+harmonic construction, 65
+harmonic homology, 170
+harmonic polar, 69
+harmonic pole, 70
+harmonic set, 63
+harmonically divide, 64, 369
+Hesse’s theorem, 251
+hexagon, 325
+homogeneous coordinates, 36
+homogeneous parameters, 405
+homogenizing
+
+an equation of a quadric, 279
+equations of an affine linear variety,
+
+82
+homographic projective spaces, 16
+homographic sequences, 528
+homography, 16
+homological triangles, 189
+homology, 167
+
+general, 167
+special, 167
+
+homothetic elementary divisors, 506
+homothetic invariant factors, 506
+homothetic polynomials, 506
+homothety, 167
+horizon, 556
+horizontal line, 556
+horizontal plane, 556
+horocycles, 589
+hyperbola, 290
+hyperbolic cylinder, 291
+hyperbolic distance, 576
+hyperbolic geometry, 570
+hyperbolic glide, 596
+hyperbolic model, 571
+hyperbolic projectivity, 146
+hyperbolic transformation, 593
+hyperboloid
+
+of one sheet, 290
+of two sheets, 290
+
+
+
+Index 613
+
+hyperbundle, 102
+hyperplane, 7
+
+at infinity, 75
+counted twice, 214
+improper, 75
+of homology, 167
+
+hyperplane coordinates, 113
+hyperplane section, 198
+hyperplane-pair, 214
+hyperplane-quadrics, 224
+
+ideal line, 572
+ideal point, 572
+
+of a horocycle, 589
+image of a quadric, 197
+image plane, 255
+imaginary circle, 439
+imaginary cone, 266
+imaginary conic, 265
+imaginary cylinder, 291
+imaginary linear varieties, 134
+imaginary point, 127
+
+of a quadric, 202
+of a real linear variety, 134
+
+imaginary quadric, 266
+imaginary sphere, 439
+imaginary tangent hyperplane, 218
+imaginary vectors, 125
+improper hyperplane, 75
+improper line, 75
+improper linear variety, 81
+improper part
+
+of a linear variety, 82
+of an affine linear variety, 83
+
+improper plane, 75
+improper point, 75
+
+imaginary, 136
+of an affine linear variety, 83
+
+improper section, 278
+improper vertex, 301
+incidence quadric, 250
+incidence set, 174
+
+incident subspace, 45
+independent conditions on quadrics, 372
+independent linear varieties, 32
+independent points, 14
+index
+
+of a quadric, 262
+of the improper section, 284
+
+inner product, 238
+inscribed
+
+m-gon in a conic, 325
+conic in a quadrilateral, 381
+conic in an m-gon, 325
+quadrivertex in a conic, 380
+triangle in a conic, 325
+
+inside of a quadric, 274
+interior
+
+of a quadric, 274
+of an affine segment, 96
+
+interior point, 96, 274
+intersection
+
+of a quadric and a linear variety, 198
+of linear varieties, 9
+
+invariant
+absolute, 478
+affine, 94
+continuous, 447
+metric, 249
+of a collineation, 163
+of a homology, 170
+of a hyperbolic projectivity, 148
+of a quadric
+
+affine, 284
+metric, 482
+projective, 261, 264
+
+of an elliptic projectivity, 151
+projective, 66
+
+invariant factor
+of a collineation, 508
+of a constant matrix, 504
+of a polynomial matrix, 498
+
+invariant hyperplane, 160
+invariant linear variety, 160
+
+614 Index
+
+invariant point, 160
+invertible matrix, 493
+involution, 153
+
+degenerate, 422
+determined by two pairs, 156
+of conjugate diameters, 300
+of conjugation, 219
+of orthogonality, 240
+
+involutive collineation, 153
+involutive pair, 154
+involutive projectivity, 153
+isolated fixed point, 162
+isometry, 248
+isotropic cone, 238, 439
+isotropic line, 238
+
+join
+of affine linear varieties, 73
+of projective linear varieties, 9
+
+Jordan block, 510
+Jordan matrix, 510
+
+of a collineation, 513
+
+kernel of a bundle of hyperplanes, 102
+Klein quadric, 341
+
+Laguerre’s formula, 242
+leading coefficient, xv
+leading monomial, xv
+length
+
+of a chord, 438
+of a non-Euclidean segment, 600
+of a semi-axis, 445, 462
+of a semi-diameter, 492
+of an axis, 445
+
+level line, 556
+level plane, 556
+line, 7
+
+at infinity, 75
+ideal, 572
+of sight, 560
+ultra-ideal, 572
+
+line coordinates, 113, 340
+
+line section, 198
+line-complex, 345
+
+linear, 345
+non-special, 345
+special, 345
+
+line-conic, 224
+line-pair, 214
+linear condition on quadrics, 368
+linear family
+
+of quadric envelopes, 392
+of quadrics, 366
+
+linear figure, 20
+linear system
+
+of quadric envelopes, 392
+of quadrics, 366
+
+linear variety, 7
+affine, 72
+defined by equations, 46
+of centres, 301
+of double points, 211
+projecting a point, 25
+
+linearly dependent points, 14
+linearly independent points, 14
+Lobachevsky distance, 576
+lone vertex, 275
+lying between, 96
+
+main theorem of the projective geome-
+try, 52
+
+major axis, 445
+matrix
+
+of a change of coordinates, 40
+of a collineation, 53
+of a correlation, 173
+of a projectivity, 53
+of a quadric, 195
+
+median of a triangle, 98
+Menelaos’ theorem, 98
+metric classification, 249
+
+of quadrics, 438
+metric geometry, 95
+metric invariant, 249
+
+
+
+Index 615
+
+of a quadric, 482
+rational, 483
+
+metric properties, 249
+metric relations, 249
+m-gon, 325
+midpoint, 74
+
+of certain lines, 74
+minor axis, 445
+model, 568
+modulus
+
+of a hyperbolic projectivity, 148
+of an elliptic projectivity, 151
+
+Monge sphere, 492
+monic, polynomial, xv
+motion, 246
+multiplicativity of the cross ratio, 58
+multiplicity
+
+of a point
+in a group of points, 359
+in an intersection, 410
+
+of a solution, 357
+
+net
+of conics, 367
+of quadrics, 367
+
+nine-points circle, 489
+nine-points conic, 433
+non-degenerate conic
+
+with points, 309
+non-degenerate quadric, 212
+non-Euclidean geometry, 570
+non-ruled quadrics, 266
+non-transverse axis, 445
+normal to a quadric, 438
+null-system, 174
+
+one point perspective, 567
+opposite faces, of a simplex, 20
+opposite rulings, of a quadric, 331
+opposite sides
+
+of a quadrivertex, 21
+of an m-agon, 325
+
+opposite vertex and side of a triangle, 19
+
+opposite vertices
+of a quadrilateral, 21
+of an m-gon, 325
+
+order of a linear condition on quadrics,
+368
+
+ordinary cone, 266
+orthogonal circles, 487
+orthogonal directions, 239
+orthogonal hyperplanes, 240
+orthogonal linear varieties, 239
+orthogonal lines, 573
+orthogonal projection, 240
+orthogonal subspace, 45
+orthonormal reference, 241
+osculating hyperplane, 413
+outpolar, 397
+outside of a quadric, 274
+
+pair, xv
+of an involution, 153
+of coincident elements, xv
+of hyperplanes, 214
+
+coincident, 214
+distinct, 213
+imaginary, 213
+
+of lines, 214
+of pencils, 452
+of planes, 214
+of points, 204
+
+coincident, 204
+distinct, 204
+
+Pappus’ theorem, 24
+parabola, 290, 295
+parabolic cylinder, 291, 301
+parabolic projectivity, 146
+paraboloid, 295
+
+elliptic, 290
+hyperbolic, 291
+
+parallel, 491
+parallel displacement, 597
+parallel linear varieties, 73, 85
+parallel lines, 572
+
+616 Index
+
+parallelogram, 93
+parameter of a parabola, 447
+parameterization map, 362
+parameters
+
+of a point
+in a linear variety, 44
+on a rational curve, 362
+
+of a quadric in a pencil, 375
+parametric equations
+
+of a conic, 319
+of a linear variety, 43, 44
+of a rational curve, 362
+of a rational normal curve, 405
+
+parametric model, 568
+parametric representation of an involu-
+
+tion, 159
+Pascal’s theorem, 325
+pencil
+
+of conics, 367
+bitangent, 383
+double contact, 387
+general, 385
+simple contact, 386
+triple contact, 387
+
+of hyperplanes, 102
+of lines, 102
+of planes, 102
+of quadrics, 367
+
+pencil-range, 397
+pentagon, 325
+perpendicular directions, 239
+perpendicular hyperplanes, 240
+perpendicular linear varieties, 239
+perpendicular lines, 573
+perspective, 553, 554
+perspective linear varieties, 27
+perspective map, 554
+perspective triangles, 33, 189
+perspective view, 554
+perspectivity, 27
+picture plane, 554
+pinhole camera, 255
+
+Plücker coordinates, 340
+Plücker map, 340
+Plücker quadric, 341
+plane, 7
+
+at infinity, 75
+of a triangle, 19
+of homology, 167
+of lines, 101
+
+plane coordinates, 113
+plane section, 198
+plane-pair, 214
+point, 5
+
+actual, 75, 572
+at infinity, 75
+counted twice, 204
+ideal, 572
+imaginary, 127
+improper, 75
+of a quadric, 195
+of sight, 554
+proper, 75
+real, 127
+ultra-ideal, 572
+
+point coordinates, 113
+point-pair, 204
+point-quadric, 224
+polar hyperplane, 209
+
+constant, 401
+variable, 401
+
+polar line
+relative to a conic, 209
+relative to a null system, 345
+relative to a quadric, 220
+
+polar plane, 209, 220
+polar quadric, 253
+polar variety, 220
+polarity, 176
+
+relative to a degenerate quadric, 231
+relative to a non-degenerate quadric,
+
+219
+relative to a rational normal curve,
+
+414
+
+
+
+Index 617
+
+pole, 220
+polynomial matrix, 493
+Poncelet’s porism, 351
+porism, 351
+postulate, 568
+preserving cross ratios, 61
+primitive term, 568
+principal axes
+
+of a conic with proper centre, 442
+of a quadric, 473
+of a three-space quadric with proper
+
+centre, 462
+principal directions, 461, 470
+principal distance, 560
+principal reference
+
+of a conic, 447
+of a quadric, 473
+of a three-space quadric, 465
+
+principal vanishing point, 560
+principle of continuity, 106
+principle of duality, 108
+projection
+
+central, 92
+from a linear variety, 25, 26
+
+onto a supplementary, 26
+from points of a rational normal
+
+curve, 416
+of a point, 25
+of a point of a rational normal
+
+curve, 416
+of the points of a conic, 316
+orthogonal, 240
+parallel, 92
+
+projective class, 29
+of a quadric, 256
+of an object, 66
+of linear figures, 20
+
+projective classification, 66
+projective closure
+
+of an affine linear variety, 83
+of an affine space, 78
+
+projective coordinates, 36
+
+projective equivalence, 66
+of improper sections, 284
+of quadrics, 256
+
+projective extension
+of an affine linear variety, 83
+of an affinity, 88
+
+projective generation
+of cones, 352
+of conic envelopes, 311
+of conics, 309
+of ruled quadrics, 336
+
+projective geometry, xi
+projective group, 18
+projective invariant, 66
+
+of a quadric, 261, 264
+projective line, 6
+projective plane, 6
+projective property, 29
+projective reference, 34
+projective relation, 30
+projective space, 5
+projective subspace, 7
+projective three-space, 6
+projective type, 66
+
+of a quadric, 256
+projectivity, 16
+projectivization, 6
+proper linear variety, 81
+proper parameterization map, 363
+
+of a rational normal curve, 405
+proper parametric equations, 363
+
+of a rational normal curve, 405
+proper part
+
+of a linear variety, 82
+of a projective closure, 75
+
+proper point, 75
+imaginary, 136
+
+properly tangent, 205
+
+quadrangle, 21
+quadratic transformation, 431
+quadric, 194
+
+618 Index
+
+of revolution, 458
+complete, 226
+degenerate, 212
+non-degenerate, 212
+with centre, 295
+with proper centre, 295
+
+quadric envelope, 224
+quadric locus, 224
+quadrilateral, 20
+
+affine, 93
+of A2, 93
+skew, 383
+
+quadrivertex, 21
+quartic curve, 534
+
+radial vector field, 76
+radical axis, 486
+range of quadrics, 395
+rank
+
+of a polynomial matrix, 493
+of a quadric, 212
+of a singular projectivity, 183
+of the improper section, 284
+
+ratio
+of a radial vector field, 76
+of a similarity, 246
+
+rational curve, 362
+plane, 362
+
+rational developable, 413
+rational invariant, 483
+rational map, 361, 393
+rational normal curve, 404
+ray, hyperbolic, 600
+real linear varieties, 133, 134
+real non-degenerate conic, 265
+real point, 127
+
+of a quadric, 202
+real quadric, 194
+real reference, 129
+real tangent hyperplane, 218
+real vector, 125
+receding line, 557
+
+receding plane, 555
+reciprocity, 176
+
+of polar hyperplanes, 210
+reduced characteristic matrix, 532
+reduced equation
+
+affine, 284
+metric, 444, 446, 462–465, 472
+projective, 260
+
+reduced form of a pencil of quadrics, 532
+reduced matrix
+
+of a real collineation, 519
+of a simple correlation, 548
+
+reduced representation
+of a pencil of quadrics, 532
+
+reference
+affine, 72
+
+of a projective closure, 80
+induced, 38
+projective, 34
+subordinated, 38
+
+reflection
+hyperbolic
+
+in a line, 594
+in a point, 594
+
+in a hyperplane, 172
+in a point, 172
+
+regular matrix, 493
+regular pencil of quadrics, 377
+representation, 554
+representative
+
+of a point, 5
+of a projectivity, 16
+of a quadric, 194
+of a singular projectivity, 182
+
+revolution, quadric of, 458
+rotation, 166
+
+elliptic, 597
+hyperbolic, 596
+
+ruled hyperboloid, 290
+ruled quadric, 266, 328
+ruling, 329
+
+
+
+Index 619
+
+same sign, relative to a quadric, 273
+scalar, xv
+scalar product, 238
+secant line, 205
+section
+
+of a linear variety by another, 13
+of a quadric by a linear variety, 198
+
+section map, 26, 316
+segment
+
+affine, 96
+hyperbolic, 582
+projective, 66
+
+Segre symbol
+of a collineation, 509, 516
+of a correlation, 541
+of a pencil of quadrics, 525
+
+self-polar line, with respect to a null
+system, 346
+
+self-polar reference, 257
+self-polar simplex
+
+for a pencil of quadrics, 401
+for a quadric, 257
+
+semi-axis, 445
+separate, 65
+Seydewitz’s theorem, 251
+side
+
+of a quadrilateral, 21
+of a quadrivertex, 21
+of a skew quadrilateral, 383
+of a triangle, 19
+of an m-gon, 325
+
+similar matrices, 504
+similarity, 245, 247
+simple case, 546
+simple contact pencil, 386
+simple correlations, 546
+simple point, 215
+simplex, 20
+
+affine, 93
+of An, 93
+of the reference, 34
+
+singular correlation, 183
+
+singular hyperplane, 234
+singular point
+
+of a quadric, 211
+of a singular projectivity, 183
+
+singular projectivity, 182
+singular variety, of a singular
+
+projectivity, 183
+skew lines, 12
+skew quadrilateral, 383
+solution, of a homogeneous equation in
+
+two variables, 356
+space
+
+of hyperplanes, 101
+of planes, 101
+of quadric envelopes, 392
+of quadrics, 365
+
+spanned linear variety, 10
+spans Pn, a rational curve, 364
+special homology, 167
+spectral theorem for symmetric
+
+morphisms, 491
+sphere, 439
+Steiner’s theorem, 309
+
+converse, 311
+dual, 311
+dual of the converse, 313
+
+stereographic projection, 338
+stereoscopic projection, 189
+structural map, of a projective space, 5
+supplementary linear varieties, 12
+symmetric equation of a projectivity, 137
+symmetric morphism, 491
+system of eigenvalues, 509
+system of generators of a ruled quadric,
+
+329
+system of the centre, 296, 302
+
+tangent cone, 206
+along a hyperplane section, 230
+
+tangent hyperplane
+to a degenerate quadric along
+
+a generator, 232
+
+620 Index
+
+to a quadric, 215
+imaginary, 218
+real, 218
+
+tangent line
+to a conic, 215
+to a quadric, 205
+
+at a point, 205
+to a rational normal curve, 415
+
+tangent linear variety to a quadric, 206
+tangent plane to a quadric, 215
+tangent quadrics
+
+along a hyperplane section, 230
+at a point, 215
+
+tetrahedron, 20
+Thales’ theorem, 92
+three perpendiculars theorem, 254
+three points perspective, 567
+touch, 206
+transform
+
+of a linear variety by a correlation,
+173
+
+of a quadric by a projectivity, 197
+translation, 167
+
+hyperbolic, 595
+transverse axis, 445
+triangle, 19
+triangles
+
+homological, 189
+perspective, 33, 189
+
+trihedron, 110
+trilinear coordinates, 255
+trimetric coordinates, 255
+triple contact pencil, 387
+twisted cubic, 404, 420
+two points perspective, 567
+
+ultra-ideal line, 572
+ultra-ideal point, 572
+
+undefined polar hyperplane, 209
+undetermined
+
+improper section, 278
+polar hyperplane, 209
+section of a quadric, 198
+
+unisecant, 425
+unit hyperplane, 113
+unit point, 34
+unordered pair, xv
+
+vanishing point, 555
+diagonal, 560
+principal, 560
+
+variety of centres, 301
+variety of double points, 211
+vector field, 75
+vector on an affine linear variety, 73
+vector space
+
+of a projective space, 5
+associated to an affine space, 72
+
+vertex
+improper, 301
+lone, 275
+of a cone, 228
+of a conic with proper centre, 442
+of a parabola, 445
+of a paraboloid, 463
+of a parallelogram, 93
+of a projective reference, 34
+of a quadrangle, 21
+of a quadrilateral, 21
+of a simplex, 20
+of a skew quadrilateral, 383
+of a three-space quadric, 462
+of a triangle, 19
+of a trihedron, 110
+of an m-agon, 325

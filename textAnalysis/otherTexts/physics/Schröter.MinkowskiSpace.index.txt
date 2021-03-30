@@ -1,0 +1,191 @@
+
+Index
+1-forms 96
+
+Aberration
+–of light 87
+addition of velocities
+– relativistic 39
+atlas
+– complete 91
+
+canonical projection 110
+causal 47, 61
+causal cone 58, 62
+–backward 62
+– forward 62
+– future 62
+–past 62
+causal future 63
+causal past 63
+causal relation 62
+causality 62
+chronological future 62, 63
+chronological past 63
+chronological relation 62
+chronology 62
+Ck -atlas 91
+clock of ! 71
+clock on ![I] 71
+coordinates
+–non-Minkowskian 52
+cosmological constant 4
+cotangent space 96
+covariant derivatives 59
+covector field 114
+covectors 96
+
+Decomposition
+–nonorthochronous Lorentz matrices 35
+decomposition
+–nonuniqueness 36
+–of products 39
+decomposition theorem
+– interpretation of the 34
+– Lorentz matrices 29
+di!erence angle
+–of the aberration 89
+direct sum 104
+
+energy momentum tensor 4
+EPS axiomatic 1
+Euler decomposition 42
+Euler Theorem 41
+
+finite selection functions
+–over Y 108
+first clock e!ect 82
+free vector space
+–over the set Y 109
+future-pointing 56, 59, 62
+
+gravitational constant
+– Einsteinian 4
+
+inertial system 70
+initial observer 70
+inner product 99
+–definite 99
+– indefinite 99
+instant observer 70
+
+length contraction 83
+light ray 69
+light signal 69
+light world line 69
+lightcurve 68
+lightlike 47, 61
+lightlike signal 69
+linear forms 96
+local Minkowski coordinates 6
+Lorentz 1
+Lorentz group 10
+Lorentz manifold 3
+Lorentz matrices
+–orthogonal 21
+– rotational 21
+Lorentz matrix 6
+–antichronous 15
+–orthochronous 15
+–proper 15
+– special 18
+Lorentz transformation 6
+–homogeneous 10
+–orthochronous 24
+–proper 24
+
+122 " Index
+
+– special 24
+Lorentz vector space 3, 99
+Lorentzian manifold 55, 115
+
+manifold 1
+– n -dimensional Ck 91
+–di!erentiable 91
+metric 114
+metrical tensor 114
+Minkowski basis 99
+Minkowski chart 5, 6
+Minkowski coordinate 5, 6
+Minkowski observer 70
+Minkowski reference system 70
+Minkowski space 3
+Minkowski spacetime 3
+musical operators 102
+
+negatively oriented 64
+Newtonian velocity 75
+nondegenerate 99
+
+observers 70
+OC condition 27
+orientation 60
+–of the vector space Ms 64
+oriented 60
+–negatively 60
+–positively 60
+orthogonal complement 105
+
+parallelism 59
+past-pointing 56, 59, 62
+physical equivalence map 101
+physically equivalent 101
+Poincaré group 11
+positively oriented 64
+proper time 71
+proper time clock 71
+
+quotient space 110
+
+radar chart 79
+radar coordinates 79
+reference system 70
+Ricci curvature scalar 4
+
+Ricci tensor 4
+Riemannian
+–manifold 114
+
+scalar 114
+Sch# theory 1
+semi-Riemannian 114
+signal
+–material 66
+space
+–of an observer 74
+space-time theories 1
+spacelike 47, 61
+standard clock of ! 71
+structure
+–di!erentiable 91
+
+tangent space
+–at p ! M 95
+–of p 95
+tangent vector 92
+tangent vectors
+– spacelike 49
+– timelike 47
+tensor field
+– Cj 113
+– j " k 113
+time
+–of an observer 74
+time dilation 82
+time on ![I] 71
+time orientability 55
+time orientable 55
+time orientation 55
+–onMs 56
+time parameter of ! 71
+timelike 47, 61
+twin paradox 82
+
+universal clock 73
+
+vector field 114
+–parallel 59
+
+world-curve 66
+worldline 66

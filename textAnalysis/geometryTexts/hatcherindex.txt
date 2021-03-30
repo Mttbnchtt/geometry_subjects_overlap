@@ -1,0 +1,823 @@
+
+abelian space 342, 417
+
+action of !1 on !n 342, 345, 421
+action of !1 on a covering space fiber 69
+action of a group 71, 457
+
+acyclic space 142
+
+Adams 427
+
+Adem relations 496, 501
+
+adjoint 395, 462
+
+admissible monomial 499
+
+Alexander 131, 177
+
+Alexander duality 254
+
+Alexander horned sphere 169, 170
+
+amalgamation 456
+
+aspherical space 343
+
+attaching cells 5
+
+attaching spaces 13, 456
+
+augmented chain complex 110
+
+Barratt-Kahn-Priddy theorem 374
+
+barycenter 119
+
+barycentric coordinates 103
+
+barycentric subdivision 119
+
+base space 377
+
+basepoint 26, 28
+
+basepoint-preserving homotopy 36, 357, 421
+
+basis 42
+
+Betti number 130
+
+binomial coefficient 287, 491
+
+Bockstein homomorphism 303, 488
+
+Borel construction 323, 458, 503
+
+Borel theorem 285
+
+Borsuk–Ulam theorem 32, 38, 176
+
+Bott periodicity 384, 397
+
+boundary 106, 253
+
+boundary homomorphism 105, 108, 116
+
+Brouwer 32, 114, 126, 134, 173, 177
+
+Brown representability 448
+
+BSO(n) 440
+BSU (n) 440
+bundle of groups 330
+
+Burnside problem 80
+
+cap product 239
+
+Cartan formula 489, 490
+
+category 162
+
+Cayley graph, complex 77
+
+Čech cohomology 257
+
+Čech homology 257
+
+cell 5
+
+cell complex 5
+
+cellular approximation theorem 349
+
+cellular chain complex 139
+
+cellular cohomology 202
+
+cellular homology 139, 153
+
+cellular map 157, 270, 349
+
+chain 105, 108
+
+chain complex 106
+
+chain homotopy 113
+
+chain map 111
+
+change of basepoint 28, 341
+
+characteristic map 7, 519
+
+circle 29
+
+classifying space 165
+
+closed manifold 231
+
+closure-finite 521
+
+coboundary 198
+
+coboundary map 191, 197
+
+cochain 191, 197
+
+540 Index
+
+cocycle 198
+
+coefficients 153, 161, 198, 462
+
+cofiber 461
+
+cofibration 460
+
+cofibration sequence 398, 462
+
+Cohen–Macaulay ring 228
+
+cohomology group 191, 198
+
+cohomology operation 488
+
+cohomology ring 211
+
+cohomology theory 202, 314, 448, 454
+
+cohomology with compact supports 242
+
+cohomotopy groups 454
+
+colimit 460, 462
+
+collar 253
+
+commutative diagram 111
+
+commutative graded ring 215
+
+commutativity of cup product 215
+
+compact supports 242, 334
+
+compact-open topology 529
+
+compactly generated topology 523, 531
+
+complex of spaces 457, 462, 466
+
+compression lemma 346
+
+cone 9
+
+connected graded algebra 283
+
+connected sum 257
+
+contractible 4, 157
+
+contravariant 163, 201
+
+coproduct 283, 461
+
+covariant 163
+
+covering homotopy property 60
+
+covering space 56, 321, 342, 377
+
+covering space action 72
+
+covering transformation 70
+
+cross product 210, 218, 223, 268, 277, 278
+
+cup product 249
+
+CW approximation 352
+
+CW complex 5, 519
+
+CW pair 7
+
+cycle 106
+
+deck transformation 70
+
+decomposable operation 497
+
+deformation retraction 2, 36, 346, 523
+
+deformation retraction, weak 18
+
+degree 134, 258
+
+! complex (Delta-complex) 103
+diagonal 283
+
+diagram of spaces 456, 462
+
+dihedral group 75
+
+dimension 6, 126, 231
+
+direct limit 243, 311, 455, 460, 462
+
+directed set 243
+
+divided polynomial algebra 224, 286, 290
+
+division algebra 173, 222, 428
+
+dodecahedral group 142
+
+Dold–Thom theorem 483
+
+dominated 528
+
+dual Hopf algebra 289
+
+Eckmann–Hilton duality 460
+
+edge 83
+
+edgepath 86
+
+EHP sequence 474
+
+Eilenberg 131
+
+Eilenberg–MacLane space 87, 365, 393, 410,
+
+453, 475
+
+ENR, Euclidean neighborhood retract 527
+
+Euler characteristic 6, 86, 146
+
+Euler class 438, 444
+
+exact sequence 113
+
+excess 499
+
+excision 119, 201, 360
+
+excisive triad 476
+
+Ext 195, 316, 317
+
+extension lemma 348
+
+extension problem 415
+
+exterior algebra 217, 284
+
+external cup product 210, 218
+
+
+
+Index 541
+
+face 103
+
+fiber 375
+
+fiber bundle 376, 431
+
+fiber homotopy equivalence 406
+
+fiber-preserving map 406
+
+fibration 375
+
+fibration sequence 409, 462
+
+finitely generated homology 423, 527
+
+finitely generated homotopy 364, 392, 423
+
+five-lemma 129
+
+fixed point 31, 73, 114, 179, 229, 493
+
+flag 436, 447
+
+frame 301, 381
+
+free action 73
+
+free algebra 227
+
+free group 42, 77, 85
+
+free product 41
+
+free product with amalgamation 92
+
+free resolution 193, 263
+
+Freudenthal suspension theorem 360
+
+function space 529
+
+functor 163
+
+fundamental class 236, 394
+
+fundamental group 26
+
+fundamental theorem of algebra 31
+
+Galois correspondence 63
+
+general linear group GLn 293
+good pair 114
+
+Gram-Schmidt orthogonalization 293, 382
+
+graph 6, 11, 83
+
+graph of groups 92
+
+graph product of groups 92
+
+Grassmann manifold 226, 381, 435, 439,
+
+445
+
+groups acting on spheres 75, 135, 391
+
+Gysin sequence 438, 444
+
+H–space 281, 419, 420, 422, 428
+
+HNN extension 93
+
+hocolim 460, 462
+
+holim 462
+
+homologous cycles 106
+
+homology 106
+
+homology decomposition 465
+
+homology of groups 148, 423
+
+homology theory 160, 314, 454
+
+homotopy 3, 25
+
+homotopy equivalence 3, 10, 36, 346
+
+homotopy extension property 14
+
+homotopy fiber 407, 461, 479
+
+homotopy group 340
+
+homotopy group with coefficients 462
+
+homotopy lifting property 60, 375, 379
+
+homotopy of attaching maps 13, 16
+
+homotopy type 3
+
+Hopf 134, 173, 222, 281, 285
+
+Hopf algebra 283
+
+Hopf bundle 361, 375, 377, 378, 392
+
+Hopf invariant 427, 447, 489, 490
+
+Hopf map 379, 380, 385, 427, 430, 474,
+
+475, 498
+
+Hurewicz homomorphism 369, 486
+
+Hurewicz theorem 370, 372, 390
+
+induced fibration 406
+
+induced homomorphism 34, 110, 111, 118,
+
+201, 215
+
+infinite loopspace 397
+
+invariance of dimension 126
+
+invariance of domain 172
+
+inverse limit 312, 410, 462
+
+inverse path 27
+
+isomorphism of actions 70
+
+isomorphism of covering spaces 67
+
+iterated mapping cylinder 457, 466
+
+J(X), James reduced product 224, 282, 288,
+289, 467, 470
+
+J–homomorphism 387
+join 9, 20, 457
+
+Jordan curve theorem 169
+
+542 Index
+
+K(G,1) space 87
+k invariant 412, 475
+Klein bottle 51, 74, 93, 102
+
+Künneth formula 219, 268, 274, 275, 357,
+
+432
+
+Lefschetz 131, 179, 229
+
+Lefschetz duality 254
+
+Lefschetz number 179
+
+lens space 75, 88, 144, 251, 282, 304, 310,
+
+391
+
+Leray–Hirsch theorem 432
+
+Lie group 282
+
+lift 29, 60
+
+lifting criterion 61
+
+lifting problem 415
+
+limit 460, 462
+
+lim-one 313, 411
+
+linking 46
+
+local coefficients: cohomology 328, 333
+
+local coefficients: homology 328
+
+local degree 136
+
+local homology 126, 256
+
+local orientation 234
+
+local trivialization 377
+
+locally contractible 523, 525
+
+locally finite homology 336
+
+locally path-connected 62
+
+long exact sequence: cohomology 200
+
+long exact sequence: fibration 376
+
+long exact sequence: homology 114, 116,
+
+118
+
+long exact sequence: homotopy 344
+
+loop 26
+
+loopspace 395, 408, 470
+
+manifold 231, 527, 529
+
+manifold with boundary 252
+
+mapping cone 13, 182
+
+mapping cylinder 2, 182, 347, 457, 461
+
+mapping telescope 138, 312, 457, 528
+
+mapping torus 53, 151, 457
+
+maximal tree 84
+
+Mayer–Vietoris axiom 449
+
+Mayer–Vietoris sequence 149, 159, 161, 203
+
+Milnor 408, 409
+
+minimal chain complex 305
+
+Mittag–Leffler condition 320
+
+monoid 163
+
+Moore space 143, 277, 312, 320, 391, 462,
+
+465, 475
+
+Moore–Postnikov tower 414
+
+morphism 162
+
+natural transformation 165
+
+naturality 127
+
+n connected cover 415
+n connected space, pair 346
+nerve 257, 458
+
+nonsingular pairing 250
+
+normal covering space 70
+
+nullhomotopic 4
+
+object 162
+
+obstruction 417
+
+obstruction theory 416
+
+octonion 173, 281, 294, 378, 498
+
+" spectrum 396
+open cover 459
+
+orbit, orbit space 72, 457
+
+orientable manifold 234
+
+orientable sphere bundle 442
+
+orientation 105, 234, 235
+
+orientation class 236
+
+orthogonal group O(n) 292, 308, 435
+
+p adic integers 313
+path 25
+
+path lifting property 60
+
+pathspace 407
+
+permutation 68
+
+plus construction 374, 420
+
+
+
+Index 543
+
+Poincaré 130
+
+Poincaré conjecture 390
+
+Poincaré duality 241, 245, 253, 335
+
+Poincaré series 230, 437
+
+Pontryagin product 287, 298
+
+Postnikov tower 354, 410
+
+primary obstruction 419
+
+primitive element 284, 298
+
+principal fibration 412, 420
+
+prism 112
+
+product of CW complexes 8, 524
+
+product of ! complexes 278
+product of paths 26
+
+product of simplices 278
+
+product space 34, 268, 343, 531
+
+projective plane 51, 102, 106, 212, 379
+
+projective space: complex 6, 140, 212, 226,
+
+229, 250, 282, 322, 380, 439, 491
+
+projective space: quaternion 214, 226, 230,
+
+250, 322, 378, 380, 439, 491, 492
+
+projective space: real 6, 74, 88, 144, 154,
+
+180, 212, 229, 250, 322, 439, 491
+
+properly discontinuous 72
+
+pullback 406, 433, 461
+
+Puppe sequence 398
+
+pushout 461, 466
+
+quasi-circle 79
+
+quasifibration 479
+
+quaternion 75, 173, 281, 294, 446
+
+Quillen 374
+
+quotient CW complex 8
+
+rank 42, 146
+
+realization 457
+
+reduced cohomology 199
+
+reduced homology 110
+
+reduced suspension 12, 395
+
+rel 3, 16
+
+relative boundary 115
+
+relative cohomology 199
+
+relative cycle 115
+
+relative homology 115
+
+relative homotopy group 343
+
+reparametrization 27
+
+retraction 3, 36, 114, 148, 525
+
+Schoenflies theorem 169
+
+semilocally simply-connected 63
+
+sheet 61
+
+short exact sequence 114, 116
+
+shrinking wedge 49, 54, 63, 79, 258
+
+shuffle 278
+
+simplex 9, 102
+
+simplicial approximation theorem 177
+
+simplicial cohomology 202
+
+simplicial complex 107
+
+simplicial homology 106, 128
+
+simplicial map 177
+
+simply-connected 28
+
+simply-connected 4 manifold 430
+
+singular complex 108
+
+singular homology 108
+
+singular simplex 108
+
+skeleton 5, 519
+
+slant product 280
+
+smash product 10, 223, 270
+
+spectrum 454
+
+sphere bundle 442, 444
+
+Spin(n) 291
+split exact sequence 147
+
+stable homotopy group 384, 452
+
+stable splitting 491
+
+stable stem 384
+
+star 178
+
+Steenrod algebra 496
+
+Steenrod homology 257
+
+Steenrod squares, powers 487
+
+Stiefel manifold 301, 381, 436, 447, 493
+
+subcomplex 7, 520
+
+subgraph 84
+
+544 Index
+
+surface 5, 51, 88, 93, 102, 141, 207, 241,
+
+390
+
+suspension 8, 137, 223, 466, 473
+
+suspension spectrum 454
+
+symmetric polynomials 435
+
+symmetric product 282, 365, 481
+
+symplectic group Sp(n) 226, 382, 434
+
+tensor algebra 288, 471
+
+tensor product 218, 328
+
+tensor product of chain complexes 273
+
+Thom class 441, 510
+
+Thom isomorphism 441
+
+Thom space 441, 510
+
+Toda bracket 387
+
+topological group 281
+
+Tor 263, 267
+
+torsion coefficient 130
+
+torus 34, 74, 102, 106, 227
+
+torus knot 47
+
+total space 377
+
+transfer homomorphism 175, 321
+
+tree 84
+
+triple 118, 344
+
+truncated polynomial algebra 284
+
+unique lifting property 62
+
+unitary group U (n) 226, 382, 434
+universal coefficient theorem 195, 264, 463
+
+universal cover 59, 68
+
+van Kampen 43
+
+vector field 135, 493
+
+vertex 83, 103
+
+weak homotopy equivalence 352
+
+weak topology 5, 83, 521
+
+wedge sum 10, 43, 126, 160, 202, 380, 466
+
+Whitehead product 381, 430
+
+Whitehead tower 356
+
+Whitehead’s theorem 346, 367, 418
+
+Wirtinger presentation 55

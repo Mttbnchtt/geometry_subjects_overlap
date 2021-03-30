@@ -1,0 +1,1326 @@
+action, 145, 190
+aerial, 263
+a!ne
+
+vs projective, 147, 159, 200, 210
+conic, 185
+frame, 12
+group, 19, 35, 40
+independence, 12, 33
+isometry, 44, 59
+line, 10
+mapping, 14
+plane, 10
+projection, 33
+property, 260
+quadric, 185
+space, 7
+subspace, 10
+
+a!nity, 36
+alternated, 117
+
+bilinear form, 244
+alternating
+
+group, 106, 130, 133, 140
+anallagmatic invariant, 108, 241
+angle
+
+at the circumference, 74
+geometric, 71
+of a plane rotation, 55, 78
+of a rotation, 115
+of a similarity, 81
+of two curves, 85
+of two planes, 121
+oriented, 1
+oriented (of lines), 68
+oriented (of vectors), 66
+
+Antarctic, 135
+anti-rotation, 114, 116
+apex, 271
+Apollonius, 2, 236, 238
+
+348 Index
+
+apparent contour, 299
+arc length, 261
+Archimedian, 137
+area
+
+of a spherical triangle, 121
+of a time zone, 120
+signed, 119, 286
+
+astroid, 254, 266
+asymptote, 191, 260
+axiom
+
+parallel, 2, 13, 122, 181
+axis
+
+focal, 194
+major, 193
+minor, 193
+of a proper conic, 193
+of a rotation, 113, 115
+of revolution, 269
+of the Earth, 135
+radical, 92, 107, 217, 224
+
+ball, see football
+Banach, 136
+barycenter, 26
+
+preservation of, 17
+barycentric coordinates, 36, 119, 178
+base
+
+locus, 206
+point, 94
+
+basis
+direct, 60
+orthogonal, 226
+orthonormal, 52
+
+bathroom, 136
+Beethoven, 126
+Belgian story, 238
+Bernoulli, 262
+Bézout, 207
+bifocal property, 195
+bilinear form, 43, 225
+
+alternated, 244
+symmetric, 225
+
+biruled surface, 239
+bisector, 196
+
+external, 72
+internal, 71
+perpendicular, 47
+
+bisectors, 70, 199, 219
+Black, 135
+Bonnet, 294
+bowl, 263, see cup of co"ee
+Brianchon, 243
+canonical, see natural
+cardioid, 254, 263
+
+Cartan, 242
+decomposition of, 242
+
+Cartesian
+coordinates, 12, 30
+equations, 31
+parametrization, 274
+
+catenary, 299
+Cauchy, 44, 58
+caustic, 249, 258, 263, 264
+center
+
+of a conic, 188
+of a quadric, 188, 214
+of a rotation, 78
+of a similarity, 80
+of an excircle, see excenter
+of curvature, 256
+of gravity, 27, see centroid
+of the circumcircle, see circumcenter
+of the incircle, see incenter
+
+central
+conic, 188
+dilatation, 16
+quadric, 188
+
+centroid, 27
+Ceva, 38
+Chasles, 8, 68, 208, 244
+chessboard, 174
+cicumradius, 110
+circle, 193, 216
+
+great, 120
+inversion, 84
+nine point, 62, see circle of Euler
+of Euler, 1, 61, 111, 267
+osculating, 256, 266
+small, 120
+
+circular
+group, 167, 224
+helix, 265
+points, 216
+
+circumcenter, 61
+circumcircle, 61
+circumradius, 98
+classification, 189, 193, 204, 226
+common perpendicular, 131
+compactness
+
+of the ellipse, 191, 193
+of the group O(n), 52
+of the projective space, 144
+of the sphere, 140
+
+complement
+of a conic, 244
+of a hyperplane, 40
+of a line, 36, 40, 170
+
+
+
+Index 349
+
+complete quadrilateral, 38, 61
+completion
+
+projective, 149, 164, 200
+complex exponential, 54
+complex numbers
+
+use in plane geometry, 79, 82, 99, 164
+cone, 243, 271, 289
+
+isotropy, 200
+of revolution, 238, 270
+
+confocal
+conics, 243
+family, 244
+quadrics, 244
+
+conic
+a!ne, 185, 189
+central, 188
+confocal, 243
+degenerate in a pencil, 207
+projective, 200
+proper, 190
+real, 244
+section, 238
+tangential, 243
+
+conjugacy, 100
+conjugated diameters, 236
+conjugation, 21, 35
+
+principle of, 21
+connectedness
+
+of GL(n;R)+, 63
+of O+(n), 57
+of the ellipse, 191
+of the parabola, 193
+of the projective space, 144
+
+conoid of Plücker, 296
+constrained extrema, 298
+convex, 28, 122
+
+hull, 29, 122
+coordinates, 12
+
+barycentric, 36, 119, 178
+Cartesian, 12, 30
+homogeneous, 157, 179
+
+cosine, 55
+criteria
+
+for congruence, 103
+for similarity, 106
+
+cross product, see vector product
+cross-ratio
+
+and orthogonality, 216
+and permutations, 164
+computation, 162
+of four lines, 172
+of four collineal points, 161
+of four points on a conic, 209
+
+preservation of the, 161
+real, 166
+
+cube, 128
+cubic
+
+cuspidal, 251, 258, 261
+nodal, 261
+real, 244
+
+cup of co"ee, 249, see bowl
+curvature
+
+radius, 256
+algebraic, 255
+center, 256
+direction of, 290
+of a cylinder, 289
+of a cone, 289
+of a plane, 289
+of a plane curve, 255
+of a space curve, 265
+of a torus of revolution, 299
+of Gauss, 287
+of surfaces of revolution, 299
+of the sphere, 122, 124, 289
+principal, 290
+
+curve, 258
+cycloidal, 252
+parallel, 257
+parametrized, 247
+regular, 258
+
+cusp, 299
+point, 258
+
+cuspidal
+cubic, 251, 258, 261
+
+cyclic
+group, 130
+points, 76
+
+cyclicity, 75, 166
+cycloid, 265
+cycloidal curve, 252
+cylinder, 271, 289
+
+of revolution, 270
+decomposition
+
+of Cartan, 242
+polar, 242
+
+Desargues, 26, 39, 151, 154, 176
+Descartes, 264
+diagonalization
+
+of real symmetric matrices, 233
+simultaneous, 189, 230, 234, 285
+
+diameters
+conjuated, 236
+of a circle, 223
+
+di"eomorphism, 85
+di"erential of a mapping, 85, 111, 280
+
+350 Index
+
+dihedral
+group, 130, 132, 141
+
+dilatation, 16, 35
+dimension
+
+of a projective space, 143
+of an a!ne space, 8
+
+direct
+basis, 60
+similarity, 80, 165
+
+direction
+of an a!ne space, 8
+of curvature, 290
+
+directrix, 194, 219
+discriminant, 263, 274, 299
+
+of a quadratic form, 241
+distance
+
+Euclidean, 44
+hyperbolic, 181
+intrinsic, 138
+on the sphere, 138
+
+dodecahedron, 128, 139
+dot product, see scalar product
+double
+
+line, 185, 192, 207
+vector product, 131
+
+dual
+of a conic, 243
+of a convex, 136
+of a polyhedron, 125, 136
+of a quadric, 243
+
+duality
+and polarity, 203
+between convex subsets, 136
+between polyhedra, 125
+projective, 153, 172, 242
+
+Dürer, 2, 128, 143, 249
+Earth, 2, 122, 135, 176
+Easter Island, 126
+eccentricity, 194
+edge, 123
+ellipse, 190, 211, 266
+ellipsoid, 214, 269
+elliptic
+
+integral, 339
+paraboloid, 214
+point, 283, 290
+
+envelope, 199, 248, 299
+of normals, 257
+of the Simson lines, 266
+
+epicycloid, 253, 264
+equation
+
+Cartesian, 31
+of a quadric, 184
+
+parametric, 30
+reduced, 193
+
+equibarycenter, 26
+Erdős, 102
+Euclid, 2, 7
+Euclidean
+
+a!ne space, 44
+vector space, 44
+
+Euler, 61, 110, 111, 123, 284, 293
+evolute, 257
+
+of a catenary, 299
+of a cycloid, 265
+of a parabola, 266
+of an ellipse, 266
+
+excenter, 98
+excircle, 98
+exponential
+
+complex, 54
+external bisector, 72
+extrema, 295
+face, 123
+Fagnano, 101
+family
+
+confocal, 244
+of lines, 249
+
+Fermat, 105
+Feuerbach, 110
+finite
+
+subgroup, 130
+subgroup of O+(3), 130, 140
+
+first
+criterion for congruence, 103
+criterion for similarity, 106
+fundamental form, 287
+theorem of Apollonius, 236
+
+flex, 259
+focal axis, 194
+focus, 194, 218
+football, see soccer
+form
+
+bilinear alternated, 244
+fundamental, 287
+fundamental (first), 288
+fundamental (second), 287
+homogeneous, 185
+polar, 225
+quadratic, 43, 225, 283
+quadratic (positive definite), 43
+symmetric bilinear, 43, 225
+
+formula
+class, 140
+of Euler, 123, 293
+of Girard, 121, 293
+
+
+
+Index 351
+
+of spherical trigonometry, 138
+of Taylor, 259, 283
+to compute the cross-ratio, 162
+
+formulas of Frenet, 265
+frame
+
+a!ne, 12
+projective, 157, 178
+
+Frenet, 265
+function
+
+holomorpic, 165
+implicit, 247, 277, 281
+scalar of Leibniz, 60
+
+fundamental
+first form, 287
+second form, 287
+theorem, 41, 179
+
+Gauss, 229, 285, 291, 293
+curvature, 287
+mapping, 286
+
+generated
+a!ne subspace, 11
+projective subspace, 147
+
+geodesic, 300
+geometric surface, 272
+geopolitical, 135
+Gergonne, 134
+Girard, 121, 293
+glide reflection, 77, 116
+global property, 248, 293
+golden number, 139
+Gram, 62
+Gram–Schmidt orthonormalization pro-
+
+cess, 62
+Grassmann, 177
+Grassmannian, 177
+great circle, 120
+group
+
+action, 2, 40, 190, 204
+a!ne, 19, 40
+a!ne (of the line), 35
+alternating, 106, 130, 133, 140
+circular, 167, 224
+cyclic, 130, 132, 140
+dihedral, 130, 132, 141
+linear, 19, 63
+of a polyhedron, 130
+of dilatations, 35
+of isometries, 44
+of isometries of a figure, 99, 100, 106,
+
+132, 133, 263
+of Lorentz, 63
+of projective transformations, 156, 165
+of similarities, 80
+
+of the cube, 133, 141
+of the dodecahedron, 139, 141
+of the tetrahedron, 133, 141
+operation, see group action
+orthogonal, 52
+projective, 156, 165, 204
+simple, 137
+symmetric, 130, 133
+
+Hahn, 136
+half-plane, 36, 39, 59
+
+of Poincaré, 181, 293
+half-turn, 115
+harmonic
+
+pencil, 172, 219
+range, 164
+
+heart, 254, 263
+helicoid, 296, 300
+helix
+
+circular, 265
+hexagon, 137, 182, 209, 243
+hexagram
+
+mystic, 209
+Hilbert, 7, 238
+Hobson, 135
+holomorphic
+
+function, 165
+mapping, 111
+
+homogeneous
+coordinates, 157, 179
+form, 185
+
+homography, 155, 159, 165, 208
+horse saddle, see mountain pass
+hull
+
+convex, 29, 122
+Huygens, 257, 274
+hyperbola, 190, 211
+
+rectangular, 193
+hyperbolic
+
+distance, 181
+geometry, 182
+paraboloid, 214, 234, 271
+plane, 182
+point, 283, 290
+triangle, 182
+
+hyperboloid, 269
+of one sheet, 214, 296
+of revolution, 296
+of two sheets, 214
+
+hyperplane
+at infinity, 149, 160
+polar, 203
+projective, 145, 146
+tangent, 201
+
+352 Index
+
+hypocycloid, 253, 264
+three-cusped, 1, 253, 263, 265, 267
+
+icosahedron, 129
+image of a quadric, 185
+incenter, 98
+incircle, 98
+inequality
+
+isoperimetric, 248
+of Cauchy and Schwarz, 44, 58
+of Ptolemy, 108
+triangle, 44
+triangular (on the sphere), 138
+
+inertia law, 228
+infinity, 91, 148, 150, 159, 164, 221
+inflexion point, 259
+inradius, 110
+integral
+
+elliptic, 339
+internal bisector, 71
+intersecting pencil, 94
+intersection
+
+of a plane and a cone, 238
+of a quadric and a line, 186
+of two circles, 217
+of two conics, 207
+of two lines, 145
+of two surfaces, 247, 281
+
+invariant
+anallagmatic, 241
+
+inversion, 84, 134, 167, 222
+circle, 84
+
+involution, 34, 84, 175
+Island
+
+Easter, 126
+mysterious, 135
+
+isometry
+a!ne, 44, 59
+group, 44
+linear, 44, 59
+
+isoperimetric inequality, 248
+isosceles triangle, 99
+isotropic vector, 225, 226
+isotropy cone, 200, 225
+Jacobi, 244
+Jordan, 248
+Kepler, 237
+kidney, 254
+kinematics, 247
+latitude, 135
+law
+
+of Descartes, 264
+of inertia of Sylvester, 228
+of Kepler, 237
+
+of Snell, 264
+Leibniz, 60
+lemniscate of Bernoulli, 262
+length
+
+arc, 261
+limiting point, 94
+line
+
+a!ne, 10, 149, 178
+at infinity, 148, 151, 152, 210, 216
+complex projective, 164
+contained in a quadric, 239
+double, 185, 192, 207
+normal to a curve, 256
+of Simson, 1, 104, 177, 238, 248, 266
+of Steiner, 104, 238, 267
+projective, 143, 147, 164
+real projective, 164
+
+linear group, 19, 63
+Liouville, 83, 111
+local property, 248, 293
+locus
+
+base, 206
+longitude, 135
+Lorentz, 63
+Möbius strip, 180
+major axis, 193
+manifold, 293
+map, 2, 122, 135, 139
+maple, 297
+mapping
+
+Gauss, 286
+a!ne, 14
+holomorphic, 111
+tangent, 280
+
+masses
+punctual, 26
+
+matrix
+of a quadratic form, 225, 233
+skew-symmetric, 245
+symmetric, 225, 233
+
+measure, 70
+Menelaüs, 38, 39, 209
+meridian, 120, 135, 270
+metamorphosis, 153
+method of Gauss, 229
+metric property, 215, 248, 293
+midpoint, 27
+minor axis, 193
+Miquel, 104, 177
+Möbius, 180, 300
+Monge, 283
+monofocal property, 194
+Mordell, 102
+
+
+
+Index 353
+
+Morley, 267
+motion
+
+of planets, 237
+science in, 2
+
+mountain pass, 271, see horse saddle
+multiplication of theorems, 154
+mystic hexagram, 209
+Napoléon, 105
+natural, 8
+negative isometry, 50
+nephroid, 254, 263
+Newton, 2, 38, 264
+nine point circle, see circle of Euler
+nodal cubic, 261
+nondegenerate, 188, 226
+
+quadratic form, 226
+norm, 44
+normal
+
+vector, 254, 284
+normal to a curve, 256
+north, 134
+notation of Monge, 283
+Nullstellensatz, 185, 238
+number
+
+golden, 139
+ocean
+
+polar, 135
+octahedron, 129, 132
+Odyssey, 126
+one point compactification, 140, 148
+opposite similarity, 80
+optics, 249, 258, 263
+orientation, 60
+
+of lines in space, 114, 179
+oriented angle, 1, 66, 68
+orthocenter, 61, 176
+orthogonal
+
+vectors, 226
+basis, 226
+group, 52
+of a pencil, 95
+of a subspace, 43, 203
+pencils, 95, 96
+vectors, 43
+
+orthogonality, 43, 226, 236
+of two circles, 89, 173
+of two pencils of circles, 95
+of two subspaces, 43
+
+orthogonalization, 226
+simultaneous, 189, 230, 234, 285
+
+orthonormal basis, 52
+orthonormalization, 62
+osculating circle, 256, 266
+
+Pappus, 25, 39, 150, 176
+parabola, 192, 211, 249, 266
+parabolic
+
+aerial, 263
+point, 284, 298
+
+paraboloid, 269
+elliptic, 214
+hyperbolic, 214, 234, 271
+
+parallel, 12, 120, 135, 145, 270
+axiom, 2, 13, 122, 181
+curves, 257
+subspaces, 12
+
+parallelogram, 9, 32
+rule, 9
+
+parallels
+nonexistence of, 122, 145
+
+parameter, 193
+parametrization
+
+Cartesian, 274
+of a circle, 261
+of a conic, 208, 261
+of a curve, 247
+of a cuspidal cubic, 261
+of a hyperbola, 236
+of a nodal cubic, 261
+of an algebraic curve, 248
+of the ellipse, 191
+
+parametrized
+curve, 247
+surface, 272
+
+Pascal, 103, 108, 209, 240
+pencil, 93
+
+harmonic, 172, 219
+intersecting, 94
+nonintersecting, 94
+of circles, 92, 217, 239
+of conics, 207, 239, 244
+of lines, 171, 208
+of quadrics, 206, 244
+of real conics, 239
+tangent, 95
+
+pentagon, 128, 137, 139
+Perec, 1
+perpendicular bisector, 47, 59
+
+hyperplane, 59
+Perrin, 177
+perspective, 2, 143, 174
+perspectivity, 171, 176
+photography, 176
+pivot, 104, 177
+planar point, 284, 298
+plane
+
+a!ne, 10
+
+354 Index
+
+hyperbolic, 182
+projective, 143, 148
+real projective, 179
+rotation, 78
+tangent, 277
+tangent to a ruled surface, 297
+tangent to a surface of revolution, 297
+
+planet, 237
+Platonic solids, 2, 128
+Plücker, 177, 215, 296
+Poincaré, 181, 293
+point
+
+at infinity, 91, 148, 164, 167, 186, 221
+base, 94
+circular, 216
+cusp, 258
+elliptic, 283, 290
+hyperbolic, 283, 290
+limiting, 94
+of Fermat, 105
+of Gergonne, 134
+of inflexion, 259
+parabolic, 284, 298
+planar, 284, 298
+regular, 258, 273
+singular, 258, 273, 274, 277, 298
+weighted, 26
+
+polar
+decomposition, 242
+form, 225
+hyperplane, 203
+ocean, 135
+of a point with respect to a conic, 203,
+
+240
+polarity
+
+with respect to a quadric, 203
+pole
+
+north, 134
+of a hyperplane with respect to a
+
+quadric, 203
+of a line with respect to a conic, 203
+of an inversion, 84
+
+polyhedron, 122
+dual, 125
+Platonic, 2, 128
+regular, 126
+
+porism of Steiner, 109
+position
+
+general, 280
+of a curve with respect to its tangent,
+
+259
+of a parabola with respect to its tan-
+
+gent, 236
+
+of a surface with respect to its tangent
+plane, 282
+
+of an ellipse with respect to its tan-
+gent, 191
+
+positive definite quadratic form, 43
+power
+
+of a point with respect to a circle, 89
+of an inversion, 84
+
+preservation
+of alignment, 156
+of angles, 70, 71, 81, 83, 86, 111, 165
+of barycenter, 17
+of circles, 91, 166
+of collinearity, 16, 41, 179
+of orientation, 50, 60
+of orthogonality, 44, 86
+of the cross-ratio, 161
+of the norm, 44
+of the scalar product, 44
+
+principal curvature, 290
+principle
+
+of conjugation, 21
+of Huygens, 257, 274
+
+problem of Fagnano, 101
+product
+
+scalar, 43, 215, 225
+vector, 117
+
+projection
+a!ne, 33
+in projective geometry, see perspectiv-
+
+ity
+stereographic, 134, 140, 164
+
+projective
+completion, 149, 159, 164, 200, 210
+conic, 200
+duality, 153, 172, 242
+frame, 157, 178
+group, 156, 165, 204
+hyperplane, 145, 146
+line, 143, 147, 164
+plane, 143, 148
+quadric, 200
+reader, 185
+space, 143
+subspace, 145
+transformation, 155, 204
+transformation (of the line), 159, 165
+
+proper
+a!ne quadric, 185
+projective quadric, 200
+
+property
+a!ne (of a curve), 248, 260
+bifocal, 195
+
+
+
+Index 355
+
+global, 248, 293
+local, 248, 293
+metric, 215, 248, 293
+monofocal, 194
+tangential (of conics), 196, 199, 243,
+
+249
+pseudosphere, 299
+Ptolemy, 108
+punctual masses, 26
+pyramid, 126, 132
+Pythagoras, 98
+quadratic form, 43, 225, 283
+quadric, 184, 269
+
+a!ne, 185, 234
+at infinity, 238
+central, 188
+confocal, 244
+degenerate in a pencil, 207
+in dimension 3, 234
+projective, 200
+proper a!ne, 185
+proper projective, 200
+real, 234, 239
+
+quadrilateral
+complete, 38, 61
+
+quaternions, 141
+radical axis, 92, 107, 217, 224
+radius
+
+curvature, 256
+of the circumcircle, 110, see circumra-
+
+dius
+of the incircle, 110
+
+rain, 2, 264
+rainbow, 2, 249, 264
+range
+
+harmonic, 164
+rank
+
+of a quadratic form, 227, 234
+of a skew-symmetric matrix, 245
+
+ratio
+of a dilatation, 16
+of a similarity, 79
+
+real
+conic, 244
+cubic, 244
+quadric, 234, 239
+
+rectangular hyperbola, 193
+reduced equation, 193
+reflection, 46, 59, 222
+
+glide, 77, 116
+regular
+
+point, 258, 273
+polygon, 126
+
+polyhedron, 126
+surface, 273
+
+relation
+metric (in the triangle), 98
+of Euler, 110
+
+revolution, 269
+Riemann, 164, 293
+rigid motion, 50, 58
+rotation
+
+in space, 113
+plane, 55, 78
+
+rotatory reflection, 114, 116
+rule
+
+parallelogram, 9
+slide, 1
+
+ruled surface, 234, 239, 270, 296, 297
+ruler, 176
+saddle, 234, 298
+
+horse, 271, 283
+monkey, 298
+
+scalar
+function of Leibniz, 60
+product, 43, 215
+
+Schmidt, 62
+Schwarz, 44, 58, 180
+Schwarz lemma, 180
+screw displacement, 116
+second
+
+criterion for congruence, 103
+criterion for similarity, 106
+fundamental form, 287
+theorem of Apollonius, 236
+theorem of Desargues, 176
+
+section
+conic, 238
+
+separation, 135
+signature of a quadratic form, 228
+signed area, 119, 286
+similarity
+
+criteria for, 106
+direct, 80, 165
+linear, 79
+opposite, 80
+
+simple group, 137
+simplicity of O+(3), 137
+Simson, 104, see line of Simson
+sine, 55
+singular point, 258, 273, 274, 277, 298
+skew-symmetric
+
+bilinear form, 244
+matrix, 245
+
+slide rule, 1
+small circle, 120
+
+356 Index
+
+Snell, 264
+soccer, 137
+space
+
+a!ne, 7
+projective, 143
+tangent, 201
+
+spanned
+a!ne subspace, 11
+projective subspace, 147
+
+sphere, 120, 164, 289
+of Riemann, 164
+
+spherical
+triangle, 120, 138
+trigonometry, 138
+
+Spilett, 135
+Steiner, 104, 109, 208, see line of Steiner
+stereographic projection, 134, 140, 164
+strip of Möbius, 300
+structure
+
+of isometries, 46
+transport of, 9, 67
+
+subspace
+a!ne, 10
+generated, 11, 147
+projective, 145
+spanned, 11, 147
+
+subspaces
+parallel, 12
+
+sum of the angles of a triangle, 73, 122,
+182
+
+summit, 298
+sun, 135, 248, 264
+support of a geometric surface, 272
+surface, 272
+
+geometric, 272
+of revolution, 269, 296
+parametrized, 272
+regular, 273
+ruled, 234, 239, 270, 296, 297
+
+swallow tail, 274
+Sylvester, 228
+symmetric
+
+bilinear form, 43, 225
+group, 130, 133
+matrix, 225, 233
+
+symmetry, 34
+orthogonal, 45
+
+tangent
+hyperplane, 201
+mapping, 280
+plane, 277
+space, 201
+to a central conic, 199
+
+to a conic, 188, 243
+to a curve, 248, 258, 279
+to a parabola, 198
+to a quadric, 186
+vector, 258
+
+Taylor, 259, 283
+tetrahedron
+
+regular, 128, 132
+scalene, 36, 133
+
+Thales, 1, 23, 34, 173
+theorem
+
+fundamental, 41, 179
+implicit function, 247, 277, 281
+inverse function, 276
+of Apollonius, 236
+of Bézout, 207
+of Brianchon, 243
+of Ceva, 38
+of Chasles, 244
+of Chasles and Steiner, 208
+of Desargues, 26, 39, 151, 154
+of Desargues (second), 176
+of Erdős and Mordell, 102
+of Euler, 285, 289
+of Feuerbach, 1, 110
+of Gauss and Bonnet, 294
+of Hahn and Banach, 136
+of Jacobi, 244
+of Jordan, 248
+of Liouville, 83, 111
+of Menelaüs, 38, 39, 108, 209
+of Miquel, 104, 177
+of Pappus, 25, 39, 150, 176, 240
+of Pascal, 103, 108, 209, 240
+of Pythagoras, 98
+of Thales, 1, 23, 34, 173
+of the four vertices, 248
+of the six cross-ratios, 176
+of Weierstrass, 314
+of Witt, 213, 231
+of zeroes, 238
+remarkable of Gauss, 291
+
+theorema egregium, 291
+third criterion for congruence, 103
+time zone, 120
+topology
+
+of O+(3), 142, 180
+of the linear group, 63
+of the orthogonal group, 52
+of the projective space, 144
+of the real projective plane, 179
+
+torsion, 265
+torus of revolution, 270, 299
+
+
+
+Index 357
+
+tractrix, 299
+transformation
+
+projective, 155
+translation, 16
+transport
+
+by conjugation, 21
+of structure, 9, 67
+
+transpose, 52
+triangle
+
+hyperbolic, 182
+inequality, 44, 58
+spherical, 120, 138
+strict inequality, 58
+
+trigonometry
+plane, 98
+spherical, 138
+
+type of a conic, 193
+umbilic, 300
+umbrella of Whitney, 298
+underlying vector space, 8
+
+using complex numbers, 57, 79, 82, 99,
+164, 215
+
+vector
+isotropic, 225, 226
+normal, 254, 284
+tangent, 258
+
+vector space
+Euclidean, 44
+
+vectorialization, 9
+vertex, 123, 248
+
+of a cone, 271
+of a parabola, 193
+
+Vinci, 128, 137
+Vosges, 298
+wave-front, 258
+Weierstrass, 314
+Whitney, 298
+Witt, 213, 231
+zeugma, 4, 178
