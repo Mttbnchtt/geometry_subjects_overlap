@@ -1,0 +1,460 @@
+Index
+
+(κ, λ)-model, 151
+Lκ,ω , 57
+Meq , 28
+ℵ1 -like ordering, 165
+κ-categorical theory, 207
+κ-homogeneous model, 133
+κ-saturation, 138
+κ-stable, 135
+ω-stable, 136, 207
+Abelian variety, 308
+Abramovich, D., 313
+algebraic, 30, 208
+algebraic closure, 208
+algebraic group, 251, 270
+linear, 24, 252
+algebraically prime models, 78
+amalgamation, 106
+analytic, 163
+Artin, E., 93, 99, 112, 323
+atomic diagram, 44
+average of indiscernibles, 247
+Ax, J., 68, 69, 112
+Axiom of Choice, 315
+axiomatization, 29
+
+universal, 47
+axioms, 14
+back-and-forth construction, 49
+back-and-forth system, 67
+bad group, 287
+Baldwin, J., 207, 213, 215, 288
+Baldwin–Lachlan Theorem, 215
+Barwise, J., 172
+basis, 290
+Bennett, J., 32
+Blum, L., 111, 172, 249
+Borel, A., 68
+Buechler, S., 173
+Buium, A., 308
+Burgess, J., 173
+canonical base, 294
+Cantor, G., 48
+Cantor–Bendixson derivative, 245
+cardinal, 318
+inaccessible, 319
+regular, 319
+singular, 319
+strongly inaccessible, 320
+
+338
+
+Index
+
+Categoricity Theorem, 207
+cells, 102
+center, 259
+chain, 47
+elementary, 47
+Chang, C. C., 69, 173
+Chatzidakis, Z., 69
+Cherlin, G., 252, 287, 288
+Cherlin–Zil’ber Conjecture, 252,
+287
+Chevalley, C., 88
+closed set
+in pregeometry, 289
+closed unbounded set, 189
+cofinality, 319
+Collins, G., 112
+Compactness Theorem, 34
+Completeness Theorem, 34
+complex manifold, 311
+complex torus, 312
+connected component, 254
+connected group, 254
+constructible model, 236
+constructible set, 86, 88
+construction, 236
+Continuum Hypothesis, 320
+countable set, 318
+Davis, M., 21, 71
+definable set, 19
+over A, 19
+definable type, 229
+definably interpreted, 24
+derivation, 148
+diagonal indiscernibles, 198
+diagonal intersection, 190
+diagram
+F -diagram, 161
+atomic, 44
+elementary, 44
+diﬀerential closure, 171, 240
+diﬀerentially algebraic, 149
+diﬀerentially closed field, 171, 240,
+245, 246, 307, 308
+diﬀerentially transcendental, 149
+
+dimension, 211, 290
+in Noetherian topology, 306
+Diophantine geometry, 308
+divisible hull, 76
+domain, 8
+van den Dries, L., 69, 101, 111,
+112, 288
+Dubois, D., 111
+Ehrenfeucht, A., 69, 205
+Ehrenfeucht–Fraı̈ssé game, 53
+Ehrenfeucht–Mostowski models, 180
+elementary
+chain, 47
+class, 14
+diagram, 44
+embedding, 44
+equivalence, 13
+extension, 44
+substructure, 44
+elliptic curve, 252
+embedding, 8
+partial, 49, 52
+Engler, E., 173
+Erdös–Rado Theorem, 177
+Ersov, Y., 112
+exchange principle, 106
+existentially closed structure, 63,
+105
+expansion, 31
+by definitions, 31
+extension, 9
+Fagin, R., 68
+Faltings, G., 312
+field
+real, 94
+real closed, 94
+filter, 63
+Frechet, 63
+principal, 63
+ultrafilter, 64
+Finite Equivalence Relation Theorem, 247
+Fischer, M., 112
+
+Index
+forking, 228
+formula
+atomic, 10
+positive, 107
+fragment, 158
+Fraı̈ssé, R., 69
+Fraı̈ssé constructions, 68
+Friedman, H., 172
+generic filter, 321
+generic point, 227
+generic type, 256
+geometry, 290
+Gödel, K., 34, 68, 84, 195
+group
+bounded exponent, 157
+locally finite, 157
+group configuration, 284
+Harnik, V., 249
+Harrington, L., 196
+Hasse, H., 65
+Henkin construction, 35, 39, 65
+Henkin, L., 35, 39, 171
+Hodges, W., 248
+homogeneous model, 133
+Hrushovski, E., 282, 284, 292, 300,
+302, 307, 308
+inaccessible, 319
+indecomposable, 261
+independence, 209, 234, 290
+independent, 290
+indiscernible
+k-tuples, 248
+indiscernibles, 210
+diagonal, 198
+type, 181
+interpretable structure, 27
+interpretation
+pure, 31
+isolated type, 120
+isomorphism, 9
+Jensen, R., 173
+
+339
+
+Kanamori, A., 196, 205
+Karp, C., 57, 69
+Keisler, H. J., 69, 172
+Ketonen, J., 205
+Kochen, S., 112
+Kolchin closed set, 171
+Kolchin, E., 249, 274, 277, 288
+König’s Lemma, 321
+Krivine, J.-L., 111
+Krull dimension, 226
+Lachlan, A., 207, 213, 215
+language, 8
+recursive, 34
+Lascar, D., 111, 248, 249, 296
+Lefschetz Principle, 42
+Lindström, P., 69
+linear strongly minimal set, 296
+localization, 290
+locally modular pregeometry, 290
+logical consequence, 18
+L
+" oś, J., 64, 68, 69
+Löwenheim–Skolem Theorem, 45,
+46
+MacDowell, R., 171
+Macintyre, A., 69, 112, 113, 258,
+288
+Malcev, A., 68
+Manin, J., 308, 313
+many-sorted structure, 28
+Marker, D., 112
+Matijasevič, J., 21, 71
+Mayer, L., 173
+McAloon, K., 196, 205
+McQuillen, M., 312
+Mekler, A., 32
+Miller, A., 173
+Milnor, J., 101
+minimal formula, 208
+minimal set, 208
+Mitchell, W., 173
+model, 14
+κ-homogeneous, 133
+κ-saturated, 138
+
+340
+
+Index
+
+model (cont.)
+κ-universal, 143
+homogeneous, 133
+prime, 129
+saturated, 138
+model companion, 106
+model complete theory, 78, 105
+model completion, 106
+modular pregeometry, 290
+monster model, 218
+Mordell Conjecture, 312
+Mordell–Lang Conjecture, 309, 312
+Morley, M., 69, 158, 172, 205, 207,
+213, 248, 249
+Morley degree, 220
+Morley rank, 215, 218
+of definable set, 218
+Morley sequence, 241
+morphism, 269
+Mostowski, A., 69, 205
+
+Poizat, B., 111, 205, 274, 288
+Polish space, 173
+positive formula, 107
+power set, 5
+pregeometry, 289
+locally modular, 290
+modular, 290
+trivial, 290
+Presburger arithmetic, 82, 170
+Presburger, M., 111
+prime model, 129
+prime model extension, 135
+proof, 33
+Puiseux series, 110
+Putnam, H., 21, 71
+
+nilpotent group, 267
+Noetherian topology, 305
+Nullstellensatz, 88
+
+Rabin, M., 112
+Ramsey’s Theorem, 175
+real closed field, 94
+real field, 94
+recursive saturation, 169
+reduct, 31
+regressive function, 191
+regular cardinal, 319
+Reineke, J., 258, 259
+Ressayre, J-P., 236, 249
+Risler, J.-J., 111
+Ritt–Raudenbusch Basis Theorem,
+171
+Robinson, A., 68, 99, 111
+Robinson, J., 21, 71
+Rosenlicht, M., 249
+Rowbottom, F., 205
+Rudin, W., 68
+Ryll-Nardzewski, C., 173
+
+o-minimal theory, 81
+one-based theory, 298
+open induction, 110
+Open Mapping Theorem, 238, 247
+order indiscernibles, 179
+order property, 221
+order type, 317
+orderable field, 93
+ordinal, 316
+limit, 317
+successor, 317
+Orey, S., 171
+overspill, 61
+Paris, J., 196
+Peretjat’kin, M., 69
+Peterzil, Y., 311
+Picard–Vessiot extension, 275
+Pillay, A., 111, 249, 296, 302, 308,
+311, 312
+
+quantifier depth, 54
+quantifier elimination, 71, 72, 148
+positive, 107
+quasirational function, 89
+
+satisfaction, 11
+saturated model, 138
+Saxl, J., 288
+scattered theory, 159
+
+Index
+Schanuel’s Conjecture, 112
+Schlipf, J., 172
+Schreier, O., 93, 323
+Scott, D., 48, 57, 69
+Scott rank, 59
+Scott sentence, 59
+Scott set, 170
+Seidenberg, A., 98
+semialgebraic set, 98
+sentence, 10
+Shelah, S., 69, 172, 173, 205, 248,
+249, 288
+Shepherdson, J., 111
+Silver, J., 173, 205
+simply closed, 78
+singular cardinal, 319
+Skolem functions, 45, 101
+invariant, 101
+Skolem hull, 180
+Skolem, T., 68
+Sokolović, Ž., 307, 308
+Solovay, R., 205
+solvable group, 265
+Specker, E., 171
+spectrum
+finite, 30
+stabilizer, 254
+stable theory, 135, 172
+Starchenko, S., 311
+stationary set, 190
+stationary type, 233
+Steel, J., 173
+Steinhorn, C., 111, 249
+Stone topology, 119
+strategy, 52
+strong type, 247
+strongly inaccessible cardinal, 320
+strongly minimal formula, 208
+strongly minimal sets, 208
+strongly minimal theory, 78, 208
+strongly normal extension, 277
+structure, 8
+many-sorted, 28
+substructure, 9
+Sturm sequence, 327
+
+341
+
+superstable theory, 172
+Suszko, R., 69
+Svenonius, L., 173
+Tarski, A., 45, 68, 69, 98, 111, 112
+Tarski–Seidenberg Theorem, 98
+Tarski–Vaught test, 45
+Tennenbaum, S., 170
+terms, 9
+theory, 14
+ℵ0 -categorical, 155
+κ-categorical, 40, 207
+κ-stable, 135
+ω-stable, 136, 207
+complete, 40
+consistent, 34
+decidable, 42
+finitely satisfiable, 35
+full, 13
+maximal, 35
+model-complete, 78, 105
+o-minimal, 81
+satisfiable, 14
+scattered, 159
+stable, 172
+strongly minimal, 78, 208
+superstable, 172
+unstable, 172
+tree, 320
+trivial pregeometry, 290
+truth, 11
+type, 115
+complete, 115
+definable, 229
+isolated, 120
+omitted, 116
+partial, 115
+realized, 116
+stationary, 233
+type of indiscernibles, 181
+U-rank, 246, 248
+Ulam, S., 191
+ultrafilter, 63, 64
+ultrapower, 65
+
+342
+
+Index
+
+ultraproduct, 64, 168
+uncountably categorical, 207
+universal axiomatization, 47
+universal formula, 47
+universal model, 143
+universe, 8
+unstable theory, 172
+variety, 268
+Abelian, 308
+quasiprojective, 269
+Vaught’s test, 42
+Vaught, R., 45, 68, 155, 172, 205
+Vaughtian pair, 151, 207
+Voloch, F., 313
+Weil, A., 283, 288
+well-order, 315, 316
+
+Wilkie, A., 112
+witness property, 35
+Wronskian, 275
+Zariski closed set, 86
+irreducible, 106
+Zariski geometry, 305, 306
+ample, 307
+Zariski spectrum, 124
+Zariski topology, 124
+Zermelo, E., 53
+Ziegler, M., 248, 308
+Zil’ber, B., 252, 261, 288, 292,
+305, 311
+Zil’ber’s Conjecture, 292
+Zil’ber’s Indecomposability Theorem, 261
+Zorn’s Lemma, 315
+
+

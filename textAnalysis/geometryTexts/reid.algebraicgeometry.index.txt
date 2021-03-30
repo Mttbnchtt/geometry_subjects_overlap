@@ -1,0 +1,185 @@
+
+Old Index 133
+
+Old Index
+A abstract variety 4, 79–80, 119–120
+
+a.c.c. (ascending chain condition) 48–49, 53, 55, 63
+affine change of coordinates 12, 24
+affine cone over projective variety 81, 82
+affine coordinates 14, 38, 43, 83, 112
+affine covering of projective variety 83
+affine curve 39, 45, 79
+affine piece of projective variety 13, 38, 79, 83–84, 92, 111
+affine scheme 120
+affine space Ank 50, 53, 60, 64, 66, 69, 77, 79, 89, 94, 100, 115, 123
+affine variety 4, 50, 70–71, 72, 74, 78, 120
+algebraic (sub-) set 50–55, 64, 66, 78, 81–84
+algebraically closed field 52, 54, 55, 64, 71, 77, 118, 120, 121, 122
+algebraically independent 59, 89, 97, 101
+asymptotic line 9, 12, 14, 60, 112
+
+B Bézout’s theorem 17–18, 33, 35–36, 112
+birational equivalence 87–89, 99, 100–101, 107–108, 123
+birational maps 87–89, 91, 92, 99, 100–101
+blowup 100–101
+
+C categories of geometry 2–4, 46
+category theory 4, 116, 120, 123–124
+characteristic p 4, 14, 16, 24, 28, 61–62, 107, 125
+classification of varieties 43–47, 117
+complete variety 119
+complex analytic geometry 3, 36, 43–47, 95, 118, 119
+complex function theory 6, 45–47, 114, 118
+conic 9–21, 25, 30–33, 37–38, 45, 85, 93, 106
+coordinate ring k[V ] 66–72, 73, 74, 75, 120, 123
+V -I correspondence 50–51, 52, 53, 54, 55, 60, 63–64, 66–67, 81–82, 84, 120, 121
+cubic curve 1, 2, 7, 27–42, 43–44, 75–77, 79, 92, 117
+cubic surface 6, 102–113, 116, 117, 126
+cuspidal cubic 27, 41, 68, 74, 103, 112
+
+D denominator of a rational function 4, 68, 72, 76–77, 78
+dense open set 36, 51, 67, 71, 72, 73, 88, 95, 97, 99
+dimension 2, 57, 59, 60, 62, 64, 97, 99, 102, 118, 126
+Diophantine problems 1, 9–10, 24, 28, 41–42, 45–47, 125–126
+discrete valuation ring (d.v.r.) 124, 125
+discriminant 22, 23, 106–107
+domain of definition dom f 71–73, 77, 78, 83–84, 85, 87, 91
+dominant 73–74, 87
+
+134 Old Index
+
+E elimination theory 25–26, 57, 64, 104, 105–106, 113
+empty set ; 0, 45, 52, 53, 55, 73, 82
+equivalence of categories V 7! k[V ] 69, 120, 122
+Euler’s formula 100, 111
+
+F finite algebra 4, 57–58, 59, 60, 61, 64,
+finitely generated algebra 4, 49, 54, 57–59, 71, 120, 124
+finitely generated ideal 48, 49, 50, 81
+form 16–17, 22, 25, 30, 99
+function field k(V ) 62–63, 71, 73, 74, 78 83, 85, 87, 88, 89, 97, 99, 114, 123, 124
+
+G generic point 121, 122–123, 124
+genus of a curve 43–47, 115
+group law on cubic 33–36, 39–41, 46, 76
+
+H Hessian, 39, 103, 111–112, 127
+homogeneous ideal 80–81, 84
+homogeneous polynomial (= form) 16–17, 22, 25, 30, 80–81, 99–100
+homogeneous V –I correspondences 81–82
+hypersurface 50, 56–57, 62–63, 64, 88–89, 94–95, 99, 101
+
+I ’infinite descent’ 29, 42
+inflexion 34, 38–39, 41, 103, 112
+intersection of plane curves 17, 33, 35–36, 64
+intersection of two conics 20–25, 117
+intersection of two quadrics 91–92, 117
+irreducible algebraic set 33, 52–53, 55, 57, 63, 67, 71, 78, 82, 84, 92, 95
+irreducible hypersurface 56–57, 64
+isomorphism 4, 68, 70, 74–75, 77, 78, 79, 85, 87, 90, 92, 93, 99
+
+J Jacobson ring 121
+jokes (not for exam) 51, 55, 69, 91, 116
+
+L linear system of plane curves 18–20, 30–33
+linear projection 10, 60, 65, 68, 86, 92, 107–108
+local ring OV,P 71, 83, 118, 124
+localisation A[S ��1] 49, 56, 63, 72, 124
+
+M maximal ideal mP 54, 55, 64, 120, 121, 122
+military funding 13, 114, 115
+moduli 46, 47, 116, 123, 125
+monomial curve 27, 57, 64
+morphism (= regular map) 4, 36, 74, 76, 77, 80, 85, 90, 93, 108, 112, 123
+multiple roots, multiplicities 16–17, 34, 35, 38, 40, 52, 94, 102, 107
+
+
+
+Old Index 135
+
+N nodal cubic 27, 40, 68, 78, 103, 113
+Noether normalisation 59–63, 64
+Noetherian property of Zariski topology 53
+Noetherian ring 48–49, 63
+nonsingular 2, 33, 92, 94–95, 97, 99, 101, 102, 107, 111, 112, 113, 118, 124
+nonsingular cubic, see cubic curve
+normal form of cubic 38–40, 41
+Nullstellensatz 4, 30, 54, 72, 81–82, 120–121
+number theory, see Diophantine problems
+
+O open set, see dense open set or standard open set
+
+P parallelism 11, 12, 14, 15, 25, 60
+parametrised curve 9–10, 15–16, 17–18, 24, 27–28, 31, 40, 45, 47, 68, 74, 77–78, 85, 86, 88, 123
+Pascal’s mystic hexagon 36–37
+pencil of conics 20, 21–25
+point at infinity 9, 12, 13, 14, 16, 17, 38, 39, 40, 43, 60, 76, 112
+polar 104, 113
+polynomial function 2, 3, 4, 51, 66–70, 72, 96
+polynomial map 2, 67–70, 74, 77, 78
+prime ideal 52, 55, 60, 61, 120, 122
+prime spectrum SpecA 120, 121, 124
+primitive element theorem 62
+principal ideal domain (PID) 63
+product of varieties 78, 89, 92
+projective algebraic geometry 119–120
+projective change of coordinates 13, 41
+projective curve 13, 24, 44, 75
+projective equivalence 13, 15, 18
+projective geometry 9, 11, 79
+projective line P1 16, 43, 79, 80, 85, 90
+projective plane P2 9, 11–20, 17, 25, 30–33, 38, 47, 79, 86, 107
+projective space P3, Pn 4, 6, 60, 80, 81, 85, 86, 89, 91, 99–100, 102, 108
+projective variety 4, 13, 79–90, 119
+projective variety and nonsingularity 99–100
+
+Q quadric surface 64, 86, 90–91, 91, 108, 109, 111, 113
+quasiprojective variety 4, 119
+
+R radical rad I =
+p
+I 54–55, 63, 81–82
+
+rational curve 45, 85, 91, 117, 120
+rational function 3, 4, 28, 45, 68, 71–72, 76, 78, 82–83, 118
+rational map 4, 28, 72–74, 76–78, 84–88, 91, 107–108, 112, 123
+rational normal curve 85, 91
+rational variety 45, 88, 107, 115, 126
+
+136 Old Index
+
+real geometry 6–7, 117
+regular function 2, 4, 71–72, 77, 78, 118, 124
+regular function on a projective variety 80, 82, 83, 90, 92, 118–119
+regular map (= morphism) 2, 4, 6, 71–72, 74, 77, 78, 85, 90, 92, 112
+resultant 25, 64, 103–106, 113
+Riemann sphere 43
+Riemann surface 43, 45, 112
+roots of a form in two variables, see zero
+
+S Segre embedding 89
+separability 61–62, 95, 125
+singular 2, 94, 95, 97, 100, 101, 102, 111, 112
+singular conic 21–22, 25, 106, 112
+singular cubic, see nodal or cuspidal cubic
+singular cubic surface 112
+singularity 2, 7, 28, 91, 94, 100–101, 111, 118
+singularity theory 2, 6, 100–101, 117
+standard affine pieces V(i) 13, 38, 79, 83–84, 92
+standard open set Vf 55, 72, 74–75, 98
+
+T tangent space TPV 2, 33, 34, 40, 41, 94–101, 102, 111, 125
+topology of a curve 43–45, 46
+topology, see Zariski topology
+transcendence degree tr degk K 63, 88, 89, 97, 101
+transversal of lines 108, 110, 113
+twisted cubic 85, 91, 116
+
+U unique factorisation domain (UFD) 28, 54, 63, 71, 78
+
+V variety 50, 57, 70–71, 80, 88, 89, 97, 99, 102, 115, 118, 119–124
+Veronese surface 93
+
+Z Zariski topology 36, 50–51, 64, 67, 71, 73, 75, 78, 81, 83, 84, 89, 92, 95, 118, 120, 121–122
+zero of a form 16–17, 22, 23, 25, 31, 34, 38, 41, 103, 107, 113

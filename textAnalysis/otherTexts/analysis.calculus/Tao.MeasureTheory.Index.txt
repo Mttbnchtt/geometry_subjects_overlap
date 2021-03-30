@@ -1,0 +1,684 @@
+a priori estimate, 212
+
+absolute continuity, 172
+
+absolute integrability, 54, 68, 104
+
+absolutely convergent integral, 104
+
+almost disjoint, 28
+
+almost dominated convergence, 112
+
+almost everywhere, 53
+
+almost everywhere di↵erentiability,
+
+132
+
+almost sure convergence, 116
+
+almost uniform convergence, 116
+
+approximation by an algebra, 95
+
+approximation to the identity, 155,
+
+208
+
+area interpretation of integral, 207
+
+area interpretation of Lebesgue
+
+integral, 66
+
+area interpretation of Riemann
+
+integral, 17
+
+atomic algebra, 82
+
+axiom of choice, xv
+
+axiom of countable choice, xvi
+
+ball, 11
+
+Banach-Tarski paradox, 3
+
+basic jump function, 160
+
+Bernoulli random variables, 241
+
+Besicovitch covering lemma, 152
+
+Bolyai-Gerwien theorem, 13
+
+Boolean algebra, 10, 80
+
+Borel �-algebra, 87
+Borel hierarchy, 88
+
+Borel measure, 153
+
+Borel-Cantelli lemma, 109
+
+bounded variation, 165
+
+bounded variation di↵erentiation
+
+theorem, 167
+
+box, 5
+
+bullet-riddled square, 13
+
+Cantor function, 170
+
+Cantor set, 35, 61
+
+Cantor’s theorem, 25
+
+Carathéodory measurability, 40,
+
+181
+
+category of measure spaces, 96
+
+change of variables (linear), 41, 66
+
+change of variables (measure), 103
+
+change of variables (series), xiii
+
+classical derivative, 132
+
+closed dyadic cube, 29
+
+coarsening, 80
+
+compactness, 25
+
+245
+
+246 Index
+
+complete measure, 94
+
+completion (measure), 94
+
+continuity of translation, 138
+
+continuous di↵erentiability, 132
+
+continuous probability distribution,
+
+234
+
+continuously di↵erentiable curve,
+
+43
+
+convergence in L1 norm, 116
+convergence in L1 norm, 116
+convergence in distribution, 131
+
+convergence in mean, 116
+
+convergence in measure, 116
+
+convergence in probability, 116
+
+convolution, 140
+
+countable additivity, 36, 92
+
+countable subadditivity, 22, 93
+
+Cousin’s theorem, 153
+
+create an epsilon of room, 23, 25,
+
+210
+
+cumulative distribution function,
+
+131
+
+Darboux integrability, 16
+
+Darboux integral, 16
+
+de Morgan’s laws, 33
+
+defect version of Fatou’s lemma,
+
+113, 130
+
+density argument, 138
+
+Devil’s staircase, 170
+
+diameter, 24
+
+di↵erentiability, 132
+
+Dini derivative, 156
+
+Dirac measure, 90
+
+directional di↵erentiability, 226
+
+discrete algebra, 81
+
+discrete probability distribution,
+
+234
+
+discretisation, 7
+
+distance (L1), 69
+dominated convergence theorem,
+
+111
+
+dominated convergence theorem
+
+(sets), 38, 93
+
+domination, 126
+
+dot product, xi
+
+downward monotone convergence
+
+(sets), 38
+
+downwards monotone convergence,
+
+93
+
+Dyadic algebra, 83
+
+dyadic cube, 12
+
+dyadic maximal inequality, 152
+
+dyadic mesh, 29
+
+dyadic nesting property, 30
+
+Egorov’s theorem, 75, 97, 123
+
+elementary algebra, 81
+
+elementary measure, 6
+
+elementary set, 5
+
+escape to horizontal infinity, 76,
+
+106, 118
+
+escape to vertical infinity, 106, 118,
+
+126
+
+escape to width infinity, 106, 118,
+
+126
+
+essential upper bound, 119
+
+essentially uniform convergence,
+
+116
+
+Euclidean space, xi
+
+event space, 233
+
+existence of non-measurable sets,
+
+44
+
+extended real, xi
+
+exterior measure, 180
+
+fast convergence, 124
+
+Fatou’s lemma, 110
+
+finite additivity, 8, 10, 23, 65, 90,
+
+91, 99, 101
+
+finite subadditivity, 10, 22, 91
+
+first fundamental theorem of
+
+calculus, 135
+
+first uncountable ordinal, 88
+
+Fubini’s theorem, 205
+
+Fubini-Tonelli theorem, 207
+
+gauge function, 153
+
+generation of algebras, 84, 86
+
+good kernel, 155
+
+gradient, 227
+
+graphs, 10
+
+greedy algorithm, 149
+
+Hahn-Kolmogorov extension, 188
+
+Hahn-Kolmogorov theorem, 186
+
+
+
+Index 247
+
+Hardy-Littlewood maximal
+
+inequality, 142, 146, 148, 157
+
+heat kernel, 155
+
+Heaviside function, 193
+
+height (step function), 121
+
+Heine-Borel theorem, 25
+
+Henstock-Kurzweil integral, 178
+
+Hilbert’s third problem, 13
+
+homogeneity, 100
+
+homogeneity (integral), 64, 99
+
+homomorphism, 141
+
+horizontal truncation, 64, 101
+
+inclusion-exclusion principle, 91, 99
+
+indeterminate forms, xii
+
+indicator function, xi
+
+infinite series (absolutely
+
+summable), 47
+
+infinite series (unsigned), xiii, 47
+
+inner regularity, 39, 237
+
+integration by parts, 169, 194, 230
+
+interval, 5, 189
+
+Jordan algebra, 81
+
+Jordan inner measure, 9
+
+Jordan measurability, 9
+
+Jordan null set, 12
+
+Jordan outer measure, 9, 18
+
+jump function, 160
+
+Kolmogorov extension theorem,
+
+238
+
+Lebesgue algebra, 82
+
+Lebesgue decomposition, 162
+
+Lebesgue di↵erentiation theorem,
+
+136, 137, 147
+
+Lebesgue exterior measure, 20
+
+Lebesgue inner measure, 40
+
+Lebesgue integral (absolutely
+
+integrable), 68
+
+Lebesgue integral (unsigned), 65
+
+Lebesgue measurability, 20
+
+Lebesgue measurability (complex
+
+functions), 62
+
+Lebesgue measurability (unsigned
+
+functions), 57
+
+Lebesgue outer measure, 19
+
+Lebesgue philosophy, 57
+
+Lebesgue point, 147
+
+Lebesgue-Stieltjes measure, 189
+
+length, xi
+
+length (intervals), 5
+
+linearity (integral), 15, 16, 54, 55,
+
+70, 98
+
+Lipschitz continuity, 226
+
+Lipschitz di↵erentiation theorem,
+
+167
+
+Littlewood’s first principle, 20, 34,
+
+40, 72
+
+Littlewood’s second principle, 72,
+
+77
+
+Littlewood’s third principle, 72, 75
+
+Littlewood-like principles, 78
+
+local integrability, 147
+
+locally uniform convergence, 74
+
+lower Darboux integral, 15
+
+lower unsigned Lebesgue integral,
+
+63
+
+Lusin’s theorem, 77
+
+Markov’s inequality, 67, 100
+
+mean value theorem, 134
+
+measurability (function), 95
+
+measurability (set), 80
+
+measurable map, 96
+
+measurable morphism, 96
+
+measure, 36, 92
+
+measure space, 92
+
+metric completion, 42
+
+metric entropy, 12
+
+monotone class lemma, 200
+
+monotone convergence theorem,
+
+107, 130
+
+monotone convergence theorem
+
+(sets), 38, 93
+
+monotone di↵erentiation theorem,
+
+156
+
+monotonicity (integral), 15, 16, 54,
+
+64, 97, 99, 100
+
+monotonicity (measure), 8, 10, 21,
+
+91
+
+moving bump example, 76
+
+moving bump function, 106
+
+noise tolerance, 56
+
+non-atomic algebra, 83
+
+248 Index
+
+non-negativity (measure), 10
+
+norm (partition), 14
+
+Notation, x
+
+null algebra, 82
+
+null set, 32, 94
+
+outer measure, 20, 22, 180, 186
+
+outer regularity, 30
+
+partial derivative, 226
+
+piecewise constant function, 15
+
+piecewise constant integral, 15
+
+pointwise almost everywhere
+
+convergence, 74, 116
+
+pointwise convergence, 73, 115
+
+pointwise convergence (sets), 38
+
+Poisson kernel, 155
+
+polytope, 11
+
+pre-measure, 185
+
+probability, 233
+
+probability density, 234
+
+probability measure, 232
+
+probability space, 232
+
+problem of measure, 2
+
+product �-algebra, 195, 236
+product measure, 197, 240
+
+product space, 235
+
+pullback (�-algebra), 195
+pushforward, 103, 237
+
+Radamacher di↵erentiation
+
+theorem, 228
+
+Radon measure, 192
+
+recursive description of a �-algebra,
+88
+
+recursive description of Boolean
+
+algebra, 84
+
+refinement, 80
+
+reflection, 16, 213
+
+restriction (Boolean algebra), 82
+
+restriction (measure), 101
+
+Riemann integrability, 14
+
+Riemann integral, 14
+
+Riemann sum, 14
+
+Riemann-Stieltjes integral, 194
+
+rising sun inequality, 146
+
+rising sun lemma, 143
+
+Rolle’s theorem, 132
+
+sample space, 233
+
+second fundamental theorem of
+
+calculus, 134, 168, 169, 173,
+
+176
+
+seminorm, 69
+
+simple function, 50
+
+simple integral, 51, 97, 98
+
+Solovay’s theorem, 43
+
+space-filling curve, 43
+
+Steinhaus theorem, 140, 154
+
+step function, 72
+
+strong derivative, 132
+
+sub-null set, 94
+
+subadditivity (integral), 64
+
+sums of measures, 92
+
+superadditivity, 100
+
+superadditivity (integral), 64
+
+support, 53
+
+symmetric di↵erence, 5
+
+tagged partition, 14
+
+tail support, 121
+
+Tonelli’s theorem, 201, 203, 204
+
+Tonelli’s theorem (series), xiii, xv
+
+Tonelli’s theorem (sums and
+
+integrals), 109
+
+total di↵erentiability, 227
+
+total variation, 165
+
+translation (of a set in Euclidean
+
+space), 5
+
+translation invariance, 8, 10, 41, 66
+
+triangle inequality, 71
+
+trivial algebra, 81
+
+typewriter sequence, 118
+
+uniform continuity, 172
+
+uniform convergence, 74, 115
+
+uniform integrability, 126
+
+uniformly almost everywhere
+
+convergence, 116
+
+uniqueness of antiderivative, 134
+
+uniqueness of Jordan measure, 12
+
+uniqueness of Lebesgue measure, 42
+
+uniqueness of the Lebesgue
+
+integral, 66
+
+uniqueness of the Riemann
+
+integral, 17
+
+
+
+Index 249
+
+uniqueness of the unsigned integral,
+
+113
+
+unsigned integral, 100
+
+upper Darboux integral, 16
+
+upper unsigned Lebesgue integral,
+
+63
+
+upward monotone convergence
+
+(sets), 37
+
+upwards monotone convergence, 93
+
+vertical truncation, 64, 101
+
+Vitali-type covering lemma, 149
+
+volume (box), 5
+
+weak derivative, 229
+
+Weierstrass function, 156
+
+width (step function), 121
+
+zero measure, 90

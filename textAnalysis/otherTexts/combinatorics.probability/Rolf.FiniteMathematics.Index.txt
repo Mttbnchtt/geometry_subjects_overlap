@@ -1,0 +1,840 @@
+
+
+Abscissa, 784
+Addition, matrices, 122
+Addition Rule, 446
+Amortization, 403
+
+balance, 409
+of a loan, 403, 406
+payments, 406
+schedule, 408
+
+Amount
+annuity, 389
+compound interest, 372, 374
+of a loan, 366
+simple interest loan, 366
+
+Annual depreciation, 46
+Annual percentage rate (APR), 417
+Annuity, 388
+
+amount, 389, 390
+due, 397
+future value, 389, 390
+ordinary, 388
+present value, 399, 400
+
+APR, 417
+Area, under normal curve, 685
+Argument, 768
+
+valid, 768
+Augmented matrix, 88
+Average, 618
+
+Balance
+of a loan, 403, 409
+of amortization, 409
+
+Basic feasible solution, 275
+Basic solution, 275
+Basic variable, 276
+Bayes’ Rule, 566, 567
+Bell curve, 683
+Bernoulli, Jacques, 423
+Bernoulli
+
+experiment, 669
+trial, 668
+
+Biconditional, 763
+Binomial distribution, 674
+
+mean, 698
+normal approximation of, 703
+variance, 698
+
+Binomial probability, estimate, 703
+
+Binomial theorem, 471
+Book value, 45
+Boole, George, 423
+Boundary of feasible region, 215
+Bounded feasible solution, 218, 229
+Box plot, 638
+Break-even analysis, 42
+Break-even point, 42
+Bridge deck, 447
+
+Cartesian coordinate system, 784
+Categories, 598
+
+setting up, 602
+Central Limit Theorem, 719
+Central tendency, measure of, 618
+Chebyshev’s theorem, 644
+Coefficient matrix, 88
+Column matrix, 86
+Combination, 463
+
+special cases, 467
+Complement, 429, 519
+
+probability, 521, 527
+theorem, 521, 527
+
+Compound event, 519
+probability, 532, 541
+
+Compound interest, 374
+Compound statement, 755
+Conclusion, 761, 768
+Conditional probability, 532, 541
+
+multiplication rule, 537, 541
+properties of, 537, 541
+
+Conditional statement, 761
+Confidence interval, 717
+Confidence level, 717
+Conjunction, 755
+Constant function, 19
+Constraint, 226
+
+equality, 308
+linear programming, 226
+
+Consumer demand matrix, 179
+Continuous data, 603, 683
+Continuous variable, 650
+Contrapositive, 762
+Converse, 762
+Corner, feasible region, 215
+Cost–volume function, 39
+
+Dantzig, George B., 261
+Data, 590
+
+continuous, 603, 683
+discrete, 683
+skewed, 623
+
+Debt payments, 406
+Demand, consumer, 74
+Dependent events, 548
+Dependent variable, 2, 251
+Depreciation, 45
+Descartes, 785
+Descriptive statistics, 579
+Detachment, law of, 769, 773
+Deviation, 631
+Diagonal locations, 92
+Dice, sample space for, 512
+Discount, 367
+Discount rate, 367
+Discrete data, 603, 683
+Discrete variable, 650
+Disjoint events, 525
+Disjoint set, 430
+Disjunction, 756
+Disjunctive syllogism, 772, 773
+Dispersion, measures of, 630
+Domain, 2
+Dominate column, 744
+Dominate row, 744
+Dot product, 142
+Dual problem, 299
+Duality, 302
+
+Effective rate, 379
+Element
+
+of a matrix, 86
+of a set, 424
+
+Elimination method, 68, 70, 82
+Empirical probability, 497
+
+rule, 645
+Empty feasible region, 229
+Empty set, 426
+Equal matrices, 130
+Equal sets, 426
+Equality constraint, 308
+Equally likely events, 509
+
+866 Index
+
+Equation
+matrix, 165
+operations on, 781
+solving, 780
+
+Equilibrium, 75
+price, 75
+state, 583
+
+Equity, 409
+Equivalent matrices, 89
+Equivalent statements, 766
+Equivalent systems, 68
+Error bounds
+
+computing, 719
+of a proportion, 719
+procedure for computing, 719
+proportion, 719
+
+Event, 501
+complement, 519, 521
+compound, 519
+dependent, 548
+disjoint, 525
+equally likely, 509
+independent, 548
+intersection, 519
+mutually exclusive, 525
+union, 519
+
+Exclusive or, 427, 756
+Expected payoff, 741
+Expected value, 659
+Experiment, 496
+
+Bernoulli, 669
+
+Factorial, 455
+Failure, 510
+Fair game, 745
+Feasible region, 214
+
+boundaries, 215
+bounded, 218, 229
+corners, 215
+empty, 229
+unbounded, 218, 231,
+
+238
+Feasible solution, 218
+Fermat, Pierre, 496
+Final tableau, 280
+Five-point summary, 638
+Fixed costs, 39
+Fractions, arithmetic of, 779
+Frequency, 598
+
+distribution, 598
+mean, 620
+
+table, 592
+construction of, 601
+
+Function, 2
+cost–volume, 39
+domain, 2
+graph, 14
+linear, 16
+range, 2
+revenue, 41
+rule, 2
+value, 3
+
+Fundamental theorem of duality, 302
+
+Future value, 366
+annuity, 389, 390
+compound interest, 374
+
+Game, 732
+expected payoff, 741
+strategy of, 732, 735
+
+Gauss-Jordan Method, 86, 89, 92, 95
+Graph
+
+linear inequality, 207
+normal curve, 683
+of a function, 14, 15
+probability distribution, 652
+
+Graphing a system of inequalities, 218
+Grouped data, 620
+
+mean, 620
+
+Half plane, 207
+Halley, Edmund, 496
+Histogram, 603
+
+binomial distribution, 676
+Horizontal line, 19, 27
+Hypothesis, 761
+
+Identity matrix, 148, 149
+Implication, 761
+Implicit set notation, 425
+Inclusion–Exclusion Principle, 433
+Inclusive or, 427, 756
+Inconsistent systems, 72
+Independent events, 548, 552
+
+multiplication rule, 552
+test for, 552
+union of, 555
+
+Independent variable, 2, 251
+Indirect reasoning, 773
+Inequality, 787
+
+linear, 206
+procedure for graphing, 209
+properties of, 788
+systems of, 213
+
+Inferential statistics, 597
+Initial basic feasible solution, 276
+Initial-state matrix, 581
+Initial tableau, 276
+Input–output matrix, 177
+Input–output model, 176, 180
+Integers, 777
+Interest, 363
+
+compound, 372
+simple, 363
+
+Interest rate, 364
+periodic, 373
+
+Internal demand matrix, 179
+Intersection, 519
+
+of sets, 428
+Interval notation, 789
+Inverse of a conditional, 762
+Inverse of a matrix, 160, 163
+Irrational numbers, 778
+
+Karmakdar, 261
+
+Law of Detachment, 769, 773
+Law of Large Numbers, 499
+Leaf, 600
+Least squares line, 191, 193
+Leontif economic model, 176
+
+input–output model, 176, 180
+Line, 16
+
+as graph of linear function, 16
+horizontal, 19, 27
+least squares, 191, 193
+number, 777
+parallel, 25
+perpendicular, 27
+point-slope equation, 22, 27
+regression, 191
+slope-intercept equation, 21, 28
+slope of, 16, 17, 27
+standard equation, 27
+two-point equation, 23
+vertical, 20, 27
+x-intercept, 24
+y-intercept, 17
+
+Linear equation, 782
+Linear function, 16
+Linear inequality, 206
+
+graph of, 207
+Linear programming, 206
+
+bounded solutions, 218
+constraints, 226
+dual problem, 299
+graphical solutions, 227
+multiple solutions, 238
+no feasible solution, 216
+nonnegative conditions, 215, 226
+objective function, 226
+optimal solution, 227
+optimal value, 227
+standard maximum problem,
+
+263, 282
+unbounded solution, 218, 231, 238
+
+Linear regression, 190
+Logic, 754
+Logically equivalent, 766
+
+Main diagonal, 150
+Many solutions, 72, 83, 114, 119
+Markov chain, 583
+Markov process, 583
+Mathematical model, 38
+Matrices, equal, 130
+
+equivalent, 89
+Matrix, 86
+
+addition, 131
+augmented, 88
+coefficient, 88
+column, 86
+consumer demand, 179
+diagonal locations, 92
+elements, 86
+equation, 165
+
+solution of, 166
+identity, 148, 149
+initial-state, 581
+
+
+
+Index 867
+
+input–output, 176
+internal demand, 179
+inverse, 160, 163
+main diagonal, 150
+multiplication, 143, 145
+operations, 131
+
+addition, 131
+dot product, 142
+multiplication, 143, 145
+row, 89
+scalar multiplication, 133
+
+output, 179
+payoff, 732
+probability state, 580
+reduced echelon form, 107
+regular, 588
+row, 86
+scalar multiplication, 133
+size, 130
+square, 130
+state, 580
+steady-state, 584
+systems of equations and, 88, 165
+transition, 580
+transpose, 300
+
+Maturity value, 367
+Maximum error of proportion, 720
+Maxwell, J. C., 496
+Mean, 618
+
+binomial distribution, 698
+frequency distribution, 620
+grouped data, 620
+
+Measure of central tendency, 618
+Measure of dispersion, 630
+Measure of position, 637
+Median, 621
+Method of elimination, 68, 70
+Method of substitution, 67
+Mixed constraints, 307, 323
+Mixed strategy game, 740
+Mode, 622
+Model, input–output, 176, 180
+
+mathematical, 38
+Mortgage, amortization schedule,
+
+408
+Multiple solutions, 238, 332
+Multiplication, matrix, 143
+Multiplication Rule, 442, 443
+
+conditional probability, 537, 541
+independent events, 552
+
+Mutually exclusive, probability, 525
+Mutually exclusive events, 525
+
+n factorial, 455
+Natural numbers, 777
+Negation, 757
+Next state, 579
+No feasible solutions, 333, 335
+No solution, 113, 119
+Nominal rate, 379
+Nonbasic variable, 276
+Nonnegative condition, 215, 226, 227
+Normal curve, 683
+
+area under, 685
+
+properties of, 696
+standard table, 687
+z-score and, 687
+
+Normal distribution, 685
+probability, 685
+
+Numbers, properties of, 778
+
+Objective function, 226, 227
+Operations, rules of, 778
+Optimal solution, 205
+
+multiple, 238
+none, 239
+
+Optimal strategy, 742
+Optimal value, 227
+Ordinary annuity, 388
+Ordinate, 784
+Origin, 784
+Outcome, 496
+
+equally likely, 509
+simple, 500
+success and failure, 510, 669
+
+Output matrix, 179
+
+Parallel lines, 25
+Parameter, 73, 111
+Parametric form, 73
+Partition, 485
+
+ordered, 485
+unordered, 487
+
+Pascal, Blaise, 496
+Payment period, 388
+Payoff, expected, 741
+
+matrix, 732
+Percentile, 637
+Periodic interest rate, 373
+Periodic payment, 388, 399
+Permutation, 453
+
+notation for, 454
+number of, 455
+with some objects alike, 458
+
+Perpendicular lines, 27
+Phase I, 311
+Phase II, 311
+Pie chart, 606
+Pivot column, 277
+Pivot element, 277
+Pivot row, 277
+Pivoting, 92, 277
+Planes, intersection of, 84
+Point-slope equation, 22, 27
+Poker, combinations in, 477, 547
+Population, 618, 714
+
+mean, 618
+proportion, 714
+
+Position, measure of, 637
+Premise, 768
+Present state, 579
+Present value, 364
+
+annuity, 399, 400
+compound interest, 376
+
+Principal, 364
+Probability, 496
+
+assignment, 502
+
+Bernoulli, 671
+compound event, 521, 527
+conditional, 532, 535, 541
+determining from normal
+
+distribution, 692
+distribution, 650
+
+of a random variable, 651
+empirical, 497
+equally likely, 509
+event, 501
+experiment, 496
+multiplication rule, 541, 552
+outcome, 496
+properties, 502
+sample space, 500
+simple outcome, 500
+theory, 496
+trial, 496
+union, 524
+
+Probability-state matrix, 580
+Proceeds, 367
+Profit function, 44
+Proof, 768
+Proper subset, 427
+Proportion, 714
+
+error bounds, 719
+maximum error of, 720
+
+Quadrants, 785
+Qualitative data, 599
+Quartile, first, 638, 639
+
+second, 638
+third, 638
+
+Random selection, 497, 513
+Random variable, 648
+
+expected value, 659
+mean, 659
+probability distribution, 651
+standard deviation, 663
+variance, 663
+
+Range, 630
+Rank, 637
+Rational numbers, 778
+Real numbers, 778
+Reasoning, indirect, 773
+Rectangular coordinate system, 784
+Reduced echelon form, 107
+Reduced sample space, 534, 535
+Regression line, 191
+Regular matrix, 588
+Relative frequency, 498, 604
+Repeated trials, Bernoulli experiment,
+
+669
+Revenue function, 41
+Row matrix, 86
+Row operations, 89
+Rule of a function, 2
+
+Saddle point, 734, 735
+Sample, 618, 714
+
+mean, 618
+point, 500
+
+868 Index
+
+Sample (continued)
+proportion, 714
+space, 500
+
+properties of, 500
+reduced, 534, 535
+
+standard deviation, 633
+variance, 633
+
+Scalar multiplication, 133
+Scatter plot, 190
+Scrap value, 46
+Sensitivity analysis, 347
+Set, 424
+
+complement, 429
+disjoint, 430
+element, 424
+empty, 426
+equal, 426
+intersection, 428
+number of elements, 432
+union, 427
+
+Set-builder notation, 425
+Signs, rules of, 778
+Simple discount, 367
+Simple interest, 363
+Simple outcome, 500
+Simplex method, 261, 262
+
+basic feasible solution, 276
+basic solution, 275
+basic variable, 276
+final tableau, 280
+initial tableau, 276
+mixed constraints, 307, 308
+multiple solutions, 332
+pivot column, 277
+pivot row, 277
+summary of, 282
+tableau, 267
+unbounded solutions, 334
+
+Sinking fund, 392
+Size, matrix, 130
+Skewed data, 623
+Slack variables, 264
+Slope, 16, 17, 27
+
+does not exist, 20
+formula, 17
+horizontal and vertical
+
+lines, 20
+parallel lines, 25
+perpendicular lines, 27
+
+Slope-intercept equation, 20, 27
+Solution, 15
+
+basic, 276
+bounded, 218, 229
+by graphing, 66
+feasible, 275
+initial basic, 276
+multiple optimal, 238
+no feasible, 216
+of a game, 734, 735
+of linear equation, 780
+of system of equations, 66, 83
+
+optimal, 205
+set, boundaries, 215
+unbounded, 218, 231, 238
+unique, 83, 115, 119
+
+Square matrix, 130
+inverse of, 160, 163
+
+Standard deviation, 631
+of a binomial distribution, 698
+of a random variable, 663
+population, 632
+procedure for computing, 634
+sample, 633
+
+Standard equation of a line, 27
+Standard error, 717
+Standard maximum problem, 263, 282
+Standard minimum problem, 299
+Standard normal curve, 686
+Standard normal table, 687
+State, 579
+
+matrix, 580
+Statement, 754
+Steady state, 583
+Steady-state matrix, 584
+Stem, 600
+Stem-and-leaf plot, 600
+Straight-line depreciation, 46
+Strategy, 732
+
+optimal, 743
+probability of, 741
+
+Strictly determined game, 733, 734, 735
+Subset, 426
+
+proper, 427
+Substitution method, 67
+Success, 510
+Supply, 74
+Supply and demand analysis, 73
+Syllogism, 770, 773
+System of equations, 66
+
+augmented matrix, 88
+coefficient matrix, 88
+elimination method, 70, 83
+equivalent systems, 68
+Gauss-Jordan method, 86, 89
+inconsistent, 72
+many solutions, 72, 83, 114
+matrix and, 88, 165
+no solution, 113, 119
+solution, 66
+
+by elimination, 68
+by graphing, 66
+by substitution, 67
+
+unique, 83, 115, 119
+System of inequalities, 213
+
+feasible region, 214
+graph, 214
+solution set, 214
+
+Tableau, final, 280
+initial, 268
+simplex, 267
+
+Tautology, 770
+
+Transition matrix, 580
+Transportation problem, 235
+Transpose of a matrix, 300
+Treasury bills, 367
+Tree diagram, 441
+Trial, 496
+Truth table, 755
+Truth value, 755
+Two-person game, 732
+Two-point equation, 23
+
+Unbounded feasible region, 218, 231,
+238
+
+Unbounded solutions, 334
+Union, 519
+
+of sets, 427
+probability of, 524
+
+Unique
+solution, 83, 115, 119
+
+Unit column, 274
+Unit costs, 39
+Universe, 426
+
+Valid argument, 768
+Value of a game, 734, 735
+Variable, 39, 780
+
+basic, 276
+continuous and discrete, 650
+costs, 39
+dependent, 2, 251
+independent, 2, 251
+nonbasic, 276
+random, 648
+slack, 264
+
+Variance, 631
+binomial distribution, 698
+population, 632
+random variable, 663
+sample, 633
+
+Venn diagram, 426
+Vertical line, 27
+Volume, 39
+
+x-axis, 784
+x-coordinate, 784
+x-intercept, 24
+
+y-axis, 784
+y-coordinate, 784
+y-intercept, 16
+
+z-score, 637, 687
+confidence level and, 718
+normal curve and, 687
+
+Zero, division by, 778
+Zero-sum game, 732

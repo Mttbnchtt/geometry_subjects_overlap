@@ -1,0 +1,1161 @@
+Index
+
+A
+
+Absolute value, 430, 433, 436
+
+Add angles, 434
+
+Add vectors, 2, 3
+
+Adjacency matrix, 76
+
+Adjoint, 439
+
+Afﬁne, 402, 410, 497, 498
+
+A11 combinations, 5, 130
+
+Angle, 11, 14, 15
+
+Antisymmetric matrix, 122, 328, 349
+Applied mathematics, 455, 468
+Area, 276, 277, 284
+
+Arnoldi iteration, 531, 533
+
+Arrow, 3, 4
+
+Associative law, 61, 73, 82
+Augmented matrix, 58, 63, 86, 134, 150
+Average value, 231, 493
+
+Axes 0f ellipse, 355.392
+
+B
+
+Back substitution, 34, 46, 50
+Backslash, 102
+
+Backward difference, 325
+
+Balance equation, 189, 455, 468
+Band matrix,52,101, 102,512
+Basis, 164, 168, 170, 200, 403
+Bayes Theorem, 554
+
+Bell-shaped curve, 539, 555
+Bidiagonal matrix, 377,512
+
+Big formula, 248, 258, 260, 261, 266
+Big Picture, 149, 184, 197, 199, 222
+Binomial, 541, 542, 545
+Bit-reversed order, 450, 451
+
+Bits per second, 365
+
+Black-Scholes, 473
+
+Block determinants, 270
+Block elimination, 75, 117
+Block factorization, 117
+Block matrix, 74, 96, 400, 509
+Block multiplication, 74, 81
+BLUE theorem, 559
+BlueGene, 509
+
+Boundary conditions, 462
+Bowl, 361
+
+Box, 278, 285
+
+Breakdown, 47, 51
+Butterﬂies in FFT, 449
+
+C
+
+Calculus, 24, 25, 122, 221, 257, 270,
+286, 404, 405
+
+Cauchy-Binet, 287
+
+Cayley-Hamilton Theorem, 317
+
+Center the data, 382, 391
+
+Centered difference, 25, 28
+
+CentralLimit Theorem, 539, 541, 542
+
+Change ofbasis matrix, 174, 412, 419
+
+Change signs, 249
+
+Characteristic polynomial, 292
+
+Chebyshev basis, 427, 428
+
+Chemical engineering, 473
+
+Chemistry, 461
+
+Chess matrix, 193
+
+Cholesky, 353, 360
+
+Circulant matrix, 363, 425
+
+Civil engineering, 462
+
+Clock, 9
+
+Closest line, 219, 223, 229, 383
+
+Code, 240, 245, 504
+
+Coefﬁcient matrix, 33, 36
+
+565
+
+566
+
+Cofactor, 263, 264, 267
+
+Cofactor matrix, 275, 284
+
+Coin ﬂip, 536, 541, 543,546,554
+Column at a time, 22, 38
+
+Column picture, 31, 32, 34, 36
+Column rank, 150, 152
+
+Column space, 127, 156, 182
+Column vector, 4, 123
+
+Columns times rows, 65, 72, 140, 147
+Combination (linear), 9
+
+Combination of basis vectors, 168
+Combination of columns, 22, 127
+Combination of eigenvectors, 310, 321
+Commutative law, 61
+
+Commutin g matrices, 317
+
+Companion matrix, 301, 322
+Complement, 197, 207
+
+Complete graph, 453, 461
+
+Complete solution, 151, 153, 154, 463
+Complex conjugate, 341, 430, 432, 436
+Complex eigenvalues, 341
+
+Complex inner product, 426
+
+Complex number, 430, 431
+
+Complex plane, 431, 432
+
+Complex symmetry, 346
+Components, 2
+
+Compression, 365, 368
+Computational science, 472, 473
+Computer graphics, 402, 496
+Condition number, 379, 509, 520, 521, 522
+Conditional probability, 554
+Conductance, 458
+
+Conductance matrix, 469
+Confounding, 385
+
+Congruent, 349, 502
+
+Conjugate gradient method, 509, 528, 5 33
+Conjugate transpose, 438, 439
+Conservation, 455
+
+Constant coefﬁcients, 319, 322
+Constant diagonals, 425
+
+Constraint, 483
+
+Consumption matrix, 478, 479, 480
+Convergence, 480, 525
+
+Corner, 484, 486
+
+Index
+
+Corner submatrix, 259
+
+Correlation matrix, 384, 552
+
+Cosine, 11, 15, 16, 17, 490
+
+Cosine Law, 20
+
+Cosine matrix, 336, 344
+
+Cost vector, 483, 484
+
+Counting Theorem, 142, 179, 185, 404
+Covariance, 383, 546, 547
+
+Covariance matrix, 230, 547, 549, 553, 556
+Cramer’s Rule, 273, 274, 282, 283
+Cross product, 279, 280
+
+Cryptography, 502, 503, 505, 507
+Cube, 8, 10, 501
+
+Cumulative distribution, 537, 540
+Current Law (Kirchhoff), 145, 455, 456
+Cyclic, 25, 30, 425
+
+Cyclic matrix, 363
+
+D
+
+Data matrix, 382
+
+Delta function, 492, 495
+
+Dense matrix, 101
+
+Dependent, 27, 164, 165, 175
+
+Dependent columns, 225, 354, 396
+
+Derivative, 122, 404, 413
+
+Determinant, 84, 87, 115, 247, 249, 352
+
+Determinant of A — AI, 292, 293
+
+Determinant of AT and A‘1 and AB, 252
+
+Diagonal matrix, 84, 304, 384
+
+Diagonalizable, 311, 327
+
+Diagonalization, 304, 305, 339, 371
+
+Diagonally dominant, 89, 297
+
+Difference coding, 365
+
+Difference equation, 310, 323
+
+Difference matrix, 23, 90, 96, 108
+
+Differentialequation, 319, 337, 422, 462
+
+Diffusion, 473
+
+Dimension,141,164,171,181, 184,201
+
+Discrete Fourier Transform (DFT), 344,
+424, 435, 442
+
+Distance to subspace, 213
+
+Domain, 402
+
+D0tpr0duct,11,15,17,23,71,111
+
+Dot product matrix, 223, 426
+
+Double angle, 415, 434
+
+Index
+
+Dual problem, 485, 489
+Duality, 485, 486
+Dynamic least squares, 559
+
+E
+
+Echelon matrix, 138
+
+Economics, 479, 482
+
+Edges, 365
+
+Eigenfaces, 386
+
+Eigenvalue, 248, 288, 289, 292
+Eigenvalue computations, 377, 530
+Eigenvalue instability, 375
+Eigenvalue matrix A, 304, 314
+Eigenvalues 0f A‘l, 299
+Eigenvalues 0f ATA, 378
+Eigenvalues of A2, 289, 304
+Eigenvalues of AB, 295, 318
+Eigenvalues 0f 6“”, 328
+Eigenvalues of permutation, 302
+Eigenvector, 288, 289
+
+Eigenvector basis, 416, 421
+Eigenvector matrix X , 304, 314
+Eigenvector 0f ATA, 380
+
+Eight vector space rules, 131
+Eigshow, 303, 380
+
+Einstein, 59
+
+Elementary matrix, 60
+Elimination, 46, 99, 149, 250, 511
+Elimination matrix, 28, 58, 60, 61, 97
+Ellipse, 354, 356, 381, 392, 399, 410
+Encryption, 505
+
+Energy, 351, 352
+
+Engineering, 462, 463, 465, 466,468,470
+Enigma, 504
+
+Entry, 37, 59, 70
+
+Equal rows, 250, 275
+
+Error, 208, 220, 525
+
+Error equation, 520, 524, 526
+Euler’s formula, 434, 456, 460
+Even permutation, 118, 248, 267
+Even—odd permutation, 448
+Exascale, 509
+
+Exchange equations, 49, 508
+Existence of solution, 151, 154, 200
+Expected value, 536, 544, 545, 548
+
+567
+
+Exponential matrix, 326, 331
+Exponential series, 327, 334
+Exponential solution, 319, 320
+
+F
+
+Face recognition, 386
+
+Face space, 386, 387
+
+Factorial, 113, 543
+
+Factorization, 97, 99, 104, 121, 147,448
+
+Failure of elimination, 49, 53
+
+False proof, 346
+
+Fast Fourier Transform, 424, 445, 448
+
+Favorite matrix, 86, 264, 357
+
+Feasible set, 483, 484
+
+Fermat’s Last Theorem, 502
+
+Fibonacci, 265, 268, 271,287, 308, 315, 380
+
+Field, 502,505, 506
+
+Fill—in, 513, 527
+
+Finite element, 473
+
+First order system, 333
+
+Fixed—free, 466,467, 470
+
+Flag, 366, 369, 370
+
+Flip across diagonal, 111
+
+Flows in networks, 456
+
+Formula for 7r, 493
+
+Formula for A‘l, 275
+
+Forward difference, 30, 463
+
+Forward Euler, 324
+
+Forward substitution, 56
+
+Four Fundamental Subspaces, 181, 184, 196,
+371, 443
+
+Four numbers determine A, 400
+
+Four possible ranks, 155, 161
+
+Fourier coefﬁcient, 427, 493
+
+Fourier matrix, 421, 424, 425, 442, 446
+
+Fourier series, 427, 429, 491, 493
+
+Framework for applications, 467
+
+Fredholm Alternative, 202
+
+Free column, 137, 138, 140
+
+Free variables, 48, 138, 151
+
+Frequency space, 445, 447
+
+Frobenius, 518
+
+Full column rank, 153, 160, 166
+
+Full row rank, 154
+
+Function space, 172, 178, 421, 426, 491, 492
+
+568
+
+Functions, 122, 124
+
+Fundamental Theorem 0f Algebra, 445
+
+Fundamental Theorem 0f Calculus, 405
+
+Fundamental Theorem of Linear Algebra,
+18 1, 185, 198
+
+G
+
+Gain matrix, 560
+
+Galileo, 226
+
+Gambling, 485
+
+Gauss, 51, 557,559
+Gauss—Jordan, 86, 87, 94, 149, 161
+Gauss—Seidel method, 524, 526, 527, 531
+Gaussian, 540, 542, 555
+
+Gaussian elimination, 51, 508
+General (complete) solution, 159
+Generalized eigenvector, 421, 422
+Geometric mean, 16
+
+Geometric series, 479
+
+Geometry ofA : UEVT, 392
+Gershgorin circles, 297
+
+Giles, 543, 544
+
+Givens rotation, 514, 517
+
+Glued coins, 546, 547, 548, 554
+GMRES, 528
+
+Golden mean, 309
+
+Golub-Van Loan, 528
+
+Google, 387, 477
+
+GPS, 553
+
+GPU, 509
+
+Gram-Schmidt, 232, 237, 239, 240, 428, 515
+Graph, 76, 186, 187, 452
+
+Graph Laplacian matrix, 457
+Grayscale, 364
+
+Greece, 369
+
+Grounded node, 458
+
+Group, 121,362
+
+Growth factor, 321, 327, 337,478
+
+H
+
+Hadamard matrix, 241, 285, 313
+Half—plane, 7, 15
+
+Heat equation, 330
+
+Heisenberg, 296, 303
+
+Hermitian matrix, 347, 430, 438, 440
+
+Index
+
+Hessenberg matrix, 265, 530, 534
+Hessian matrix, 356
+
+High Deﬁnition TV, 365
+
+Hilbert matrix, 95, 257, 357, 368, 426, 516
+Hilbert space, 490, 492, 493
+
+Hill Cipher, 504, 505
+
+HITS algorithm, 388
+
+Homogeneous coordinates, 496, 497, 500
+Homogeneous solution, 159
+
+Hooke’s Law, 467, 468
+
+House matrix, 406, 409
+
+Householder, 241, 513, 515
+
+Hypercube, 285
+
+Hyperplane, 33, 232
+
+|
+
+Identity matrix, 37
+
+111-conditioned, 516
+
+Image processing, 364
+
+Imaginary eigenvalues, 294
+Incidence matrix, 186, 452, 456, 459
+Incomplete L U , 524
+
+Independent columns, 153
+Independent eigenvectors, 305, 306
+Independentrandom variables, 555, 557
+Independent vectors, 27, 164, 547
+Inﬁnite dimensions, 490
+
+Inner product, 11, 111, 122, 426, 439, 491
+Input basis, 411, 412, 421
+
+Integral, 404, 413, 545
+
+Integration by parts, 122
+
+Interior point method, 488
+Interlacing, 349
+
+Interpolation, 447
+
+Intersection, 133, 179
+
+Inverse formula, 275, 284
+
+Inverse matrix, 24, 83, 255, 408
+Inverse power method, 530, 532
+Invertible matrix, 27, 88, 89
+Isometric, 416
+
+Iteration, 524
+
+J
+Jacobi’s method, 524, 526, 527
+Jacobian matrix, 279
+
+Index
+
+Joint probability, 546, 550, 554
+Jordan form, 308,421,423, 429, 525
+Jordan matrix, 422, 423
+
+JPEG, 344
+
+K
+
+Kalman ﬁlter, 218, 559, 560, 561
+Kernel, 405
+
+Kirchhoff’s Laws, 145, 187, 189,455
+Krylov space, 533
+
+L
+
+Lagrange multiplier, 488
+
+Lanczos method, 533, 534
+
+Laplace transform, 337
+
+Largest ratio, 393
+
+Law of Inertia, 349
+
+Law of large numbers, 536
+
+Lax, 317, 348
+
+Leapfrog method, 324, 325, 336
+
+Least squares, 220,226, 239, 240, 396
+Left eigenvectors, 318
+
+Left inverse, 83, 148, 397
+
+Left nullspace, 181, 183, 185
+Legendre polynomial, 428, 494
+Length, 11, 438, 490, 491
+
+Line, 5
+
+Line of springs, 467
+
+Linear combination, 1, 3, 9, 33
+
+Linear independence, 164, 165, 167, 175
+Linear programming, 483, 485
+
+Linear transformation, 401, 402, 407, 411
+Linearity, 45, 403,411, 541
+
+Loadings, 390
+
+Loop, 187, 314,453,456
+
+Lower triangular, 98
+
+Lucas numbers, 312
+
+M
+
+Magic matrix, 44
+
+Map of Europe, 385
+
+Markov equation, 332, 481
+
+Markov matrix, 290, 301, 387, 474, 476, 480
+Mass matrix, 324
+
+Matching signs, 342
+
+569
+
+Mathematical ﬁnance, 473
+
+Matrix, 7, 22, 37
+
+Matrix exponential, 326
+
+Matrix for transformation, 413
+
+Matrix inversion lemma, 562
+
+Matrix multiplication, 58, 62, 70, 414
+Matrix powers, 74, 80
+
+Matrix space,125, 126, 171, 172, 178,409
+Max : min, 485
+
+Maximum ratio, 376
+
+Mean, 230, 535, 538
+
+Mean square error, 227
+
+Mechanical engineering, 462, 463, 465,468
+Median, 228
+
+Medical genetics, 385
+
+Minimum of function, 356, 361, 381
+Minimum cost, 483,485,486
+
+Minor, 263
+
+Model Order Reduction, 387
+
+Modiﬁed Gram—Schmidt, 240
+Modular arithmetic, 502, 504
+
+Monte Carlo, 543
+
+Moore’s Law, 509
+
+Multigrid, 528
+
+Multiplication, 71, 72, 74, 414
+Multiplication by rows/ columns, 36, 37, 72
+Multiplication count, 71, 82, 101
+Multiplicity of eigenvalues, 311
+Multiplier,46, 47, 51, 85,97, 105,508
+Multiply pivots, 251
+
+Multivariate Gaussian, 556
+
+N
+
+Nearest singular matrix, 395
+Network, 76,458,469
+
+No solution, 26, 40, 48, 220
+Nodes, 187,454
+
+Noise, 219, 230, 427
+Nondiagonalizable matrix, 306, 311
+N onnegative Factorization, 386
+
+N onnegative matrix, 479
+
+Nonzero solution, 139
+
+Norm, 393, 394, 518, 519
+
+Normal distribution, 537, 539, 540
+Normal equation, 211, 219
+
+570
+
+Normal matrix, 348, 444
+
+Not diagonalizable, 306, 312, 429
+Nullspace, 135, 147
+
+Nullspace 0f ATA, 203,212,217
+
+0
+
+Odd permutation, 249, 261
+
+Ohm’s Law, 189,458
+
+One at a time, 376
+
+Operation count, 51 1
+
+Optimal solution, 483
+
+Order of importance, 371
+
+Orthogonal columns, 224, 447
+
+Orthogonal complement, 197, 198
+Orthogonal eigenvectors, 340, 440
+Orthogonalmatrix, 234, 241, 242, 295, 494
+Orthogonal subspaces, 195, 196,203
+Orthogonal vectors, 194, 233, 430
+Orthonorrnal basis, 371, 492
+
+Orthonorrnal columns, 234, 236, 441
+Orthonorrnal eigenvectors, 338, 348
+Orthonorrnal vectors, 233, 237
+
+Outer product (see columns times rows), 81
+Outputbasis, 411,412,413
+
+p
+
+P-Value, 385
+
+PageRank, 388
+
+Parabola, 226, 227, 464
+
+Paradox, 347
+
+Parallel plane, 41, 483
+
+Parallelograrn, 3, 8, 277
+
+Parentheses, 61, 73, 83
+
+Partial pivoting, 115, 508, 510, 516
+
+Particular solution, 151, 153, 334, 462
+
+Pascal matrix, 91, 103,271, 357
+
+PCA, 382,383,389
+
+Permutation matrix, 49, 62, 63, 109, 113,
+116, 179, 303,424
+
+Perpendicular, 11
+
+Perpendiculardistances, 384
+
+Perron-Frobenius theorem, 477, 482
+
+Pivot, 46,47, 88, 137, 378, 508,510
+
+Pivotcolurnns, 137, 138, 169
+
+Pivot formula, 258
+
+Index
+
+Pivot matrix, 106
+
+Pivot variables, 138, 151
+
+Pixel, 364, 499
+
+Plane, 1, 5, 128
+
+Plane rotation, 498
+
+Polar decomposition, 392, 394
+
+Polar form, 285, 430, 433
+
+Population, 384, 478
+
+Positive deﬁnite, 350, 469, 547, 549
+
+Positive deﬁnite matrix, 352, 359
+
+Positive matrix, 474, 477
+
+Positive semideﬁnite, 350, 354
+
+Powerrnethod, 388,529, 532
+
+Powers of A, 121, 305, 307, 310, 315,525
+
+Preconditioner, 524, 528
+
+Primal problem, 489
+
+Prime number, 503
+
+Principal axis theorem, 339
+
+Principal Component Analysis, 382, 389
+
+Probability, 535, 538
+
+Probability density (pdf), 538, 544, 555
+
+Probability matrix, 547, 554
+
+Probability vector, 475
+
+Product inequality, 393
+
+Product of eigenvalues, 294, 300, 342
+
+Product of pivots, 248, 342
+
+Product rule, 252, 266, 273, 554
+
+Projection, 206, 208, 236, 395,496, 498
+
+Projection matrix, 206, 209, 211, 216, 236,
+291, 415, 501
+
+Pseudoinverse, 198, 225, 392, 395, 399, 404
+
+Pythagoras, 13, 14,20, 194
+
+Q
+Quadratic formula, 309, 437
+Quantum mechanics, 11 1, 296
+
+R
+
+Random matrix, 57, 541
+
+rank(AB), 147
+
+Range, 402, 405
+
+Rank, 139, 146, 155, 171, 181, 190,366,369
+Rank one matrix, 140, 188, 318, 372, 400
+Rank one update, 562
+
+Rayleigh quotient, 376, 519
+
+Index
+
+Real eigenvalues, 339, 440
+
+Recursive, 214, 218, 231,449, 560
+Reduced row echelon form, 86, 137, 138
+Reﬂection matrix, 235, 241, 291, 499, 514
+Repeated eigenvalue, 311, 327, 333
+Rescaling, 496, 552
+
+Residual, 224, 524
+
+Reverse order, 84, 85, 110
+
+Right hand rule, 278, 280
+
+Right inverse, 83, 397, 448
+
+Right triangle, 13, 14, 194, 220
+
+Roots of 1, 435, 442, 445
+
+Rotation, 15, 392, 394, 496
+
+Rotation matrix, 294, 414
+
+Roundoff error, 510, 520
+
+Row at a time, 22, 23, 38
+
+Row exchange, 49, 58, 63, 115,247,256
+Row picture, 31, 32, 34
+
+Row rank, 150
+
+Row space, 168, 182,443
+
+Rules for vector spaces, 131
+
+Rules for determinant, 249, 254
+Runge—Kutta, 337
+
+S
+
+Saddle point, 117, 358, 361
+
+Same eigenvalues, 308, 318
+
+Same length, 235
+
+Sample covariance matrix, 382, 547
+Sample mean, 535, 547,550
+Sample value, 535, 544
+
+Sample variance, 382, 536
+
+Scalar, 2, 32, 124
+
+Schur, 343, 363
+
+Schur complement, 75, 96, 270, 357
+Schwarz inequality, 11, 16, 20, 393, 490
+Scree plot, 389
+
+Second derivative matrix, 356, 361
+Second difference, 344, 357, 464
+Second eigenvalue, 477
+
+Second order equation, 322, 333
+Semideﬁnite matrix, 354
+Sensitivity, 478, 482
+Sherman—Woodbury—Morrison, 562
+Shift by uo, 402
+
+571
+
+Short Wide matrix, 139, 171
+
+Shonage 0f eigenvectors, 329
+Shonest solution, 225, 397, 400
+Sigma notation, 59
+
+Signal processing, 435, 445, 450
+Similar matrix, 307, 318, 416, 421, 429
+Simplex method, 486
+
+Simulation, 472
+
+Sine matrix, 344
+
+Singular matrix, 27, 88, 225, 251
+Singular value, 367, 368, 371, 520 (see SVD)
+Singular value matrix, 416
+
+Singular vector, 367, 371,416
+SkeW—symmetric matrix, 119, 295, 334, 437
+Slope, 19, 31
+
+Snapshot, 387
+
+SNP, 384, 385
+
+Solvable, 127, 130
+
+SOR, 527, 532
+
+Span, 128, 134, 164, 167,200
+Spanning tree, 314
+
+Sparse matrix, 101, 508, 513, 559
+Spatial statistics, 385
+
+Special solution, 135, 137, 140, 149, 158
+Spectral radius, 522, 525, 534
+Spectral Theorem, 339, 340, 343
+Spiral, 323
+
+Splitting, 200, 222, 260, 524,531
+Spread, 536
+
+Spreadsheet, 12, 375
+
+Square root matrix, 353
+
+Square wave, 492, 494
+
+Squashed, 410
+
+Stoichiometric matrix, 461
+
+Stability, 307, 319, 325,326, 375
+Standard basis, 169, 415,421
+Standard deviation, 536
+
+Standard n0rma1(Gaussian), 545, 555
+Standardize, 541, 542, 552
+
+State equations, 559
+
+Statistics, 38, 230, 384
+
+Steady model, 561
+
+Steady state, 290, 332, 474, 476
+Stiffness matrix, 324, 462, 469
+
+572
+
+Stirling’s formula, 543
+
+Straight line, 223, 231
+Stretching, 279, 392, 394
+Stripes on ﬂag, 369
+
+Submatrix, 38, 146, 263
+Subspace, 123, 125, 126, 130, 132
+Sum matrix, 29, 90, 276
+
+Sum of eigenvalues, 294, 300
+Sum of errors, 228
+
+Sum of spaces, 179
+
+Sum of squares, 353
+
+Super Bowl, 387
+Supercomputer, 509
+
+SVD, 364, 370, 372, 392
+Symmetric factorization, 116
+Symmetric matrix, 87, 111, 338
+
+T
+Table of eigenvalues, 363
+
+Test, 350,359
+
+Test for minimum, 356, 361
+Three—dimensional space, 4
+
+Tic—tac—toe, 193
+
+Time to maturity, 389
+
+TOP500, 509
+
+Total least squares, 384
+
+Total variance, 383, 389
+
+Trace, 294, 300, 316, 325, 380, 383
+Training set, 386
+
+Transform, 236
+
+Transformation, 401, 402
+
+Translation matrix, 496
+
+Transpose matrix, 109, 117, 122,417
+Transpose of inverse, 110
+
+Trapezoidal, 336
+
+Tree, 187,314,453
+
+Trefethen—Bau, 528
+
+Triangle area, 276
+
+Triangle inequality, 16, 17, 20, 393, 523
+Triangular matrix, 52, 89, 100, 251
+Tridiagonal matrix, 87, 107, 268, 363, 377
+Triple product, 112, 281, 286
+
+Turing, 504
+
+Two—dimensional Gaussian, 555
+
+Index
+
+U
+
+US. Treasury, 389
+
+Uncertainty principle, 296, 303
+Underdamping, 337
+Underdetermined, 154
+Uniform distribution, 5 37, 5 39
+Unique solution, 153, 168, 200
+Unit circle, 432
+
+Unit vector, 13, 14
+
+Unitary matrix, 430, 441, 446
+Unsquared errors, 5 59
+Update,214,218, 559,560,562
+Upper left submatrix, 259, 352
+Upper triangular, 46, 87
+
+V
+
+Vandermonde, 256, 269, 447
+Variance, 230, 535, 537, 539, 545, 551
+Variance in E, 558
+
+Vector addition, 2, 32
+
+Vector space, 123, 124
+
+Venical distances, 220, 384
+
+Voltage, 187, 454, 457
+
+Volume, 42, 278
+
+W
+
+Wall, 203
+
+Wave equation, 330
+Wavelets, 245
+
+Web matrix, 387
+
+Weight function, 426
+Weighted least squares, 557
+White noise, 557
+
+Y
+Yield curve, 389, 390
+
+2
+
+Zero determinant, 247
+Zero nullspace, 138
+
+Zero vector, 2, 3, 166, 167
+

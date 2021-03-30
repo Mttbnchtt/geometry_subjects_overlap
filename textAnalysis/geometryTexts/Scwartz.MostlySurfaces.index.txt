@@ -1,0 +1,342 @@
+
+Index
+
+1-forms, 98
+2-adic metric, 23
+
+Abelian, 43
+a!ne automorphisms, 221
+angle, 87
+angle deficit, 209
+antipodal points, 69
+area preserving maps, 219
+atlas, 136
+
+Banach–Tarski Theorem, 17, 275
+basepoint, 46, 48
+basic reflection, 105
+basic rotation, 105
+bijection, 21
+billiards, 213
+binary icosahedral group, 63
+Bolyai-Gerwein Theorem, 96
+Bolzano-Weierstrass Theorem, 72
+boundary, 23
+
+Cauchy Integral Formula, 163, 165,
+167
+
+Cauchy Rigidity Theorem, 17, 295
+Cauchy sequence, 154
+Cauchy’s Arm Lemma, 302
+Cauchy’s Theorem, 165
+Cauchy-Riemann equations, 165
+Cauchy-Schwarz inequality, 87
+Cayley’s Theorem, 44
+
+chain, 32
+
+chain rule, 164
+
+circle, 56, 116
+
+circular polygon, 166
+
+classification of isometries, 130
+
+classification of surfaces, 36
+
+Clean Dissections, 292
+
+closed set, 23
+
+closure, 23
+
+combinatorial Gauss–Bonnet
+Theorem, 209
+
+compact, 26, 36
+
+compact Riemann surfaces, 203
+
+complex analysis, 11
+
+complex analytic function, 163
+
+composing loops, 46
+
+composition, 24
+
+cone surface, 13
+
+connect sum, 36
+
+continued fractions, 241, 245
+
+continuity, 24
+
+convex geodesic polygon, 145
+
+convexity, 110
+
+coordinate chart, 136
+
+covering group, 66
+
+covering space, 8, 65
+
+curve, 133
+
+cylinder, 34
+
+cylinder decomposition, 234
+
+311
+
+
+
+312 Index
+
+deck group, 66, 71
+deck transformation, 66
+Dehn twist, 235
+Dehn’s Dissection Theorem, 17, 98,
+
+287
+determinant, 30
+di"eomorphism, 135
+di"erential representation, 223
+disk model, 125
+disk rigidity, 177
+disk-like sets, 143, 144
+dodecahedron, 63
+dot product, 22, 87
+double octagon, 232
+
+edges, 5
+elliptic isometry, 130
+equivalence class, 32
+equivalence relation, 32
+essential curves, 5
+Euclidean cone, 207
+Euclidean cone surface, 208
+Euclidean plane, 1
+Euclidean space, 1, 87
+Euler characteristic, 37
+exponential function, 175
+
+faces, 5
+Farey graph, 242, 245
+Farey related, 242
+figure 8, 69
+flat cone surface, 207
+flat torus, 16, 67, 195, 252
+functoriality, 49
+fundamental group, 43, 46, 71
+Fundamental Theorem of Algebra,
+
+57, 180
+
+Gauss map, 239
+Gauss–Bonnet Theorem, 107, 127
+Gauss-Bonnet Theorem, 151
+generalized circle, 116
+geodesic, 145
+geodesic half-plane, 150
+geodesic hyperbolic triangle, 228
+geodesic polygon, 127, 145
+geodesic triangle, 107
+geodesic triangulation, 150
+geodesics, 9, 105, 120, 123
+
+Giraud’s Theorem, 107
+gluing, 2, 3, 31, 145
+gluing recipe, 147
+good metric space, 80
+Green’s Theorem, 100, 166
+group, 43
+
+Hadamard’s Theorem, 154
+harmonic function, 179
+holomorphic function, 163
+homeomorphism, 25
+homomorphism, 44
+homotopy, 45
+homotopy equivalence, 45
+Hopf–Rinow Theorem, 154
+hyperbolic geometry, 9
+hyperbolic group actions, 224
+hyperbolic isometry, 121, 130, 143
+hyperbolic plane, 9, 224
+hyperbolic reflections, 229
+hyperbolic surface, 143, 147, 195
+
+ideal triangle, 127, 242
+ideal vertices, 127
+Implicit Function Theorem, 28
+infimum, 31
+infinite di"erentiability, 169
+inner product, 121, 134
+interior, 23
+Invariance of Domain, 189
+Inverse Function Theorem, 135, 185
+irrational numbers, 247
+isometry, 135
+isomorphism, 44
+isomorphism theorem, 71, 74, 79
+
+Jordan curve, 199
+Jordan domain, 199
+
+Klein bottle, 35
+
+latitude, 105
+lens space, 59
+Lie group, 30
+lifting property, 73
+line integrals, 98
+linear fractional transformation, 11,
+
+115, 130
+linear functionals, 98
+
+
+
+
+
+
+Index 313
+
+linear reflections, 229
+Liouville’s Theorem, 179
+longitude, 105
+loop, 46
+
+manifold, 28, 59
+map, 24
+mapping class group, 260, 263
+marked loop, 190
+marked parallelograms, 251
+matrix group, 30
+maximal atlas, 136
+Maximum Principle, 170
+metric, 22
+metric completeness, 154
+metric space, 22
+Möbius band, 34
+Möbius geometry, 11
+Möbius transformation, 11, 115
+modular group, 14, 242, 244, 254
+moduli space, 16, 256, 263
+
+negative genus, 258
+nonorientable, 35
+nonorientable surfaces, 41
+norm, 87
+
+octagon, 4
+octagon surface, 9, 34
+one-to-one, 21
+onto, 21
+open set, 23
+orientable, 35
+overlap function, 136
+
+pairs of pants, 263
+pants decomposition, 265
+parabolic isometry, 130
+parallelogram tiling, 68
+path connectivity, 48
+path homotopic, 70
+pathification, 32
+Peano curve, 51
+periodic billiard paths, 219
+permutation group, 43
+Pick’s Theorem, 92
+Poincaré homology sphere, 62
+Poincaré Recurrence Theorem, 219
+
+Poincaré Uniformization Theorem,
+201
+
+Polygon Dissection Theorem, 96
+polygonal billiards, 213
+power series, 172
+product space, 51
+projective plane, 34, 59, 69
+projective space, 59
+properly discontinuous action, 224
+Pythagorean Theorem, 90
+
+quadratic irrationals, 248
+quaternions, 62
+
+real linear transformation, 121
+removable singularity, 171
+Riemann Mapping Theorem, 188,
+
+199
+Riemann surface, 195
+Riemann surface covering, 196
+Riemannian cover, 152
+Riemannian geometries, 9
+Riemannian isometry, 135
+Riemannian length, 139
+Riemannian manifold, 152
+Riemannian metric, 134, 139
+Riemannian surface, 139
+right-angled hexagon, 150
+
+saddle connection, 227
+Schwarz–Christo"el
+
+Transformation, 188
+scissors congruent, 287
+sectors, 207
+set, 21
+simple connectivity, 70
+Sinai Robins, 92
+Small Picard Theorem, 202
+smooth curve, 133, 137
+smooth surface, 136
+sphere, 1, 58
+spherical isometries, 103
+spherical metrics, 103
+spherical triangle, 107
+square torus, 1
+stereographic projection, 111, 181
+surface, 21, 27
+
+tangent plane, 103, 137
+
+
+
+314 Index
+
+Taylor series, 163, 174
+Teichmüller space, 16, 254, 258, 263
+The Riemann sphere, 196
+Thomas Harriot, 107
+topological space, 25
+torus, 1, 58
+translation surface, 13, 211, 221
+tree, 69
+triangle group, 228
+triangle inequality, 22, 32, 87
+
+unit convergence condition (UCC),
+172
+
+universal cover, 79, 156
+universal covering map, 57
+universal covering theorem, 80
+upper half-plane, 118
+
+Veech group, 14, 224, 228
+vertices, 5
+volume, 87
+
+William Wallace, 96
+winding number, 53
+
+X Theorem, 91

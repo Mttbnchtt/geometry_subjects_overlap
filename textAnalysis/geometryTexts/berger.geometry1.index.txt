@@ -1,0 +1,2421 @@
+
+Index
+
+Entries in italics refer to definitions. Entries consisting of a roman numeral
+and a number refer t·o volume and page number.
+
+A
+
+abelian group 1.4.4.1, 8.3.3
+Acerbas 12.11.7
+accumulation point 9.11.4
+action, see also group action
+- of permutations on cross-ratios
+
+6.3
+acute angle 10.1.9
+- triangle 9.4.1.3
+adjacent 12.1.12,12.1.8, 12.8.6.2
+adjoint of an endomorphism
+
+8.1.8.6, 19.tL4
+aerial photography 4.7
+affine automorphism 2.9.1
+- conic 16.7
+- coordinates 2.2.9
+- Euclidean spaces, see Euclidean
+
+affine spaces
+- form 2 .. 4-8.9, 11.8.7.2
+- frame 2.2.9, 3.2.5, 4.4, 2.2
+- -, convention about 2.2.8
+- geometry, fundamental theorem
+
+of 2.6
+- -, shortcomings of 5.0.1
+- - vs. projective geometry 5.4.2
+- group 2.9.9.4, 1.2.7
+- independent set 2.4.9
+- isomorphism 2.9.1
+
+- map, see affine morphism
+- morphism 2.3, 2.9.1, 3.2, 3.5
+- polynomial 3.3.5
+- quadratic form 9.9.6, 15.2
+- quadric 15.1.1, 15.3, 20.1.2
+- space 2.1.1
+- -, complex 2.8.7
+- -, complexification of 7.6.2
+- -, dimension of 2.1.8
+- -, orientation of 2.7.2
+- -8, differential calculus in 2.7.7
+- -8, isomorphism between 2.2.6
+- -s, product of 2.2.2
+- subspace 2.4.1, 5.3
+- -8, intersection of 2.4.2.4
+Alexandroff 12.11.5.3
+- compactification 5.2.6, 18.1.3.2,
+
+20.2.4
+algebra 0.2
+algebraic curves 16.4.9
+- dual 0.2
+- equations, solution by radicals
+
+16.4.11.1
+- geometry 4.0.5, 4.2.6, 12.7.5.1,
+
+17.1.6
+- group 12.6.9
+- hypersurface 14.1.4.2
+- number field 13.1.4.5
+
+406
+
+- topology 4.0.5, 4.3.7, 4.3.9,
+12.7.5.3, 11.86, 18.8.7, 19.1.3.3
+
+- - of orthogonal groups 8.10
+- - of projective spaces 4.3, 4.8.2
+- - of the sphere 18.2.1
+- varieties 14.1.6.2
+algebraically closed base field 6.4.2,
+
+6.5.1,6.7.2,6.7.4,13.4.3,13.5.3,
+14.1.5.3, 14.1.6.2, 16.2.10
+
+Alhambra 1.7.1
+alternating bilinear form 2.7.2.1,
+
+14.8.12.2
+- group 0.2, 1.8.4, 6.3.2, 12.5.5.6
+altitude of a spherical triangle
+
+18.11.5
+- of a triangle 9.4.1.3, 10.1.4,
+
+10.13.1
+- of a tetrahedron 10.6.6
+analysis 6.6, 11.8.11.12, 13.5.6,
+
+19.7.3
+analytic geometry 2.4.8, 10.7.6,
+
+14.1.4, 14.5.3, 17.1.6
+- - spheres 10.7.7,20.4.2
+- between tangent vectors to a
+
+sphere 18.1.2.4
+- ,dihedral 12.1.12
+- ,non-oriented 8.6
+- of a rotation 1.7.5,9.9.4,9.9.5
+- of an orientation-preserving
+
+similarity 9.6.3
+-8 and similarities 8.8.5
+-s in Artinian plane 13.8.5
+-s in Euclidean affine space 9.2.1
+-s in hyperbolic space 19.2.7
+-s of an elliptic triangle 19.1.9.1
+-8 of a spherical triangle 18.6.6
+-s of a triangle 10.1.2
+- - -, sum of 10.2.4
+animals 12.5.5.7, 11.86
+anisotropic 19.ft.l, 13.9.4
+anti-Euclidean 19.2.7
+antihomographies 18.10.2.4
+Appolonius 17.1.5, 17.3
+- 'formula. 9.7.6.1
+- 'hyperbola 17.5.5.6
+
+- 'problem 10.11.1
+- 'theorem 15.6.4
+approximation lemmas 12.9.2
+Apulia, Italy 1122
+
+Index
+
+arc cosine 8.3.11,9.9.7.1, 18.6.6
+- of circle B.7.5.4
+archimedean field 8.5.2
+Archimedes 15.7.6
+architecture, II.22; see also shell
+
+architecture 14.4.6
+area 9.12.4.1, 9.12.7
+- and Steiner symmetrization
+
+12.10.10
+- of a compact convex set 12.10.2
+- of a triangle 9.7.3.8, 9.12.4.4,
+
+10.1.5
+- of ellipse 17.7.5
+- of pedal triangles 10.4.5
+- of polytopes 12.9
+- of the sphere 12.10.4.1
+-s , calculation of 9.12.6.3
+-s on the sphere 18.9.B.l
+argument 8.7.9
+arithmetic 6.6, 10.13.29, 12.4.6,
+
+13.7.2, 19.7.3
+arrow 3.1.2
+art I. ix, 1. 7.1
+Artin 13.7.2
+Artinian plane 19.1.4.4, 13.8, 19.2.5
+- space 19.1.4.4
+- -, quadrics in 14.4
+associativity of barycenters of
+
+punctual masses 3.4.8
+- of the base field 2.5.5, 5.4.4
+asteroids 17.2.1.7
+astroid 9.1.4.94.9, 17.7.4
+astronomy II.146, 18.6.1, 18.6.11,
+
+18.6.13.8
+asymptote 15.5.11, 17.8
+asymptotic cone 15.5.11
+atlas 4.2.1
+automobile 18.6.11
+automorphic function 6.6.7
+axiomatic point of view 5.0.1
+axiomatization 2.6.7, 2.5.5
+
+
+
+Index
+
+- of affine geometry 2.6.7
+- of Euclidean geometry 9.2.3
+- of projective geometry 4.5.12,
+
+4.6.7
+axis of an ellipse 16.3.10.2
+- of a rotation 8.4.7.1, 9.9.5
+- of a screw motion 9.9.5
+- of inertia 13.5.6
+
+B
+
+bailing-out maxim 11.1.2.2
+balls, volume of 9.12.4.6
+barycenter 9.4.1, 9.4.5, 9.7.6,
+
+9.12.6.1, 11.1.8.3
+- , calculation of 3.4.6.6
+- coordinates 9.6.2, 10.6;8,
+
+10.13.26
+- subdivision 9.6.5, 3.7.8
+base field, see associativity,
+
+commutativity, etc.
+- of a pencil 14.2.7.9
+Basel cathedral 9.6.9, 9.14.32
+basis of a complexification 7.1.3
+Beltrami 19.7.2
+Bernoulli, Jakob 9.6.9
+Bernoulli's tomb 9.6.9,9.14.32
+Betti numbers 4.3.9.4
+Bezout's theorem 16.4
+bicircular quartics 9.6.8
+Bieberbach's isodiametric inequality
+
+9.13.8
+Bieberbach's theorem 1.7.7.3
+bijections 0.2
+bilinear form 8.1.1, 11.86
+billiards 9.4.1,9.14.9, 17.9.2
+Binet's formula 17.2.1.7
+binomial coefficients 0.2
+bisector 8.7.9.2, 8.7.7.4, 8.12.10,
+
+9.14.3, 18.11.5, 20.4.4, 20.8.2
+bistochastic matrices 11.6.6.3,
+
+11.9.7
+bitangent conics 16.4.10.3
+Blaschke Kugelungsatz 9.13.6,
+
+9.14.24
+
+407
+
+Blaschke rolling theorems 12.12.14
+Blaschke selection theorem 9.11.4
+Blaschke-Lebesgue 12.10.5
+Bolyai 19.7.2
+Bonnesen's theorem 12.11.9.4,
+
+12.12.15
+Borsuk-Ulam, theorem of 18.2.7
+bound vector 2.1.9
+box 9.11!.4.2
+Boy's surface 4.9.9.1
+Brahmagupta's formula 10.13.7
+braid lemma 9.5.4.9
+Brianchon's theorem 16.2.13, 19.3.5
+British Museum 12.5.5.7
+Bruhat-Tits lemma 9.8.6.5
+Brunn-Minkowski theorem
+
+11.8.8.1, 12.11.3
+
+c
+calculation in affine spaces 2.3.8,
+
+9.2.6
+- in projective spaces 4.2.1
+- of areas 9.12.6.3, 12.10.11
+- of duals 14.5.3
+- of barycenters 3.4.6.6
+- of cross-ratios 6.2
+- of cross product 8.11.10
+- of projective morphisms 4.5.13
+- of quadrics 14.1.4
+- with affine polynomials 3.3.3
+- with vectors 3.1
+canonical density 8.11.9
+- measure of affine spaces 2.7.4.2
+- - of Euclidean affine spaces
+
+9.12
+- - of elliptic spaces 19.1.1.7
+- - of hyperbolic space 19.5.1
+- - of spheres 12.3.2, 18.9.7
+- norm 9.2.6.4
+- projection onto a projective space
+
+4·1.1
+- topology of an affine space
+
+2.7.1.1
+- - of a projective space 4.9.1
+
+408
+
+- volume 9.12
+- - form 8.11.9, 18.9.4
+car 18.6.11
+Caratheodory's theorem 11.1.8.6,
+
+11.5.8, 11.7.4.2
+cardboard polyhedra 12.1.3.2, 12.8
+cardinality of a set 0.1
+cardioid 9.6.8, 9.1.4.94.9,9.14.34.5
+Caron, Joseph Lxi
+Cartan-Dieudonne t.heorem 13.7.12
+Carthage 12.11.8
+cartography 4.7.5, 18.1, 18.1.5.4
+- of France 18.1.8.5
+- of Switzerland 18.1.8.3
+cash prize 10.6
+Castel del Monte, Italy 11.22
+Castillon's problem 10.11.4,
+
+16.3.10.3
+Cauchy's formula 12.3.3, 12.8.1,
+
+12.10.2, 12.11.9.6
+Cauchy's lemma 12.6.6.1, 18.6.11,
+
+18.7.16
+Cauchy's theorem 12.8.1
+Cauchy-Schwarz inequality
+
+12.11.5.4
+caustic 9.14.34.3
+Cayley 5.2.2, 1.122, 8.8.7.5, 16.6.1,
+
+16.6.12.4
+Cayley numbers, see octonions
+Cayley-Menger determinant
+
+9.7.9.1, 9.7.4, 9.14.23
+Cayley's formulas 17.6.7
+celestial charts 18.1.8.6
+cell decompositions 4.3.9.4
+center of a compact set 2.7.5.5
+- of an isometry 9.9.9
+- of a group 1.6.7.2
+- of a quadrit 15.5.9
+- of a regular polygon 1!!.4.9
+- of a regular polytope 12.5.2.1
+- of a rotation 1.7.5
+- of a rotation 9.9.4
+- of a similarity 9.5.!!
+- of a sphere 10.7.1
+- of curvature, see curvature
+
+Index
+
+- of mass 2.7.5.3,9.4.2,3.4.6.1,
+12.5.2.1
+
+center of the ortogonal group 8.2.16
+central field 9.1.2.2
+- quadric 15.5.9
+centrifugal "force" 17.5.5.5
+centroid 2.7.5.2, 3.4.2,9.12.6,
+
+11.5.9.3, 11.7.6
+Ceva, theorem of 2.8.1, 3.7.12,
+
+10.13.1.2
+chain of theorems 10.9.8, 10.13.19
+change of variable theorem 0.6,
+
+2.7.4.2
+characteristic classes 14.3.7
+characteristic function 0.6
+chart 4.2.1,18.1.5.1,18.2.1, 18.11.2
+chart, what you want in a 18.1.7
+charts in P(E) 4.5.13
+Chasles's relation 2.1.5, 8.7.2.4,
+
+10.9.7.2, 16.6.1
+Chasles circles 17.9.11
+Cheeger-Simons, conjecture by
+
+18.3.8.6
+Chinese lantern 9.12.7
+chords 10.9.2.1
+circle 8.3.3, 8.12.4, 9.4.4, 10.7.1,
+
+11.6.1, circle 18.1.9.1
+- as a conic 17.4.2
+-s in hyperbolic space 19.3.3.2,
+
+19.6.8.2
+--s in the plane 10.9
+- , classical problems on 10.11
+Circle Limit II.342
+circular group 20.6.1
+circular sections 15.7.14
+circumscribed 1 !!.5 .2.1
+class formula 1.6.6, 1.8.3.1
+classical geometry 2.7, 1.200; see
+
+also Greeks
+classical groups 16.3.9
+classification 1.6.5
+- of affine quadrics 15.3
+- of crystallographic groups 1.9.9
+- of Euclidean affine quadrics
+
+15.6.1
+
+
+
+Index
+
+- of quadratic forms 19.1.4.1, 13.4
+- of quadrics 14.1.5
+Clifford algebra 8.9.13, 8.10.3,
+
+13.6.8
+Clifford parallelism 4.3.7, 18.8.1.2,
+
+18.8.4, 18.9.3, 18.11.17, 19.1.4,
+- -, generalizations of 18.9.4.4
+- parallelogram 18.8.4
+closed ball 0.9
+- convex hull 11.2.9
+- hyperplane 2.7.9.2
+closedness of stabilizers 9.8.3
+cobordism 4.0.5
+cocoon 11.9.6.0
+cocube 112.1.2.5, 12.5.4.3; see also
+
+standard cocube
+cogwheel design 9.14.34.6
+cohomology rings 4.3.9.4
+combinations 1.5.2
+comets 17.2.1.7
+common perpendicular 9.12.6.5
+commutative algebra 16.4.9
+commutativity of base field 2.3.3.9,
+
+2.5.5, 4.5.6, 4.9.8
+compact convex set 9.12.7, 12.9
+- manifolds 4.0.5
+- subgroups of GA(X) 2.7.5
+compactness of orthogonal group
+
+8.2.3.3
+- of projective spaces 4.3.3
+- of sphere 18.2.1
+- of stabilizers 9.8.6
+compass 10.8.3, 10.9, 10.11.2
+complementary affine subspaces
+
+2·4·9·4
+complete quadrilateral 9.7.18,
+
+6.4.4, 17.9.19
+completely faithful 5.1.3
+- singular 19.12.1
+completeness of hyperbolic space
+
+19.2.6
+complex affine spaces 2.8.7
+- analysis 8.2.14
+- conjugation 2.6.1
+- exponential 8.3.7
+
+409
+
+- numbers 0.2
+- - and plane similarities 8.8.4,
+
+9.6.4
+- projective quadric C(4) 20.5.7
+- projective spaces 9.1.7, 19.1.5
+- proper quadrics 14.3.5
+- structure for Euclidean plane
+
+8.3.12
+complexification 5.0.5, 7, 7.4.1,
+
+18.6.13.11
+- ,canonical 7.0.5
+- ,natural 7.7.5
+- of an affine morphism 7.6.9
+- of an affine space 7.6.2
+- of a projective morphism 7.5.4
+- of a projective space 7.5.1
+- of a real vector space 7.1.1
+- of conics 17.4.1
+- of morphisms 7.2
+- of polynomials 7.3
+--s and similarities 8.8.6
+-s and subspaces 7.4
+computation, see calculation
+concave function 11.8.6
+concavity 9.14.18
+cone 11.1.6, 11.6.2,14.5.9
+conformal chait 18.1.7.2
+- group 120.6.1
+- map 9.5.4.2, 18.10.9.1, 19.8.6
+- model 19.6.1
+congruent 10.12.6
+conic 1.2.7, 1.4.2, 13.3.2, 14.1.1,
+
+15.1.1
+- at infinity 15.1.9.2
+conjugate diameters 15.5.10
+- elements in Sn 1.6.4
+- of a quaternion 8.9.1
+- set 15.6.9
+- subgroup 1.5.3
+conjugation 2.6.1
+- ,complex 7.1.1, 7.5.1, 7.6.2
+- by inversions 10.8.4
+- with respect to a quadric 14.5.1
+connectedness of O+(E) 8.4.3
+
+410
+
+- of the complement of subspaces
+2.8.7
+
+- of the projective group 4.9.5
+- of the sphere 18.2.1
+conoid 1-4.1.7.1
+constant vector field 9.1.2.1
+- width 12.10.5
+contact theory 16.4.11.3
+continuous screw motion 9.1-4.7
+convex compact sets 9.4.3
+- cone 11.1.6
+- curve 11.9.10.1
+- function 11.8, 11.8.1, 11.8.10,
+
+11.8.12, 11.9.15
+- hull 11.1.8.1
+- polar body, see polar body
+- polyhedron 12.1.1
+- sets 8.2.5.3, 11, 11.1.1, 11.4,
+
+12.9.1
+- -, frontier of 11.6
+- -, topology of 11.3
+- spherical polygon 18.7.1
+- surface 11.9.10.2
+convexity criteria 11.1.7, 11.8.11
+- inequalities 11.8.11.12
+- of quadrics 15.4.6
+coordinates, affine 2.2.9
+correlation 14.5.5, 1-4.8.12.1
+cosine 8.9.6
+cosine-haversine formula 18.6.11
+Cosinus 18.11.24
+cowlick 18.2.5.4
+Cramer's rule 6.2.1
+crank 10.8.3
+cross product 8.11,8.11.8,8.12.9,
+
+15.6.6
+cross-ratio 6.1.2, 6.8.19, 9.6.5,
+
+10.13.17, 1-4.-4.-4, 16.2.5,
+16.2.7.9
+
+-s , action of permutations on 6.3
+-s and duality 6.5
+-s and field structure 6.4.8
+-s and projective coordinates
+
+6.5.10
+-s , calculation of 6.2
+
+Index
+
+crystal 12.5.5.7
+crystallographic groups 1.7,1.7.9,
+
+1.9.9
+cube 1.8.3.4, 12.1.2.5, 12.5.4.2; see
+
+also standard cube
+cubic 16.6.1
+cultural constructs 12.5.5.7
+cup product 11.86
+curvature 9.10.7, 12.10.9.1, 17.7.4,
+
+17.9.9, 18.3.8.6
+- , lines of 9.5.4.21
+curve 2.8.12, 9.9.1
+-s of constant width 12.10.5
+cycles of a permutation 1.6.-4
+cyclic· group 0.2
+- permutation 10.4.5.1
+- points 9.5.5.1, 10.13.1.3, 17.4.1,
+
+17.4.3, 17.5
+cyclid 20.7.2
+cylindrical wedge 12.12.20.5
+
+D
+
+Dandelin 17.3
+Darboux, theorem of 20.8.7
+da Vinci, Leonardo 1.26, 11.3
+De Divina Proportione 1.26, 11.3
+deficit 12.11.9.9
+degenerate quadratic form 19.2.1
+- conic 16.4.10
+- quadric 1-4.1.1,1-4.2.7.5,14.5.6
+- simplex 1-4.5.-4.1
+degree 18.2.5.2
+derivative 2.7.7
+Desargues 4.0.2, 5.0.1
+Desargues's theorem 2.5.4, 2.6.7,
+
+4.8.3, 5.4.3, 5.4.7, 6.7.4,
+14.2.8.3, 16.5.4
+
+Descartes 17.1.6
+- oval 9.1-4.22
+- 's law 9.14.22
+- 's principle 17.1
+determinant of a form 11.8.9.2
+diagonalization, see
+
+orthogonalization 13.9.6
+
+
+
+Index
+
+diameter of a set 0.9
+- of a quadric 15.5.7
+- and Steiner symmetrization
+
+9.13.4
+dictionary 14
+Dido 12.11.7
+Dieudonne 13
+difference set 0.1
+differentiability of convex functions
+
+11.9.15
+differentiable curve 2.8.12
+- hypersurface 11.9.23
+- manifold 1.7.7.4, 4.2.6, 4.3.2,
+
+9.10.7,9.12.2,9.12.7, 9.9.6,
+10.7.4, 11.3.10.1, 11.9.23,
+12.10.9.1, 14.8.5, 18.10.3.1,
+18.3.1, 19.1.1.4
+
+- -s of constant negative
+curvature 12.6.8
+
+- maps, singularities of 12.6.8
+- calculus 2.7.7
+- equation 6.6.7,6.8.12
+- forms 18.3.4
+- geometry 4.0.5, 6.6, 9.10, 9.5.4.1,
+
+9.5.4.9, 10.8.5, 13, 16.4.12,
+18.10.3, 19.6.12, 19.7.3
+
+- operators 13.5.6
+difficulty in measuring angles 8.3.13
+dihedral angle 12.1.12
+- group 0.2, 1.8.9.-4, 1.8.7, 12.4.5
+dilatation 2.9.9.12, 6.6.2
+-s , characterization of 2.5.6, 5.2.1
+dimension of a convex set 11.2.6
+- of an affine space !!.1.8
+- of an affine subspace f!.-4.1
+- of a projective space -4.1.1
+- of A(Xi X') 2.3.4, 2.3.9
+Dinghas-Hadwiger-Bonnesen
+
+inequality 12.11.9.3
+diopters 9.14.22
+direct sum 0.2
+direction of a line 19.2.10
+- of an affine subspace f!.-4.1
+directrix 17.!!.1.-4, 17.9.1
+discrete action 1.7.5.1
+
+discriminant 19.1.-4.6
+distance 0.3
+- function H.8.1!!.!!
+
+411
+
+-s in Euclidean affine spaces 9.!!.2,
+9.2.5,9.7,9.10
+
+distinguished point 3.1
+division algebras 12.6.8
+- by zero, convention about 6.2.2
+D. K. Kazarinoff 10.4.6
+dodecahedron 1.8.3.4, 1.8.4, 12.5.5
+domestic animals 10
+dominated convergence theorem 0.6
+doors 8.1.8.5
+double pedal 9.6.8
+double point 4.5.18, 1-4.1.5.9
+Dowker's theorems 12.12.5
+dual, algebraic 0.2
+- polytope 12.6.2.4
+duality 6.5, 8.1.8, 11.1.5, 12.1.2.6,
+
+16.5.6
+- with respect to a quadric 14.5
+Dupin eyelid 18.11.19, !!0.7.9
+Dupin's theorem 9.5.4.21
+Dvoretsky 11.7.5
+
+E
+
+Eadem mutata resurgo 9.6.9
+Earth 4.7.5, 18.1.3.2, 18.2.5.4
+eccentric spheres 10.7.5
+eccentricity 17.2.1.-4, 17.9.23
+Escher, M. C. 4.7.6, 1.7.4, 1.7.6,
+
+1.7.7.6, 19.6.12
+edge 10.6.1
+- of a polyhedron 1!!.1.8
+- of a triangle !!.-4.7
+Egyptian tablet 10.6
+Eiffel Tower II.146
+eigenvectors of quadratic forms
+
+13.5.1
+elation 16.-4.19
+electricity 9.14.34.6
+elegance 7.0.3
+element of volume 18.3.7.1
+Elements 2.6.7
+
+412
+
+elementary geometry 4
+- volume 12.2.6
+eleven-point conic 16.5.5.1
+Elie Cartan 8.lD.3
+ellipse 1.4.2, 904.3, 12.12.12,
+
+15.9.9.2, 17.7
+ellipsoid 12.12.2, 15.9.9.9, 15.6.9,
+
+15.7.9,
+- of revolution 18.1.5.3
+- of inertia 13.5.6
+- , volume of 11.8.9.1
+elliptic equilateral sets 19.8.24
+- function 16.6.1
+- geometry 19.1
+- integral 17.7.5
+- paraboloid 15.9.9.9
+- space 9.7.4, 19.1.1.1
+- transformation 6.8.8
+endomorphism 2.4.9.7
+endpoint of a half-line 19.1.1.5
+- of a curve 9.9.1
+- of a segment 9.4.9
+envelope 9.6.7,11.8.12.5, 17.8.3.2
+envelope equation 14.6.1, 14.8.13
+epicycloid 9.14.94.1, 12.12.20.1
+epigraph 11.8.9
+equality of triangles 10.2.6,
+
+18.6.13.10, 18.11.8, 19.8.4
+equation of a quadric 14.1.1, 15.1.1
+-s of the center 15.2.4
+equator 18.1.2.9
+equiaffine curvature 2.8.12
+- geometry 2.7.6
+- length 2.8.12
+equibarycenter 9,4.2
+equidistant hyperplane 9.7.5.1,
+
+19·4·2
+- loci 18.4.6, 19.1.2.3
+equilateral triangle 10.1.918.6.19.9
+- hyperbola 17.1.9, 17.5.1, 17.8.3,
+
+17.9.16
+- set 19.8.24
+equivalence of quadratic forms
+
+13.104
+equivalent chart 18.1.7.4
+
+Index
+
+Erdos-Mordell, theorem of 1004.6
+ergodic theory 90404, 19.7.3
+Erlangen program 1
+essential singularity 9.5.4.8
+Etruscans 12.5.5.7
+Euclidean affine plane, see
+
+Euclidean plane
+- - quadrics 15.6
+- - space see Euclidean space
+- geometry 1.8.6, 8.1.8.5
+- plane 3.4.2
+- -, complex structure for 8.3.12
+- -, tilings of 1.704, 12.6.10.4
+- space 2.7.5.8,3.7.8,7.0.1,9.1.1
+- terminology 8.4.7.3
+- vector space 1.2.5, 8.1.1
+Euclid's axioms 20404
+- definitions 2.4.9.1
+- fifth postulate 2.4.9.5, 11.319,
+
+19.1.1.6
+- Elements 2.6.7
+Euler angles 8.9.5
+- characteristic 12.7.5.4,12.10.9.2
+- equation 11.8.12.5, 12.12.15
+- identity 9.7.12
+- formula 12.7.3
+everyday experience 2.7
+evolute 9.10.9,9.14.21,9.14.34.4,
+
+17.704
+exact homot.opy sequence 8.lD.3
+excellent space 9.9.4.4
+exponent.ial map 8.3.7
+exposed point 11.6.4
+extended real line 5.2.3
+exterior algebra 4.3.3.1,8.11.1; see
+
+also alternating bilinear form
+exterior bisector 9.4.1, 10.1.4
+externally tangent 10.7.5
+extremal point 11.6.4, 11.9.8, 12.1.9
+eyesight 4.004,4.7.3
+
+F
+
+face of a polyhedron 12.1.5
+- of a triangle 2·4.7
+
+
+
+Index
+
+faithful action 1.9.1
+Fed ala, Spain 11.132
+Fedorov 1.7.7.1
+Fermat 9.10.6
+Fermat numbers 1JLl.6
+Fermat's problem 10.4.3
+Feuerbach theorem 10.11.3
+fiber 18.1.9.6
+fiber bundle 8.10.3
+field a.utomorphism 2.6.1, 14.8.12.2
+field of prime characteristic 3.7.1
+- structure and cross-ratios 6.4.8
+- with four elements 6.3.2
+- with seven elements 16.8.17
+- with three elements 16.8.16
+-s , convention about 0.2
+finite fields 4.1.3.7,4.6.16,4.9.11,
+
+12.6.8, 13.1.4.5
+- geometry 15.4.8
+- subgroups of GA(X) 3.7.3
+- - of Is(Sd) 18.5.10
+finite-dimensional affine spaces 2.7
+finiteness of stabilizers 9.8.5
+first fundamental theorem of
+
+projective geometry 4.5.10
+- variation formula 9.4.1.2, 9.10.1,
+
+9.10.7
+fixed points of homographies 6.6.1
+flag 12.5.1
+flat angle 8.7.9.1
+- torus 18.11.17
+flexible 12.8.2
+focal axis 17.2.1.4
+- circle 17.9.1
+- point 6.6.4
+focus 17.2.1.4, 17.4.3,18.11.15
+foci, determination of 17.9.24
+Ford circle 10.13.29
+forms and densities 9.12.2
+formula of the median 9.7.6.5,
+
+9.8.6.4
+- of the three levels 12.12.20.7
+formulas for hyperbolic space 19.6.9
+- for spherical triangles 18.6.13
+- for triangles 10.3
+
+413
+
+foundry 11.152
+Fourier series 12.11.9.4, 12.12.12
+four-sphere 4.8.2, 18.1.3.4
+fractal 9.9.3.3
+frame, see affine frame
+free fall 17.5.5.5
+- vector 2.1.9
+
+point 16.9.6, 16.8.7
+- 's theorem 16.3.6
+frontier of a convex set 11.6
+frustum 10.6.8.1
+Fubini's theorem 0.6, 9.12.3, 11.3.2,
+
+12.11.4
+Fubini-Study metric 19.8.22
+Fuchsian group 19.6.12
+full pencil 16.5.1
+functional analysis 11.4.2
+functorial correspondence 3.2.2
+functoriality 5.1.3
+- of complexification 7.2
+fundamental domains 1.9.12
+- formula of hyperbolic
+
+trigonometry 19.3
+- formula of spherical trigonometry
+
+18.6.8
+- group 8.10.3, 12.7.5.3, 18.2.1
+- quadratic form 20.2.1
+- quadric 20.2.4
+- theorem of affine geometry 6.4.8,
+
+2.6.3
+- t.heorem of projective geometry,
+
+first 4.5.10
+- theorem of projective geometry,
+
+second 5.4.8
+- tiling 1.7.4
+
+G
+
+GA(X), compact subgroups of 2.7.5
+- , finite subgroups of 3.7.3
+G-action 1.1.1
+Galois tlleory 12.6.10.3
+game theory 11.8.10.10
+gauge 11.8.12.1
+Gauss 12.4.6, 18.1.5.3
+
+414
+
+- approximation 6.6.5
+Gauss-Bonnet formula 18.3.8.6
+- theorem 12.7.5.2
+Gauss projection 18.1.8.9
+- 's method 13.4.8
+general topology 0.4
+generalized circle 17.4.2.1
+- sphere 20.1, 20.5.1
+generating lines 19.7.10, 14.4.1
+generators for O(E) and 0+ 8.4
+genus 12.7.5.4
+geodesic 9.9.6
+geodetic reference spheroid 18.1.5.3
+geoid 18.1.5.9, 18.1.6.3
+geometric algebra 8.5, 13.3.5
+- arcs 9.9.2
+- constructions 6.2.7, 6.4.6, 9.3.6,
+
+9.6.2, 12.4.6
+- realization of hyperplane
+
+reflections 14.7.4
+geometrical optics 6.6.5, 6.8.4
+geometry lA, 13.7.2
+- of numbers 11.9.16
+Gerardin 14.8.16
+Gergonne 10.11.1
+Germany 11.133, 11.152
+ghost edges 12.8.6.4
+Girard's formula 18.3.8.4
+GL(E), compact subgroups of
+
+11.8.10.8
+good conic 16.5.4
+- parametrization 16.2.9, 16.7.2
+GP(E), involution in 4.5.19,6.4.7
+- , topology of 4.5.20
+Gram determinant 8.11.5,9.2.6.2,
+
+9.7.3.3, 15.6.3, 18.11.13,
+18.3.7.1
+
+Gram-Schmidt orthonormalization
+8.1.4
+
+grassmannian 1.2.5, 1.5.9, 1.9.10,
+8.2.7, 8.6.1, 14.3.7, 14.8.4
+
+- coordinates 2.4.8.8
+Graves 17.6.4
+great circle 18.1.2.1
+
+Index
+
+Greeks 2.7, 1.152, 1.200, 12.5.5.7,
+11.170
+
+Greenwich meridian 18.1.6.5,
+18.1.8.3
+
+Gromov 12.11.4
+ground field, see base field
+group action 1.1.1
+- -, discrete 1.7.5.1
+- -, faithful 1.3
+- -, p-transitive 1.4.5
+- --s associated with a great circle
+
+18.8.3
+- -, section of a 1.6.6
+- -, simply transitive 1.4.3
+- -j transitive 1.4
+- of a proper quadric 14.7
+- of a quadratic form 13.6
+- of permutations 0.2
+- presentations 1.8.7
+- structure on spheres 8.9.1
+Guldin, theorems of 12.12.20.9
+
+H
+
+Haags Gemeentemuseum, The
+Hague 1.7.4, 1.7.6, 4.7.6,
+19.6.12
+
+Haar measure 8.2.5.1
+Hadamard 7.0.1
+Hahn-Banach theorem 11.4.1
+hairy ball 12.11.5, 18.2.5.4
+half-line 8.6.1
+-s in elliptic space 19.1.1.5
+--s in hyperbolic space 19.2.10
+half-perimeter 10.9
+half-space 2.7.3
+- model 19.7.1
+halving angles 8.7.3,8.7.7.7
+harmonic conjugate 6.4.5
+- division 6.4.1, 10.7.10.2, 16.2.5,
+
+19.4.2
+- osciUator 13.5.6
+- quadrilateral 9.6.5.2, 9.14.15
+harmonically circumscribed
+
+14.5.4.4, 14.8.6, 17.9.5
+
+
+
+Index
+
+- inscribed 14.8.10
+Hart 16.6.1
+Hausdorff distance 9.11.1, 9.12.5,
+
+12.9.1
+- metric 9.11
+Hausdorffness of projective spaces
+
+4.3.3
+haversine 18.6.11
+Heaven and Hell 11.342
+helix 10.12.9, 10.13.22, 18.9.3
+Helly's theorem 11.7.4.2, 11.7.7,
+
+11.9.18
+hemisphere 18.7.1
+heredity 10.8.1.1, 14.1.3.3, 14.5.2.4
+Hermitian space 13.5.7
+Heron's formula 10.3.3, 10.13.7
+Hersch's theorem 18.10.9
+heuristic remark 4.3.8, 12.6.8
+hexagonal web 5.5.8, 5.5.9
+Hilbert 19.7.2
+- spaces 11.86
+- geometry 11.9.4
+- spaces 13.5.6
+Hilbert-Dehn problem 12.2.7
+historical models 19.7.2
+- remarks 1.7.7.1, 4.0, 10.9.2.1,
+
+13.3.2, 11.116, 11.170, 11.318,
+19.1.1.6
+
+- remarks, see also Greeks
+Holder inequalities 11.8.11.8,
+
+12.11.5.4
+hole 12.7.5.4
+holomorphic function 9.5.4.9,
+
+18.1.3.2
+homofocal conics 17.6.9.1
+- quadrics 15.7.17
+homogeneity of affine spaces 2.2.3
+homogeneous coordinates 14.1.4.1,
+
+6.2.1, 7.5.5, 4.2.9, 4.4.3, 4.5.13
+- of degree k 3.3.2.1,3.7.12
+- piece of wire 2.7.5.6
+- plate 2.7.5.3,3.4.2
+- polynomial 9.9.1
+- space 1.5.4
+homogenizing variable 3.3.13
+
+415
+
+homographies, fixed points of 6.6.1
+- of a conic 16.9.1
+- of a projective line 6.6, 6.8.15
+homography 4.5.2, 4.5.16, 4.7.3,
+
+604.11, 16.2.3, 16.4.13
+- axis 16.9.9
+- , invariants of 6.1.7
+homokinetic joint 18.11.16, 18.11.16
+homology groups 18.2.5.1
+homomorphisms, set of 0.2
+homothety 6.6.2, 8.8.3, 2.9.9.9,
+
+3.1.2.2
+homotopic bases 2.7.2.1
+Hooke joint 18.11.16, 18.11.16
+Hopf fibration 1.2.9, 1.6.4, 4.9.7,
+
+18.1.3.6, 18.9.4.2, 18.11.30
+horocycle 19.6.8.9
+horosphere 19.8.15
+horror cycle 19.6.8.3
+hyperbola 13.8.4, 15.9.9.2, 17.8
+hyperbolas, specific properties of
+
+17.8
+hyperbolic cosine 13.8.9, 0.5
+- distance 13.8.7
+- geometry 13.8.4, 1.8.6, 18.3.8.6
+- paraboloid 15.9.9.9, 15.3.3.3,
+
+15.3.3.3
+- plane 13.8.4, 13.1.4.4
+- regular polyhedron 19.8.26
+- sine 0.5
+- space 9.1.7, 9.704, 19
+- tangent 0.5
+- transformation 6.8.8
+- tiling 19.6.12
+- triangle 19.8.25
+- trigonometry 19.3
+hyperboloid 15.9.9.9
+hyperplane 2.4.2.1, 2.7.3
+- at infinity 5.1.9
+- reflection 9.2.4, 19.6.6.1, 14.7.4,
+
+19·4·2
+-s as spheres 20.3.5
+-s in hyperbolic space 19.2.10
+hypocycloid 9.14.94.1, 1004.5.5,
+
+10.11.3, 12.12.20.1, 17.8.3.2
+
+416
+
+I
+
+icosahedron 1.8.4, 8.12.12, 12.5.5
+- group 12.5.5.6
+identity map 0.1
+- matrix 0.2
+image focal point 6.6.4
+- measure 0.6
+- of a quadric 14.1.9.8, 15.1.1,
+
+15.1.9.2
+-s , line of the 10.13.16
+imaginary radius 20.1.8
+improper motions 9.1.4
+incommensurable rotations 8.4.7.3
+independent set 2.4.9
+index 19.7.5,14.1.1
+inequalities lOA, 12.11.9
+infinitesimal angles 9.5.4.1
+infinity 4.5.15
+- , conic at 15.1.9.2
+- , hyperplane at 5.1.9
+- , point at 4.0.2, 5.2.9, 5.3,
+
+10.7.11,15.1.9.2, 20.1.8
+- , quadric at 15.1.9.2
+- , sending objects to 5.4
+inner automorphism 1.2.6, 1.3.1,
+
+1.4.2, 1.5.2, 1.6.7.2, 2.7.5.11,
+6.8.13, 8.10.2
+
+inscribed polygon 9.4.2
+- triangle 9.4.1,10.1.5
+Institut Geographique National
+
+18.1.8.5
+integers 0.2
+integral geometry 12.11.9.5
+int.egration theory 18.3.1,0.6
+interior 19.1.9.9
+- bisector 10.1.4
+- radius 11.9.1!!
+internally tangent 10.7.5
+international date line 18.1.6.1
+intersection of affine subspaces
+
+2.4.9
+- of projective subspaces 4.6.10
+- of subspaces 4.0.1
+- of two conics 1604
+
+Index
+
+- of two spheres 10.7.5, 20.4
+intrinsic metric 9.9.7, 9.9.8, 9.14.30,
+
+18·4·2
+- space 9.9.4.4
+invariance of domains 9.5.4.2,
+
+18.2.6.5
+invariants of homography 6.1.7
+inversion 9.5.3.6, 9.504.4, 9.5.4.18,
+
+9.14.15, 10.8, 18.9.1,18.10.1.4,
+19.6.11
+
+- sphere 10.8.1.1
+-s and differential geometry 10.8.5
+- and osculating circles 10.8.5.5
+- of a sphere 18.10.3.2
+- preserve angles 10.8.5.2
+involution 6.7.1
+-s of a conic 16.9.1
+-s of GP(E) 4.5.19, 604.7
+-s of O(q) 13.6.6
+involutive 14.8.12.2
+- correlations 14.5.5
+irreducible linear map 8.2.6
+Is(Sd), finite subgroups of 18.5.10
+Is(X), generators of 9.3
+Islam 1.7.1
+isogonal circles 10.19.20
+- spheres 2004.4
+isolated point 1.7.5.1
+isometric chart 18.1.7.1, 18.11.2
+- charts, non-existence of 18.404
+- spaces 19.1.4.1
+isometries of Artinian planes 13.8
+- of elliptic spaces 19.1.2.2
+- of Euclidean affine spaces 9.1,
+
+9.3
+- of hyperbolic space 1904
+- of the sphere 18.5
+isometry 8.1.5, 0.9
+- group 1.2.8
+isomorphic spaces 19.1.4.1
+isomorphism between affine spaces
+
+2.2.6
+- , set of 0.2
+isoperimetric inequality 1004.1,
+
+10.5.1, 12.12.16, 12.11
+
+
+
+Index
+
+isosceles 10.1.9, 10.2.2
+isotropic 19.2.1
+- cone 8.8, 8.8.6.1, 19.2.1
+- lines 8.8, 8.8.6.1, 19.2.9.1,
+
+14·4·7
+isotropy group 9.8.1,1.5.1
+Italy II.22
+iterates of a homography 6.8.5
+
+J
+
+Jacobi identity 8.12.9
+Jacobian 4.9.4
+Joachimstal's theorem 17.9.10
+Jordan curve theorem 18.2.6.3
+- decomposition 4.5.16
+Jordan-Brouwer separation theorem
+
+18.2.6
+Jung's theorem 11.5.8,11.9.18
+
+K
+
+Ka.kut.a.ni's lemma 11.9.19
+k-face of a polyhedron 12.1.8
+Kirchberger's theorem 11.9.10
+Klein, Felix 1.4
+- bottle 1.7.7.4
+- group 0.2, 6.3.2,
+- model 19.2.5
+Krasnosel'skii's theorem 11.7.7
+Krein-Milman theorem 11.6.8
+Kritikos theorem 11.9.23
+Kugelungsatz 12.11.2, 12.11.5.3
+
+L
+
+Laguerre 20.6.4
+- 's circles 10.11.6
+- fornlula 8.8.7.2, 17.4.3.1
+Lahire's cogwheel 9.14.94.9
+- theorem 17.9.14
+Lambert projection 18.1.8.5,
+
+18.11.27
+Latin quotation 9.6.9
+latitude 18.1.6.1
+latitude-longitude chart 18.1.6.1,
+
+18.3.4
+
+lattice 1.7.5.2,9.14.29
+least-perimeter polygon 9.14.10
+- triangle 10.4.4
+Lebesgue', Henri I.xi
+- measure 0.6, 2.7.4.9, 8.2.5.2,
+
+9.12.1, 11.8.8.1, 12.2.5
+Lefschetz fixed point theorem
+
+18.2.5.7
+left translation 1.2.6, 1.4.4.2
+length
+length of a compact convex set
+
+12.10.2
+- of a curve 9.9.1, 9.12.4.1,
+
+12.11.6.1, 19.8.18
+
+417
+
+- of hypo- or epicycloid 9.14.34.4
+- of ellipse 17.7.5
+lens 6.8.4, 18.1.1
+lever 18.11.1
+Lexell's theorem 18.11.10
+Lhuillier, Simon 18.6.13.8
+- 's inequality 12.12.16
+Lie algebra 8.12.9
+- group 1.8.7.3,2.7.5.12,8.10.1,
+
+12.6.8
+light cone 19.2.1
+- polygon 9.4.1, 9.4.2
+limit points of a pencil of circles
+
+10.10.1
+Lindelof 12.11.9.2
+line, affine 2.1.8, 2.4.2.1
+- in elliptic space 19.1.1.5
+- in hyperbolic space 19.2.10
+- of the images 17.6.2.2, 10.13.16
+- of position 18.6.11
+- , projective 4.1.9.9
+linear algebra 4.6.8, 11.7.4.1,2.4.8,
+
+4.0.5
+- equations, system of 2.2.3
+- group 0.2, 1.2.4
+- maps 0.2
+- programming 11.8.10.10
+link of a regular polytope 12.5.9.2
+linkedness 14.3.4, 10.12.2, 20.5.5
+Liouville 9.5.4.21
+- form II.87
+
+418
+
+- 's theorem 9.5.4, 10.8.5.4
+Lipschitz map 9.11.5,9.11.6
+little circle 18.1.2.2
+- sphere 18.1.2.2
+live edges 12.8.6.4
+- face 12.8.6.4
+- vertices 12.8.6.4
+living creature 12.5.5.7
+Lobatchevsky 19.7.2
+local convexity 11.1.7.4
+locally compact field 4.3.5
+l'Oeuvre Notre-Dame museum
+
+(Strasbourg) 10.12.1
+Loewner-Behrend function 11.8.9
+- theorem 11.8.10.7
+logarithmic spiral 9.6.9.1,9.14.21,
+
+9.14.32, 17.9.16, 18.11.3
+Lohr, Germany 14.4.6, 15.3.3.3
+longitude 18.1.6.1
+Lorentz group 13.6.1, 19.7.3
+- metrics 13
+lower Minkowski area 12.10.9.9
+loxodrome 18.1.8.2, 18.3.3, 18.11.3
+loxodromes 18.3.3
+L,.-spaces 11.8.11.12
+Lucas theorem 11.9.21
+Liiroth 16.2.10
+
+M
+
+major axis 17.2.1.4
+Malfatti's problem 10.11.5
+manifold, see differentiable
+
+manifold
+map, identity 0.1
+- restriction of a 0.1
+Marchaud 15.4.8
+mathematical zoo 11.86
+matrix associated to a quadratic
+
+form 13.1.3.6
+- ,identity 0.2
+- , transpose of a 0.2
+maximal width 11.9.12
+maximum perimeter polygons
+
+17.6.5, 17.9.7
+
+Index
+
+measure of an angle 13.8.5, 8.9.9,
+8.4.3, 8.7.7.6
+
+- of an oriented angle 8.7.4.1
+- theory 11.6.6.2
+- zero 12.3.3.1, 9.4.4, 11.3.2
+measuring angles, difficulty in
+
+8.3.13
+mechanical devices 12.10.5
+- generation for ellipses 17.7.1
+- linkage 4.9.12, 10.8.3
+mechanics 2.7.5.3, 3.4.2, 3.4.6.1,
+
+8.9.5, 9.14.34.6, II.87, 17.5.5.5,
+11.255, 18.6.1
+
+median 3.4.10, 10.1.4
+- of a tetrahedron 10.6.3
+- of a spherical triangles 18.U.5
+Menelaus, theorem of 2.8.2,3.7.17
+Menger 9.7.4
+- curvature 9.14.31
+Mercator projection 18.1.8.2,
+
+18.10.3.2
+meridian 10.12.1, 18.1.6.2,
+- of a torus 18.8.6, 18.9.3
+merom orphic functions 9.5.4.8,
+
+18.1.3.2
+metric spaces 0.3
+metrical properties of conics 17.2,
+
+17.3, 17.4
+- - of elliptic space 19.1.2
+Mexico 15.3.3.3
+midpoint 9.4.2, 3.4.10, 6.4.2, 19.4.3
+Miguel's six circle theorem. 10.9.7.2
+minimal width 11.5.9.5, 11.9.12
+minimum, problems of 10.4
+Minkowski 12.3.4, 11.9.16
+- area 12.10.9.9
+- geometry 15.5.10
+- inequality 11.8.11.10
+- sum 12.1.17, 11.1.3, 11.9.1,
+
+11.9.14
+mirror 6.8.4
+mixed product 8.11.9
+Mobius group 18.10.1.4, 18.10.2,
+
+18.11.21, 19.2.2, 19.4.6.4
+- invariant 18.10.8
+
+
+
+Index
+
+- tetrahedra 4.9.12, 5.5.3, 14.5.5,
+10.6.7
+
+Mohr-Mascheroni, theorem of
+10.11.2
+
+moment 14.8.12.5
+- of inertia 9.12.6.3
+moral of the story 6.2.6
+Morley 9.14.38
+- 's theorem 9.14.34.5, 10.3.10,
+
+10.13.4
+morphism, affine 2.3
+Mostow's rigidity theorem 18.10.9
+motions 9.1.4
+Motzkin theorem 11.1.7.2
+movie projectors 12.10.5
+MTU 18.1.5.3
+multilinear map 7.3.1
+multiplicity of an intersection
+
+16.4.9
+multivalued algebraic
+
+correspondence 16.6.1
+museum I.ix, 11.7.6
+mystic hexagon 16.2.12
+
+N
+
+Nage.I's point 10.13.30
+Napier's analogies 18.6.13.8
+Napoleon-Mascheroni, problem of
+
+10.11.2
+Napoleon's theorem 9.14.44
+nat.urality 7.0.3
+navigation 18.6.1, 18.6.11
+nephroid 9.14.94.9
+neut.ral quadratic form 19.1.4.9
+Nevanlinna 9.5.4.7
+New Zealand 18.1.8.6
+Newton's laws 17.2.1.7
+nine-point circle 17.5.4, 10.11.3
+- conic 16.7.5
+non-associativity of barycenters
+
+3.4.9
+non-degenerate form 19.!.1
+non-degenerate quadric 10.7.11
+non-Euclidean geometry 1.8.6
+
+419
+
+non-negative integers 0.2
+- reals 0.2
+non-oriented angles 8.6.9, 13.8.7
+non-periodic hyperbolic tilings
+
+19.6.12
+- tiling 1.7.2, 1.9.16
+non-rectifiable curve 9.9.3.3, 12.12.9
+non-regular tiling 1. 7.2
+non-singular 19.!!.!
+non-singular completion 19.9.4.1
+norm 8.1.1,11.8.12.1
+- ,canonical 9.2.6.4
+- of a quaternion 8.9.1
+normal 17.1.4
+- cone 11.6.1!
+- endomorphism 8.1!.5
+- to a conic 17.5.5.6
+- to a parabola 17.9.18.2
+- to a quadric 15.7.15
+normalization 8.1.4
+north pole 18.1.1!.9
+notion of a geometry 1.4
+Nullstellensatz 14.1.6, 15.7.1
+number of holes II!. 7.5.4
+
+o
+OlE), center of 8.2.16
+- compactness of 8.2.3.3
+0+ (E), connectedness of 8.4.3
+O{q), involutions of 13.6.6
+OlE), simplicity of 8.5
+0+ (3) 1.8.1, 4.3.9.2
+object focal point 6.6.4
+oblique Mercator projection
+
+18.1.8.9
+obtuse 10.1.9
+octahedron 1.8.4, 12.5
+octonions 2.6.7, 4.8.9, 8.9.1,
+
+18.1.3.5,
+octonionic projective plane 9.1.7
+one-dimensional differentiable
+
+manifolds 11.3.10.1
+one-sheet hyperboloid 15.9.9.9,
+
+11.132
+
+420
+
+one-sphere 4.3.6
+open ball 0.9
+- hyperplane 2.7.9.2
+opposite half-line 8.6.1
+optics 6.6.5, 9.14.34.6
+orbit 1.6.1
+order of a point 11.6.1
+- of a root 16.4.2
+orientation-preserving map 2.7.2.5,
+
+9.5.1, 9.5.4.e, 8.8.2
+orientation-reversing, see
+
+orientation-preserving
+oriented angle 8.7.e.9, 8.7.7.2,
+
+9.2.1
+- sphere 20.6.4
+- triangle 10.4.5.1
+origin as a distinguished point 2.2.3
+orthocenter 10.2.5
+orthochronous rotation 19.8.9
+orthogonal affine subspaces 2.4.8.1
+- direct sum 8.1.8.4
+- group 8.2.1, 12.6.8, 19.6.1; see
+
+also 0(·)
+- groups, algebraic topology of
+
+8.10
+- groups, simplicity of 13.6.8
+- projection g.2.4, 9.12.4.9
+- projective group 14.7.e
+- reflection 8.2.9
+- spheres 10.7.7
+- subspaces 9.2, 19.9.1
+orthogonality g.e.l
+- in Euclidean spaces 8.1.1
+orthogonalization 13.4
+- ,simultaneous 13.5
+orthonormal 8.1.1, 9.1.1
+orthonormalization 8.1.4
+orthoptic circle 16.2.7.1, 17.4.2.3,
+
+17.6.1, 17.9.5
+- sphere 15.7.19
+osculating circle 10.8.5.5, 17.5.5.4
+- conics 16.4.5, 16.4.10.4, 16.4.13
+- curves 16.4.12
+outer automorphism 8.10.2
+outside 18.2.6.2
+
+overcrowding 19.8.21
+
+P
+
+p-group 1.6.7, 1.6.7.1
+p-transitive action 1.4.5
+Pacioli, Fra Luca 1.26, 11.3
+painting 12.3.8,9.12.7
+paper band 8.10.3
+
+Index
+
+Pappus's theorem 2.5.3, 2.8.9,
+5.4.1, 5.4.2, 16.2.12, 16.8.19
+
+parabola 1.4.2, 9.6.7.2, 10.13.18,
+15.9.9.2, 15.7.6, 17.5.5.5,
+17.9.18
+
+- tangent to four lines 16.7.4
+--s and the Simson line 17.4.3.5
+paraboloid 15.9.9.9, 15.5.9
+parallel affine subspaces 2.4.g.1
+--s of latitude 10.12.1,18.1.6.2
+- - on the torus 18.9.3
+parallelepipeds 9.7.3.1, 12.1.2.1
+parallelism 4.6.13, 5.3
+parallelogram rule 8.7.2.5, 2.5.2,
+
+2.6.6.4
+paratactic annulus 10.12.9
+parataxy 10.12, 18.9
+Pascal, Blaise 9.6.8
+- limac;on 9.6.8, 9.14.17, 9.14.22
+- line 16.8.9
+- 's theorem 16.2.11, 16.8.4,
+
+16.8.5, 2.8.2
+path 9.9.1
+path-connectedness of U 8.3.8
+- of circle 8.12.4
+- of projective spaces 4.3.3
+- of sphere 18.2.1
+Peano curve 18.2.4.1
+pedal curve 9.6.8, 17.2.2.6
+- triangle 10.4.5
+pencil of circles 10.10, 10.10.1
+- of conics 6.7.4, 16.5, 16.8.15,
+
+17.5.1
+- of hyperplanes 6.5.1
+- of lines 6.5.1
+- of planes 6.5.1
+
+
+
+Index
+
+- of quadrics 1,P!.6
+- of spheres !!0.5
+pendulum 17.5.5.5
+pentaspheric coordinates 20.7.1
+perimeter 9.4.1, 9.".!!' 1!!.9.1
+permutation 1.5.2, 1.6.4
+- group O.!!
+- matrices 11.6.6.3, 11.9.7
+perpendicular bisector g.7.5.1,
+
+18.11.5
+Perpetual Motion 1.7.4
+perspective 4.7,4.7.9
+Petersen 9.14.38
+physical universe 8.8.1,8.11.7,
+
+1.200, 12.10.11.2
+physics 8.9.5, 11.146
+pitch g.9.7
+pivot 10.19.18
+plane, affine !!.1.8, !!.4.!!.1
+- curves 8.2.14, 12.11.9.4
+- diopter 6.8.4
+- isometries 9.3.4
+- lattices 9.14.29
+- projective 4.1.9.9
+- similarities and complex numbers
+
+8.8.4, 9.6
+planet 17.2.1.7
+plate, homogeneous 2.7.5.3, 3.4.2
+Plato 12.5.5.7
+Plucker's theorem 16.5.6.3
+Poincare 19.7.1
+- metric 19.6.10
+- model 19.6
+point, affine !!.1.8, !!.4.2.1
+point at infinity 4.0.2, 5.!!.9, 5.3,
+
+10.7.11, 15.1.9.!!, 20.1.8
+- ,projective 4.1.9.9
+polar 6.5.7, 14.5.1, 13.3.2
+- body 11.1.5.1, 12.1.2.6, 12.12.2
+- cone 18.11.15
+- form 8.7.9, 9.9.!!, 19.1.1, 13.9.8
+- hyperplane 14.5.1, 15.5.1
+- line, see polar
+- of a point with respect to two
+
+lines 6.5.7
+
+421
+
+- quadric 14.6.4
+- regions 18.1.8.6
+- triangle 18.6.12.1, 19.8.3
+polarity 10.7.11,14.5
+- with respect to a quadric 15.5.1
+pole 1.4.5.1, 18.1.!!.9
+polygon 2.8.13, 10.5, 1!!.1.1, 18.7.1
+polygonal billiards 9.4
+polyhedra 12
+- ,cardboard 12.1.3.2, 12.8
+- , convention about 12.1.6
+- , pictorial representation of
+
+12.1.3.3
+- ,regular 1.8, 12.5
+- , structure of 12.1.5
+polyhedron 1!!.1.9.1
+polynomial 9.9.1, 9.9.5
+- map 9.9.1, 9.9.5
+polyspheric coordinates 20.7
+polytope 12, 1!!.1.1
+- , area of 12.2
+- , volume of 12.3
+Poncelet continuity principle 7.0.3
+- theorem, great 10.10.4, 10.13.3,
+
+16.5.5.3, 16.6, 17.6.5
+- -, little 17.2.1.6,17.6.3.6
+positive alternating form !!.7.!!.2
+- definite quadratic form 8.1.1,
+
+11.1.2.8, 11.8.11.2
+positively oriented basis !!.7.!!.2
+- oriented frame 2.7.2.10
+power of a point with respect to a
+
+sphere 10.7.10
+prestressed concret.e II.131
+principal circle 17.!!.2.6
+- hyperbolic arc-cosine 0.5
+principle of similar figures 9.6.7
+privileged unit of length 8.8.1
+problems of minimum lOA
+product of affine spaces 2.2.2
+- ,semidirect !!.9.9.7
+proficiency of students 10.6
+projection !!.4.9.6
+projective base 4.4.1
+
+422
+
+- completion 5.0.1, 5.1.9, 7.0.2,
+17.4.1
+
+- coordinates 4.4.9, 6.5.10
+- group 4.5.9, 4.9.5
+- hyperplanes 4.6.2
+- independence 4.6.6
+- isomorphism 4.5.2
+- line 4.6.2,6.6,6.8.15
+- model 19.2.5
+- morphism 4.5.2,4.5.13
+- orthogonal group 8.7.7.1
+- plane 4.6.2
+- point 4.6.2
+- quadric 14.1.1, 14, 18.10.1
+- space 4.1.1, 7.0.1, 7.5.1, 8.9.3,
+
+9.1.7
+- subspace 4.6.1,4.6.15, 5.3
+proper motion 9.1.4
+- quadric 14.1.1,15.1.9.2
+Ptolemaic dynasty 12.5.5.7
+Ptolemy's theorem 9.7.3.8, 10.9.2
+pullba<:k of a quadratic form
+
+19.1.9.9
+punctual mass 9.4.5
+punctured plane 9.9.4.3
+pure quaternion 8.9.1, 8.11.19
+purism 4.1.2
+pyramid 12.2.1
+Pythagorean theorem 9.2.3, 10.2.3
+
+Q
+
+quadratic extensions 7.0.6
+- fields 12.6.8
+- form 9.9.2, 4.0.5, 8.8.6, 9.5.5,
+
+11.8.11.2, 13, 19.1.1
+- transformation 16.5.9.2, 16.8.24
+quadric 10.7.4, 4.0.5,4.1.3.6; see
+
+also affine quadric, projective
+quadric
+
+- at infinity 15.1.9.2
+- , group of a 14.7
+-s in Art4 14.4
+- of revolution 17.9.19
+quantum mechanics 4.0.6
+
+Index
+
+quartic 9.6.8
+quasi-spherical set 11.7.5
+quasi-symmetric set 11.7.5
+quaternionic projective spaces 9.1.7
+quaternions 0.2, 2.6.4,4.8.2,4.9.7,
+
+8.9, 8.9.1, 8.11.13, 8.12.11,
+12.6.10.2, 18.8.8
+
+Quetelet 17.3
+quintic equation 12.6.10.3
+
+R
+
+radical 13.9.1,14.1.7, 19.2.1
+- axis 10.7.10.1, 10.10.1
+- center 10.7.10.2, 10.11.1
+- hyperplane 10.7.10.1
+radius of a sphere 10.7.1
+- of curvature, see curvature
+- zero 20.1.8
+Radon 11.7.4.1
+rank of a quadratic form 19.2.1
+- of a quadric 14.1.1,15.1.9.2
+ratio 2.9.9.9, 8.8.2, 9.5.1
+rational function 4.2.6
+- numbers 0.2, 13.1.4.5
+real affine spaces 2.7
+- numbers 0.2
+- projective spaces 9.1.7
+- proper quadrics 14.3.2
+- vector spaces 7.0.1
+rectifiable curve 9.9.1, 12.11.6.1
+reduced quadric 15.6.1
+Reeb foliation 18.8.7
+reflection 2.4.9.6, 6.4.6, 8.2.9,
+
+9.2.4,19.6.6.1, 19.1.2.4
+reflection axis 9.9.4
+regular octagon 11.22
+- pentagon 12.5.5.2, 12.12.4
+- polygon 12.4, 12.4.1
+- polyhedron 1.8, 12.5, 12.12.10
+- -, hyperbolic 19.8.26
+- polytope 12.5, 12.5.1, 12.6,
+
+12.12.7
+- simplex 12.5.4.1, 11.5.8, 12.1.2.5
+relative interior of a convex set
+
+11.2.8
+
+
+
+Index
+
+relativity 19.7.3, 13.1.3.2
+representation B.lt!.19
+restriction of a map 0.1
+- of a quadratic form 19.1.9.5
+Reuleaux triangle 11.5.9.2
+reversing 9.5.4.1!
+reversing similarities 9.5.1
+Ricatti equation 6.8.11!
+Riemann sphere 6.8.8, 18.1.3.2,
+
+4.2.5
+Riemannian geometry 9.10.7,
+
+18.6.11
+riemannian manifold 9.9.6
+Riemannian manifold 9.10.7,
+
+18.3.8.6, 18.10.9, 11.3.9
+- manifolds 12.7.5.2
+- metric 19.7.2
+- metrics 13
+right 10.1.9
+right angle 8.7.9.5, 8.7.7.4
+- translation 1.2.6
+- triangles 9.6.8.2
+rigid motions 9.1
+Roger Penrose 1.9.16
+rolling theorems 12.12.14
+roof 10.6.8.1
+Roofs 10.6.8
+root 16.4.1
+rotation 19.6.9, 8.2.1
+rot.ation, in three dimensions 9.9.5
+rotation of a Euclidean plane 1.7.5
+- of finite order 1.8.1
+rotation, plane 9.9.4
+- three-dimensional 8.4.7.1, 8.9.5
+ruled surface 6.8.20
+ruler 10.8.3, 10.9, 10.11.2, 12.4.6
+
+s
+Salmon's principle 10.13.14
+scalar product 8.1.1
+Schliifli 12.6
+Schliifli's theorem 12.6.7
+Schmidt, E. 12.11.5.3
+Schwarz inequality 8.11.7
+
+screw motion 9.9.5,9.14.7
+search for maxima 11.8.10.10
+secant 10.7.5
+secant spheres 20.4.2
+second barycentric subdivision
+
+9.6.5
+- fundamental theorem of
+
+projective geometry 5.4.8
+- variation formula 9.10.7
+second-order formulas 18.6.13.8
+section of a group action 1.6.6
+sector 8.7.5.4
+
+423-
+
+segment 6.8.14, 9.9.4.1, 9.4.9
+segments of conics 19.8.11
+self-devouring reptile 3.1.9
+self-polar 14.5.4.1, 16.4.10.1
+self-polar simplex 13.5.4.2, 14.5.4
+- triangle 14.8.11, 10.13.24
+semiaffine map 2.6.2
+semidefinite quadratic form
+
+11.8.11.2
+semidirect product 2.9.9.7
+semilinear map 6.4.10, 7.1.2.1,
+
+7.7.2,2.6.1!
+semimorphism 6.4.9, 7.5.2
+semisimple Lie group 8.12.19
+- Lie groups 1.8.7.3
+sending objects to infinity 5.4
+separates 11.4.9
+separation theorems 11.4
+sesquilinear 14.8.12.2
+set, cardinality of a 0.1
+-s difference of 0.1
+seven circle theorem 10.11.7
+shaddock 12.7.5.1
+shell architecture 14.4.6, 15.3.3.3,
+
+15.3.3.3
+shepherd principle 1.5.8
+shortest path 6.8.14, 9.9.5
+- paths in elliptic spaces 19.1.2.1
+- paths on the sphere 18.4.2
+side of a polyhedron 12.1.5, 12.1.8
+- of a triangle 10.1.2
+sides of a spherical polygon 18.7.9
+- of a spherical triangle 18.6.6
+
+424
+
+- of a triangle e.4. 7
+- of elliptic triangle 19.1.9.1
+sign flips 18.7.15
+signature 19.4.7
+signed area 10.4.5.1
+similarities 8.8, 9.5.1,9.14.12
+similarities and angles 8.8.5
+- and complexifications 8.8.6
+similarities, characterization of
+
+9.5.3
+similarity 8.8.e
+similarity of triangles 10.2.7
+simple closed curve 12.11.6.1
+- field 8.5
+- Lie groups 12.6.8
+simplex 14.5.4.1,11.6.1, e.4.7, 3.7.8
+simplex, see also standard simplex
+
+12.1.11.1
+- solid 12.1.2.2
+simplicity of D(E) 8.5
+- of orthogonal groups 13.6.8
+simply connected 12.7.5.3
+- transitive abelian group 8.7.2.5
+- transitive action 1.4.9
+Simson line 17.4.3.5, 17.8.3.2,
+
+10.4.5.4, 10.9.7, 10.11.3,
+10.13.27
+
+simultaneous orthogonalization
+13.5
+
+sine 8.9.6
+siugular 14.1.7,19.2.1
+singularities of differentiable maps
+
+12.6.8
+sink 18.10.2.9
+six-pointed shaddock 12.7.5.1
+sixth circle, theorem of 10.7.10.3
+skew base field 6.3.3
+- field 4.8.1, 6.1.7, 6.8.13, 6.8.15,
+
+6.8.18
+- field, finite 1.6.7.3
+- fields 2
+slope 16.7.1.1
+smooth point 11.6.1
+snake that bites its tail 3.1.9
+Sobolev spaces 11.86
+
+soccer balls 12.4.6
+solid ellipsoid 11.8.9.1
+- simplex 9.12.4.e, 12.1.2.2
+soup bowl 8.10.3
+source 18.10.e.9
+south pole 18.1.2.9
+
+Index
+
+space of generalized spheres 20.1.5
+Spain 1.7.1, 14.4.6
+span 4.6.5, 2.4.e.5
+special affine group 2.7.6
+Spencer-Glazer joint 18.11.16
+sphere 9.5.3.1,9.7.4,9.9.4.3, 10.7,
+
+10.7.1
+sphere, area of the 12.10.4.1
+sphere as a projective quadric
+
+18.10.1
+- as affine quadric 20.1.2
+sphere, canonical measure on 12.3.2
+sphere circumscribed around the
+
+regular simplex 11.5.9.1
+- of radius zero 20.1.8
+- S4 4.9.7
+- S8 4.8.3
+spheres 9.1. 7, 18, 1.6.4
+spheres, group structure on 8.9.1
+spheres of non-zero imaginary
+
+radius 20.1.8
+spheric mirror 9.14.34.3
+spherical conic 18.11.15
+- digon 18.9.8.2
+- geometry 1.8.6
+- harmonics 12.11.9.4
+- helices 9.14.94.9
+- helix 18.3.3
+- quadrilaterals 18.11.12
+- triangle 12.5.5.2, IB.6.2, 19.8.25
+- triangles 18.6
+- trigonometry 12.5.5.2, 18.4.4.1,
+
+18.6.1
+- zone le.12.20.e
+spherometer IB.l.l,18.11.1
+spinor 8.10.3
+spline 15
+stabilizer 9.8.1, 1.5, 1.5.1
+
+
+
+Index
+
+stabilizer of a regular polygon
+12.4.3
+
+- of a tile 1.7.5.1
+standard {3, 3, 5} polytope.
+- {3, 4, 3} polytope.
+- cocube 12.1.2.5
+- cube 12.1.2.5
+- n-dimensional Euclidean affine
+
+space 9.1.2
+- projective space 4.1.9.1
+- simplex 12.1.11.1
+- solid simplex 12.1.2.5
+- tile 1.7.2
+star polytopes 12.6.10.5
+- regular polytopes 12.12.8
+star-shaped 11.1.2.4, 11.3.6, 11.7.6,
+
+11.9.6, 11.9.20
+starting point 9.9.1
+Steiner symmetrization 9.13,
+
+9.19.1, 11.1.4, 12.10.10, 12.11.2,
+12.12.1
+
+Steiner-Minkowski 12.11.3
+Steiner-Minkowski formula 12.3.5,
+
+12.10.6
+- theorem 12.10.6
+Steiner's alternative 10.10.3
+stereocomparator 4.7.5
+st.ereographic projection 4.3.8,
+
+8.7.6, 11.3.6.5, 18.1.4.1,
+18.1.8.6, 18.9.1, 18.10.2,
+18.10.3.2, 18.11.3, 19.6.11,
+
+Stewart relation 9.14.95
+Stokes' theorem 12.11.4
+straightedge, see ruler
+St.rasbourg 10.12.1
+strict triangle inequality, see
+
+t.rian gle inequ ality
+strictly convex function 11.8.5
+- convex set 11.6.4
+- separated 11.4.9
+string construction 15.7.16, 17.2.2.5
+- t,oy 17.6.4
+strip of paper 17.7.1
+strongly ergodic 9.4.4
+
+425
+
+submanifold 14.3.8, 15.4.5; see also
+differentiable manifold
+
+subnormal to a parabola 17.9.18.1
+subsphere 18.1.2.1
+successive differences 12.10.6
+sum, direct 0.2
+sum of angles of a polygon 10.5.2
+- of angles of a triangle 1.8.6,
+
+10.2.4
+- of squares Il.87
+sun 17.2.1.7
+superosculating conics 16.4.5,
+
+16.4.10.5, 19.6.8.3
+supporting function 11.8.12.9,
+
+11.9.14
+- hyperplane 12.1.9, 11.5.1
+surface of constant negative
+
+curvature 19.6.12
+Swiss Federal Topographical Service
+
+18.1.8.3
+Sylow subgroups 1.6.7.3
+Sylvester's law of inertia 13.4.7
+- theorem 9.14.25
+symbol 9.9.5, 12.6.1, 12.6.7.4,
+
+20.1.9
+symmetric group 0.2, 1.2.2, 1.8.4,
+
+6.3.2, 8.10.2, 12.5.5.6, 12.6.8
+symmetries of quadrics 15.6.8
+symmetry 8.2.9
+symmet.ry groups 1.8.3.4, 1.8.7.2
+symplectic geometry II.87
+system of linear equations 2.2.3
+
+T
+
+tangent bundle to an elliptic space
+19.1.1·4
+
+- bundle to hyperbolic space
+19.2.7
+
+- conics 16.4.5, 16.4.10.2
+- hyperplane 14.1.9.5
+- hyperplane to a sphere 10.7.4,
+
+18.1.2·4
+- of the half-arc 8.7.7.7
+- to a quadric 14.1.9.5
+
+426
+
+- vector 10.7.4, 18.1.S.4, 19.1.1.4
+tangential equation 14.6.1
+- pencil 14.6.S, 16.5.6.1, 17.6
+- quadric 14.6.S
+tensor algebra 8.11.2
+tetracyclic coordinates 20.7.1
+tetrahedron 1.8.3.4, S.4. 7, 6.8.21,
+
+9.12.4.4, 10.6, 10.13.10
+Thales' theorem 6.5.5, 2.5.1, 4.4.2
+Thorn, Rene 12.6.8
+third-order formulas 18.6.13.8
+three levels, formula of 12.12.20.7
+three-cusped hypocycloid 10.4.5.5,
+
+10.11.3
+three-sphere 1.2.9, 4.3.6.2, 8.9.1,
+
+18.1.3.3, 18.8
+tile, standard 1.7.S
+tiling 1.7.2,1.7.9, 1.7.4, 1.8, 1.9.6,
+
+12.6.10.4
+Timaeus 12.5.5.7
+Toledo, Spajn 1.7.1
+topological closure 5.3.3
+- vector spaces 12.6.8
+topology of convex sets 11.3
+- of GP(E) 4.5.20
+- of projective spaces 4.6.15, 4.3
+- of quadrics 14.3, 15.4
+- of spheres 18.2
+torsion 4.9.12, 10.8.5.5
+torsor 11.87, 14.8.12.5
+torus 1.7.7.4, 18.8.6, 18.11.20,
+
+10.lS.1,10.13.22
+- ,flat IB.l1.17
+- of revolution 18.9.2
+total mean curvature lS.10.9.1
+Tower of Babel 4.7.6
+trajectory of a vector field 9.1.S.1
+transition map 4.9.4
+transitive action 1.4.1
+translate S.S.9
+translation 6.6.2, S.l.S, 1.2.6, 1.4.2,
+
+3.1.2.1
+transpose O.S, 8.1.8.6
+transverse axis 17.S.1.4
+
+Index
+
+- Mercator projection 18.1.5.3,
+18.1.8.9
+
+triality 8.10.2
+triangle 10.1, 10.1.1, S.4. 7, 3.4.2,
+
+9.12.4.4
+triangle in elliptic spaces 19.1.9.1
+- inequality 9.1.1.1, 18.4,18.6.10,
+
+18.11.13, 19.1.2.1, 19.3.2
+triangle, spherical 12.5.5.2, 18.2.8.4,
+
+18.6
+triangle, hyperbolic 19.3.4
+- polar to one another 18.6.7
+triangular billiards 9.4
+trigonometry 8.7.7.7,8.7.8,8.12.8
+two-sheet hyperboloid 15.9.9.9
+two-sphere 1.8, 4.3.6, 8.9.1,
+
+18.1.3.2
+
+u
+umbilical locus 9.5.5.1
+- points 9.5.4.21
+underlying vector space 2.1.1
+unicursal curves 16.2.10
+unimodular group S.7.6
+unit sphere 8.S.7
+unitary basis 11.B.9.S
+universal space of an affine space 3,
+
+7.6.1
+upper half plane 6.8.9
+- Minkowski area lS.10.9.9
+
+v
+valency 1.9.19
+van Kampen theorem 18.2.4.2
+vector field 0.2, 9.1.1, 18.2.5.3
+- product 8.9.1
+- spaces, orientation of S.7.2.S
+vectorialization S.1.9
+Veronese surface 4.9.9.1
+vertex of a conic 17.1.9
+- of a convex set 11.6.1
+- of a spherical polygon IB.6.6,
+
+18.7.9
+- of a triangle 10.1.2
+vertical billiard 17.9.2
+
+
+
+Index
+
+Villarceau circle 18.9.3, 18.11.20,
+10.12.1
+
+vision I.ix, 4.7.3
+Viviani's window 12.12.20.6
+Voderberg 1.7.2
+volume 9.12 .. 1.1,9.12.5,9.12.7
+- of tetrahedron 9.12.4.4, 10.13.10
+- of balls 9.12.4.6
+- of compact convex sets 12.9.3
+- of ellipsoid 11.8.9.1
+- of parallelepiped 9.7.3.1
+- of polytopes 12.2
+-s on the sphere 18.9.8.1
+- of a spherical simplex 18.3.8.6
+- and Steiner symmetrization
+
+9.13.4
+von Staudt 6.4.10, 7.0.3
+
+W
+
+Wallace line 10.9.7.1
+
+427
+
+Wankel engine 9.14.34.6, 12.10.5
+weakly ergodic 9.4.4
+- parallel affine subspaces 2.4.9.1
+web 5.5.8, 5.5.9
+Weyl group 12.6.9
+width 11.5.6.9, 11.5.9.5, 11.9.12,
+
+12.10.5
+wild vector fields 3.1.2
+wind 18.2.5.4
+wire, piece of 2.7.5.6
+Witt's theorem 13.7.1, 13.7.8
+
+x
+Xochimilco, D.F., Mexico 11.155

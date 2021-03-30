@@ -1,0 +1,1781 @@
+
+Index of Subjects
+
+The main reference to a subject is given in boldface type.
+
+a-ary operation, 4
+- relation, 4
+a-termed sequence, 4
+absolute addition, 236; see also
+
+absolute sum, Boolean addition
+- implication; see strong
+
+implication
+- multiplication, 24, 236; see also
+
+Boolean multiplication
+- product, xv, 25
+- - symbol; see absolute sum
+
+symbol
+-sum, xv, 25, 57; see also absolute
+
+addition, Boolean addition
+--symbol, xif, 23
+-unit, XV; see also Boolean unit
+- zero, xv; see also Boolean zero
+absolutely free algebra, 238, 252
+Ackermann's system of set theory,
+
+135
+adjunction operation, 211, 224
+affirmation symbol, 165
+algebra, 231jJ.
+algebraic logic, xviiif
+- - of one binary relation; see
+
+equational logic of one binary
+relation
+
+-structure, 4, 15, 16
+almost identical first-order
+
+formalisms, 43
+
+301
+
+- - - - systems, 43
+- semantically equivalent sets of
+
+sentences, 54
+alphabetic variant of a formula, 14
+antecedent condition, 210
+arithmetic of natural numbers; see
+
+elementary number theory
+- of real numbers; see elementary
+
+theory of real numbers
+associative law, 77
+--for relative products, 68,89/. ,
+
+235,243
+associativity schema, 46, 68jJ. , 89,
+
+160
+atomic formula, xii, 24, passim
+- - of a first-order formalism, 15
+--of £, 5f ,8
+--of £+, xii, 24/., 27
+-predicate, 23,45, 191jJ., 201,
+
+205f, 237f, 249
+-term, 15
+Aussonderungsaxiom, 181, 225
+automorphism, 59
+axiom of choice, 96, 128, 241
+- of constructibility, 186
+-of extensionality, 129, 131jJ., 135,
+
+154, 185, 224
+- of infinity, 128
+- of transitive embedding, 225
+
+302 INDEX OF SUBJECTS
+
+- of unordered pairs; see pair axiom
+- schema, xi, passim; see also
+
+logical axiom schema
+-set of a system, 11, 19[ ,
+
+passim; see also logical axiom
+--of a theory, 9, passim
+- - of elementary number theory,
+
+215
+--of Boolean algebra, 50
+- - of Peano arithmetic, 222ff.
+- - of the elementary theory of real
+
+numbers, 226
+--of S+, 30,148
+--of SX, 126ff" 148
+--of S3 , 141[
+- - of omega-RA, 254[
+--of RA, 48 , 50, 55, 235[,251
+axiomatic system, 20
+base of a system, 30, 36, passim; see
+
+also axiom set of a system
+- of a theory; see axiom set of a
+
+theory
+Bernays-Godel system of set theory,
+
+130, 133, 135, 178[, 190
+Bernays' system of set theory, 130,
+
+178[ ; see also Bernays-Godel
+system of set theory
+
+biconditional, 6
+binary predicate, xi, 5, passim; see
+
+also predicate
+-relation, xi, 3, 11[, passim
+- representative of a formula, 113
+boldface type, 2
+Boolean addition, xi, 236, 247
+- algebra, xviii , 24, 50[ , 161, 164[ ,
+
+235, 257
+-multiplication, 236; see also
+
+absolute multiplication
+- unit, 236, 239; see also absolute
+
+unit
+- zero, 236; see also absolute zero
+bound occurrence of a variable, 6[,
+
+232; see also law of renaming
+bound variables
+
+calculus of relations, xv if.
+- of relatives; see calculus of
+
+relations
+canonical formulas, 79[
+- sequence of a formula, 6, 12, 110,
+
+112
+Cantor-Bernstein theorem, 148
+cardinal; see cardinal number
+-number, 4
+cardinality of a set, 4
+Cartesian power of a class, 3
+- product of classes, 3
+- space, 3, 139
+class of singletons of a class, 13lf,
+
+180
+closure of a formula , 6[
+combinator, xvii
+combinatory logic, xviii
+common equipollent extension of two
+
+systems, 41[ , passim
+commutative law, 77
+compatible sets of sentences, 9, 52,
+
+139, 253[, 256[, 265
+complement of a class, 2
+- of a binary relation, xv, 239; see
+
+also complementation
+- symbol, xii , 23
+complementation, xi, xv, 25 , 57,
+
+236, 247
+complete equational theory, 234,
+
+256ff" 266, 268
+complete set of sentences, 9, 13
+- theory, xiii, 11, 29, 35, 220; see
+
+also complete equational theory
+completeness theorem; see
+
+semantical completeness
+theorem
+
+composition of existential and
+universal quantifications, 6
+
+- of functions, 3
+compound combinator, xvii
+comprehension schema, 177ff" 187,
+
+190, 225; see also
+Aussonderungsaxiom,
+
+
+
+INDEX OF SUBJECTS 303
+
+impredicative comprehension
+schema, predicative
+comprehension schema,
+unrestricted comprehension
+schema
+
+conditional, 6
+- equation, 237
+congruence relation, 238/., 240/.,
+
+243, 252
+conjugated projections, 96/., 130
+- quasiprojections, xiii/., xvi, 95/.,
+
+101, 106, 172/., 192/., 200ff.,
+227/.
+
+--in a relation algebra, xiv, xvi,
+242/., 248ff.
+
+conjunction, 6
+- symbol, 6, 165
+consequence of a set of sentences,
+
+12/., 17,65
+------in a system, 13
+consistent equational theory, 234,
+
+256ff. , 264JJ., 269
+- set of sentences, 9, 13
+- theory, xiii, xviii, 11, 29, 35; see
+
+also consistent equational
+theory
+
+constant symbol, 57
+constructibility axiom; see axiom of
+
+constructibility
+continuity schema, 226
+continuum hypothesis, 168
+converse of a binary relation, xv, 3,
+
+25; see also conversion
+- symbol, xi/., 23
+conversion, xi, xv, 52, 236, 247
+correlated system S+ , 30, 124ff.,
+
+138, 141, 148, 193ff., passim
+--SX, 126ff., 134, 138, 141, 148,
+
+154ff., passim
+--S3, 141ff.
+--S:, 152, 157
+
+157
+155/.
+
+countable set, 4
+
+cylindric algebra, xviii, 201
+decidable theory, xiv, 10/., 30, 35,
+
+138, 167; see also decidable
+equational theory, recursive
+theory, undecidable theory
+
+decidable equational theory; see also
+dually decidable equational
+theory, essentially dually
+decidable equational theory
+
+---, 234, 256/., 263/., 267, 269
+decision problem; see decidable
+
+theory
+--of the second degree, 257/.,
+
+265ff., 269/.
+deduction theorem, 9/., 26, 51ff., 234
+deductive power, 1, passim; see also
+
+equipollence in means of proof
+--of £+,29
+--of £x, xviii, 53, 64, 66, 87
+--of £3, 65ff.
+definable binary relation, xiv/. ,
+
+171ff., 208, 219/.
+- relation, 171, 218
+-set, 173/.
+definitional extension, xii/., 27, 37ff.,
+
+42, 56, 62, 151ff., 157, 193,
+195/., 198, 202ff., 212, 223, 263
+
+definitionally equivalent structures,
+216ff.
+
+--systems, xiv, 42/., 152ff., 157,
+193, 202, 206, 222, 225, 228
+
+---in the wider sense, 43
+- - theories; see definitionally
+
+equivalent systems,
+polynomially equivalent
+varieties
+
+DeMorgan's laws, 77, 168
+denotable binary relation, 171ff.
+-set, 173/.
+denotation function, 170jJ.
+-of a predicate, 26/.,47,56, 158/.,
+
+169ff., 240, 252ff.
+- of a term, 253/.
+denumerable set, 4
+
+304 INDEX OF SUBJECTS
+
+derivability, xii, 7ff., passim
+- in a formalism, 16f!.
+- in a first-order formalism, 15
+- in an equational formalism, 2321
+- in elementary number theory, 215
+-in £, xii, 8f!.
+- - - on the basis of a set of
+
+sentences; see derivability in £
+relative to a set of sentences
+
+---relative to a set of sentences,
+9
+
+-in £+, xii, 261
+-in £x, xii, 461, 252
+-in £3, 65
+- in £{-, 159f!.
+-in £;, 162
+-in 3'm+, 209
+- in Peano arithmetic, 222
+- in sentential logic, 166/
+derivative rule of inference; see
+
+indirect rule of inference
+- universe, 57
+difference of two classes, 2
+direct alphabetic variant of a
+
+formula, 74
+- product of algebras, 2441
+- rule of inference, 8
+directly indecomposable algebra,
+
+237
+disjunction, 6
+-symbol, 6, 161, 165
+distinguished element of an algebra,
+
+231
+distributive law, 51, 77
+diversity element, 236
+- relation, xv, 3, 26
+divisibility relation, 2191
+domain of a binary relation, 3
+- restriction of a binary relation, 3
+dually decidable equational theory,
+
+234, 254, 256f!., 265f!., 270; see
+also essentially dually
+decidable equational theory
+
+- undecidable equational theory,
+234, 254, 256f!., 264ff., 267; see
+also essentially dually
+undecidable equational theory
+
+dyadic fraction, 227
+elementary number theory, i, xiv/,
+
+xviiif, 191, 215f!., 226
+- theory of natural numbers; see
+
+elementary number theory
+-theory of real numbers, xiv, 191,
+
+226f!.
+- theory of relations, xvi
+elimination mapping; see translation
+
+mapping
+- of quantifiers, 80, 109, 113, 229
+empty set, 2, 128, 133; see also
+
+absolute zero, law of the empty
+set
+
+- relation, 4
+equality symbol; see identity symbol
+equation, 25, 45/, 232, passim
+equational class; see variety
+-formalism, 48, 232f!., 251, 259,
+
+270f, passim
+-logic, 46f; see also equational
+
+formalism
+--of one binary relation, 47
+-theory of a class of algebras, xiv,
+
+232, 233
+--of an algebra, 232,233
+- - of relation algebras, xi, 23,
+
+251f!., 268
+equipollence of formalisms; see
+
+equipollence of systems
+-of £ and £+, 27f!., passim
+- - - - - in means of expression,
+
+29
+- - - - - in means of proof, 29
+-of £3 and £t, 72f!.
+-of £x with £3, xi, xiii, 64ff., 87,
+
+141
+-of £x with £t, 64f!., 68, 76f!.,
+
+107
+-of £x with 152f
+
+
+
+INDEX OF SUBJECTS 305
+
+- of £/ with 153
+- of "c x with "c 160ff.
+- of with "c x and 162ff.
+-of systems, xii/. , 30ff., 40ff., 126/.;
+
+see also equipollent
+formalizations of systems,
+equipollent formalizations of
+Q-systems, relative
+equipollence, strong
+equipollence
+
+- - - in means of expression, xii,
+xviii, 29, 31jJ. , 41, 58, 61, 136,
+151, passim; see also expressive
+power
+
+---in means of proof, xii, xvi ,
+29, 31jJ., 41 , 58, 151, passim;
+see also deductive power
+
+- - - relatively to a system, xiii,
+41/.; see also relative
+equipollence
+
+- of versions of Morse's system of
+set theory, 131, 163
+
+-results, xi, xiii/., 29ff. , 45, 53jJ.,
+64, 66, 68ff., 72jJ. , 87ff., 152ff.,
+157, 160ff. , 165, 167; see also
+equipollent formalizations of
+systems, equipollent
+formalizations of Q-systems,
+relative equipollence
+
+- theorem, xiv, 30; see also first
+equipollence theorem, second
+equipollence theorem, proper
+equipollence theorem
+
+equipollent extension of a formalism;
+see equipollent extension of a
+system
+
+--of a system, xii/., 30ff., passim;
+see also equipollence of systems
+
+- formalizations of systems of
+number theory, 191, 216,
+22 Off. , 225
+
+- - of systems of set theory, 90,
+127ff., 135, 143, 153ff., 163, 225
+
+- - of systems of the theory of real
+numbers, 191, 228/.
+
+- - of systems other than
+Q-systems, 229/.
+
+--of Q-systems, 124ff. , 140, 143/. ,
+147, 151 , 155/. , 191jJ. , 214f.
+
+- - of weak Q-systems, 202ff.,
+211jJ.
+
+equivalence in "c on the basis of a set
+of sentences; see equivalence in
+"c relative to a set of sentences
+
+- - - relative to a set of sentences,
+9/. , 13
+
+-relation, 111 , 239, 2441
+equivalent formulas, 10, 17
+- sets of sentences, 9, 11
+essentially dually decidable
+
+equational theory, 257
+- - undecidable equational theory,
+
+234, 254, 257/., 264, 267, 271
+- "c x -expressible sentence, 136f.
+- undecidable equational theory,
+
+254, 256jJ., 263jJ. , 269/.
+- - theory, xiv, 10, 30,
+
+35 , 138jJ., 167/.
+existential quantification, 6
+exclusion symbol; see Sheffer's
+
+stroke
+explicit definition, 2181
+expressive power, 1, 221 , passim;
+
+see also "c x -expressibility,
+equipollence in means of
+expression
+
+--of combinatory logic, xviii
+--of "c,29
+--of "c+,29
+--of "cx, 53ff., 64, 79, 87, 90;
+
+see also "c x -expressible
+sentence, equipollence results
+
+--of "c3, 88, 90! ; see also
+"c3-expressible sentence
+
+--of "ct, 88,90/.
+--of "cn; see "cn-expressible
+
+sentence, equipollence results
+
+306 INDEX OF SUBJECTS
+
+--of Pm , 213/.
+--ofPm + , 210
+- - of the calculus of relations, xvI.
+extended predicate logic of one
+
+binary relation, xii, 26
+- Zermelo-like theory of hereditarily
+
+finite sets, 225[
+extensional identity relation, 25
+extension of a formalism, 18, passim
+- of a system, xii , 20, 226, passim
+extensionality axiom; see axiom of
+
+extensionali ty
+-law, 224 ; see also axiom
+
+of extensionality
+Fermat 's theorem, 168
+finitary operation, 4
+- part of derivability, 10
+finite set , 4
+finite schematizability, 62
+finitely axiomatizable system, xiv,
+
+138/., 177, 189ff.
+---of set theory, 167, 179/. ,
+
+185ff.
+--theory, xiv, 9, 11,30, 35, 123,
+
+138, 2681]'.
+- based theory; see finitely
+
+axiomatizable theory
+--variety, 233, 240, 245/. , 254,
+
+258, 2631]'., 2671]'., 271
+finitely generated relation algebra,
+
+247 ff.
+
+finiteness axiom, 225
+first axis of a Cartesian space, 3, 139
+- equipollence theorem, 29
+first-order algebraic structure; see
+
+algebraic structure
+- definitionally equivalent
+
+structures; see definitionally
+equivalent structures
+
+- - - systems; see definitionally
+equivalent systems
+
+- formalism; see formalism of
+predicate logic
+
+-logic; see formalism of predicate
+logic
+
+formal language, 5, 11, 18, 32, 163;
+see also formalism
+
+formalism, 16ff. , passim; see also
+equational formalism, system
+
+- of first-order predicate logic; see
+formalism of predicate logic
+
+-of predicate logic, xii, xiv, xviii,
+1, 4ff. , 14ff. , 36ff. , 191ff. , 215 ,
+229[, 231 , 234, 236, passim
+
+-with a deduction theorem, 51[ ,
+139
+
+formation of complements; see
+complementation
+
+- of converses; see conversion
+formula , xii, 5ff., 15, 18, 45, passim
+- defining a relation, 171
+- of a first-order formalism , 15
+- of an equational formalism, 232
+-of £ , 51.
+-of £+ , xii , 24/.
+-of LX , 45
+-of £3 , 65
+-of £n, 91
+-of £;t , 91
+-of Pm , 209
+-of Pm +, 209
+- of the equational theory of
+
+relation algebras , 251
+- without useless quantifiers , 113[
+free algebra, 237ff. , 241, 243, 252 ,
+
+261[; see also absolutely free
+algebra
+
+- - with defining relations, 239,
+243, 249
+
+-occurrence of a variable, 6[ ,
+passim
+
+free generating set. of an algebra,
+238[, 241ff., 249
+
+full relation algebra on a set , 239ff. ,
+244ff., 250, 256/.
+
+function , 3; see also operation
+functional relation, 50, 132
+
+
+
+INDEX OF SUBJECTS 307
+
+fundamental components of a
+formalism, 17
+
+- operations of an algebra, 231
+- relation of a structure, 11
+general Leibniz law, 68, 92
+- schema of simple substitution, 66,
+
+72
+generalized strong translation
+
+mapping, 37ff , 42
+- translation mapping, 33ff , 36
+- union axiom, 225
+generating set of a relation ring,
+
+171, 200, 214, 219
+Greek type, 4
+groupoid, 258; see also theory of
+
+groupoids
+hereditarily finite set, xiv, 217; see
+
+also extended Zermelo-like
+theory of hereditarily finite
+sets, Zermelo-like theory of
+hereditarily finite sets
+
+-undecidable theory, 101 , 30, 35,
+123, 138ff, 140, 234
+
+homomorphic image, 243ff
+homomorphism, 238ff , 2401, 243,
+
+249
+I d-model, 58
+identically satisfied equation, 48,
+
+232, 237, 240, 245ff, 253, 261
+identity element, 236, 247
+- function; see identity relation
+-relation, xiI, xv, 3, 12, 246
+-symbol, xiI, 5, 124, 215, 232,
+
+passzm
+iff, 61
+implication symbol, 51 , 9, 57
+impredicative comprehension
+
+schema, 178, 187ff
+inclusion relation between classes, 2
+--for ..e+, 25
+--for relation algebras, 236
+incompatible sets of sentences, 234,
+
+254,266
+
+incompleteness of ..ex, ..e 3 , ..et; see
+semantical incompleteness of
+..ex, ..e 3 ,..ej
+
+inconsistent set of sentences, 233
+--of equations, 2331 ,266
+independence of the associative law
+
+for relative products, 68
+index of a variable, 5
+indirect rule of inference, 47, 166
+individual constant, 15, 133, 2321
+individuals; see system of set theory
+
+admitting individuals, system
+of set theory excluding
+individuals
+
+induction on derivable sentences, 9,
+passzm
+
+- on formulas, 9, passim
+- on predicates, 24
+- schema, 222, 225ff
+inequipollence of ..e x with ..e and
+
+..e +, 45, 53ff , passim
+-------in means of
+
+expression, 531
+-------in means of
+
+proof, 541
+inessential extension of a theory, 255
+infinite set, 4
+interpreted formalism, 17
+intersection of a class, 2
+- of the empty set, 2
+- of two binary relations; see
+
+absolute product
+- of two classes, 2
+invariance under a permutation, 57
+inverse of a function, 3
+IRRA, 2451, 250, 255ff
+italic type, 5, 15
+..e x -expressible sentence, xvi, XVlll,
+
+62ff, 90ff, 136ff , 176/.; see
+also equipollence results
+
+..e 3 -expressible sentence, xvi, xviii,
+62,9lf
+
+..en-expressible sentence, 92; see also
+equipollence results
+
+308 INDEX OF SUBJECTS
+
+language; see formalism
+law of adjoining an element to a set,
+
+224
+- of equivalent replacement, 66, 72
+- of renaming bound variables, 66,
+
+72, 74f, 92
+- of the empty set, 224
+- of transitive closure, 225
+law of syllogism, 168
+Leibniz law, 68 ; see also general
+
+Leibniz law
+lightface type, 2
+logic of a system; see theory of a
+
+system
+- of an equational formalism, 233f
+- of £, 9; see also predicate logic of
+
+one binary relation
+- of £ +; see extended predicate
+
+logic of one binary relation
+- of £ x; see equational logic of one
+
+binary relation
+-of £:, 166
+logical axiom, 18, passim
+- - of a first-order formalism, 15
+--of £, 7f
+--of £+, xii, 25f, 115jJ.
+--of LX, 46, 152f
+--of £3, 65
+--of £t, 69ff·, 84f
+--of £n, 91
+--of £;t, 91
+--of £:, 152
+--of £x 153
+
+b '
+--of 155f
+--of £:, 159f
+--of Pm, 209
+--of sentential logic, 166
+--schema of £, 7f
+---of £+, 25,115jJ.
+---of £x, 46jJ., 50, 56, passim
+---of £:, 160jJ.
+---of £;, 162
+---of sentential logic, 166
+logical constant, 5f, 57, passim
+
+- - of a first-order formalism, 14
+- - of an equational formalism,
+
+232
+--of £, 5f, 12
+--of £+,23
+--of £x, 45,48,236
+--of £3, 65 ,69jJ.
+--of £:, 152
+--of 152/.
+--of £:, 162
+--of £;, 162
+--of M(n), 191
+--of M(n) +, 191
+--of sentential logic, 165f
+logical equivalence, 9, 13, 54
+- object, xiii, 57
+- symbol, 56jJ.
+logically complete set of sentences;
+
+see complete set of sentences
+- consistent set of sentences; see
+
+consistent set of sentences
+- equivalent sets of sentences; see
+
+logical equivalence
+- provable sentence, 9, 13, 48
+- true sentence, 13
+- valid sentence, 13
+main mapping theorem, 28, passim
+---for £ and £+, 28
+---for £3 and £+ 76 3 ,
+---for £ x and £t, 87
+---for £x and £+, 110jJ.,
+
+122f, 136
+---for 8 and 83 , 142,213
+mapping; see function
+membership, 2
+- relation, xi, 14
+- symbol, xif, 5, passim
+metalanguage, If , 5, 15
+metalogical constant, 5
+- operation, 6
+- variable, 5, 15
+metasystem, If , 14
+model of a sentence, 12, 16jJ., 27,
+
+170, passim
+
+
+
+INDEX OF SUBJECTS 309
+
+- of a set of sentences, 12, passim
+- of a system, 13; see also
+
+realization of a formalism
+- of an equation, 233
+modus ponens, 8, 52, 92, 159, 161,
+
+166/., passim
+Morse's system of set theory, 1,
+
+130/., 163/.; see also
+Morse-Kelley system of set
+theory
+
+Morse-Kelley system of set theory,
+1, 131, 133, 135, 163/., 178/.,
+228
+
+Mostowski's system of set theory,
+135
+
+natural number, 4; see also
+elementary number theory
+
+negation, 6
+-symbol, 5/.,57, 161, 165
+nonfinitely based variety, xiv, 240,
+
+245, 268
+nonlogical constant, 5, passim
+--of a first-order formalism, 14/.,
+
+191ff., 210
+- - of an equational formalism,
+
+232
+--of L, 5/.
+--of L+, 23
+--of LX, 45,47
+- - of elementary number theory,
+
+215
+--of omega-RA, 251,259
+--of Peano arithmetic, 222
+--of RA, 251
+- - of the elementary theory of real
+
+numbers, 226
+- - of the first-order theory of
+
+relation algebras, 236
+--of the equational theory of
+
+relation algebras, 251
+nonfinite axiomatizability, xiv, 179,
+
+187, 190
+
+- - of the equational theory of
+representable relation algebras,
+XVI
+
+number theory; see elementary
+number theory, Peano
+arithmetic, elementary theory
+of real numbers
+
+omega-relation algebra, 254/., 258/.,
+264, 269/.
+
+one-one correspondence between
+classes; see one-one function
+
+-function, xv, 3, 147ff., passim
+operation, 4
+- of detachment; see modus ponens
+-symbol, xi, 14/., 200; see also
+
+operator
+operator, 23, 56ff., 151ff., 158
+ordered field, 226
+ordered pair, 2, 132, 180
+- - of numbers, 218
+-triple, 2
+ordering relation, 218/.
+ordinal number, 3
+pair; see ordered pair, unordered
+
+pair
+- axiom, 129ff., 133, 137, 154, 176,
+
+185, 189, 197, 225; see
+also restricted pair axiom
+
+parentheses, 6, 24, 236
+partial ordering relation, 63
+Peano arithmetic, xiv, 19, 191,
+
+222ff., 228
+Peircean addition; see relative
+
+addition
+-multiplication, 247; see also
+
+relative multiplication
+- unit; see identity element
+- zero; see diversity element
+permutation, 57, 72, 74, 82/., 250
+polyadic algebra, xviii
+polynomially equivalent varieties,
+
+258, 265, 267
+
+310 INDEX OF SUBJECTS
+
+possible definition, 25, 37jJ., 154,
+156jJ., 195[, 203[, 207, 223[,
+226,259
+
+--schema, 25, 40, 152jJ., 166
+- realization of a formalism; see
+
+realization of a formalism
+postulates of Boolean algebra; see
+
+axiom set of Boolean algebra
+- of relation algebra; see axiom set
+
+ofRA
+power of a class; see Cartesian
+
+power of a class
+- of a set; see cardinality of a set
+- set axiom, 225
+predicate, xii, 5, 23, passim
+- equation, 24
+-logic of one binary relation, 9; see
+
+also formalism of predicate
+logic, logic of .e
+
+- representing a formula, 113
+predicate-sentence, 158, 166, 170
+predicative comprehension schema,
+
+178, 187jf.
+- system of set theory, xiv
+-----admiting proper
+
+classes, 177 jJ.
+-----excluding proper
+
+classes, 187jJ.
+-version of Zermelo's system of set
+
+theory, 188
+product of classes; see Cartesian
+
+product of classes
+projections; see conjugated
+
+projections
+projective algebra, xviii
+proof power; see deductive power
+proper classes; see system of set
+
+theory admitting proper
+classes, system of set theory
+excluding proper classes
+
+- equipollence theorems for .e
+and .e+, 27, 29
+
+---for.e3 and .et, 76
+---for .ex and.e+ 87 3 ,
+
+---for .e+ and .ex, 123
+---for Sand S3, 143
+- inclusion, 2, 218
+- relation algebra, 239j., 246, 253
+---on a set, 239[,242, 244jf.,
+
+250, 254[; see also full relation
+algebra on a set
+
+provable sentence in a system, 11
+Q-relation algebra, xiv, 242jJ.,
+
+248jJ., 255
+.a-structure, 172jf., 192, 200, 208,
+
+214, 216, 219/.; see also weak
+.a-structure
+
+Q-system, xiii[, 124jJ., 130, 132,
+134[, 138, 140[, 143jJ., 148,
+150, 172, 191jJ., 200jf., 205/.,
+208jJ., 214jJ., 221jf., 229[, 249;
+see also weak Q-system
+
+- in the narrower sense; see
+Q-system
+
+- in the wider sense; see weak
+Q-system
+
+quantifier, xi, xviii, 5[, passim
+quantifier-free formula, 6, 79, 237
+- sentence, 25[
+quasi projectional system; see
+
+Q-system
+quasi projections; see conjugated
+
+quasi projections
+Quine's system of logic, 65
+- systems of set theory, 134, 177
+quotient algebra, 238/., 240/., 243,
+
+249[,252[
+range of a binary relation, 3
+rank of a relation, 4
+----symbol, 15
+- of a set, 128
+- of a system of set theory, 128
+- of an operation, 4, 231
+----symbol, 15,231
+- of an operator, 23
+rationally equivalent varieties; see
+
+polynomially equivalent
+varieties
+
+
+
+INDEX OF SUBJECTS 311
+
+real number; see elementary theory
+of real numbers
+
+realization of a formalism, 16/, 56,
+passzm
+
+-of a first-order formalism, 15, 192
+-of eA , 251
+-of eEA, 251,253
+-of,(" 11
+-of ,(,+, 26,56
+-of ,(,X, 47,56
+-of ,(,3, 65
+-of ,(,'(', 158
+- of M(n), 192
+-of M(n) +, 192
+-of M(n)x, 192
+- of sentential logic, 165/
+- of the elementary theory of real
+
+numbers, 226
+recursive, xvi, 10/, 31, passim; see
+
+. also decidable theory
+-definition, 218/; see also
+
+induction
+recursively enumerable, 10/, 21, 31,
+
+passim
+reduced version of a formalism,
+
+158jJ.
+reduction method, 270
+reflexive relation, 50
+relation, 3, passim; see also o:-ary
+
+relation
+- algebra, xi, xiv, xviii, 48, 54, 62,
+
+68, 231, 235jJ., 268jJ.; see also
+axiom set of RA, free algebra,
+full relation algebra, IRRA,
+omega-relation algebra, proper
+relation algebra, Q -relation
+algebra, representable relation
+algebra, simple relation
+algebra, SQRA
+
+-ring, 171,200,214,219,239
+- symbol, 5, 14/.
+-term, 23
+relational set algebra; see proper
+
+relation algebra
+
+-structure, '11; see also algebraic
+structure
+
+relative addition, 24, 236; see also
+relative sum
+
+-equipollence, xiv, xvi, 95, 107,
+123/ , 147
+
+- - of the calculus of relations and
+the elementary theory of
+relations, xvi
+
+- - in means of expression, xvi
+- - in means of proof, xvi
+--of ,(,X with ,(" xiv, 95,123/,
+
+147jJ., 242, passim
+--of ,(,X with ,(,+, xiv, 95, 107,
+
+123/, 147jJ., 244, passim
+--of,(, and ,(,3, 142
+- implication; see weak implication
+-multiplication, 57, 236; see also
+
+relative product
+- - symbol; see relative product
+
+symbol
+-product, xi, xv, 3, 25, 180
+--symbol, xiI, 23
+- semantic completeness of ,(, x, 124
+-sum, xv
+- unit; see identity relation
+- zero; see diversity relation
+relativization of a formalism, 19, 95
+- of quantifiers, 174/, 187jJ.
+replacement of equals by equals; see
+
+rule of replacement of equals
+by equals
+
+- of equivalent formula; see law of
+equivalent replacement, schema
+of equivalent replacement
+
+-schema, 190
+representable relation algebra, xiv,
+
+54, 62, 239jJ. , 250, 255/, 268
+representation problem for relation
+
+algebras, xi, 54
+restricted extensionality axiom,
+
+134/ , 154
+- pair axiom, 63, 131, 176, 179,
+
+186, 189
+
+312 INDEX OF SUBJECTS
+
+- singleton axiom, 131, 135, 154,
+186
+
+restriction of a binary relation; see
+domain restriction of a binary
+relation
+
+R-image of a class, 3
+rule of inference, xiI, 8, 47; see also
+
+direct rule of inference, indirect
+rule of inference
+
+- - - for equational formalisms,
+166
+
+---for £,8
+---for £+,26
+---for LX, 47
+---for 159ff.
+- - - for sentential logic, 166
+- of replacement of equals by
+
+equals, xi, 47, 233
+- of substitution, 233, 252
+satisfaction relation, 12, 18, 26/, 47,
+
+112, 169
+schema of class construction; see
+
+comprehension schema
+- of equivalent replacement, 66, 183
+second axis of a Cartesian space, 3
+-equipollence theorem, 29/, 136
+- identity symbol, 23
+second-order operation symbol; see
+
+operator
+semantical completeness, xiii,
+
+passim; see also relative
+semantic completeness of £ x ,
+semantical completeness
+theorem
+
+--of a first-order formalism, 15,
+207
+
+- - of an equational formalism,
+233, 243, 251
+
+---':"-of £, 13/, 124, 127
+--of £+, xii, 27,101,112,124,
+
+127, 145, 243
+--of M(n)+, 193
+--of Q-systems, 127,241
+----in £3, 142
+
+--of sentential logic, 166
+- - of weak Q-systems in ::Pm + ,
+
+210
+--theorem, 13ff., 127, 144,210;
+
+see also semantical
+completeness
+
+- consequence; see consequence of a
+set of sentences
+
+- equipollence in means of
+expression, 31, 151
+
+- expansion of a syntactical
+formalism, 18
+
+- formalism; see interpreted
+formalism
+
+- incompleteness of £ x, xi, 48, 55,
+123
+
+--of £3,£t, xiI, 88
+-notions in formalisms, 11ff., 16ff.,
+
+26/, 31, 47, 165/, 169ff.
+- - of a formalism, 161
+- - of an equational formalism,
+
+233
+--of £, llff.
+--of £+, xii, 261
+--of LX, 47
+--of £3, 65
+- soundness of £ x, 53
+--of £+,54
+- equipollence in means
+
+of expression, 31, 151
+semantically adequate formalism, 17
+-complete formalism, 14/, 17/, 27,
+
+34; see also semantical
+completeness theorem
+
+--system, 31
+--set of sentences, 131
+- consistent set of sentences, 13
+-equivalent sentences, 17, 150,
+
+passim
+- incomplete formalism, xiI, 27
+- - sets of sentences, 13, 150,
+
+-sound formalism, 17, 53, 155ff.
+
+
+
+INDEX OF SUBJECTS 313
+
+--system, 31
+semiassociative relation algebra, 243
+semisimple algebra, 237
+sentence of a formalism, 16jJ. , 45,
+
+passim; see also formula
+- of .e, xii, 6
+-of .e+, xii,25
+- of .e x, xii, 45
+-of .e3 , 65
+-of .en, 91
+-of .e;t, 91
+-of Pm, 209
+-Pm +, 209
+- of the equational theory of
+
+relation algebras, 251
+sentential connective, xi, xvi, xviii,
+
+5, 45, 165
+- constant, 15
+-logic, xiv, 161, 164jJ., 270
+- tautology, 166
+sequence; see a-termed sequence
+- of conjugated quasiprojections,
+
+101, 105[, 202
+- without repeating terms, 4
+set of finite rank; see hereditarily
+
+finite set
+set-theoretical model of a set of
+
+sentences, 14, 132, 174
+--of a system, 14
+-realization of .e, 14, 130[
+- system; see system of set theory
+set theory, xi, If, passim; see also
+
+system of set theory
+shape of symbols, 2, 197
+Sheffer's stroke, 152
+similarity type of an algebra, 231
+simple algebra, 237, 239, 245/.,
+
+248jJ., 255
+- substitution of variables; see
+
+substitution of variables
+simultaneous substitution of
+
+variables'; see substitution of
+variables
+
+singleton, 2
+
+- axiom, 154; see also restricted
+singleton axiom
+
+-of a number, 218
+- part of derivability, 10, 33jJ.
+SQRA, 244jJ., 250
+standard model of a set-theoretical
+
+system, 14
+- - of elementary number theory,
+
+215
+- - of the elementary theory of real
+
+numbers, 226
+-realization of.e, 14
+strong axiom of infinity, 128
+- equipollence of systems, 37 jJ., 42
+- - - - in means of expression,
+
+37/.
+- implication, 159
+- Q-structure; see Q-structure
+- subsystem, 37, 38
+-translation mapping, 37jJ. , 43;
+
+see also generalized strong
+translation mapping
+
+subalgebra, 240, 244jJ. , 250
+sub direct product of algebras, 237,
+
+240, 244[, 255
+subdirectly indecomposable algebra,
+
+237, 242[, 255
+subformalism, 18, 27, passim
+substitution of variables, 7/., 66jJ.,
+
+72jJ., 92, 125, 232[, passim;
+see also general schema of
+simple substitution, law of
+renaming bound variables
+
+---in .e3 , 67
+subsystem, 20, passim
+subterm condition, 259, 270
+successor relation, 215, 217jJ.
+symmetric difference, 24
+- division, 162
+- relation, 50
+syntactical equipollence in means of
+
+expression, 31
+
+314 INDEX OF SUBJECTS
+
+-formalism, 17,251
+- notions of a formalism, 16/.
+--of equational formalisms, 233
+--in formalisms, 12jJ., 16jJ. , 31;
+
+see also semantical
+completeness theorem
+
+- part of a formalism, 18, 166
+syntactically equivalent sentences;
+
+see equivalent formulas
+system, 18jJ., 30jJ., 41jJ., 151/.,
+
+passim; see also formalism,
+system of set theory
+
+- developed in a formalism, 18jJ.,
+passim; see also correlated
+system
+
+- - in an uninterpreted formalism,
+21
+
+--in £." 11
+- - in .c +, 30, passim
+- formalized in a formalism; see
+
+system developed in a
+formalism
+
+-of arithmetic, xix, 215jJ., 222ff.,
+226ff.; see also elementary
+number theory,
+elementary theory
+of real numbers,
+Peano arithmetic
+
+- of classes indexed by a class, 3
+- of conjugated quasi projections;
+
+see sequence of conjugated
+quasiprojections
+
+- of elementary number theory; see
+elementary number theory
+
+- of Peano arithmetic; see Peano
+arithmetic
+
+-of set theory, xii, xiv, xix, 1, 11,
+14/.,45,95, 124, 127jJ., 143,
+147, 153ff., 163, 170, 177jJ.,
+186, 187/., 189jJ., 224ff.; see
+also Ackermann's system of set
+theory, Bernays-Godel system
+of set theory, Bernays' system
+
+of set theory, extended
+Zermelo-like theory of
+hereditarily finite sets,
+Morse-Kelley system of set
+theory, Morse's system of set
+theory, Mostowski's system of
+set theory, predicative system
+of set theory, Quine's systems
+of set theory, Vopenka-Hajek
+system of set theory,
+Zermelo-Fraenkel system of set
+theory, Zermelo-like theory of
+hereditarily finite sets,
+Zermelo's system of set theory
+
+- - - - admitting individuals,
+128, 133jJ., 154/. , 156/., 177,
+197
+
+----admitting proper classes,
+128,130jJ., 133jJ.,154, 174,
+177jJ., 190
+
+- - - - excluding individuals,
+128jJ., 134, 154, 177, 228
+
+----excluding proper classes ,
+128jJ., 132jJ., 154, 187ff., 189
+
+- of the elementary theory of real
+numbers; see elementary
+theory of real numbers
+
+tautology of .c x, 46/., 233/., 252, 260
+- of T; see sentential tautology
+term, 15, 232, 252/., 259jJ.
+·th t f . 2 erm 0 an mdexed system, 3
+
+term of a sequence, 4
+theory, xiii, 9, passim; see also
+
+complete theory, consistent
+theory, decidable theory,
+system, equational theory,
+undecidable theory
+
+- based upon a set of sentences; see
+theory generated by a set of
+sentences
+
+- generated by a set of sentences,
+xi,9
+
+- - - - - of equations, 233
+- in a system, 11
+
+
+
+INDEX OF SUBJECTS 315
+
+- of a class of structures, 12; see
+also equational theory of a
+class of algebras
+
+-of a structure, 12; see also
+equational theory of an algebra
+
+-of a system, 11, 20, passim
+-of types, 57
+threefold implication theorem; see
+
+deduction theorem
+three-variable formalisms, xi, 64jJ.
+transitive number, 218
+transitive relation, xv, 50
+translation mapping, 28, 32jJ. , 36 ,
+
+75jJ. , 87jJ. , 107jJ. , 112jJ., 122[,
+125jJ. , 141[ , 147jJ. 162[ , 192,
+197, 206[ , 209, 212jJ. , 221/. ,
+249, 260, 265, passim ; see also
+equipollence results,
+equipollent formalizations,
+generalized strong translation
+mapping, generalized
+translation mapping, strong
+translation mapping
+
+--from .e+ to .e , 28jJ., 125,
+147jJ., 197, 206, 209, 249
+
+--from .et to .e3 , 75[
+--from.et to .ex, 77jJ.
+--from .e+ to .e x, 10 7jJ. , 147jJ. ,
+
+197
+--from .e to .ex , 141[
+--from to .e x, 162[
+
+to 162
+transposition schema, 70
+true sentence in a system, 13
+- - of a structure, 12
+true equational sentence in an
+
+algebra, 253
+truth in elementary number theory,
+
+227
+-in.e , 12
+-in .e+, 27
+- in .e x, xiv, 47, 170
+- in 158[
+-in 162
+
+- in sentential logic, 165[
+ultrafilter, 245
+ultraproduct, 245
+undecidable equational theory, 255,
+
+257[, 266jJ.
+-theory, xiv, 10[,63[, 123, 138jJ.,
+
+140, 167[, 215[, 254; see also
+decidable theory, decidable
+equational theory, dually
+decidable equational theory,
+essentially dually undecidable
+equational theory, essentially
+undecidable theory, essentially
+undecidable equational theory,
+hereditarily undecidable
+theory, undecidable equational
+theory
+
+undecidability of the equational
+theory of relation algebras,
+xiv , 255
+
+- - - - of representable relation
+algebras, xvi, 255
+
+uninterpreted formalism; see
+syntactical formalism
+
+union axiom, 63, 131, 135, 180, 188
+- of a class, 2
+- of two binary relations; see
+
+absolute sum
+- of two classes, 2
+universal class, 2, 190
+- quantification, 6
+-quantifier, 5,57, 175, 232
+- relation for finite sets , 216[
+- relation for two-element sets, 139,
+
+172[ , 201 , 219
+universe of a realization of .e , 11
+- of an algebraic structure, 15
+- of an algebra, 231
+-of discourse, xv, 14
+universally quantified equation, 232
+- valid sentence, 248
+unordered pair, 2; see also pair
+
+axiom, restricted pair axiom
+- - of numbers, 218
+
+316 INDEX OF SUBJECTS
+
+unrestricted comprehension schema,
+1771
+
+valid sentence, xi, 13
+xth value of a function, 3
+variable, xi, xvii, 5, passim; see also
+
+bound occurrence of a variable,
+free occurrence of a variable,
+general schema of simple
+substitution, law of renaming
+bound variables, substitution
+of variables
+
+- of a first-order formalism, 14
+- of an equational formalism, 232
+-of £3, 65
+-of £n, 91
+-of :Pm, 209
+-of :Pm + , 209
+variety, 232/., 235, 240, 244ff., 250ff.,
+-of groupoids, xiv, 258/, 264,
+
+267 ff.
+virtual theory of classes, xii
+Vopenka-Hajek system of set theory,
+
+130
+weak implication, 159
+weak O-structure, 208, 214/, 219
+- Q-system, xiv, 200ff., 206, 208ff.,
+
+227
+well-foundedness axiom, 128, 135,
+
+185, 225
+well ordered set, 3, 5, 247
+word problem, 268ff.
+w.u.q. formula; see formula without
+
+useless quantifiers
+Zermelo-Fraenkel system of set
+
+theory, 1, 128/., 133, 135, 190
+Zermelo-like theory of hereditarily
+
+finite sets, 225; see also
+extended Zermelo-like theory
+of hereditarily finite sets
+
+Zermelo's system of set theory, 18/,
+128/, 133, 135, 177, 187, 189,
+225,228

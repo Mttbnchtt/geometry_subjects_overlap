@@ -1,0 +1,2307 @@
+LINES AND SEGMENTS:
+Parallel Lines
+
+Perpendicular Lines
+
+Perpendicular Bisector
+
+
+
+Alternate Interior Angles
+Corresponding Angles
+Supplementary Angles
+
+Angle Bisector
+Obtuse Angle
+Vertical Angles
+
+
+
+
+3-4-5 Triangle
+
+30-60-90 Triangle
+
+
+
+Altitude
+
+Balance Point
+
+Incenter & Inscribed Circle
+Median
+Scalene Triangle
+
+Inscribed Triangle
+Obtuse Triangle
+
+45-45-90 Triangle
+Circumcenter & Circumscribed
+Circle
+Isosceles Right Triangle
+Perpendicular Bisector of Side
+
+Adjacent Sides
+Diamond
+Line of Symmetry
+Parallelogram
+Rhombus
+
+Cyclic Quadrilateral
+Inscribed Quadrilateral
+Mutually Bisecting Diagonals
+Perpendicular Diagonals
+Square
+
+
+Decagon
+Hexagon
+Octagon
+Simple Polygon
+
+Diagonal
+Inscribed Polygon
+Pentagon
+Vertex
+
+
+ANGLES:
+Acute Angle
+Congruent Angles
+Right Angle
+
+TRIANGLES:
+
+
+QUADRILATERALS:
+Adjacent Angles
+Diagonals Bisecting Angles
+Kite
+Opposite Sides
+Rectangle
+
+POLYGONS:
+Convex or Concave
+Heptagon
+Nonagon
+Regular Polygon
+
+CIRCLES:
+
+arc, major & minor
+semi-circle
+
+Center, Diameter, & Radius
+tangent line
+
+Chord
+
+
+
+Hamburger & Hotdog Fold
+
+Image
+
+
+
+Congruent
+
+Similar
+
+
+
+FOLDING OR REFLECTING:
+Corresponding Points & Lines
+Reflection
+
+
+Coincident
+
+Sphere
+
+acute
+adjacent
+alternate exterior angles
+alternate interior angles
+angle
+angle bisector
+annulus
+apothem
+arbelos
+arc
+length
+area
+axis
+ball
+Borromean rings
+bundle
+cage
+Cartesian plane
+Central
+cevian
+point
+chord
+circle
+circular
+polygon
+concave
+concentric
+cone
+congruent
+conic section
+consecutive sides
+vertices
+width
+convex
+coterminal
+cyclic
+cyclogon
+cycloid
+cylinder
+diagonal
+diameter
+
+disk
+ellipsoid
+epicycloid
+epitrochoid
+equianglular
+equidistant
+equilateral
+node
+exterior
+face
+graph
+great
+hypocycloid
+hemisphere
+hypotenuse
+hypotrochoid
+icosahedron
+included
+side
+interior
+isosceles trapezoid
+triangle
+klein bottle
+lattice
+leg
+lemniscate
+linear
+locus
+arc
+measure
+median
+midpoint
+axis
+Strip
+mouhefanggai
+mouhefanggoid
+n-gon
+nonagon
+nonconvex
+non-Euclidean geometry
+non-included side
+oblique
+
+obtuse
+octagon
+opposite rays
+parallelepiped
+parallelogram
+pentagon
+perimeter
+perpendicular bisector
+perpendicular
+plane
+plane
+polygonal region
+polyhedron
+pyramid
+quadrangle
+quadrifolium
+radius
+ratio of similitude
+ray
+rectangle
+rectangular solid
+reflex
+reuleaux
+rhombus
+right
+roulette
+sagitta
+scalene
+secant
+section
+sector
+segment
+semicircle
+septagon
+skew lines
+slant height
+snark
+solid
+sphere
+sphericon
+twist
+spheroid
+square
+equiangular
+equilateral
+
+quadrilateral
+straight
+surface
+boundary
+symmetry diagonal
+terminal
+tesselation
+bisection
+tesseract
+tetragon
+dimensional figure
+points in space; examples: box, cone, cylinder, parallelpiped, prism, pyramid, regular
+pyramid, right cone, right cylinder, right prism, sphere.
+torus
+transversal
+trapezoid
+trochoid
+vertex
+vertical
+width
+shape
+altitude
+bisector
+central
+centroid
+circumcenter
+concave
+congruent
+coordinates
+cosine
+cross section
+diameter
+edge
+face
+frieze pattern
+glide reflection
+hypotenuse
+incenter
+inscribed
+intercept
+trapezoid
+kite
+symmetry
+median
+midline
+net
+obtuse
+orthocenter
+parallel lines
+parallelogram
+
+plane
+solidpolygon
+polyhedron
+radius
+ray
+rectangle
+rotation
+sine
+square
+tangent
+tangram
+translation
+transversal
+level
+levels
+diagram
+vertex
+vertices
+
+Abstract Algebraic Curves (85)
+
+General Algebraic Geometry (31)
+
+Varieties (29)
+Borsuk's Conjecture
+Circle Covering
+Combinatorial Geometry
+Cover
+Covering
+Disk Covering Problem
+Fano's Geometry
+Five Disks Problem
+Five Point Geometry
+Four Line Geometry
+Four Point Geometry
+Helly's Theorem
+Illumination Problem
+Kepler Conjecture
+
+Pick's Theorem
+Sperner's Lemma
+Three Point Geometry
+Young's Geometry
+
+Convex Hulls (8)
+
+General Computational Geometry (11)
+
+Nearest Neighbor Problems (3)
+
+Packing Problems (59)
+
+Random Point Picking (75)
+
+Triangulation (11)
+
+Visibility (1)
+
+Conservation of Number Principle
+Continuity Principle
+Enumerative Geometry
+
+6-Sphere Coordinates
+
+de Finetti Diagram
+
+Polar Equation
+
+Abscissa
+
+Disk-Cyclide Coordinates
+
+Polar Plot
+
+Affine
+
+Elliptic-Cylinder Coor...
+
+Prolate Spheroidal Coo...
+
+Affine Coordinates
+
+Elliptic Cylindrical C...
+
+Quadrant
+
+Alias Transformation
+
+Flat-Ring Cyclide Coor...
+
+Quadriplanar Coordinates
+
+Alibi Transformation
+
+Gaussian Coordinate Sy...
+
+Real Line
+
+Analytic Geometry
+
+Gaussian Curvature
+
+Rectifying Latitude
+
+Areal Coordinates
+
+Geocentric Latitude
+
+Right-Hand Rule
+
+Axis
+
+Grassmann Coordinates
+
+Right-Handed Coordinat...
+
+Azimuth
+
+Homogeneous Barycentri...
+
+Simplex Plot
+
+Barycentric Coordinates
+
+Homogeneous Coordinates
+
+Skew Coordinate System
+
+Bicyclide Coordinates
+
+Hyperoctant
+
+Spherical Coordinate S...
+
+Bipolar Coordinates
+
+Inverse Oblate Spheroi...
+
+Spherical Coordinates
+
+Bipolar Cylindrical Co...
+
+Inverse Prolate Sphero...
+
+Spherical Plot
+
+Bispherical Coordinates
+
+Isometric Latitude
+
+Spherical Polar Coordi...
+
+Bode Plot
+
+Left-Handed Coordinate...
+
+Synergetics Coordinates
+
+Cap-Cyclide Coordinates
+
+Log-Log Plot
+
+Tangent-Sphere Coordin...
+
+Cardioid Coordinates
+
+Log Plot
+
+Ternary Diagram
+
+Cartesian
+
+Oblate Spheroidal Coor...
+
+Ternary Graph
+
+Cartesian Coordinate S...
+
+Oblique Coordinates
+
+Ternary Plot
+
+Cartesian Coordinates
+
+Octant
+
+Tetrahedral Coordinates
+
+Cartesian Curve
+
+Origin
+
+Toroidal Coordinates
+
+Cartesian Geometry
+
+Orthocentric Coordinates
+
+Triangle Plot
+
+Cartesian Plane
+
+Orthogonal Coordinate...
+
+Trilinear Coordinates
+
+Colatitude
+
+Parabolic Coordinates
+
+Tripolar
+
+Confocal Ellipsoidal C...
+
+Parabolic Cylindrical...
+
+Tripolar Coordinates
+
+Confocal Paraboloidal...
+
+Paraboloidal Coordinates
+
+Tripole
+
+Conical Coordinates
+
+Parametric Curve
+
+Unit Point
+
+Coordinate Plane
+
+Parametric Equations
+
+x-Axis
+
+Coordinate System
+
+Parametric Latitude
+
+x-Intercept
+
+Coordinates
+
+Parametric Surface
+
+y-Axis
+
+Curvilinear Coordinates
+
+Polar Angle
+
+y-Intercept
+
+Cyclidic Coordinates
+
+Polar Coordinate System
+
+z-Axis
+
+Cylindrical Coordinate...
+
+Polar Coordinates
+
+Zenith Angle
+
+Cylindrical Coordinates
+
+Polar Curve
+
+Algebraic Curves@
+
+Elliptic Curves@
+
+General Curves (17)
+
+Plane Curves (17)
+
+Space Curves (31)
+
+Spherical Curves (9)
+
+Spirals (53)
+
+Differential Geometry of Curves (54)
+
+Differential Geometry of Surfaces (55)
+
+Ergodic Theory@
+
+General Differential Geometry (56)
+
+Geodesics (14)
+
+Metrics (31)
+
+Minimal Surfaces@
+
+Tensor Analysis (111)
+
+Ambiguous Rectangle
+
+Fault-Free Rectangle
+
+Pythagorean Square Puzzle
+
+Archimedes' Box
+
+Haberdasher's Problem
+
+Rep-Tile
+
+Banach-Tarski Paradox
+
+Hadwiger Problem
+
+Slothouber-Graatsma Pu...
+
+Blanche's Dissection
+
+Integer Triangle
+
+Soma Cube
+
+Borsuk's Conjecture
+
+Klein Bottle Dissection
+
+Sperner's Lemma
+
+Conway Puzzle
+
+Loculus
+
+Square Dissection
+
+Cube Dissection
+
+Loculus of Archimedes
+
+Stomachion
+
+Curry Triangle
+
+Möbius Strip Dissection
+
+Syntemachion
+
+Cylinder Dissection
+
+Mrs. Perkins's Quilt
+
+T-Puzzle
+
+Dehn Invariant
+
+No-Touch Dissection
+
+Tangram
+
+Diabolical Cube
+
+Nowhere-Neat Dissection
+
+Tangram Paradox
+
+Dissection
+
+Ostomachion
+
+Torus Dissection
+
+Dissection Fallacy
+
+Perfect Square
+
+Triangle Dissection
+
+Dissection Puzzles
+
+Perfect Square Dissection
+
+Triangle Dissection Pa...
+
+Equidecomposable
+
+Polyhedron Dissection
+
+Wallace-Bolyai-Gerwien...
+
+Eternity
+
+Projective Plane Disse...
+
+Average Seek Time
+
+Locus
+
+Distance
+
+Mean Line Segment Length
+
+Geodesic
+
+Point-Line Distance--2Dimensional
+
+Point-Point Distance--3Dimensional
+Point-Quadratic Distance
+Sphere Geodesic
+
+Line-Line Distance
+
+Point-Line Distance--3Dimensional
+
+Line Line Picking
+
+Point-Plane Distance
+
+Line Picking
+
+Point-Point Distance--1Dimensional
+
+Line Segment Picking
+
+Point-Point Distance--2Dimensional
+
+Sphere Point-Point Picking
+Spherical Distance
+Triangle Picking
+
+Cake Cutting Kobon Triangle Rectangle Tiling Cake Number Number Partitioning
+Pr... Regular Polygon Divisi... Circle Cutting Pancake Theorem Segner's Recurrence
+Fo... Circle Division by Chords Pizza Theorem Space Division by Planes Circle Division
+by Lines Plane Cutting Space Division by Spheres Cube Division by Planes Plane
+Division by Circles Square Division by Lines Cylinder Cutting Plane Division by
+Elli... Subset Sum Problem Decanting Problem Plane Division by Lines Three Jug
+Problem Euler's Polygon Divisi... Polygon Division Problem Torus Cutting Ham
+Sandwich Theorem Polygon Slicing
+
+Bernoulli Scheme
+Dye's Theorem
+Endomorphism
+Ergodic Measure
+Ergodic Theory
+KMS Condition
+Kronecker-Weyl Theorem
+Kubo-Martin-Schwinger Condition
+Lévy Flight
+
+Lévy Process
+Lévy Walk
+Ornstein's Theorem
+Pesin Theory
+Poisson Process
+Quantum Stochastic Calculus
+Stochastic
+Stochastic Calculus
+Stochastic Integral
+
+Analysis Situs
+Bisector
+Cartesian Pattern
+Center
+Concentric
+Euclidean Geometry
+Geometric Centroid
+Geometry
+Mensuration Formula
+
+Neighborhood System Base
+Non-Archimedean Geometry
+Ordered Geometry
+
+17-gon
+
+Geometric Problems of...
+
+Poncelet-Steiner Theorem
+
+Angle Trisection
+
+Geometrography
+
+Quadrable
+
+Antiquity
+
+Greek Problems
+
+Quadratrix of Hippias
+
+Apollonius' Problem
+
+Heptadecagon
+
+Quadrature
+
+Circle Squaring
+
+Kochanski's Approximation
+
+Rectangle Squaring
+
+Cissoid of Diocles
+
+Kochansky's Approximation
+
+Simplicity
+
+Conchoid of Nicomedes
+
+Limaçon
+
+Squarable
+
+Cube Duplication
+
+Maclaurin Trisectrix
+
+Squaring
+
+Cubical Parabola
+
+Mascheroni Construction
+
+Steiner Construction
+
+Cycloid of Ceva
+
+Matchstick Construction
+
+Tomahawk
+
+Cycloidum Anomalarum
+
+Napoleon's Problem
+
+Triangle Squaring
+
+Delian Constant
+
+Neusis Construction
+
+Trisection
+
+Delian Problem
+
+Origami
+
+Trisectrix
+
+Euclidean Tools
+
+Perpendicular Bisector
+
+Tschirnhausen Cubic
+
+Geometric Construction
+
+Brianchon's Theorem
+Cayley Lines
+Dual Polyhedron
+Dual Tessellation
+Duality Principle
+Plane Dual
+
+Bishop's Inequality
+Blaschke's Theorem
+Blichfeldt's Theorem
+Brunn-Minkowski Inequality
+Busemann-Petty Problem
+Chapple-Euler Inequality
+Euler's Inequality
+Hinge Theorem
+Ono Inequality
+Weitzenböck's Inequality
+
+Perpendicular Bisector...
+
+Anamorphic Art
+
+Inverse Points
+
+Neuberg Circles Radica...
+
+Anamorphogram
+
+Inverse Prolate Sphero...
+
+Polar
+
+Anamorphoscope
+
+Inversion
+
+Poncelet's Closure The...
+
+Antihomography
+
+Inversion Center
+
+Poncelet's Porism
+
+Cap-Cyclide Coordinates
+
+Inversion Circle
+
+Poncelet Transverse
+
+Chordal Theorem
+
+Inversion Pole
+
+Radical Axis
+
+Circle Inverse Curve
+
+Inversion Sphere
+
+Radical Center
+
+Circle Power
+
+Inversive Distance
+
+Radical Line
+
+Coaxal Circles
+
+Inversive Geometry
+
+Reciprocal
+
+Coaxal System
+
+Limiting Point
+
+Reciprocation
+
+Coaxaloid System
+
+Longuet-Higgins Point
+
+Salmon's Theorem
+
+Excircles Radical Circle
+
+McCay Circles Radical...
+
+Schoute Center
+
+Far-Out Point
+
+Midcircle
+
+Sphere Inverse
+
+Homography
+
+Midradius
+
+Sphere Inversion
+
+Horn Cyclide
+
+Midsphere
+
+Stammler Circles Radic...
+
+Inverse Curve
+
+Mixtilinear Incircles...
+
+Steiner Chain
+
+Inverse Oblate Spheroi...
+
+Monge's Chordal Theorem
+
+Steiner's Porism
+
+Chords (17)
+
+Collinearity (3)
+
+Concurrence (35)
+
+Incidence (33)
+
+Lines (71)
+
+Pencils (5)
+
+Ranges (23)
+
+Four-Dimensional Geometry (27)
+
+n-Dimensional Geometry (23)
+
+Polytopes (53)
+
+Noncommutative Geometry
+
+Angle of Parallelism
+
+Hyperbolic Plane
+
+Poincaré Hyperbolic Disk
+
+Cayley-Klein-Hilbert Metric
+
+Hyperparallel
+
+Poincaré Metric
+
+Elliptic Geometry
+
+Ideal Point
+
+Polar Simplex
+
+Elliptic Space
+
+Kawaguchi Geometry
+
+Polar Triangle
+
+Flat Pole
+
+Klein-Beltrami Model
+
+Schwarz-Pick Lemma
+
+Hyperbolic Geometry
+
+Lobachevsky's Formula
+
+Unit Circle
+
+Hyperbolic Metric
+
+Non-Euclidean Geometry
+
+Arbelos (7)
+
+Hexagons (22)
+
+Quadrangles (1)
+
+Arcs (21)
+
+Laminae (22)
+
+Quadrilaterals (59)
+
+Circle Chains (10)
+
+Mechanical Properties (5)
+
+Rectangles (10)
+
+Circles (143)
+
+Miscellaneous Plane
+Geometry (19)
+
+Squares (16)
+
+Circular Triangles (7)
+
+Plane Curves@
+
+Tiling (51)
+
+Crosses (12)
+
+Planes@
+
+Triangles (9)
+
+Geometric Similarity (39)
+
+Polygons (130)
+
+Antipodal Points
+
+Isotropic Point
+
+Point Distances
+
+Antipode
+
+Jung's Theorem
+
+Point-Point Distance--...
+
+Average Seek Time
+
+Kirkman Points
+
+Point-Point Distance--...
+
+Borsuk-Ulam Theorem
+
+Lattice Point
+
+Point-Point Distance--...
+
+Circular Point at Infi...
+
+Line Line Picking
+
+Point-Quadratic Distance
+
+Complex Infinity
+
+Line Point Picking
+
+Polystigm
+
+Connex
+
+Locus
+
+RAT-Free Set
+
+Diagonal Points
+
+Meteorology Theorem
+
+Rational Distance Problem
+
+Distance Between Points
+
+Midpoint
+
+Rational Distances
+
+Distance Between Two P...
+
+Monge Point
+
+Salmon Points
+
+Endpoint
+
+Ordinary Line
+
+Special Point
+
+Erdős-Anning Theorem
+
+Ordinary Point
+
+Sylvester's Four-Point...
+
+Fagnano's Point
+
+Planar Distance
+
+Sylvester Graph
+
+General Position
+
+Point
+
+Tetrastigm
+
+Geometric Span
+
+Point at Infinity
+
+General Projective Geometry (55)
+
+Map Projections (61)
+
+Radon Transforms@
+
+Braced Polygon
+Braced Square
+Flexible Graph
+Flexible Polyhedron
+Jumping Octahedron
+
+Just Rigid
+Laman's Theorem
+Liebmann's Theorem
+Rigid Graph
+Rigid Polyhedron
+Rigidity Theorem
+Shaky Polyhedron
+
+Ajima-Malfatti Points
+Casey's Theorem
+Circle Inscribing
+Circle Packing
+Cylinder-Sphere Intersection
+Descartes Circle Theorem
+Ellipse Tangent
+Hexlet
+Japanese Temple Problem
+Japanese Theorem
+Kenmotu Point
+
+Pappus Chain
+Right Triangle
+Sangaku Problem
+Tangent Spheres
+
+Cones (16)
+
+Cylinders (28)
+
+Ellipsoids (16)
+
+Frusta (4)
+
+General Solid Geometry (11)
+
+Miscellaneous Solids (16)
+
+Polyhedra (20)
+
+Sphere Chains (5)
+
+Spheres (86)
+
+Tori (24)
+
+Volume (8)
+
+Algebraic Surfaces (89)
+
+Algebraic Surfaces@
+
+Closed Surfaces (23)
+
+Constant-Curvature Surfaces (16)
+
+Minimal Surfaces (32)
+
+Miscellaneous Surfaces (48)
+
+Planes (42)
+
+Ruled Surfaces (17)
+
+Surface Properties (13)
+
+Surfaces of Revolution (54)
+
+Bilateral Symmetry
+Icosahedral Equation
+Mirror Symmetry
+Octahedral Equation
+Rotational Symmetry
+Symmetric
+Symmetry
+
+Symmetry Operation
+Tetrahedral Equation
+
+Geometric Transformations (19)
+
+Miscellaneous Transformations (55)
+
+Reflections (27)
+
+Rotations (18)
+
+Translations (10)
+
+Angles (59)
+
+Directed Angles (3)
+
+General Trigonometry (2)
+
+Spherical Trigonometry (21)
+
+Surveying (2)
+
+Trigonometric Functions@
+
+Trigonometric Identities (43)
+
+Trigonometric Inequalities (2)
+
+absolute conic for oriented circles, 428
+abstract projective planes, 262
+afﬁne
+concepts, 351
+geometry, 351—3
+geometry of three dimensions, 397
+group in three dimensions, 397
+maps, 353
+algebraic variety, 410
+amplitude of complex numbers, principal value,
+2
+
+angle, 3
+between circles, 81
+Laguerre’s formula, 349
+measure of, 3
+oriented sensed, signed, 3
+vertex of, 4
+Apollonius
+circle, 72, 208
+problem, 101, 151
+areas
+in afﬁne plane, 5, 6
+oriented, sensed, signed, 3
+Argand diagram, 8
+associated
+points for plane cubics, 421
+points for quadrics, 419
+associative law for mappings, 17
+asymptotes of conic, 346
+equation of, 357 (80.18)
+automorphism, 175
+
+inner, 176
+outer, 176
+axis
+
+of central collimation, 309
+
+of glide-reﬂection for triangle, 204 (51.7)
+of perspective, 252
+
+of similitude, 62 (13.2)
+
+Bachmann, F., 200
+base-points of projective space, 272
+basis for vector space, 23, 128
+between, deﬁnition of
+
+in afﬁne space, 2
+
+in Euclidean space, 3
+Bezout’s theorem, 414
+binary notation for Desargues
+
+conﬁguration, 302 (71.11)
+
+Bolyai, J., 241
+branch of curve, 401
+Brianchon’s theorem, 339 (78.7), 386
+
+bundles of circles
+elliptic, 148
+hyperbolic, 147
+parabolic, 147
+
+canonical (standard, normal) form for
+coaxal systems (pencils) of circles, 116
+collineation (projectivity) of Sn onto itself, 311
+direct isometries, 185
+equations of a conic, 324, of a quadric, 366
+reﬂexions, 190
+
+Cayley, A., 440
+center
+of central collineation, 309
+of conic, 347
+of dilatation, 56
+of perspective, 34
+of similitude, 59
+central collineation, 315
+axis of, 309
+center of, 309
+central dilatation (similarity), 56, 162
+central similarity (dilatation), 56
+centroid of triangle, 28
+Ceva's theorem, 31, 246
+chain of circles theorem, 431 (94.6, 94.7)
+characteristic root (eigenvalue), 307
+chord of cubic curve, 401
+circle
+imaginary, at inﬁnity, 391
+nine-point, 39
+oriented, 426
+virtual, 14, 139
+circles
+algebra of, 153
+bundles of, 147
+coaxal systems of, 109
+chain theorems for, 431 (94.6. 94.7)
+inner product for, 155
+orthogonality condition for, 82
+representation in E3 of, 138
+circular
+points at inﬁnity, 347
+transformations, 80, 439
+coaxal systems of circles, 109
+canonical forms for, 116
+intersecting type, 117
+limiting points of, 119
+non-intersecting type, 118
+polar systems of (conjugate systems), 119
+tangent type, 118
+
+[443]
+
+444 INDEX
+
+collinear, 4
+collineation
+central, 315
+cyclic in Sn, 315
+in Gauss plane, 167
+general case in S2, 314
+Jordan canonical form for, 311
+of quadric into itself, 440
+special in S”, 314
+types in S2, 313
+common tangents to two circles, 60
+complementation theorem, 280
+complete quadrangle, diagonal points of, 246 (60.3)
+complex line (Gauss plane), 438
+complex numbers, 7
+amplitude, 12
+argument, 12
+modulus, IO
+parallelogram law, 8
+complex point, 14
+composition (product) of mappings, 16
+of reﬂexions, 192
+(condition for orthogonal lines), 200
+of reﬂexions in point and line, 202
+of three line reﬂexions, 199
+concurrency of three lines, 48
+concyclic points, 48
+condition for direct similarity, 182
+cone
+quadric, 364
+tangent to quadric, 136
+vertex of, 371
+conic
+asymptote of, 347
+conjugate points for, 333
+directrix of, 349
+eleven-point, 343
+ellipse, 346
+point-equation of, 321
+focus of, 350
+focus-directrix property of, 349
+hyperbola, 346
+line-, 321
+Maclaurin’s construction for, 328 (77.1)
+mapped onto itself, 353
+parabola, 346
+polar of point for, 334
+pole of line for, 333
+projective generation of, 321
+in real afﬁne plane, 351
+in real Euclidean plane, 344
+through four points, 340
+through ﬁve points, 336
+congruence
+
+of p-segments 224, of p-triangles, 224, of triangles, 3
+
+congruent matrices, 326
+conjugacy, implies orthogonality, 145
+conjugate
+complex number, 9
+lines with regard to quadric, 373
+Moebius transformations, 227
+points with regard to conic, 333
+points with regard to quadric, 135
+subgroup, 174
+systems (polar) for coaxal systems, 119
+constructions
+with a disk, 124
+Euclidean, 123
+
+construction—(contd.)
+for inverse points, 77
+coordinate system, change of, 293
+coordinate transformations, 164
+coordinates
+areal, 31
+barycentric, 30
+homogeneous, 30
+normalized, 31
+tetracyclic, 393
+correlations, 276, 373
+associated, 374
+complete, 374
+incidence locus for, 375
+involutory, 375
+coset, 171
+couple, 396
+cross-axis theorem, 335
+cross-ratio
+compared for points on circle, 358 (80.31)
+invariant under Moebius transformations, 212
+in Sn, 281
+of complex numbers, 212
+of points on a line, 86
+reality of, 213
+values of, 290
+cubic curve,
+plane, through six points, 412
+space (twisted), see space cubic
+cubic surface, 412
+lines on, 414
+plane representation of, 412
+ruled (scrollar), 416 (92.4)
+with four nodes, 416 (92.3)
+with one node, 415
+Cnrves
+normal rational, 407
+on a quadric, 401
+rational, 403
+space quartic, 417
+cyclic collineation in Sn, 315
+cylinder, elliptic, hyperbolic, parabolic, 398
+
+9, group of dilative rotations about origin, 177
+9*, subgroup of central dilatations, 177
+Dedekind, law for subspaces in Sn, 284
+degenerate
+
+mapping, 207
+
+quadric, 379
+De Moivre, theorem of, 11
+Desargues
+
+conﬁguration, binary notation for, 302 (71.11)
+
+(specialization in), 302 (71.13)
+
+theorem of, 34, 251, 300, 386 (86.1)
+
+(parallel case), 33
+desmic system of tetrads, 270 (65.16)
+Descartes, theorem of, 157
+diagonal points of complete quadrangle, 246 (60.3)
+dilative
+
+reﬂexions, 198
+
+rotations (spiral similarities), 163
+dimension
+
+of join, intersection, in Sn, 278
+
+of vector space, 23
+direct
+
+isometries in three dimensions, 394
+
+in two dimensions, 177
+
+similitudes, 197
+
+INDEX 445
+
+direction-cosines in E3, 132
+directly similar triangles, 179
+directrix
+of conic, 350
+of ruled surface, 416 (92.4)
+distance
+Euclidean, 1
+non-Euclidean, 231
+domain, 16
+double
+directrix of ruled surface, 416 (92.5)
+point on curve, 402
+-six of lines on cubic surface, 414
+(diagram of), 415
+dual
+of conic, 330
+of quadric, 377
+duality, see principle of
+
+elation, 310, 315
+eleven-point conic, 342
+ellipse, 346
+elliptic non—Euclidean geometry, 240
+equation
+of asymptotes, 357 (80.18)
+of irreducible line-conic, 327
+of point-conic, 321
+of foci, 357 (80.21)
+of hyperplane in Sn, 274
+of line at inﬁnity, 248
+of plane in E3, 132
+of a point, 245 (60.2)
+of a quadric, 366
+equivalence
+class, 15
+relations, 15
+Euclidean
+axioms, 432
+constructions, 122
+group, 353, 394
+plane, E2, 1
+space, E3, 132
+Euler line, 59 (12.3)
+exterior product
+of two vectors, 44
+(geometrical interpretation), 45
+of three vectors, 52
+external common tangents to two circles, 60
+
+false positions, method of, 339 (78.9)
+Fermat’s
+
+principle, 91
+
+problem, 93
+Feuerbach’s theorem, 88
+ﬁnite projective geometry, 246 (60.7)
+ﬁxed points
+
+of indirect isometry, 188
+
+of mapping, 185
+
+of projectivity, 306
+
+(on a conic), 331
+ﬁxed subspaces of a collineation, 309
+foci of conic, equation of, 357 (80.21)
+focus of conic, 349
+focus-directrix property of conic, 350
+function, 15
+
+fundamental points of stereographic projection, 406,
+
+410
+
+fundamental theorem
+of algebra, 14
+of projective transformations, 295
+
+Gauss plane, 160
+general
+coordinate transformations, 351
+subspaces in S», 283
+generation of space cubic, 403
+geometrical image, 62
+geometry
+afﬁne, 5
+Euclidean, 1
+non-Euclidean, 223
+of the compasses (Mohr—Mascheroni), 122
+projective, 242
+glide reﬂexion, 193, 199 (50.3)
+in E3, 397
+Gosset, T., 158
+Grassmann—Pluecker coordinates, 436
+group
+Abelian, l8
+afﬁne, 397
+axioms for, 18
+of circular transformations, 438
+of collineations, PGL(n, K), 292
+of collineations and correlations, 373
+Euclidean, 353
+of mappings, 18
+transitive, 183
+
+half-
+line (ray), 2
+turn, 186
+Hamilton, W. R., 396
+Hamlet, quotation from, 240
+harmonic
+conjugates, 75
+division, 74
+homology, 152, 270 (65.14), 317
+pencil, 261
+range, 75, 261
+theorem connecting range and pencil, 288
+Hesse, theorem of, 339 (78.11), 393
+Hjelmslev, theorem of, 195
+(extension of theorem), 198 (50.2)
+homogeneous coordinates, 242
+of hyperplane 1n Sn, 273
+in projective space, 273
+homology, harmonic, 270 (65 14), 317
+horocycle, 239
+hyperbola, 346
+hyperbolic geometry, 220
+Poincaré model, 223
+three-dimensional, 441
+hyperboloid of two sheets, 399 (88.7)
+hyperplane
+equation of in S», 274
+homogeneous coordinates for, 273
+
+J, group of isometries of the Gauss plane, 166, 178
+
+1+, group of direct isometries of the Gauss plane,
+166, 178
+
+1-, coset of opposite isometries of the Gauss plane,
+166, 178
+
+ideal points, 344, 352
+
+identity mapping, 16
+
+image under mapping, 16
+
+446
+
+imaginary circle at inﬁnity, 391
+incidence
+in a projective plane, 243
+propositions of in Sn, 278
+independence of para11e1 axiom, 229
+independent
+conditions for points, test, 423 (93.6)
+conditions presented by set of points, 418
+index of subgroup, 173
+indirect (opposite) isometry
+as product of reﬂexions, 189
+indirectly similar triangles, 181
+inner product
+of vectors in E2, 37
+of vectors in E3, 132
+inside of circle, inverse of, 219 (54.3)
+internal common tangents of two circles, 62
+intersection
+of curves on a quadric, 405
+of independent hyperplanes in Sn, 275
+of plane and quadric in S3, 362
+of subspaces in Sn, 277
+of tangent plane and quadric in $3, 370
+of three quadrics in S3, 418
+of two quadrics in $3, 417
+invariant
+hyperplanes of a collineation, 308
+line, 185
+(ﬁxed) point of a mapping, 185
+of quadratic form, 326
+inverse
+of center of a circle, 86
+construction for, using compasses, 77
+of inside of a circle, 219 (54.3)
+of lines and circles, 78
+of a mapping, 16
+inversion, 75, 162
+center of, 75
+circle of, 75
+conformal property of, 84
+effect on length, 85
+formula connecting radii of inverse circles, 78
+in a line, 77
+in a virtual circle, 75
+representation of in E3, 151
+inversive plane, 75, 206
+involution
+on a conic, 332
+(geometrical interpretation of), 331—3
+on a line, 318
+skew, product of reﬁexions in two lines, 440
+in Sn, 316
+involutions, product of, 339 (78.14)
+involutory isometries, 191
+irreducible
+line-conic, equation for, 328
+point-conic, equation for, 327
+irregularities of a mapping, 390
+isometries (congruent transformations, rigid
+motions), 164
+in E3, 396
+of Gauss plane, direct, 169
+indirect, opposite, 170
+involutory, 191
+and orthogonal matrices, 354
+as product of reﬁexions, 203
+isomorphism between groups, 175
+isotropic lines, 348
+
+
+
+join of subspaces in S", 277
+Jordan normal (canonical) form for collineation,
+312
+
+Klein, F., deﬁnition of projective geometry, 292
+
+Laguerre, formula of, 349
+Lebesgue, H., Frontispiece
+limiting points of a coaxal system, 119
+line
+conic, 321
+at inﬁnity, 4
+invariant, 185
+point-wise ﬁxed, 185
+in a projective plane, 243
+as a row-vector, 258
+linear
+complex of lines in S3, 377
+transformation, 258
+lines
+coincident, 327
+common perpendicular of two, 391
+conjugate with respect to a quadric, 373
+on cubic surface, 414
+double-six of, 414
+dual of in $3, 264
+isotropic, 348
+linear complex of, 377
+null, 377
+oriented, 427
+polar with respect to a quadric, 138 (35.5), 372
+self-conjugate with respect to a quadric, 373
+transversal of, 399
+
+(m, n) curves on a quadric, 401
+M-transformation, 219
+M *-transformation, 227
+M —-transformation, 227
+M +-transformation, 227
+Maclaurin, construction for a conic, 328 (77.1)
+mappings (transformations), 15
+afﬁne, 351
+bijective (one-to-one and onto), 16
+of circle into itself, 216
+domain of, 16
+image of, 16
+of inside of circle into inside, 219 (54.3)
+into, 16
+object of, 15
+one-to-one and onto (bijective), 16
+onto (surjective), 16
+range of, 16
+semi-linear, 293
+surjective (onto), 16
+Mascheroni, geometry of the compasses, 124
+matrices
+congruent, 326
+orthogonal, 354
+similar, 293
+Maxwell, C., 36, 114
+midpoint of segment, 347
+minimum problems, 66, 68
+missing seventh circle, 105
+Menelaus, theorem of, 31, 246
+model
+for hyperbolic geometry, 227
+for projective plane, 246
+
+
+
+Moebius tetrads, 268, 377
+proof using associated points, 423
+Moebius transformations, 207
+conformal properties, 217
+degenerate, 207
+determination of, 207, 211
+dissection of, 209
+ﬁxed points of, 211
+group of, 210
+as product of inversions, 438
+Mohr, geometry of the compasses, 124
+
+Nature, 158
+Newton, theorem of, 47
+nine—point circle, 39, 56
+node, double point, on curve, 402
+non-Euclidean
+distance, 231
+geometry, 223
+(via collineations of conic into itself), 355, 440
+(elliptic), 240
+non-singular linear transformation, 258
+normal (standard, canonical) form
+for coaxal systems, 116
+for collineations of Sn into itself, 31]
+for direct isometries, 185
+for equations of a conic, 326; of a quadric, 368
+for reﬁexions, 190
+normal rational curve, 408
+normal (self-conjugate, invariant) subgroup, 174
+(geometrical importance of ), 177
+normalization theorem
+for 52, 253
+for S3, 269 (65.3)
+for Sn, 278 (66.5)
+notation
+in a projective plane, 244
+remarks on, 6
+for vectors, 25
+null
+lines, 377
+polarity, 375
+(self-polar lines), 376
+space of singularprojectivity, 304
+
+object of mapping, 15
+opposite (indirect)
+isometries without ﬁxed points, 193
+isometries in three dimensions, 396
+similitudes, 197
+order of group, 173
+orientation of triangles, 183
+oriented
+circles, 426
+lines, 427
+orthocenter of triangle, 39
+orthocentric tetrad, 39
+orthocyclic set of points, 81 (21.9)
+and harmonic sets, 358 (80.32)
+orthogonal
+matrices, 354
+(and isometries), 354
+projection, 353, 357 (80.26)
+orthologic triangles, 42
+osculating plane to space cubic, 409 (90.2)
+
+p-circles in hyperbolic geometry, 238
+p-line, 223
+
+p-parallel lines, 228
+p-point, 223
+p-triangle, 224
+(angle sum), 23]
+p-triangles, similarity involves congruence, 237
+Pappus
+ancient theorem of, 89
+theorem of, 255
+(parallel case), 47
+Pargas, P., 124
+parabola, 347
+paraboloid
+elliptic, 398
+hyperbolic, 398
+of revolution, 135
+parallel projection, 352
+Pascal
+lines, 335, 383
+theorem of, 47, 335, 380
+(using associated points), 423 (93.5)
+Peaucellier, circular motion straightened, 81 (21.8)
+pencil
+of circles, 106
+of comics, 342
+of lines, 106
+perspective, triangles in, 34
+perspectivity, 281, 296
+vertex 0, symbol for, 299
+perspectivities, product of, 298
+PGL(n, K), projective group of transformations, 292
+pinch-points of ruled surface, 416 (92.4)
+pivot theorem, 430 (94.2)
+plane
+afﬁne, 5
+Euclidean, 1
+Gauss, 160
+hyperbolic, 223
+at inﬁnity, 397
+inversive, 75
+projective, 242
+Playfair’s axiom, 222
+Pluecker—Grassmann coordinates of a line, 377, 436
+Poincaré model of hyperbolic geometry, 223
+point
+as column-vector, 258
+fundamental, of projection, 406
+ideal, 4
+at inﬁnity, 4, 206, 347
+(relation to lines in inversive plane), 214
+in projective plane, 242
+point-conic, 321
+parametric representation, 329
+tangent to, 330
+point-plane reﬁexion (harmonic homology), 439
+point-reﬁexion in E3, 396
+point-wise ﬁxed line, 185
+points
+circular at inﬁnity, 348
+double on curve, 402
+fundamental in stereographic projection, 410
+idea], 344, 352
+in perspective, 246 (60.5)
+set of associated for plane cubic curves, 421
+(for quadrics), 419
+simple on curve, 402
+polar
+of point, 336
+lines with respect to a quadric, 138 (35.5), 372
+
+448
+
+polar—(contd.)
+line of point with respect to a triangle, 254
+plane, 135, 370
+system of coaxal circles, 119
+triangles, 339 (78.10)
+polarities, 375
+
+null, 375
+pole
+of line, 334
+
+of plane, 135
+position vector, 21
+power of point, 71
+geometric interpretation, 71
+Princess Elizabeth, 158
+principle of duality
+in S2, 244
+in $3, 262
+in Sn, 276
+product (composition)
+of maps, 16
+of perspectivities, 296
+of reﬁexions, 63
+of rotations, 67
+of three reﬁexions, 199
+projection, 281
+orthogonal, 353
+parallel, 352
+as product of perspectivities, 283 (67.4)
+as a projective transformation, 296
+projective
+correspondence between points on a conic, 331
+between complementary reguii, 367
+between generators of same regulus, 362
+generation of a point-conic, 321
+geometry, deﬁnition, 292
+group of transformations, 292
+ranges on a conic, 325
+(on lines), 321
+symbol for), 301
+transformations (collineations), 292
+projective space
+base-points of, 272
+homogeneous coordinates, 273
+of n dimensions, Sn, 272
+of three dimensions, 53, 263
+of two dimensions, S2, 243
+projezcti5ve transformations, fundamental theorem,
+9
+
+projectivity (projective correspondence)
+
+singular, 304
+
+symbol for, 301
+
+between tangents to a conic, 330
+properties of space cubic, 403
+propositions of incidence in Sn, 278
+Ptolemy, theorem and extension of, 89
+
+quadrangle, complete, 246 (60.3)
+quadratic form, 326
+
+in four variables, 368
+
+invariant of, 326, 368
+quadratic transformation, 390 (87.2)
+quadric, 268, 358
+
+in afﬁne space, 397
+
+cone, 364
+
+(rank when irreducible), 369
+
+equation of, 366
+
+generators of, 268
+
+self-dual, 359
+
+INDEX
+
+quaternions, 396
+
+930, group of rotations about origin, 177
+gm, group of rotations about w, 187
+radical
+axis of two circles, 108
+center of three circles, 112
+range, 16
+of singular projectivity, 304
+ratio
+of segment division, 4
+of signed lengths, 6
+rational
+curve 402
+surface 410
+ray (half-line), 2
+ray, in vector space, 246
+reciprocal ﬁgures, 35
+rectangular hyperbola, 355 (80.6)
+relation to nine—point circle, 355 (80.8, 80.9)
+reﬂexion
+glide-, 193, 199 (50.3)
+line-, 62
+reﬁexions, 161
+in parallel lines, 64
+regulus, 358
+uniquely deﬁned, 366
+reguli
+complementary, 361
+equations for, 366
+representation
+of circles by points in E3, 138
+of lines on a surface, 411
+ring-contact of quadric surfaces, 136
+rotations, 63, 160
+rotatory reﬂexion in E3, 396
+
+.9’, group of similitudes in E2, 182
+56+, group of direct similitudes, 182
+56—, coset of opposite (indirect) similitudes, 182
+SAS theorem and general theorem for p—triangles,
+225
+Sn, projective space of n dimensions, 272
+normalization theorem, 278 (66.5)
+principle of duality, 276
+propositions of incidence, 278
+S3, projective space of three dimensions, 263
+S2, projective space of two dimensions, 242
+Schlaeﬂi, L., 415
+screw, motion in E3, 396
+segment, 4
+external division, 4
+internal division, 4
+sensed, directed, 3
+Segre, C., symbol for collineation, 312
+self-
+conjugate lines with respect to a quadric, 373
+polar triangle, 337
+(tetrad), 138 (35.6)
+semi-linear mapping, 293
+side-angie-side (SAS) theorem for triangles, 4, 225
+similar
+matrices, 293
+triangles, 3
+similarity transformation (similitude), 179
+similitude (similarity transformation), 179
+direct, 181, 197
+opposite (indirect), 181, 197
+
+simple point on a curve, 402
+simplex of reference in Sn, 272
+change of, effect, 273
+singular projectivities, 304
+six-circles theorem, 426
+skew
+involution (reﬂexion in two lines), 410
+lines, 131
+Snell’s law for refracted rays, 91
+Soddy, F., 158
+solid, three-dimensionai subspace, 281
+space (twisted) cubic curve, 401
+chord of, 406
+chord through point, equations of, 408
+associated nuil-polarity, 409 (90.4)
+normal equations for, 407
+osculating plane at point of, 409 (90.2)
+properties of, 403
+as residual curve, 405
+space quartic curve, 417
+sphere, as a quadric, 390
+Spiegelungsbegriﬁ in geometry, 200
+spiral similarity (dilative rotation), 163
+standard (normal, canonical) form for
+direct isometries, 185
+equation of a coaxal system, 116
+reﬂexion in a line, 190
+Steiner
+formula, 99
+porism, 98
+theorem on Pascal lines, 383
+stereographic projection, 387
+of circles on a sphere, 391
+connection with representation of circles, 392
+representation of neighborhood of fundamental
+point, 389 ,
+representation of reguli, 388
+of a sphere, 206
+subgroup, 171
+conjugate, 174
+index of, 173
+normal, invariant, self—conjugate, 174
+subspace, general in Sn, 283
+subspaces in S"
+intersectiOn, 277
+join, 277
+supplement of vectors in E2, 41
+Sylvester, law of inertia, 369
+symbol
+for projectivity, 296
+Segre, for collineation, 312
+
+.7", group of translations, 176
+tangent
+
+cone to quadric, 136
+
+line to quadric, 370
+
+plane to quadric, 371
+
+to point-conic, 330
+tangents from point to conic, 332
+tetracyclic coordinates, 393
+tetrahedral complex, derived from S4, 303
+theorem of
+
+Bezout, 414
+
+Brianchon, 339 (78.7), 386 (86.4)
+
+Ceva, 31, 249
+
+Desargues, 25]; parallel case, 33
+
+Descartes, 157
+
+Feuerbach, 88
+
+INDEX 449
+
+theorem of—(contd.)
+Hesse, 339 (78.11), 399 (88.2)
+Hjelmslev, 197; extension of, 198 (50.2)
+Menelaus, 28, 250
+Newton, 47
+Pappus, 255; parallel case, 47; ancient, 89
+Pascal, 47, 335
+Ptolemy, 90; extension, 91
+six-circles, 426
+transformations, mappings, 15
+circular, 80
+group of, 438
+of paraboloid onto a sphere, 393
+quadratic, 390 (87.2)
+transitive group, 183
+translation, 64, 160
+transversal
+of lines, 265
+of three lines, 365
+of four lines, 367
+triangle
+centroid, 28
+orthocenter, 39
+of reference, 248
+(effect of change of line-coordinates), 258
+(on point-coordinates), 259
+triangle inequality, 2, 10, 231, 358 (80.27)
+triangles
+congruent, 3
+directly similar, 3, 181
+indirectly similar, 3, 181
+orientation of, 183
+orthologic, 42
+in perspective, 34
+polar, 339 (78.10)
+proper, 2
+self-polar, 337
+similar, 3
+
+unit point of coordinate system, 254
+
+vector, 20
+bound, 21, 127
+free, 21, 127
+position-, 21, 127
+scalar multiple of, 21, 127
+vector space, 23
+basis for, 24, 128
+dimension of, 24
+vectors
+linear dependence of, 23, 128
+exterior product of two, 44
+(of three), 44
+linear independence of, 24, 128
+inner product of two in E3, 132
+(in E2), 37
+notation for, 25
+parallelogram law for, 21, 128
+sum of two, 21, 127
+in three dimensions, 126
+in two dimensions, 20
+vertex
+of cone, 371
+of perspectivity, 281, 298
+virtual circle, 14
+
+Watts, 81 (21.8)
+wedge (exterior)-product of vectors, 44
+
+
+
+
+
+
+

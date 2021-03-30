@@ -1,0 +1,3602 @@
+
+Index
+
+a(h), see Angle, of parallelism
+Absolute angle measure, 67
+Absolute consistency, 4
+Absolute elliptic involution, see
+
+Involution
+Absolute length, 67
+Absolute line conic, see Conic, line
+Absolute (point) conic, see Conic,
+
+point
+Absolute polarity, see Polarity relation
+Absolute projectivity, see Projectivity
+Acute angle, 390
+Affine geometry, 100, 190-198,
+
+303-305; see also Finite
+geometry
+
+model of, 121-129
+subgeometry of projective, 303-305
+
+absolute conic for, 303
+conics in, 303-304
+ideal points of, 303
+lines of, 303
+midpoint in, 303
+(ordinary) points of, 303
+parallel lines in, 303
+
+Affine transformation, 100, 190-198;
+see also Similarity, Isometry
+
+definition of, 130, 190
+group of, 131, 190
+line equation of, 133, 190
+matrix of, 130, 190
+point equation of, 133, 190
+product of shear, strain and
+
+similarity, 194
+properties preserved by
+
+conic sections, 196
+parallelism, 190
+segment division ratio, 191-192
+
+role in fractal definition, 373, 378
+Affinity, 190; see also Affine
+
+transformation
+Algorithm
+
+as descriptive procedure, 336
+for Cantor set, 337
+for Koch curve, 338
+for logistic orbit tracing, 324-325
+for Sierpinski triangle, 352-353
+
+Altitude, see 'Triangle
+Analytic geometry, 16, 99
+
+427
+
+Index
+
+a(h), see Angle, of parallelism
+Absolute angle measure, 67
+Absolute consistency, 4
+Absolute elliptic involution, see
+
+Involution
+Absolute length, 67
+Absolute line conic, see Conic, line
+Absolute (point) conic, see Conic,
+
+point
+Absolute polarity, see Polarity relation
+Absolute projectivity, see Projectivity
+Acute angle, 390
+Affine geometry, 100, 190-198,
+
+303-305; see also Finite
+geometry
+
+model of, 121-129
+subgeometry of projective, 303-305
+
+absolute conic for, 303
+conics in, 303-304
+ideal points of, 303
+lines of, 303
+midpoint in, 303
+(ordinary) points of, 303
+parallel lines in, 303
+
+Affine transformation, 100, 190-198;
+see also Similarity, Isometry
+
+definition of, 130, 190
+group of, 131, 190
+line equation of, 133, 190
+matrix of, 130, 190
+point equation of, 133, 190
+product of shear, strain and
+
+similarity, 194
+properties preserved by
+
+conic sections, 196
+parallelism, 190
+segment division ratio, 191-192
+
+role in fractal definition, 373, 378
+Affinity, 190; see also Affine
+
+transformation
+Algorithm
+
+as descriptive procedure, 336
+for Cantor set, 337
+for Koch curve, 338
+for logistic orbit tracing, 324-325
+for Sierpinski triangle, 352-353
+
+Altitude, see 'Triangle
+Analytic geometry, 16, 99
+
+427
+
+428 Index ------------------------------------------------------------
+
+Analytic model
+for affine ( and Euclidean) planes,
+
+see Affine geometry
+for projective plane, see Projective
+
+geometry
+Angle, 389, 397, 406
+
+exterior of, 406
+interior of, 406
+measure
+
+in double elliptic geometry, 87
+in Euclidean geometry, 126, 407
+in hyperbolic geometry, 301
+in similarity geometry, 306
+in single elliptic geometry, 87,
+
+303
+of parallelism, 66-67
+of rotation, see Rotation
+sum of a triangle
+
+in double elliptic geometry, 90, 92
+in Euclidean geometry, 36
+in hyperbolic geometry, 69, 74
+in single elliptic geometry, 92
+
+Angular defect of a triangle, 78
+Area
+
+axioms for, 74
+of a rectangle, 403
+of a triangle
+
+in double elliptic geometry, 92
+in Euclidean geometry, 198
+in hyperbolic geometry, 74-80
+in single elliptic geometry, 92
+
+ASA theorem, 409-411
+Associative, see Transformation,
+
+group
+Asymptote of a conic, 304
+Asymptotic triangles, 61-67
+Attracting
+
+fixed point, see Logistic function
+set, see Iterated function system,
+
+attractor
+Axiomatic system, 2-9
+
+components of, 3
+model of, 4
+
+properties of, 1, 3-8
+Axioms, 3, 34
+Axioms for geometries and
+
+configurations, see specific
+geometries (e.g., Euclidean,
+Finite, Projective, etc.
+
+Axis
+of frieze pattern, see Frieze pattern
+of glide reflection, see Glide
+
+reflection
+of homology, see Projectivity
+of pencil of points, see Pencil, of
+
+points
+of perspective collineation, see
+
+Perspective, collineation
+of perspectivity, see Perspectivity
+of reflection, see Reflection
+of shear, see Shear
+of strain, see Strain
+
+Barnsley, M., 373-374
+collage theorem, 373
+
+use in image generation, 373-376
+fern, 373-374
+
+Base
+elements, see Pencil
+of Saccheri quadrilateral, see
+
+Sac cheri quadrilateral
+Beltrami, E., 93
+Between, 139, 398, 405
+Bilateral, see Symmetry, in m2
+Binocular visual space, 93
+Birkhoff, axioms of, 43, 399-400
+Bisect, 406
+Bolyai, J., 48
+Boundary of set, 330
+Boundless, 40, 85
+Box dimension, see Fractal dimension
+Brianchon, C.J. 245
+Butterfly effect, see Chaos theory,
+
+sensitive dependence on initial
+conditions
+
+428 Index ------------------------------------------------------------
+
+Analytic model
+for affine ( and Euclidean) planes,
+
+see Affine geometry
+for projective plane, see Projective
+
+geometry
+Angle, 389, 397, 406
+
+exterior of, 406
+interior of, 406
+measure
+
+in double elliptic geometry, 87
+in Euclidean geometry, 126, 407
+in hyperbolic geometry, 301
+in similarity geometry, 306
+in single elliptic geometry, 87,
+
+303
+of parallelism, 66-67
+of rotation, see Rotation
+sum of a triangle
+
+in double elliptic geometry, 90, 92
+in Euclidean geometry, 36
+in hyperbolic geometry, 69, 74
+in single elliptic geometry, 92
+
+Angular defect of a triangle, 78
+Area
+
+axioms for, 74
+of a rectangle, 403
+of a triangle
+
+in double elliptic geometry, 92
+in Euclidean geometry, 198
+in hyperbolic geometry, 74-80
+in single elliptic geometry, 92
+
+ASA theorem, 409-411
+Associative, see Transformation,
+
+group
+Asymptote of a conic, 304
+Asymptotic triangles, 61-67
+Attracting
+
+fixed point, see Logistic function
+set, see Iterated function system,
+
+attractor
+Axiomatic system, 2-9
+
+components of, 3
+model of, 4
+
+properties of, 1, 3-8
+Axioms, 3, 34
+Axioms for geometries and
+
+configurations, see specific
+geometries (e.g., Euclidean,
+Finite, Projective, etc.
+
+Axis
+of frieze pattern, see Frieze pattern
+of glide reflection, see Glide
+
+reflection
+of homology, see Projectivity
+of pencil of points, see Pencil, of
+
+points
+of perspective collineation, see
+
+Perspective, collineation
+of perspectivity, see Perspectivity
+of reflection, see Reflection
+of shear, see Shear
+of strain, see Strain
+
+Barnsley, M., 373-374
+collage theorem, 373
+
+use in image generation, 373-376
+fern, 373-374
+
+Base
+elements, see Pencil
+of Saccheri quadrilateral, see
+
+Sac cheri quadrilateral
+Beltrami, E., 93
+Between, 139, 398, 405
+Bilateral, see Symmetry, in m2
+Binocular visual space, 93
+Birkhoff, axioms of, 43, 399-400
+Bisect, 406
+Bolyai, J., 48
+Boundary of set, 330
+Boundless, 40, 85
+Box dimension, see Fractal dimension
+Brianchon, C.J. 245
+Butterfly effect, see Chaos theory,
+
+sensitive dependence on initial
+conditions
+
+
+
+Index 429 ------------------------------------
+
+Cantor, G., 335
+set, 335-338, 358
+
+algorithm, 337
+self-similar property, 345-346,
+
+352-353
+transformations, 367-368
+
+Cartesian coordinate system, 121
+Center
+
+of a circle, 390
+of a conic, 304
+of a dilation, see Dilation
+of a frieze group, see Frieze, group
+of a homology, see Projectivity
+of a pencil of lines, see Pencil, of
+
+lines
+of a perspective collineation, see
+
+Perspective, collineation
+of a perspectivity, see Perspectivity
+of a rotation, see Rotation
+
+Central similarity, see Dilation
+Chaos game, 363-365, 370-372
+Chaos theory, 316-317,
+
+descriptive definition, 316, 321
+development, 316-321
+origin of term, 321
+nonperiodic nature, 318
+sensitive dependence on initial
+
+conditions (butterfly effect),
+318-321, 329, 332
+
+early description by Poincare,
+319
+
+significance compared to
+quantum mechanics, 316, 319
+relativity, 316
+
+weather prediction, 317-321, 329
+Chaotic behavior, 321; see also
+
+Sensitive dependence on initial
+conditions
+
+oflogistic function, 322-329
+related to deterministic behavior,
+
+317-318,328
+Characteristic vector, see Eigenvector
+Circle, 390
+
+Coastline measurement, 340-342,
+344, 347, 359-360
+
+Coding theory, 19
+Collage, 366, 373
+
+theorem, see Barnsley, collage
+theorem
+
+Collinear points, 10, 12, 215, 406
+in affine plane, determinant
+
+condition for, 124
+in projective plane, determinant
+
+condition for, 253
+Collineation, 213, 229, 270-283
+
+definition of, 271
+equations of, 271
+group of, 272
+invariant points and lines, 277
+invariant properties
+
+collinearity, 229, 271
+concurrence, 230, 272
+
+matrix of, 271-272
+perspective, see Perspective,
+
+collineation
+uniqueness of, 273
+
+Column matrix, 123
+Common notions of Euclid's Elements,
+
+34,391
+fourth common notion, 100, 391
+
+Commutative, see Transformation,
+group
+
+Complete axiomatic system, 1, 7
+Complete quadrangle, 217
+Complete quadrilateral, 217-218
+Computer graphics, 214
+Concurrent lines, 10, 12
+
+in affine plane, determinant
+condition, 125
+
+in projective plane, determinant
+condition, 253
+
+Configuration
+Desargues', 25-29
+
+axioms for, 27
+incidence table for, 26
+model of, 25, 27
+
+Index 429 ------------------------------------
+
+Cantor, G., 335
+set, 335-338, 358
+
+algorithm, 337
+self-similar property, 345-346,
+
+352-353
+transformations, 367-368
+
+Cartesian coordinate system, 121
+Center
+
+of a circle, 390
+of a conic, 304
+of a dilation, see Dilation
+of a frieze group, see Frieze, group
+of a homology, see Projectivity
+of a pencil of lines, see Pencil, of
+
+lines
+of a perspective collineation, see
+
+Perspective, collineation
+of a perspectivity, see Perspectivity
+of a rotation, see Rotation
+
+Central similarity, see Dilation
+Chaos game, 363-365, 370-372
+Chaos theory, 316-317,
+
+descriptive definition, 316, 321
+development, 316-321
+origin of term, 321
+nonperiodic nature, 318
+sensitive dependence on initial
+
+conditions (butterfly effect),
+318-321, 329, 332
+
+early description by Poincare,
+319
+
+significance compared to
+quantum mechanics, 316, 319
+relativity, 316
+
+weather prediction, 317-321, 329
+Chaotic behavior, 321; see also
+
+Sensitive dependence on initial
+conditions
+
+oflogistic function, 322-329
+related to deterministic behavior,
+
+317-318,328
+Characteristic vector, see Eigenvector
+Circle, 390
+
+Coastline measurement, 340-342,
+344, 347, 359-360
+
+Coding theory, 19
+Collage, 366, 373
+
+theorem, see Barnsley, collage
+theorem
+
+Collinear points, 10, 12, 215, 406
+in affine plane, determinant
+
+condition for, 124
+in projective plane, determinant
+
+condition for, 253
+Collineation, 213, 229, 270-283
+
+definition of, 271
+equations of, 271
+group of, 272
+invariant points and lines, 277
+invariant properties
+
+collinearity, 229, 271
+concurrence, 230, 272
+
+matrix of, 271-272
+perspective, see Perspective,
+
+collineation
+uniqueness of, 273
+
+Column matrix, 123
+Common notions of Euclid's Elements,
+
+34,391
+fourth common notion, 100, 391
+
+Commutative, see Transformation,
+group
+
+Complete axiomatic system, 1, 7
+Complete quadrangle, 217
+Complete quadrilateral, 217-218
+Computer graphics, 214
+Concurrent lines, 10, 12
+
+in affine plane, determinant
+condition, 125
+
+in projective plane, determinant
+condition, 253
+
+Configuration
+Desargues', 25-29
+
+axioms for, 27
+incidence table for, 26
+model of, 25, 27
+
+430 Index ------------------------------------------------------------
+
+Configuration (cant.)
+pole-polar relation in, 26-27
+
+Pappus', 29-30
+axioms for, 30
+
+Congruence
+in Euclidean geometry
+
+Hilbert's axioms of, 397-398
+of sets of points (figures), 138,
+
+400, 407
+in hyperbolic geometry
+
+of asymptotic triangles, 65-66
+of Saccheri quadrilaterals, 74
+oftriangles, 72-73
+
+Conic (conic section)
+in the affine plane, 196-197
+
+equation of, 196
+identification of, 196, 303
+matrix of, 196
+preserved by affinities, 196
+
+line conic
+absolute, 305
+definition of, 241
+equation of, 289
+point of contact for, 241
+
+point conic, 240-250
+absolute, 298-301, 303, 305
+construction of, 247
+definition of, 240
+determination by five points,
+
+244-245, 247
+equation of, 289
+equivalence of, 295
+exterior point of, 293, 297
+interior point of, 293, 297
+intersection of a line with, 249,
+
+293
+matrix of, 289
+standard form of, 294, 296
+tangent to, 241, 248, 289-291
+
+Conjugate
+lines, 286
+points, 286
+
+Connected set, 332, 347
+
+Connection, Hilbert's axioms of, 395
+Consistency of an axiomatic system,
+
+1, 3
+absolute, 4
+relative, 4
+
+Continuity
+of circles, 39
+Dedekind's axiom, 39, 51, 398
+Hilbert's axioms, 398
+
+Convex set, 406
+Coordinates, homogeneous, see Line,
+
+Point
+Coordinate system, 405; see also
+
+Cartesian coordinate system
+Coplanar, 406
+Correlation, 270, 283-298; see also
+
+Polarity
+definition of, 283
+equations of, 284
+matrix of, 284
+projectivity induced by, 284
+uniqueness of, 284
+
+Coxeter, H. S. M., 12
+Critical point, 333
+Cross joins, 238
+Cross ratio, 264-270
+
+computation of, 267
+definition of, 265
+of a harmonic set, 269
+invariance under
+
+collineation, 273
+correlation, 284
+projectivity, 266
+
+uniqueness of fourth point, 268
+Crystallographic restriction, 172, 175
+Cyclic group, see Group, cyclic
+
+d-image, d-orbit, see Iterated
+function system, deterministic
+application
+
+de Fermat, P., 99
+Dedekind's axiom, see Continuity
+
+430 Index ------------------------------------------------------------
+
+Configuration (cant.)
+pole-polar relation in, 26-27
+
+Pappus', 29-30
+axioms for, 30
+
+Congruence
+in Euclidean geometry
+
+Hilbert's axioms of, 397-398
+of sets of points (figures), 138,
+
+400, 407
+in hyperbolic geometry
+
+of asymptotic triangles, 65-66
+of Saccheri quadrilaterals, 74
+oftriangles, 72-73
+
+Conic (conic section)
+in the affine plane, 196-197
+
+equation of, 196
+identification of, 196, 303
+matrix of, 196
+preserved by affinities, 196
+
+line conic
+absolute, 305
+definition of, 241
+equation of, 289
+point of contact for, 241
+
+point conic, 240-250
+absolute, 298-301, 303, 305
+construction of, 247
+definition of, 240
+determination by five points,
+
+244-245, 247
+equation of, 289
+equivalence of, 295
+exterior point of, 293, 297
+interior point of, 293, 297
+intersection of a line with, 249,
+
+293
+matrix of, 289
+standard form of, 294, 296
+tangent to, 241, 248, 289-291
+
+Conjugate
+lines, 286
+points, 286
+
+Connected set, 332, 347
+
+Connection, Hilbert's axioms of, 395
+Consistency of an axiomatic system,
+
+1, 3
+absolute, 4
+relative, 4
+
+Continuity
+of circles, 39
+Dedekind's axiom, 39, 51, 398
+Hilbert's axioms, 398
+
+Convex set, 406
+Coordinates, homogeneous, see Line,
+
+Point
+Coordinate system, 405; see also
+
+Cartesian coordinate system
+Coplanar, 406
+Correlation, 270, 283-298; see also
+
+Polarity
+definition of, 283
+equations of, 284
+matrix of, 284
+projectivity induced by, 284
+uniqueness of, 284
+
+Coxeter, H. S. M., 12
+Critical point, 333
+Cross joins, 238
+Cross ratio, 264-270
+
+computation of, 267
+definition of, 265
+of a harmonic set, 269
+invariance under
+
+collineation, 273
+correlation, 284
+projectivity, 266
+
+uniqueness of fourth point, 268
+Crystallographic restriction, 172, 175
+Cyclic group, see Group, cyclic
+
+d-image, d-orbit, see Iterated
+function system, deterministic
+application
+
+de Fermat, P., 99
+Dedekind's axiom, see Continuity
+
+
+
+Index 431 ------------------------------------------------------------
+
+Deductive reasoning, 2-3
+Deductive system, 2
+Defect of a triangle, see Angular
+
+defect
+Defined terms (definitions), 3
+
+of Euclid's Elements, 389-390
+Desargues' configuration, see
+
+Configuration
+Desargues' theorem, 25, 221
+Descartes, R., 99
+Deterministic iteration, see Iterated
+
+function system, application
+Diagonal
+
+line, of a quadrilateral, 217-218
+point
+
+of a hexagon, 243
+of a quadrangle, 217
+
+triangle
+of a quadrangle, 217
+of a quadrilateral, 218
+
+Diameter
+of a circle, 390
+of a conic, 304
+
+Dihedral group, see Group, dihedral
+Dilatation, see Dilation
+Dilation (central similarity), 185-189
+
+center of, 185
+definition of, 185
+invariant
+
+lines, 185
+points, 185
+
+matrix of, 186
+ratio of, 185
+
+Dimension, 347-348
+fractal, see Fractal dimension
+topological, 347-348, 352
+
+Direct isometry, see Isometry
+Direct similarity, see Similarity
+Direction vector, 252
+Distance
+
+elliptic, 88, 302-303
+hyperbolic, 301
+Euclidean, 126,405
+
+from a point to a line, 35
+Divider
+
+dimension, see Fractal dimension
+measurement, 341-344
+
+Double elliptic geometry, 86-92
+axioms for, 86
+length of a line in, 91
+model of, 86-87, 91
+opposite points in, 91
+pole and polars in, 91
+properties of, 90-92
+
+Dual statement, 9, 12, 215
+Duality, principle of, 12, 218
+Dualizing, 12
+Dynamical systems theory, 322
+
+orbit analysis, 323-324, 330, 332;
+see also Logistic function, Julia
+and Mandelbrot sets
+
+phase space, 318, 320
+role of iterated functions, 322
+
+Eigenvector, 262
+Einstein, A., 93
+Elation, see Perspective collineation
+Elements of Euclid, see Euclid's
+
+Elements
+Ellipse, 196, 303
+Elliptic axiom, 47, 85
+Elliptic geometry, 50, 86, 310; see
+
+also Double elliptic geometry,
+Single elliptic geometry
+
+Elliptic polarity, see Polarity relation
+Elliptic projectivity, see Projectivity
+Embed, 299, 301
+Endpoints of a segment, 139, 396,
+
+405
+Equation
+
+of a line, see also Line
+vector equation in :1P, 252
+
+of a plane, vector equation in ffi3,
+252
+
+of a point, see Point
+
+Index 431 ------------------------------------------------------------
+
+Deductive reasoning, 2-3
+Deductive system, 2
+Defect of a triangle, see Angular
+
+defect
+Defined terms (definitions), 3
+
+of Euclid's Elements, 389-390
+Desargues' configuration, see
+
+Configuration
+Desargues' theorem, 25, 221
+Descartes, R., 99
+Deterministic iteration, see Iterated
+
+function system, application
+Diagonal
+
+line, of a quadrilateral, 217-218
+point
+
+of a hexagon, 243
+of a quadrangle, 217
+
+triangle
+of a quadrangle, 217
+of a quadrilateral, 218
+
+Diameter
+of a circle, 390
+of a conic, 304
+
+Dihedral group, see Group, dihedral
+Dilatation, see Dilation
+Dilation (central similarity), 185-189
+
+center of, 185
+definition of, 185
+invariant
+
+lines, 185
+points, 185
+
+matrix of, 186
+ratio of, 185
+
+Dimension, 347-348
+fractal, see Fractal dimension
+topological, 347-348, 352
+
+Direct isometry, see Isometry
+Direct similarity, see Similarity
+Direction vector, 252
+Distance
+
+elliptic, 88, 302-303
+hyperbolic, 301
+Euclidean, 126,405
+
+from a point to a line, 35
+Divider
+
+dimension, see Fractal dimension
+measurement, 341-344
+
+Double elliptic geometry, 86-92
+axioms for, 86
+length of a line in, 91
+model of, 86-87, 91
+opposite points in, 91
+pole and polars in, 91
+properties of, 90-92
+
+Dual statement, 9, 12, 215
+Duality, principle of, 12, 218
+Dualizing, 12
+Dynamical systems theory, 322
+
+orbit analysis, 323-324, 330, 332;
+see also Logistic function, Julia
+and Mandelbrot sets
+
+phase space, 318, 320
+role of iterated functions, 322
+
+Eigenvector, 262
+Einstein, A., 93
+Elation, see Perspective collineation
+Elements of Euclid, see Euclid's
+
+Elements
+Ellipse, 196, 303
+Elliptic axiom, 47, 85
+Elliptic geometry, 50, 86, 310; see
+
+also Double elliptic geometry,
+Single elliptic geometry
+
+Elliptic polarity, see Polarity relation
+Elliptic projectivity, see Projectivity
+Embed, 299, 301
+Endpoints of a segment, 139, 396,
+
+405
+Equation
+
+of a line, see also Line
+vector equation in :1P, 252
+
+of a plane, vector equation in ffi3,
+252
+
+of a point, see Point
+
+432 Index ------------------------------------------------------------
+
+Equiareal transformation, 198, 309
+Equidistant lines, 36, 81
+Equivalence
+
+class, 122
+representative of, 122
+
+relation, 122, 250-251
+Equivalent conics, see Conic, point
+Equivalent statements, 35
+
+proof of, 36
+Erlanger program, 99
+Error-correcting code, 2, 18-24
+
+generator matrix, 19-20, 23
+Hamming
+
+code, 19-24
+distance, 21-24
+
+information positions, 20
+linear code, 21
+minimum weight of, 22
+I-sphere, 23
+parity check matrix for, 21
+perfect t-code, 23
+redundancy positions, 20
+weight of vectors, 19
+
+Euclid's Elements, 34-43, 47; see also
+Common notions of Euclid's
+Elements, Postulates of Euclid's
+Elements, Propositions of
+Euclid's Elements
+
+unstated assumptions of, 38-43, 51,
+86
+
+Euclidean geometry, 33-43, 99-183,
+307
+
+analytic model of, 121-129
+axioms for, 42-43, 391, 395-404
+development of, 33-36, 99-100
+transformations of, 100-164, 200,
+
+202-207; see also Isometry
+Euler's formula, 201
+Existence, guaranteed by axioms, 4-5
+Exterior angle theorem, see
+
+Proposition sixteen
+Exterior point of a conic, see Point
+
+conic
+
+Fano plane, see Finite geometry
+Fano's axiom, 220
+Fatou, P., 329
+Feigenbaum point, see Logistic
+
+function
+Fifth postulate, see Postulates of
+
+Euclid's Elements
+Finite geometry, 1-2
+
+affine plane of order n, 2, 17-18
+axioms for, 17
+number of points and lines, 18
+
+Desargues' configuration, see
+Configuration
+
+development of, 1-2
+Fano plane, 18-19, 24
+
+incidence table for, 19
+four-line geometry, 9
+
+axioms for, 9
+four-point geometry, 4-7, 9
+
+axioms for, 4
+models of,S
+
+Pappus' configuration, see
+Configuration
+
+projective plane of order n, 9-17
+axioms for; 10
+consistency of, 11
+existence of, 12, 16
+models of, 11-12
+number of points and lines in,
+
+12, 16
+three-point geometry, 9
+
+axioms for, 9
+Four-line geometry, see Finite
+
+geometry
+Four-point geometry, see Finite
+
+geometry
+Fractal dimension, 347-360
+
+box, 349, 355-359
+definition, 356
+relation to self-similarity
+
+dimension, 359
+descriptive definition, 347
+difficulty in computing, 379
+
+432 Index ------------------------------------------------------------
+
+Equiareal transformation, 198, 309
+Equidistant lines, 36, 81
+Equivalence
+
+class, 122
+representative of, 122
+
+relation, 122, 250-251
+Equivalent conics, see Conic, point
+Equivalent statements, 35
+
+proof of, 36
+Erlanger program, 99
+Error-correcting code, 2, 18-24
+
+generator matrix, 19-20, 23
+Hamming
+
+code, 19-24
+distance, 21-24
+
+information positions, 20
+linear code, 21
+minimum weight of, 22
+I-sphere, 23
+parity check matrix for, 21
+perfect t-code, 23
+redundancy positions, 20
+weight of vectors, 19
+
+Euclid's Elements, 34-43, 47; see also
+Common notions of Euclid's
+Elements, Postulates of Euclid's
+Elements, Propositions of
+Euclid's Elements
+
+unstated assumptions of, 38-43, 51,
+86
+
+Euclidean geometry, 33-43, 99-183,
+307
+
+analytic model of, 121-129
+axioms for, 42-43, 391, 395-404
+development of, 33-36, 99-100
+transformations of, 100-164, 200,
+
+202-207; see also Isometry
+Euler's formula, 201
+Existence, guaranteed by axioms, 4-5
+Exterior angle theorem, see
+
+Proposition sixteen
+Exterior point of a conic, see Point
+
+conic
+
+Fano plane, see Finite geometry
+Fano's axiom, 220
+Fatou, P., 329
+Feigenbaum point, see Logistic
+
+function
+Fifth postulate, see Postulates of
+
+Euclid's Elements
+Finite geometry, 1-2
+
+affine plane of order n, 2, 17-18
+axioms for, 17
+number of points and lines, 18
+
+Desargues' configuration, see
+Configuration
+
+development of, 1-2
+Fano plane, 18-19, 24
+
+incidence table for, 19
+four-line geometry, 9
+
+axioms for, 9
+four-point geometry, 4-7, 9
+
+axioms for, 4
+models of,S
+
+Pappus' configuration, see
+Configuration
+
+projective plane of order n, 9-17
+axioms for; 10
+consistency of, 11
+existence of, 12, 16
+models of, 11-12
+number of points and lines in,
+
+12, 16
+three-point geometry, 9
+
+axioms for, 9
+Four-line geometry, see Finite
+
+geometry
+Four-point geometry, see Finite
+
+geometry
+Fractal dimension, 347-360
+
+box, 349, 355-359
+definition, 356
+relation to self-similarity
+
+dimension, 359
+descriptive definition, 347
+difficulty in computing, 379
+
+
+
+Index 433 ------------------------------------------------------------
+
+divider
+definition, 359
+relation to self-similarity
+
+dimension, 360
+Hausdorff-Besicovitch (H-B), 349,
+
+355, 377-378
+generalization of box dimension,
+
+378
+self-similarity, 349-355
+
+definition, 351
+Fractal geometry
+
+applications, 373-376, 379-382
+compared to Euclidean geometry,
+
+335, 380-381
+development, 315
+language of chaos theory, 335,
+
+380
+measurement dilemmas leading to,
+
+340-341, 347
+ongoing mathematical questions,
+
+379,382
+properties,
+
+fractional dimension, see Fractal,
+dimension
+
+self-affine, see Self-affine
+self-similarity, see Self-similarity
+
+transformation, see Iterated
+function system
+
+Fractal sets
+definition
+
+descriptive, 344, 360, 376-378
+Mandelbrot's early version, 336,
+
+377
+"final," 379
+
+mathematical examples, see Cantor
+and Julia sets, IFS attractors,
+Koch curve, Peano curve,
+Sierpinski sets
+
+natural examples, 340-341, 355,
+380-382
+
+dimension of, 355
+terminology, 335-336
+
+prefractal, 336
+
+Frieze group, 118, 166
+axis of, 118, 166
+classification of, 168
+
+Frieze pattern, 117-118, 165-17l
+axis of, 118, 166
+reference points in, 167-168
+symmetries of, 166-17l
+
+Fundamental theorem of projective
+geometry, see Projective
+(plane) geometry
+
+Gans, D., 86
+Gauss, K. F., 48
+Generator matrix, see Error-correcting
+
+code
+Geometry, definition of, 100, 378
+Glide reflection, 118-120, 142-143,
+
+161-164
+definition of, 118-119, 142-143
+invariant
+
+lines, 163
+pOints, 163
+
+symmetry, see Symmetry, glide
+vector of, 118-119, 142-143
+
+Gbdel's theorem, 8
+Great circle, 40, 87
+Group, see also 'Itansformation, group
+
+of
+cyclic, 115
+definition, 110, 131
+dihedral, 115
+finite, 110
+generators of, 115, 166
+infinite, 110
+order of, 110
+pOint, 171
+
+Half-line (ray), 399, 405
+Half-planes, 406
+Half-spaces, 406
+Half-turn, 108, 167
+
+Index 433 ------------------------------------------------------------
+
+divider
+definition, 359
+relation to self-similarity
+
+dimension, 360
+Hausdorff-Besicovitch (H-B), 349,
+
+355, 377-378
+generalization of box dimension,
+
+378
+self-similarity, 349-355
+
+definition, 351
+Fractal geometry
+
+applications, 373-376, 379-382
+compared to Euclidean geometry,
+
+335, 380-381
+development, 315
+language of chaos theory, 335,
+
+380
+measurement dilemmas leading to,
+
+340-341, 347
+ongoing mathematical questions,
+
+379,382
+properties,
+
+fractional dimension, see Fractal,
+dimension
+
+self-affine, see Self-affine
+self-similarity, see Self-similarity
+
+transformation, see Iterated
+function system
+
+Fractal sets
+definition
+
+descriptive, 344, 360, 376-378
+Mandelbrot's early version, 336,
+
+377
+"final," 379
+
+mathematical examples, see Cantor
+and Julia sets, IFS attractors,
+Koch curve, Peano curve,
+Sierpinski sets
+
+natural examples, 340-341, 355,
+380-382
+
+dimension of, 355
+terminology, 335-336
+
+prefractal, 336
+
+Frieze group, 118, 166
+axis of, 118, 166
+classification of, 168
+
+Frieze pattern, 117-118, 165-17l
+axis of, 118, 166
+reference points in, 167-168
+symmetries of, 166-17l
+
+Fundamental theorem of projective
+geometry, see Projective
+(plane) geometry
+
+Gans, D., 86
+Gauss, K. F., 48
+Generator matrix, see Error-correcting
+
+code
+Geometry, definition of, 100, 378
+Glide reflection, 118-120, 142-143,
+
+161-164
+definition of, 118-119, 142-143
+invariant
+
+lines, 163
+pOints, 163
+
+symmetry, see Symmetry, glide
+vector of, 118-119, 142-143
+
+Gbdel's theorem, 8
+Great circle, 40, 87
+Group, see also 'Itansformation, group
+
+of
+cyclic, 115
+definition, 110, 131
+dihedral, 115
+finite, 110
+generators of, 115, 166
+infinite, 110
+order of, 110
+pOint, 171
+
+Half-line (ray), 399, 405
+Half-planes, 406
+Half-spaces, 406
+Half-turn, 108, 167
+
+434 Index ------------------------------------
+
+Hamming, R. w., 19
+Hamming code, see Error-correcting
+
+code, Hamming
+Hamming distance, see
+
+Error-correcting code,
+I lamming
+
+Harmonic, 229
+Harmonic conjugate, 224
+
+uniqueness of, 225, 227
+Harmonic homology, 282
+
+invariance of a conic under, 297
+Harmonic set (relation), 223-229
+
+cross ratio of, 269
+invariance under
+
+collineations, 273
+correlations, 284
+projectivities, 236
+
+of lines, 227
+of points, 223-227
+
+Hausdorff-Besicovitch dimension, see
+Fractal dimension
+
+Heath, Sir Thomas, 35
+Hexagon, 243
+
+diagonal points of, 243
+sides of, 243
+vertices of, 243
+
+Hilbert, axioms of, 43, 48, 395-398
+Homogeneous coordinates, see Line,
+
+Point
+Homogeneous parameters, 255
+Homology, see Perspective
+
+collineation, homology
+Hutchinson, J., 369
+Hyperbola, 196, 303
+Hyperbolic axiom, 47, 69, 84
+Hyperbolic geometry, 47-84,
+
+300-302, 310
+angle measure in, 50, 67, 301
+consistency of, 50, 94
+distance measurement in, 50, 67,
+
+301
+Klein model, 49-50, 56, 301
+Poincare model, 49-50, 56, 93
+
+Hyperbolic polarity, see Polarity
+relation, in projective plane,
+hyperbolic
+
+Hyperbolic projectivity, see
+Projectivity, hyperbolic
+
+Hyperbolic subgeometry of
+projective, 300-302
+
+absolute conic, 300
+angle measure, 301
+distance, 301
+ideal points, 300
+lines, 300
+perpendicular lines, 300
+points, 300
+sensed parallels, 300
+ultraideal points, 300
+ultraparallel, 300
+
+Hypercube, 348-349
+
+Ideal line for projective plane, 213,
+220, 252
+
+Ideal points
+for affine plane, 303
+for hyperbolic plane, 56, 300
+for projective plane, 213, 220, 252,
+
+299
+for single elliptic plane, 302
+
+Identity transformation, 131
+Incidence table, 18-19, 26
+Incident, 10, 14
+
+interpretation in models
+of affine plane, 123
+of finite projective plane, 11
+of infinite projective plane, 220,
+
+251
+notation for, 216
+substitute terms for, 14
+
+Independence
+of an axiom, 1, 6
+of an axiomatic system, 6
+of the fifth postulate, 35, 93
+verification of, 6
+
+434 Index ------------------------------------
+
+Hamming, R. w., 19
+Hamming code, see Error-correcting
+
+code, Hamming
+Hamming distance, see
+
+Error-correcting code,
+I lamming
+
+Harmonic, 229
+Harmonic conjugate, 224
+
+uniqueness of, 225, 227
+Harmonic homology, 282
+
+invariance of a conic under, 297
+Harmonic set (relation), 223-229
+
+cross ratio of, 269
+invariance under
+
+collineations, 273
+correlations, 284
+projectivities, 236
+
+of lines, 227
+of points, 223-227
+
+Hausdorff-Besicovitch dimension, see
+Fractal dimension
+
+Heath, Sir Thomas, 35
+Hexagon, 243
+
+diagonal points of, 243
+sides of, 243
+vertices of, 243
+
+Hilbert, axioms of, 43, 48, 395-398
+Homogeneous coordinates, see Line,
+
+Point
+Homogeneous parameters, 255
+Homology, see Perspective
+
+collineation, homology
+Hutchinson, J., 369
+Hyperbola, 196, 303
+Hyperbolic axiom, 47, 69, 84
+Hyperbolic geometry, 47-84,
+
+300-302, 310
+angle measure in, 50, 67, 301
+consistency of, 50, 94
+distance measurement in, 50, 67,
+
+301
+Klein model, 49-50, 56, 301
+Poincare model, 49-50, 56, 93
+
+Hyperbolic polarity, see Polarity
+relation, in projective plane,
+hyperbolic
+
+Hyperbolic projectivity, see
+Projectivity, hyperbolic
+
+Hyperbolic subgeometry of
+projective, 300-302
+
+absolute conic, 300
+angle measure, 301
+distance, 301
+ideal points, 300
+lines, 300
+perpendicular lines, 300
+points, 300
+sensed parallels, 300
+ultraideal points, 300
+ultraparallel, 300
+
+Hypercube, 348-349
+
+Ideal line for projective plane, 213,
+220, 252
+
+Ideal points
+for affine plane, 303
+for hyperbolic plane, 56, 300
+for projective plane, 213, 220, 252,
+
+299
+for single elliptic plane, 302
+
+Identity transformation, 131
+Incidence table, 18-19, 26
+Incident, 10, 14
+
+interpretation in models
+of affine plane, 123
+of finite projective plane, 11
+of infinite projective plane, 220,
+
+251
+notation for, 216
+substitute terms for, 14
+
+Independence
+of an axiom, 1, 6
+of an axiomatic system, 6
+of the fifth postulate, 35, 93
+verification of, 6
+
+
+
+Index 435 ------------------------------------------------------------
+
+Indirect isometry, see Isometry
+Indirect similarity, see Similarity
+Induced mapping, 132
+Infinite extent of line, 40, 85
+Information positions, see
+
+Error-correcting codes
+Interior point of a conic, see Conic,
+
+point
+Invariant (fixed), 132
+
+point under logistic function, see
+Logistic function
+
+properties under a transformation
+see 1tansformation type
+
+Involution, 264
+absolute elliptic, 305
+
+Isometry 100, 136-173
+definition, 136
+direct, 138-154; see also Rotation,
+
+1tanslation
+group, 138
+indirect, 138-143, 154-164; see also
+
+Glide reflection, Reflection
+invariance of angle measure under,
+
+139
+matrix of, 136
+product of reflections, 158-161
+types of, 151, 161, 163
+uniqueness of, 164
+
+Isometry (onn3), 198-207
+definition, 200
+glide reflection, 204
+line reflection, 203
+matrix of, 205-207
+plane reflection, 202
+point reflection, 203
+rotary reflection, 205
+rotation, 204
+screw displacement, 204
+translation, 204
+
+Isomorphic models, 8
+Iterated function system (IFS),
+
+360-376; see also Cantor and
+Sierpinski transformations,
+
+Dynamical systems theory
+attractor set, 369-373,376-377
+definition, 366
+deterministic application (d-image,
+
+d-orbit) 363, 366-367
+limiting behavior of, 369
+
+random (stochastic) application
+(r-image, r-orbit), 363, 370-373,
+379; see also Chaos game
+
+target image, 373, 376
+transformation types, 366
+
+Julia G., 329
+Julia sets, 329-332, 335, 379; see also
+
+Mandelbrot set
+coloring of, 330
+definition, 330
+graphical representation,
+
+329-330
+orbit analysis determination,
+
+329-330
+
+Kepler, J., 200
+Klein, F., 99-100
+Klein model, see Hyperbolic geometry
+Klein's definition of gee 'etry, 100
+Koch curve, 335-'336, 3 -340,
+
+345-347, 378
+algorithm for, 338
+measurement of, 340, 343-344
+
+property, 345-347, 353,
+360, 378
+
+Koch snowflake, 338-340
+
+Lambert quadrilateral, 84
+Latin squares, 2
+Length
+
+of a line in elliptic geometry, see
+Double and Single elliptic
+geometry
+
+Index 435 ------------------------------------------------------------
+
+Indirect isometry, see Isometry
+Indirect similarity, see Similarity
+Induced mapping, 132
+Infinite extent of line, 40, 85
+Information positions, see
+
+Error-correcting codes
+Interior point of a conic, see Conic,
+
+point
+Invariant (fixed), 132
+
+point under logistic function, see
+Logistic function
+
+properties under a transformation
+see 1tansformation type
+
+Involution, 264
+absolute elliptic, 305
+
+Isometry 100, 136-173
+definition, 136
+direct, 138-154; see also Rotation,
+
+1tanslation
+group, 138
+indirect, 138-143, 154-164; see also
+
+Glide reflection, Reflection
+invariance of angle measure under,
+
+139
+matrix of, 136
+product of reflections, 158-161
+types of, 151, 161, 163
+uniqueness of, 164
+
+Isometry (onn3), 198-207
+definition, 200
+glide reflection, 204
+line reflection, 203
+matrix of, 205-207
+plane reflection, 202
+point reflection, 203
+rotary reflection, 205
+rotation, 204
+screw displacement, 204
+translation, 204
+
+Isomorphic models, 8
+Iterated function system (IFS),
+
+360-376; see also Cantor and
+Sierpinski transformations,
+
+Dynamical systems theory
+attractor set, 369-373,376-377
+definition, 366
+deterministic application (d-image,
+
+d-orbit) 363, 366-367
+limiting behavior of, 369
+
+random (stochastic) application
+(r-image, r-orbit), 363, 370-373,
+379; see also Chaos game
+
+target image, 373, 376
+transformation types, 366
+
+Julia G., 329
+Julia sets, 329-332, 335, 379; see also
+
+Mandelbrot set
+coloring of, 330
+definition, 330
+graphical representation,
+
+329-330
+orbit analysis determination,
+
+329-330
+
+Kepler, J., 200
+Klein, F., 99-100
+Klein model, see Hyperbolic geometry
+Klein's definition of gee 'etry, 100
+Koch curve, 335-'336, 3 -340,
+
+345-347, 378
+algorithm for, 338
+measurement of, 340, 343-344
+
+property, 345-347, 353,
+360, 378
+
+Koch snowflake, 338-340
+
+Lambert quadrilateral, 84
+Latin squares, 2
+Length
+
+of a line in elliptic geometry, see
+Double and Single elliptic
+geometry
+
+436 Index ------------------------------------------------------------
+
+Length (cant.)
+of a segment, 405; see also Measure
+
+of a segment
+of a translation, see 1tanslation
+
+Line
+conic, see Conic
+equation
+
+in affine geometry, 121, 125
+in projective geometry, 253
+
+Euclid's "definition," 389
+homogeneous coordinates for
+
+in affine geometry, 122-123
+in projective geometry, 251-252
+
+notation for, 14, 121-123, 216
+symmetry, see Symmetry, in :H2
+
+Linear code, see Error-correcting code
+Linear equation, 121
+Linear pair of angles, 407
+Linear transformation, see
+
+1tansformation, linear
+Linewise invariant, 277; see also
+
+Pointwise invariant
+Lobachevsky, N. 1., 49
+Logic, 3
+Logistic function, 321-328 see also
+
+Chaotic behavior
+Feigenbaum point, 324
+fixed point of, 322-323, 327
+
+attracting, 322-323
+repelling, 323
+
+model of population growth, 322,
+328
+
+orbit analysis, 322-324
+algorithm for tracing, 324-325
+web diagram, 324-325
+
+Lorenz, E., 317-321
+attractor (butterfly), 320
+
+Mandelbrot B., 329, 332-336, 341, 347,
+377-382
+
+Mandelbrot set, 332-335, 379-380
+coloring of, 333
+
+connection with Julia sets,
+332-333
+
+definition, 332
+determination via orbit analysis,
+
+333
+Mathematics, definition of, 102-103
+Matrix (representation) of a
+
+transformation, 130; see
+also Affine transformation,
+Collineation, Isometry,
+Projectivity, Similarity, etc.
+
+nonsingular, 287, 289
+orthogonal, 298
+symmetric, 196, 285, 287-289
+
+Measure of a segment, 139; see also
+Length of a segment
+
+Metric, 143, 307
+Midpoint, 303-304, 406
+Minimum weight, see Error-correcting
+
+code
+Models, 4; see also Four-point
+
+geometry, Projective
+geometry, etc.,
+
+isomorphic, 8
+
+Natural fractals, see Fractal sets
+Non-Euclidean geometry, 47-50;
+
+see also Elliptic geometry,
+Hyperbolic geometry
+
+axiomatic basis for, 47-48
+development of, 1, 33, 42, 93, 99
+
+Nonintersecting, 53; see also
+Ultraparallel
+
+Nonsingular matrix, see Matrix,
+nonsingular
+
+Normal vector, see Vector
+
+Obtuse angle, 390
+One-to-one transformation, see
+
+1tansformation
+I-Sphere, see Error-correcting code
+
+436 Index ------------------------------------------------------------
+
+Length (cant.)
+of a segment, 405; see also Measure
+
+of a segment
+of a translation, see 1tanslation
+
+Line
+conic, see Conic
+equation
+
+in affine geometry, 121, 125
+in projective geometry, 253
+
+Euclid's "definition," 389
+homogeneous coordinates for
+
+in affine geometry, 122-123
+in projective geometry, 251-252
+
+notation for, 14, 121-123, 216
+symmetry, see Symmetry, in :H2
+
+Linear code, see Error-correcting code
+Linear equation, 121
+Linear pair of angles, 407
+Linear transformation, see
+
+1tansformation, linear
+Linewise invariant, 277; see also
+
+Pointwise invariant
+Lobachevsky, N. 1., 49
+Logic, 3
+Logistic function, 321-328 see also
+
+Chaotic behavior
+Feigenbaum point, 324
+fixed point of, 322-323, 327
+
+attracting, 322-323
+repelling, 323
+
+model of population growth, 322,
+328
+
+orbit analysis, 322-324
+algorithm for tracing, 324-325
+web diagram, 324-325
+
+Lorenz, E., 317-321
+attractor (butterfly), 320
+
+Mandelbrot B., 329, 332-336, 341, 347,
+377-382
+
+Mandelbrot set, 332-335, 379-380
+coloring of, 333
+
+connection with Julia sets,
+332-333
+
+definition, 332
+determination via orbit analysis,
+
+333
+Mathematics, definition of, 102-103
+Matrix (representation) of a
+
+transformation, 130; see
+also Affine transformation,
+Collineation, Isometry,
+Projectivity, Similarity, etc.
+
+nonsingular, 287, 289
+orthogonal, 298
+symmetric, 196, 285, 287-289
+
+Measure of a segment, 139; see also
+Length of a segment
+
+Metric, 143, 307
+Midpoint, 303-304, 406
+Minimum weight, see Error-correcting
+
+code
+Models, 4; see also Four-point
+
+geometry, Projective
+geometry, etc.,
+
+isomorphic, 8
+
+Natural fractals, see Fractal sets
+Non-Euclidean geometry, 47-50;
+
+see also Elliptic geometry,
+Hyperbolic geometry
+
+axiomatic basis for, 47-48
+development of, 1, 33, 42, 93, 99
+
+Nonintersecting, 53; see also
+Ultraparallel
+
+Nonsingular matrix, see Matrix,
+nonsingular
+
+Normal vector, see Vector
+
+Obtuse angle, 390
+One-to-one transformation, see
+
+1tansformation
+I-Sphere, see Error-correcting code
+
+
+
+Index 437
+
+Opposite points, see Double elliptic
+geometry, Single elliptic
+geometry
+
+Opposite sides
+of a hexagon, 243
+of a quadrangle, 217-218
+
+Opposite vertices
+of a hexagon, 243
+of a quadrilateral, 217-218
+
+Orbit analysis, see Dynamical systems
+theory
+
+Order
+of a finite affine plane, 17
+of a finite projective plane, 10
+of a group, see Group
+Hilbert's axioms of, 396-397
+reversing, 686
+
+Ordinary point, 299-300, 302-303,
+306
+
+Orientation
+same, 105, 140
+opposite, 140
+reverse, 139
+
+Orthogonal matrix, see Matrix
+
+Pappus' configuration, see
+Configuration
+
+Pappus' theorem, 30, 249
+Parabola, 196, 303
+Parabolic geometry, 307
+Parabolic projectivity, see Projectivity
+Parallel
+
+lines, 3, 303, 390, 400; see
+also Sensed parallel lines,
+Ultraparallellines
+
+postulate, see Postulates of Euclid,
+fifth
+
+Parallelism
+elliptic, nonexistence of, 84-86
+Euclidean, properties of, 53
+hyperbolic, properties of, see
+
+Sensed parallel, Ultraparallel
+
+preserved by affinities, 190
+Parameter, 255
+
+homogeneous, see Homogeneous
+parameters
+
+Parity check matrix, see
+Error-correcting code
+
+Pascal's theorem, 245, 247
+conic construction with, 247
+
+Pasch's axiom, 41-42, 55, 58, 394
+equivalence to separation axiom,
+
+42, 394
+modified form for asymptotic
+
+triangles, 62-64
+Pattern, 174-175; see also Wallpaper
+
+pattern
+Peano curve, 335, 354-355
+Pencil
+
+base elements for, 254
+of lines, 230
+
+center of, 230
+of points, 230
+
+axis of, 230
+Penrose, R., 180
+Perfect t-code, see Error-correcting
+
+code
+Perpendicular lines
+
+in hyperbolic geometry, 301
+in Similarity and Euclidean
+
+geometry, 306, 389-390, 400,
+407
+
+in single elliptic geometry, 302
+Perspective collineation, 277-281
+
+axis of, 277
+center of, 278
+definition of, 277
+elation, 281
+homology, 281
+
+constant cross ratio under, 281
+mapping of perspective triangles,
+
+280
+uniqueness of, 279
+
+Perspective
+from a line, 26, 221-222
+
+Index 437
+
+Opposite points, see Double elliptic
+geometry, Single elliptic
+geometry
+
+Opposite sides
+of a hexagon, 243
+of a quadrangle, 217-218
+
+Opposite vertices
+of a hexagon, 243
+of a quadrilateral, 217-218
+
+Orbit analysis, see Dynamical systems
+theory
+
+Order
+of a finite affine plane, 17
+of a finite projective plane, 10
+of a group, see Group
+Hilbert's axioms of, 396-397
+reversing, 686
+
+Ordinary point, 299-300, 302-303,
+306
+
+Orientation
+same, 105, 140
+opposite, 140
+reverse, 139
+
+Orthogonal matrix, see Matrix
+
+Pappus' configuration, see
+Configuration
+
+Pappus' theorem, 30, 249
+Parabola, 196, 303
+Parabolic geometry, 307
+Parabolic projectivity, see Projectivity
+Parallel
+
+lines, 3, 303, 390, 400; see
+also Sensed parallel lines,
+Ultraparallellines
+
+postulate, see Postulates of Euclid,
+fifth
+
+Parallelism
+elliptic, nonexistence of, 84-86
+Euclidean, properties of, 53
+hyperbolic, properties of, see
+
+Sensed parallel, Ultraparallel
+
+preserved by affinities, 190
+Parameter, 255
+
+homogeneous, see Homogeneous
+parameters
+
+Parity check matrix, see
+Error-correcting code
+
+Pascal's theorem, 245, 247
+conic construction with, 247
+
+Pasch's axiom, 41-42, 55, 58, 394
+equivalence to separation axiom,
+
+42, 394
+modified form for asymptotic
+
+triangles, 62-64
+Pattern, 174-175; see also Wallpaper
+
+pattern
+Peano curve, 335, 354-355
+Pencil
+
+base elements for, 254
+of lines, 230
+
+center of, 230
+of points, 230
+
+axis of, 230
+Penrose, R., 180
+Perfect t-code, see Error-correcting
+
+code
+Perpendicular lines
+
+in hyperbolic geometry, 301
+in Similarity and Euclidean
+
+geometry, 306, 389-390, 400,
+407
+
+in single elliptic geometry, 302
+Perspective collineation, 277-281
+
+axis of, 277
+center of, 278
+definition of, 277
+elation, 281
+homology, 281
+
+constant cross ratio under, 281
+mapping of perspective triangles,
+
+280
+uniqueness of, 279
+
+Perspective
+from a line, 26, 221-222
+
+438 Index ------------------------------------------------------------
+
+Perspective (cant.)
+from a point, 26, 221-222
+triangles, 221-222
+
+Perspectively related pencils, 232
+Perspectivity, 230-240
+
+axis of, 231
+center of, 231
+definition of, 231
+
+Phase space, see Dynamical systems
+theory
+
+Planar representation, 214
+Planes Jr, Jr', 219-220, 251-253
+Plato, 200, 213
+Platonic solid, see Polyhedron, regular
+Playfair's axiom, 36-37, 47, 84,
+
+396
+equivalence with the fifth postulate,
+
+36-37
+Poincare H., 319
+
+model, see Hyperbolic geometry
+Point
+
+conic, see Conic
+equation
+
+in affine geometry, 126
+in projective geometry, 254
+
+Euclid's "definition," 389
+group, 171
+homogeneous coordinates for,
+
+in affine, Euclidean and
+similarity geometry, 122-123
+
+in projective geometry, 250-252
+notation for, 14, 121-123, 216
+of contact, see Conic, line
+symmetry, see Symmetry
+
+Pointwise invariant, 104, 154, 277
+Polar
+
+in Desargues' configuration, see
+Configuration, Desargues'
+
+in double elliptic geometry, 91
+in projective geometry, 285
+
+construction of, 293
+with respect to a conic, 289
+
+in single elliptic geometry, 92
+
+Polarity (pole-polar) relation
+in Desargues' configuration, 25-26
+in projective plane, 283-298
+
+absolute, 298
+definition of, 285
+elliptic, 296, 299
+hyperbolic, 296, 299
+
+Pole
+in Desargues' configuration, see
+
+Configuration, Desargues'
+in double elliptic geometry, 91
+in projective geometry, 285
+
+construction of, 294
+with respect to a conic, 289
+
+in single elliptic geometry, 92
+Polygon en-gon), see Regular polygon
+Polyhedron (pI. polyhedra), 199
+
+convex, 199
+regular (Platonic solid), 199
+
+five possible, 201
+Postulates, see also Axioms
+
+of Euclid's Elements, 34-35, 391
+fifth, 35-37, 83-84, 391
+
+independence of, 93
+statements equivalent to, 36, 69
+
+second,85
+Pre fractal, see Fractal terminology
+Preserve, 132
+Principle of duality, see Duality
+Projective (plane) geometry, 100-101,
+
+213-311; see also Finite
+geometry
+
+axioms for, 215, 221, 233
+definition of, 215
+development of, 213-214
+fundamental theorem of, 235
+infinite, 16
+
+models of, 219-220, 250-253,
+255-256, 263, 276
+
+Projective transformations, see
+Collineation, Correlation,
+Projectivity
+
+Projectively related pencils, 232
+
+438 Index ------------------------------------------------------------
+
+Perspective (cant.)
+from a point, 26, 221-222
+triangles, 221-222
+
+Perspectively related pencils, 232
+Perspectivity, 230-240
+
+axis of, 231
+center of, 231
+definition of, 231
+
+Phase space, see Dynamical systems
+theory
+
+Planar representation, 214
+Planes Jr, Jr', 219-220, 251-253
+Plato, 200, 213
+Platonic solid, see Polyhedron, regular
+Playfair's axiom, 36-37, 47, 84,
+
+396
+equivalence with the fifth postulate,
+
+36-37
+Poincare H., 319
+
+model, see Hyperbolic geometry
+Point
+
+conic, see Conic
+equation
+
+in affine geometry, 126
+in projective geometry, 254
+
+Euclid's "definition," 389
+group, 171
+homogeneous coordinates for,
+
+in affine, Euclidean and
+similarity geometry, 122-123
+
+in projective geometry, 250-252
+notation for, 14, 121-123, 216
+of contact, see Conic, line
+symmetry, see Symmetry
+
+Pointwise invariant, 104, 154, 277
+Polar
+
+in Desargues' configuration, see
+Configuration, Desargues'
+
+in double elliptic geometry, 91
+in projective geometry, 285
+
+construction of, 293
+with respect to a conic, 289
+
+in single elliptic geometry, 92
+
+Polarity (pole-polar) relation
+in Desargues' configuration, 25-26
+in projective plane, 283-298
+
+absolute, 298
+definition of, 285
+elliptic, 296, 299
+hyperbolic, 296, 299
+
+Pole
+in Desargues' configuration, see
+
+Configuration, Desargues'
+in double elliptic geometry, 91
+in projective geometry, 285
+
+construction of, 294
+with respect to a conic, 289
+
+in single elliptic geometry, 92
+Polygon en-gon), see Regular polygon
+Polyhedron (pI. polyhedra), 199
+
+convex, 199
+regular (Platonic solid), 199
+
+five possible, 201
+Postulates, see also Axioms
+
+of Euclid's Elements, 34-35, 391
+fifth, 35-37, 83-84, 391
+
+independence of, 93
+statements equivalent to, 36, 69
+
+second,85
+Pre fractal, see Fractal terminology
+Preserve, 132
+Principle of duality, see Duality
+Projective (plane) geometry, 100-101,
+
+213-311; see also Finite
+geometry
+
+axioms for, 215, 221, 233
+definition of, 215
+development of, 213-214
+fundamental theorem of, 235
+infinite, 16
+
+models of, 219-220, 250-253,
+255-256, 263, 276
+
+Projective transformations, see
+Collineation, Correlation,
+Projectivity
+
+Projectively related pencils, 232
+
+
+
+Index 439 ------------------------------------------------------------
+
+Projectivity, 232-240; see also
+Perspectivity
+
+absolute, 305-306, 309
+analytic form of, 258-264
+axis of homology for, 238
+center of homology for, 239
+construction of, 234
+cross ratio invariant under, 266
+definition of, 232
+elliptic, 263
+harmonic relation invariant under,
+
+236
+hyperbolic, 263
+induced by collineation, 273
+invariant elements, 262
+matrix of, 258
+on a pencil, 233
+parabolic, 263
+uniqueness of, 235
+
+Propositions of Euclid's Elements,
+391-393
+
+first, 38-39
+fourth, 100
+eighth, 100
+sixteenth, 39-40, 85
+twenty-first, 40-41
+twenty-seventh, 42, 85
+twenty-eighth, 35
+
+Quadrangle, see Complete quadrangle
+Quadrilateral, 390; see also Complete
+
+quadrilateral
+Quantum mechanics, see Chaos
+
+theory
+
+r-image, r-orbit, see Iterated function
+system, random application
+
+Random iteration, see Iterated
+function system, application
+
+Ratio of a dilation, see Dilation
+Ray, 396, 405; see also Half-line
+
+Redundancy positions, see
+Error-correcting codes
+
+Reflection (line), 104, 140, 154-165
+axis of, 104, 140
+definition of, 104, 140
+invariant
+
+lines, 157
+points, 104, 155, 157
+
+matrix of, 155
+products of, 158-161, 164
+symmetry, see Symmetry, line
+
+Reflection (point), 106-107, 141
+symmetry, see Symmetry, point
+
+Regular polygon, 106
+interior angle measure of, 177
+
+Regular polyhedron, see
+Polyhedron
+
+Relative consistency, see Consistency
+of an axiomatic system
+
+Relativity, 93; see also Chaos theory
+Repelling fixed point, see Logistic
+
+function, fixed point
+Reverse orientation, see Orientation
+Richardson, L., 341
+
+coastline measurement, 339,
+359-360
+
+weather prediction, 341
+Riemann, G. B. F., 84, 93
+Right angle, 389, 400, 407
+Right- (left-) sensed parallel, see
+
+Sensed parallel lines
+Rotation (with center C), 109, 141,
+
+148-151
+angle (measure) of, 109, 141
+center of, 109, 141
+definition of, 109, 141
+group, 151
+invariant
+
+lines, 154
+points, 151
+
+matrix of, 149
+symmetry, see Symmetry
+
+Row matrix, 123
+
+Index 439 ------------------------------------------------------------
+
+Projectivity, 232-240; see also
+Perspectivity
+
+absolute, 305-306, 309
+analytic form of, 258-264
+axis of homology for, 238
+center of homology for, 239
+construction of, 234
+cross ratio invariant under, 266
+definition of, 232
+elliptic, 263
+harmonic relation invariant under,
+
+236
+hyperbolic, 263
+induced by collineation, 273
+invariant elements, 262
+matrix of, 258
+on a pencil, 233
+parabolic, 263
+uniqueness of, 235
+
+Propositions of Euclid's Elements,
+391-393
+
+first, 38-39
+fourth, 100
+eighth, 100
+sixteenth, 39-40, 85
+twenty-first, 40-41
+twenty-seventh, 42, 85
+twenty-eighth, 35
+
+Quadrangle, see Complete quadrangle
+Quadrilateral, 390; see also Complete
+
+quadrilateral
+Quantum mechanics, see Chaos
+
+theory
+
+r-image, r-orbit, see Iterated function
+system, random application
+
+Random iteration, see Iterated
+function system, application
+
+Ratio of a dilation, see Dilation
+Ray, 396, 405; see also Half-line
+
+Redundancy positions, see
+Error-correcting codes
+
+Reflection (line), 104, 140, 154-165
+axis of, 104, 140
+definition of, 104, 140
+invariant
+
+lines, 157
+points, 104, 155, 157
+
+matrix of, 155
+products of, 158-161, 164
+symmetry, see Symmetry, line
+
+Reflection (point), 106-107, 141
+symmetry, see Symmetry, point
+
+Regular polygon, 106
+interior angle measure of, 177
+
+Regular polyhedron, see
+Polyhedron
+
+Relative consistency, see Consistency
+of an axiomatic system
+
+Relativity, 93; see also Chaos theory
+Repelling fixed point, see Logistic
+
+function, fixed point
+Reverse orientation, see Orientation
+Richardson, L., 341
+
+coastline measurement, 339,
+359-360
+
+weather prediction, 341
+Riemann, G. B. F., 84, 93
+Right angle, 389, 400, 407
+Right- (left-) sensed parallel, see
+
+Sensed parallel lines
+Rotation (with center C), 109, 141,
+
+148-151
+angle (measure) of, 109, 141
+center of, 109, 141
+definition of, 109, 141
+group, 151
+invariant
+
+lines, 154
+points, 151
+
+matrix of, 149
+symmetry, see Symmetry
+
+Row matrix, 123
+
+440 Index -------------------------------------
+
+s-scale tiling, see Self-similarity
+Saccheri, G., 48, 68
+Saccheri quadrilateral, 68-74
+
+base of, 68
+congruence of, 74
+equivalent triangle to, 70
+summit of, 68
+
+Saltzman, B., 318
+model of convection, 318
+
+Scaling factor, see Self-similarity
+School Mathematics Study Group, see
+
+SMSG
+Segment, 139, 396, 399, 405
+
+division ratio, 191, 265
+378-379
+
+Self-conjugate
+lines, 286
+
+equation of, 286
+identified as line conic, 287
+
+points, 286
+equation of, 286
+identified as point conic, 287
+image under a collineation, 287
+
+Self-dual, 216
+Self-polar triangle, 291
+Self-similarity, 342-346
+
+definition, 345
+dimension, see Fractal dimension
+s-scale tiling, 345
+scaling factor, 345
+strict, 345, 360, 377
+
+Semicircle, 390
+Sensed parallel lines, 51-60, 300
+
+definition of, 53
+properties of, 54-60, 71
+
+Separation
+axiom, 396
+of line by point, 42
+of plane by line, 42, 86, 90, 92
+
+Sensitive dependence on initial
+conditions, see Chaos theory
+
+Shear, 192-194
+axis of, 192
+
+definition of, 192
+matrix of, 193
+
+Sierpinski
+sets, 358
+
+carpet, 335, 358
+sponge, 358-359
+triangle, 335, 352, 354, 361-363,
+
+365, 370-372, 379
+triangle algorithm, 352
+
+transformations, 361-365, 368, 370
+Similar
+
+sets, definition of, in similarity (and
+Euclidean) geometry, 184, 400
+
+triangles, in hyperbolic geometry,
+73-74
+
+Similarity, 183-189
+definition of, 183
+direct, 184
+geometry, 100, 183-189, 306-307,
+
+309
+transformations of, see Similarity,
+
+Isometry
+group, 184
+indirect, 184
+invariant properties
+
+angle measure, 184
+ratios of distance, 189
+
+matrix of, 184
+product of dilation and isometry,
+
+188
+ratio of, 183
+self-, see Self-similarity
+subgeometry of projective, 306-307
+
+absolute conic, 306
+absolute projectivity, 306
+angle measure, 306
+ideal points, 306
+lines, 306
+(ordinary) points, 306
+perpendicular lines, 306
+
+Single elliptic geometry, 86, 92,
+302-303
+
+axioms for, 86
+
+440 Index -------------------------------------
+
+s-scale tiling, see Self-similarity
+Saccheri, G., 48, 68
+Saccheri quadrilateral, 68-74
+
+base of, 68
+congruence of, 74
+equivalent triangle to, 70
+summit of, 68
+
+Saltzman, B., 318
+model of convection, 318
+
+Scaling factor, see Self-similarity
+School Mathematics Study Group, see
+
+SMSG
+Segment, 139, 396, 399, 405
+
+division ratio, 191, 265
+378-379
+
+Self-conjugate
+lines, 286
+
+equation of, 286
+identified as line conic, 287
+
+points, 286
+equation of, 286
+identified as point conic, 287
+image under a collineation, 287
+
+Self-dual, 216
+Self-polar triangle, 291
+Self-similarity, 342-346
+
+definition, 345
+dimension, see Fractal dimension
+s-scale tiling, 345
+scaling factor, 345
+strict, 345, 360, 377
+
+Semicircle, 390
+Sensed parallel lines, 51-60, 300
+
+definition of, 53
+properties of, 54-60, 71
+
+Separation
+axiom, 396
+of line by point, 42
+of plane by line, 42, 86, 90, 92
+
+Sensitive dependence on initial
+conditions, see Chaos theory
+
+Shear, 192-194
+axis of, 192
+
+definition of, 192
+matrix of, 193
+
+Sierpinski
+sets, 358
+
+carpet, 335, 358
+sponge, 358-359
+triangle, 335, 352, 354, 361-363,
+
+365, 370-372, 379
+triangle algorithm, 352
+
+transformations, 361-365, 368, 370
+Similar
+
+sets, definition of, in similarity (and
+Euclidean) geometry, 184, 400
+
+triangles, in hyperbolic geometry,
+73-74
+
+Similarity, 183-189
+definition of, 183
+direct, 184
+geometry, 100, 183-189, 306-307,
+
+309
+transformations of, see Similarity,
+
+Isometry
+group, 184
+indirect, 184
+invariant properties
+
+angle measure, 184
+ratios of distance, 189
+
+matrix of, 184
+product of dilation and isometry,
+
+188
+ratio of, 183
+self-, see Self-similarity
+subgeometry of projective, 306-307
+
+absolute conic, 306
+absolute projectivity, 306
+angle measure, 306
+ideal points, 306
+lines, 306
+(ordinary) points, 306
+perpendicular lines, 306
+
+Single elliptic geometry, 86, 92,
+302-303
+
+axioms for, 86
+
+
+
+Index 441 ------------------------------------------------------------
+
+length of a line in, 92
+model of, 86-87, 91
+opposite points in, 92
+pole and polar in, 92
+properties of, 92
+subgeometry of projective, 302-303
+
+absolute conic, 302
+angle measure, 303
+distance, 302-303
+ideal points, 302
+lines, 302
+(ordinary) points, 302
+perpendicular lines, 302
+
+Slope of a line, 128
+Smale, S., 321
+SMSG
+
+axioms (postulates) of, 43, 401-404
+definitions of, 405-407
+
+Smith, H., 335
+Square, 390
+Standard form of a point conic, see
+
+Conic, point
+Stochastic iteration, see Iterated
+
+function system, random
+application
+
+Straight angle (rectilineal), 389, 400
+Strain, 194
+
+axis of, 194
+definition of, 194
+matrix of, 194
+
+Subgeometries of projective
+geometry, 298-311
+
+Summit of a Saccheri quadrilateral,
+see Saccheri quadrilateral
+
+Superposition, 100, 138
+Supplementary angles, 407
+Symmetric
+
+matrix, see Matrix
+property of parallels, see
+
+Parallelism, Euclidean
+Symmetry, in general
+
+concept, 101, 103
+definition, 102
+
+Symmetry, in
+bilateral (line), 101, 104
+glide, 119, 143
+group for
+
+equilateral triangle, 112
+square, 113
+frieze patterns, 118, 166-171
+
+line (bilateral), 104, 140
+n-fold (rotation), 109, 141
+of general sets, 102
+
+of an equilateral triangle, 112
+of a square, 113
+
+point, 107, 141
+rotation, 109, 141
+transformation, 102
+translation, 117, 142
+
+Symmetry, in m3
+of regular tetrahedron, 204
+point, 206
+
+Synthetic geometry, 16, 99
+
+t-Code, see Error-correcting code
+Thngent to a point conic, see Conic,
+
+point
+Thrget image, see Iterated function
+
+system
+Tessellation, see Tiling
+Tetrahedron, regular, 201
+Theorems, 3
+Three-point geometry, see Finite
+
+geometry
+Tiling (tessellation) of Euclidean
+
+plane, 174-178, 179-183,345
+aperiodic, 180
+dihedral, 174
+Escher-type, 180-183
+monohedral, 174
+Penrose, 180
+periodic, 180
+prototiles, 174
+regular, 174-176
+semiregular, 174, 177-l78
+
+Index 441 ------------------------------------------------------------
+
+length of a line in, 92
+model of, 86-87, 91
+opposite points in, 92
+pole and polar in, 92
+properties of, 92
+subgeometry of projective, 302-303
+
+absolute conic, 302
+angle measure, 303
+distance, 302-303
+ideal points, 302
+lines, 302
+(ordinary) points, 302
+perpendicular lines, 302
+
+Slope of a line, 128
+Smale, S., 321
+SMSG
+
+axioms (postulates) of, 43, 401-404
+definitions of, 405-407
+
+Smith, H., 335
+Square, 390
+Standard form of a point conic, see
+
+Conic, point
+Stochastic iteration, see Iterated
+
+function system, random
+application
+
+Straight angle (rectilineal), 389, 400
+Strain, 194
+
+axis of, 194
+definition of, 194
+matrix of, 194
+
+Subgeometries of projective
+geometry, 298-311
+
+Summit of a Saccheri quadrilateral,
+see Saccheri quadrilateral
+
+Superposition, 100, 138
+Supplementary angles, 407
+Symmetric
+
+matrix, see Matrix
+property of parallels, see
+
+Parallelism, Euclidean
+Symmetry, in general
+
+concept, 101, 103
+definition, 102
+
+Symmetry, in
+bilateral (line), 101, 104
+glide, 119, 143
+group for
+
+equilateral triangle, 112
+square, 113
+frieze patterns, 118, 166-171
+
+line (bilateral), 104, 140
+n-fold (rotation), 109, 141
+of general sets, 102
+
+of an equilateral triangle, 112
+of a square, 113
+
+point, 107, 141
+rotation, 109, 141
+transformation, 102
+translation, 117, 142
+
+Symmetry, in m3
+of regular tetrahedron, 204
+point, 206
+
+Synthetic geometry, 16, 99
+
+t-Code, see Error-correcting code
+Thngent to a point conic, see Conic,
+
+point
+Thrget image, see Iterated function
+
+system
+Tessellation, see Tiling
+Tetrahedron, regular, 201
+Theorems, 3
+Three-point geometry, see Finite
+
+geometry
+Tiling (tessellation) of Euclidean
+
+plane, 174-178, 179-183,345
+aperiodic, 180
+dihedral, 174
+Escher-type, 180-183
+monohedral, 174
+Penrose, 180
+periodic, 180
+prototiles, 174
+regular, 174-176
+semiregular, 174, 177-l78
+
+442 Index ------------------------------------
+
+Tiling (tessellation) of Euclidean
+plane (cant.)
+
+notation for, 178
+tiles, 174
+to design an IFS, 373
+vertex of, 174
+
+Tiling hyperbolic plane, 178-179
+Thpological dimension, see Dimension
+'Transformation; see also Affine
+
+transformation, Isometry,
+Similarity, etc.
+
+composition (product), 106, no
+contractive, 366
+group of, 1l0, 131
+
+associative property, 130-l31
+identity in, 131
+noncommutative property, 136
+
+linear, 129-130
+one-to-one, 129-130
+
+'Transitive property of parallels, see
+Parallelism, Euclidean
+
+'Translation, 1l6-118
+definition of, 117, 142
+group, 146
+invariant
+
+lines, 147
+points, 146
+
+length of, 11 7
+matrix of, 145
+shortest, 167
+symmetry, see Symmetry
+uniqueness of, 146
+vector of, 117, 142
+
+'Triangle
+altitude of, 311
+angle sum of, see Angle sum
+equilateral, 390
+in the Euclidean plane
+
+definition of, 139, 390, 396-397,
+399, 406
+
+interior of, 406
+exterior of, 406-407
+
+in the hyperbolic plane, area of,
+74-80
+
+in the projective plane, definition
+of, 216
+
+isosceles, 390
+perspective
+
+from a line, 26, 221
+from a point, 26, 221
+
+right, 390
+scalene, 390
+
+Ultraideal point, see Hyperbolic
+subgeometry
+
+Ultraparallellines, 53, 65, 301
+definition of, 53
+properties of, 81-84, 301-302
+
+Undefined term, 3
+interpretation of, 4-5
+
+Vanishing point, 214
+Vector
+
+analytic interpretation, 127
+normal vector, 252
+of glide reflection, see Glide
+
+reflection
+of translation, see 1Tanslation
+operations, 127
+weight, see Error-correcting code
+
+Von Staudt, K. C. G., 10
+
+Wallpaper pattern, 171-173
+Weather prediction, see Chaos theory,
+
+Richardson
+Web diagram, see Logistic function
+Weyl, H., 101
+
+442 Index ------------------------------------
+
+Tiling (tessellation) of Euclidean
+plane (cant.)
+
+notation for, 178
+tiles, 174
+to design an IFS, 373
+vertex of, 174
+
+Tiling hyperbolic plane, 178-179
+Thpological dimension, see Dimension
+'Transformation; see also Affine
+
+transformation, Isometry,
+Similarity, etc.
+
+composition (product), 106, no
+contractive, 366
+group of, 1l0, 131
+
+associative property, 130-l31
+identity in, 131
+noncommutative property, 136
+
+linear, 129-130
+one-to-one, 129-130
+
+'Transitive property of parallels, see
+Parallelism, Euclidean
+
+'Translation, 1l6-118
+definition of, 117, 142
+group, 146
+invariant
+
+lines, 147
+points, 146
+
+length of, 11 7
+matrix of, 145
+shortest, 167
+symmetry, see Symmetry
+uniqueness of, 146
+vector of, 117, 142
+
+'Triangle
+altitude of, 311
+angle sum of, see Angle sum
+equilateral, 390
+in the Euclidean plane
+
+definition of, 139, 390, 396-397,
+399, 406
+
+interior of, 406
+exterior of, 406-407
+
+in the hyperbolic plane, area of,
+74-80
+
+in the projective plane, definition
+of, 216
+
+isosceles, 390
+perspective
+
+from a line, 26, 221
+from a point, 26, 221
+
+right, 390
+scalene, 390
+
+Ultraideal point, see Hyperbolic
+subgeometry
+
+Ultraparallellines, 53, 65, 301
+definition of, 53
+properties of, 81-84, 301-302
+
+Undefined term, 3
+interpretation of, 4-5
+
+Vanishing point, 214
+Vector
+
+analytic interpretation, 127
+normal vector, 252
+of glide reflection, see Glide
+
+reflection
+of translation, see 1Tanslation
+operations, 127
+weight, see Error-correcting code
+
+Von Staudt, K. C. G., 10
+
+Wallpaper pattern, 171-173
+Weather prediction, see Chaos theory,
+
+Richardson
+Web diagram, see Logistic function
+Weyl, H., 101

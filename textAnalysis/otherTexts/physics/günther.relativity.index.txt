@@ -1,0 +1,1330 @@
+
+Index
+
+A
+Abel group, 236
+aberration, 74, 126ff., 131–135, 219, 222f.,
+
+436, 460–462, 475
+angle of -, 131
+constant of -, 475
+
+acceleration, 82, 182, 187, 330
+central -, centripetal -, 112, 170
+four-vector of -, 181
+- of cosmic expansion, 181ff., 377f.
+
+action at a distance, 40
+addition theorem of velocities (composition
+
+of -), (Galilei - , Einstein - ), 11–
+17, 34, 39–40, 62, 65–67, 73, 79, 84,
+107, 407, 481, 481f., 484–486
+
+lattice model of -, 181
+aether (cp. also ether), 26, 44, 49f., 68ff.
+age of the universe, 373, 379
+Albrecht, F. (s. Grieser, R.), 528
+D’Alembert, J.Le R., -s wave equation, -s
+
+wave operator, 149, 152, 283, 513
+Alvänger, T., 73, 527
+Ampère, A.M., -s law, 189f., 202
+Ampere (unit of measure), 189ff., 201
+
+- second, 190
+aperture, 129
+Arzeliès, H., 15, 113, 527
+associative, associativity, 235ff.
+atomic clock, 395
+Avogadro, A., -s constant (Loschmidt J.
+
+-), 82
+
+B
+Bailey, J. (s. Farley, F.J.M.), 527
+Barbour, J., 7, 298, 527
+Becker, R., 108, 190, 201, 210, 527
+
+Berzi, V. and Gorini, V., 28, 78, 527
+Bianchi identity, 342f.
+black holes, 365
+big bang nucleosynthesis, 379
+Blochinzew, D.I., 530
+boost, -transformation, 163–166, 169
+Born, M., 530
+breather, - solution, 318ff.
+Brillet, A., 68, 527
+Brown, B.C., 73, 527
+Brown, R.C.A. (s. Farley, F.J.M.), 528
+Brosche, B. (s. Liebscher, D.-E.), 131,
+
+529
+Burgers vector, 314
+Burrowes, H.G., 72, 429, 527
+
+C
+Caldwell, D.O.S. Burrowes, H.G., 527
+Casimir, H., -effect, 286
+causally, causality, 64, 172–174, 401–402,
+
+409–410, 413
+centimetre, 82, 189–190, 226
+cgs-units (cp. also system of units, units of
+
+measure), 82, 189–190, 226
+Champeney, D.C., 71, 527
+Chandrasekhar, S. - limit, 363–365
+Christoffel symbols, 337f., 346, 496, 514
+circular frequency, 207
+clusters of galaxies, 388
+collision, - process, 85, 187
+
+elastic -, 87ff., 188, 411, 413, 422ff., 445
+inelastic -, 99ff., 102ff., 185, 188, 403,
+414ff., 422ff., 431ff., 442ff.
+
+commutation relation, 161, 268, 270, 274,
+275f., 277ff., 285
+
+commutative, commutativity, 236
+
+© Springer Nature Singapore Pte Ltd. 2019
+H. Günther and V. Müller, The Special Theory of Relativity,
+https://doi.org/10.1007/978-981-13-7783-9
+
+533
+
+534 Index
+
+commutator, 268, 270
+complex, 235–237
+composition, 235–237
+composition of velocities. s. addition theo-
+
+rem
+conductivity, 192, 203, 223
+conduction current, density of -, 191, 194,
+
+204, 223–226
+connection coefficients s. Christoffel
+
+symbols
+continuity equation, 190, 193, 203, 212, 474
+contraction of a tensor, 507f., 512
+contravariant, 170–172, 180–181, 213,
+
+253f., 334f., 337–338, 340, 342, 360,
+493, 495, 499f., 505, 508, 511
+
+convection current, 191, 194, 204, 209, 212
+coordinate(s), 5, 8, 10
+
+Cartesian -, 5, 11, 13, 154–155
+space -, 5, 10
+time -, 9, 12, 151, 170
+- origin, 5, 11–12
+- transformation, 12, 21, 390ff.
+special -, 13, 16, 61
+
+Copernicus, N. (Kopernikus), 2
+cosmic censorship, 367
+cosmic inflation, 379
+cosmic voids, 387
+cosmological principle, 372
+Coulomb (unit of measure), 190
+Coulomb, D.A.de, - field, - potential, - law,
+
+216, 450ff.
+- gauge, 209
+
+covariant, covariance (- formulation, - -
+of laws, - notation), 151ff., 177ff.,
+183ff., 188, 200, 204, 211ff., 217,
+219, 224, 226ff., 242, 255, 442ff.
+
+- derivative, 171, 338, 514
+- index, - vector, - tensor, 171ff., 258,
+506ff.
+
+current (electrical), - density, 188–198,
+201f., 211, 216, 223, 454–458, 460,
+526
+
+- intensity, 188f.
+closed -, 98
+conduction -, 191, 194, 204, 223–226,
+311f.
+
+convection-, 191, 194, 204, 209, 212, 223
+displacement -, 203, 205, 218
+energy -, 135, 233
+four -, 212, 308
+induction (induced) -, 197
+momentum -, 474f.
+particle -, 127
+
+curvature, curvature tensor, 336f., 340–344
+
+D
+dark matter, 378
+
+- halos, 386
+De Hass, W.J. s. De Hass effect
+! -function, 524ff.
+derivative of a tensor field, 511ff., 514ff.
+
+covariant -, 338, 494, 514
+- along a direction, 521
+
+diamagnetism, 203
+Dickopf, S. (s. Grieser, R.), 528
+dielectric constant, 200
+
+- of the vacuum (cp. also vacuum permit-
+tivity), 199
+
+differential form, s. also k-form, 301ff.
+Dirac, P.A.M., 259ff., 269, 281ff., 287ff.
+
+- current (density), 284–285
+’s !-function, 523ff.
+- equation, 255ff., 281ff., 287ff.
+- matrix, 261ff.
+- spinor, 260, 283–286, 289
+
+dislocation, - linie, edge -, 314–317, 319, 323
+Burgers vector of a -, 314
+- mass, 315, 316
+inertial mass of a -, 315
+
+dispersion, 207
+- of light, 73, 207, 327
+
+displacement, - vector, electrical -, dielectri-
+cal -, 198f., 203, 462
+
+- current, 203, 205, 218
+Div, div, 511–514, 521
+Doppler, C., - effect, 51, 68–74, 118–126,
+
+133, 135, 219–222, 373, 432, 435–
+437, 474
+
+longitudinal - -, 70, 119, 123, 222
+transversal - -, 68ff., 121ff., 222, 435ff.,
+474
+
+Durbin, R. P., 72, 429, 528
+Dyn, dyn, 82
+
+E
+eigen(proper) momentum, -vector, 112,
+
+169ff., 191, 230
+eigen period, 19ff., 30, 33, 58, 121
+eigen value, 265ff., 273ff., 277ff., 286
+
+- equation, 277ff., 280, 285f.
+eigen state, 265, 278
+eigen time, 20, 179ff., 335, 441ff.
+Einstein, A., 24
+
+-s addition theorem of velocities (cp. also
+addition theorem), 62, 65ff., 80, 324
+
+
+
+Index 535
+
+- radius, 383
+-s relativity of simultaneity (cp. also rela-
+tivity of simultaneity), 25ff., 63ff., 141,
+145, 419
+
+-s simultaneity (cp. also simultaneity),
+21, 23, 25, 60, 64
+
+-s summation convention, 151
+-s universal constancy of the speed of
+light (cp. also speed of light), 23, 25,
+63, 68, 73
+
+Enistein-De Haas effect, 286
+Einstein tensor, 342
+elasticity theory, 316, 474
+
+linearised - -, 316
+modul of -, 316
+
+electric constant, vacuumpermittivity, 199ff.
+electrodynamics, 23, 55, 188ff., 462
+elementary charge, 211
+energy, 97ff.
+
+- conservation, - momentum conserva-
+tion, 55, 186ff.
+
+- current (- - density), 233
+- density, 232
+- momentum vector, 186ff.
+- momentum tensor, 229ff., 343
+- - of an ideal fluid, 343
+- transport, - transmission, 133
+inertia of -, 97ff.
+kinetic -, 98ff., 422
+rest -, 101ff., 427ff.
+
+energy-mass equivalence, 97, 101ff., 233,
+415
+
+equivalence principle, 331
+ether (- drift), 26, 44, 50, 68, 73, 121, 233,
+
+327, 418
+Euclidean space, 297, 333
+Euler, L., 87, 88, 157, 472
+
+- equations of motion, 472
+- angles, 157
+
+event, 1ff.
+expectation value, 268ff.
+exterior derivative, - differentiation, 304ff.
+
+- product (wedge product), 299–303
+
+F
+Faraday, M. -‘s induction law, 196
+Farley, F.J.M., 72, 528
+Fermi, E., 362
+fermion, 360
+ferromagnetism, 203
+field, electric - (cp. also Coulomb field),
+
+electromagnetic - (cp. also displace-
+
+ment vector, induction), magnetic -,
+188ff., 230, 464
+
+field line, 189, 195, hyperpage202
+field strength, 194
+
+tensor of -, 213ff.
+tensor -, 171
+vector -, 171
+
+Fick, E., 271, 274, 530
+fission, nuclear -, 103, 431
+Fitzgerald, G.F., 50, 68
+
+Lorentz-contraction, 68
+Fizeau, A.H.L., 108
+Fock, V., 21, 345, 528
+force, conservative -, 87, 331
+
+- density, 194, 204, 215, 219, 225, 230,
+232, 471ff.
+
+electromotive -, 188
+gravitational-, 40, 331
+- vector (cp. also Lorentz -), 82, 93, 97–
+98, 178, 183–185, 215–216, 221, 232,
+316, 326, 463, 473
+
+unit of -, 82, 190, 228
+Foucault, J.B.L. (- pendel), 4
+four-potential, 213, 219, 453
+four-vector, 180ff., 211–216, 257, 309ff.,
+
+407, 444f., 453–454, 461
+- of acceleration, 181
+- of current density, 212
+- of force, Minkowski force, 183, 185,
+215
+
+- of momentum (cp. also energy-
+momentum vector), 182
+
+- of velocity, 180
+- of wave propagation, 219
+
+Frank, P. and Rothe, H., 16, 30, 78
+French, A.P., 531
+frequency, 118, 207ff.
+
+- shift, 71, 120
+angular -, 71, 207, 369
+
+Fresnel, A.J., -‘s dragging along coeffi-
+cient, 107ff.
+
+Freund, D., 144, 528
+Frisch, D.H. (s. Burrowes, H.G.), 527
+fusion, nuclear -, 103, 362
+
+G
+Gabrielse, G., 67, 528
+galaxies, 378, 386
+Galilei, G., 2, 34, 38ff., 80ff.
+
+-s addition theorem of velocities (cp. also
+addition theorem), 39
+
+-s law of inertia, 82
+
+536 Index
+
+-s principle of relativity, 42, 80
+- transformation, 39ff., 80
+
+"-quant, 68ff.
+gauge hyperbola, 175ff., 440ff.
+gauge invariant, 292ff.
+gauging, (cp. also Coulomb-, Lorenz-),
+
+209, 217, 229, 454
+Gauss, J.C.F., 518
+
+- system of units, 194
+- theorem, 521
+
+Gauß (unit of measure), 194
+General Relativity Theory, s. gravitation
+geodesic equation, geodesics, 340, 494
+geodesic deviation, 341
+Giulini, G., 65, 78, 149, 169
+Goenner, H.F., 531
+Gordon, W., cp. Klein-Gordon-equation
+
+and sine-Gordon-equation
+Gorini, V. s. Berzi, V.
+Grad, grad, 511–513
+gradient, s. grad
+gram, 82, 189–190
+gravitation, -al field, -al theory, 2f., 13, 20,
+
+40, 67, 195, 343, 393, 514
+- - force, 331
+- lensing, 380ff.
+- waves, 368ff.
+
+gravitational constant, 326, 330
+gravitational instability, 385
+Green, G., -s theorem, 522
+Greiner, W., 531
+Griesch, M. (s. Farley, F.J.M.), 528
+Griesch, M. (s. Grieser, R.), 528
+Grieser, R., 72, 528
+group, simple -, factor-, semi -, sub -, 235–
+
+239
+Lorentz-, 149, 235
+permutation-, 238
+transformation -, 237–239
+
+Günther, H., 27, 146, 314, 528
+gyromagnetic factor, 277
+
+H
+Habs, D. (s. Grieser, R.), 528
+Hafele, J.C., 395, 529
+half width, 68
+half life, 427–429
+Hall, J.L. (s.Brillet, A.Hils, D.), 68, 529
+Hamilton, W.R., -function, -operator, 271–
+
+272, 274, 288, 292
+Haughan, M.P., 67, 529
+Havens, W.W.jr. (s. Durbin, R.P.), 528
+
+heat (thermal), -energy, 102, 422, 426–427,
+429–430
+
+- of fusion, 430
+- radiation, 430
+fusion -, 431
+
+Heisenberg, W., 269, 272
+- representation, 272
+-s uncertainity relation, 270
+
+Helmholtz, H.v., 209, 323, 531
+theorem of vector analysis, 209
+
+Herlt, E., 531
+Hermitean operators, 264, 267, 270–272,
+
+278, 280, 283, 285
+Hertz, H., - dipol, 210
+Hilbert, D., - space, 55, 264–268, 272, 275,
+
+343
+Hill, D.H. (s. Burrowes, H.G.), 527
+Hils, D., 68
+homogeneity (homogenious), principle of -,
+
+8, 16, 22, 79, 390
+homomorphic, - image, homomorphism,
+
+237–238, 240, 243, 248, 251, 254
+Hooke, R., -s law, 316
+horizon, 365
+Huber, G. (s. Grieser, R.), 528
+Huygens, C., 83
+
+I
+Ignatowski, W.v., 28, 30, 78, 529
+induction, magnetic -, 55, 189, 194–197,
+
+211, 213, 216, 218, 226, 228, 449,
+460
+
+- experiment, 211, 216
+- flux, 195
+- law, 195, 196–198, 218, 462
+- voltage, 197––198, 216
+
+inertial system (cp. also reference system),
+2ff.
+
+inertia, - term (cp. also energy,Galilei), 93,
+97, 103, 178, 187, 314, 316, 427
+
+law of -, 82
+initial condition, 12
+interferometer, 43ff., 372
+invariant line element, invariant separation,
+
+334, 439
+Isaak, G.R. (s. Champeney, D.C.), 71, 527
+isomorphism, 240, 249–251
+isotrop, isotropy, 8, 16, 18, 21f., 25–26, 30,
+
+38, 44, 52, 79, 323, 372, 384, 390,
+419
+
+- of background radiation, 384
+- of light velocity, 25–26, 44, 52
+
+Ives, H.J., 68, 72, 529
+
+
+
+Index 537
+
+J
+Jacobi, C.G., 503–504, 509, 510, 515, 520
+
+-an, - determinant, 503, 508
+-an matrix, 503, 510, 515
+
+Jostlein, H. (cp. Farley), 528
+Joule (J) unit of measure from J. P. Joule,
+
+427ff.
+
+K
+Kalinowsky, H. (s. Gabrielse, G.), 528
+Kant, I., 41, 297f., 333
+Keating, R.E. (s. Hafele, J.C.), 395, 529
+Kelvin (Lord Kelvin), 531
+Kennedy, R.J., 68, 529
+Kepler, J., -ian orbits, -s laws, 332
+k-form, exact -, closed -, 305–306
+Khan, A.M. (s.Champeney, D.C.), 71, 527
+kilogram, 83, 189–190, 226, 228
+kilograme of archive, 83
+kilopond, 83
+kinke, kink-solution, 317, 326
+Kjellman, J. (s. Alvänger, T.), 527
+Klaft, I. (s. Grieser, R.), 528
+Klein, F., s. Klein- Gordon-equation
+Klein- Gordon-equation, 205, 260, 263,
+
+283
+Klein, R. (s. Grieser, R.), 528
+Knobloch, P. (s. Grieser, R.), 528
+Kopernikus, N., 2
+Kronecker, L., 246, 258
+
+- product, 246, hyperpage477
+- symbol, 154, 258, 503, 507
+
+Kuerit, G. (s. Shankland, R.S.), 530
+Kühl, T. (s. Grieser, R.), 528
+
+L
+Langrange, J.L., -ian equations of motion,
+
+87
+Lange, L., 5, 77
+Laplace, P.S, M. de, - operator, 152, 205,
+
+210, 217, 258, 275, 282, 291, , 345,
+513, 522
+
+lattice, - model, crystal -, space -, 70, 313ff.
+Laue, M.v., 531
+length, change of -, - contraction (cp. also
+
+Lorentz-contraction), 1, 30, 33, 48,
+50, 53–57, 59, 67, 79, 130
+
+Leibniz, G. W., -rule, 305
+Leone, F. C. (s. Shankland), 530
+Levi- Civita, T., 508, 512
+
+- pseudo tensor, 512
+- symbol, 508
+
+Liebscher, D.-E., 59, 67, 75, 131, 402, 410,
+413, 529
+
+lifetime, 68, 72
+light clock, 51ff.
+light cone, 173–175, 179, 365f.
+light deflection, 358, 380
+light velocity (speed of light), 1, 7–8, 21–
+
+25, 43, 51, 63–73, 76, 78, 87, 101,
+107ff., 121ff., 149ff., 176ff., 188,
+200, 205ff., 217, 218, 239, 263, 313,
+325–328, 395ff., 415–419, 462, 466–
+468, 470, 471, 475, 482–484, 487–
+489
+
+- for a medium, 107–109, 210, 212
+measuring of -, 7, 73, 77
+numerical value of-, 8
+superluminal -, 403
+universal constancy of - (cp. also isotropy
+of-), 21–23, 25, 43, 51, 63, 68, 73, 77,
+149, 208, 313, 482f.
+
+vacuum -, 8, 73, 207–208, 210, 217
+linear, linearity, 15–16, 22, 74––75, 79, 84,
+
+134, 146, 152, 154, 192, 390, 461
+- polarised wave, 461
+- chain, 315
+- approximation, 73–76, 84, 134, 146
+- coordinate transformation, 16, 22, 79,
+134
+
+- synchronisation, 15–16, 21, 79, 390,
+392
+
+- space, 241, 503, 507, 510
+non-, 74–75, 77, 92, 158, 207, 317, 340,
+392, 418, 474, 514
+
+linearised, linearisation, 41, 74–75, 107,
+316, 327, 419–421
+
+line element, 151–152, 156–157, 159, 170,
+172, 176, 180, 334, 439, 505
+
+line tension, 316––317
+line width, natural-, 68–70
+Loar, H.H. (s. Durbin, R.P.), 528
+Lorentz, H.A., 47
+
+- contracted, - contraction, 50ff., 58, 68,
+113, 115–117, 126, 130, 175, 177, 212,
+215, 313, 396, 429, 439, 466, 471, 479,
+487
+
+- force, - -density, 81, 87, 189, 194–195,
+197, 204, 214–217, 219, 225, 230, 232,
+242, 451, 474, 492
+
+- group, 25, 113, 149, 161–162, 178,
+235–236, 239–241, 243, 246, 248,
+254–255
+
+- invariant, - invariants, 135, 172, 178,
+219, 292, 325, 411
+
+538 Index
+
+matrix, 240, 243, 248
+- scalar, 215
+- simultaneity (= Einstein’s simultane-
+ity), 34
+
+- synchron function, -synchron parame-
+ter, 60–61, 64, 75, 149, 395
+
+- transformation, 60ff.
+linear approximation of –, linearised –,
+41, 74–76, 84, 134, 419–421
+
+Lorenz, L.V., - gauging, 209, 217, 229, 454
+Loschmidt, J., - number, 82
+Ludwig, G., 531
+
+M
+Mach, E., 327
+magnetic constant, - permeability, 190, 199,
+
+202
+magnetic field and displacement vector,
+
+198ff.
+tensor of -, 224
+
+magnetic flux, law of -, 201
+magnetic induction, s. induction
+magnetic susceptibility, 203
+magnetisation, 202–203
+magnetism, 201
+magneto-mechanical anomaly, 297
+Masek, G.E. (s. Brown, R.C.A.), 527
+mass (cp. also energy–mass equivalence),
+
+40, 82–84, 87ff.
+- attraction (cp. also gravitation), 2
+- defect, 430–431
+- formula, 78, 87, 92, 178, 185, 485
+gravitational -, 332, 333
+heavy -, 330––331, 354
+- of momentum, 93, 187
+rest -, 73, 93–94, 99, 101––103, 127,
+174, 182–183, 185, 326, 402–403, 406,
+410–411, 413–415, 423, 426, 429–432,
+442–445, 474
+
+- - density, 472
+unit of -, 82, 429
+velocity dependence of -, 40, 82, 84, 87,
+91–94, 101
+
+Maung, T. (s. Brown, R.C.A.), 527
+Maxwell, J.C, 206
+
+- displacement current, 203, 205, 218
+- displacement vector, cp. also displace-
+ment
+
+- equations, 8, 108-109, 121, 135, 188,
+190, 203–204, 208–209, 212, 217–218,
+226, 228–230, 242, 307, 312, 450, 461
+
+- - of moving media, 226
+
+- - in exterior calculus (in language of
+forms), 312
+
+- stress tensor, 233
+- theory, 189ff.
+
+McCukey, S.W. (s. Shankland, R.S.), 530
+mean value (time average), 267, 296, 427
+measuring procedure, 1
+measurement, 265, 268––271
+
+- of momentum, 270
+- of space, 239, 268, 273, 283
+- of time, 239
+
+mechanics, cp. also quantum mechanics,
+241–242, 255, 264, 270, 274–275,
+277, 281, 292, 483, 486, 491
+
+relativistic -, 241–242
+Meer, S.v.d. (s. Farley, F.J.M.), 528
+Merz, P. (s. Grieser, R.), 528
+meson, 72, 178, 427–429
+metre, 1, 82, 189–190, 226
+metric, metric tensor, 151, 171–172, 333,
+
+504–509, 510–514
+inner -, 519
+
+metric energy-momentum tensor, 230–231
+metric relativity principle, 30, 33–34, 60
+Michelson, A.A., 22, 43, 45, 48ff., 54ff.,
+
+68, 392
+-(Morley) experiment, 22, 43, 48–50,
+57, 68, 392
+
+- interferometer (cp. also interferometer),
+43ff.
+
+Miller, D.C., 68f, 327, 530
+Miller, E.S.(s. Brown, R.C.A.), 527
+Minkowski, H., 227
+
+- force vector, 183–185, 215–216
+- space, 151, 156, 170–173, 176–177–
+180, 182, 185–186, 189, 190, 204, 211–
+213, 219–220, 224–226, 230, 407, 440,
+442, 449, 454, 505, 513
+
+SI-units in -, 176, 440
+Mole, 82, 189, 430
+M!ller, C., 531
+momentum (total -), 69, 82, 83, 85, 93, 99,
+
+102, 112, 127, 178, 182–183, 185–
+187, 195, 229, 232, 268, 274–275,
+281–282, 290, 292, 410–415, 445,
+486, 491
+
+- conservation, - law (cp. also energy
+momentum conservation), 69, 85, 89,
+91, 93, 99, 100, 183, 186,232, 403, 422,
+423–426
+
+- density, 195, 233, 472, 474
+- mass, 187
+- measure, 268
+
+
+
+Index 539
+
+- operator, 268, 274–277, 291
+monopol, magnetical -, 195
+Morley, E.W., 43, 50, 68
+Mössbauer, R.L., - effect, - experiment, 70,
+
+72
+Müller, V., 385, 530
+
+N
+Newton, I, 86
+
+-s absolute time, 41
+-s axioms, 82ff., 85, 87, 93, 195, 472
+-s equations of motion, -ian mechanics,
+81ff., 182ff.
+
+-s gravitational theory, 329–331
+Newton (unit of measure), 82, 189–190, 228
+non-linear, non-linearity, 74–75, 77, 92, 158,
+
+207, 317, 392, 418, 474, 514
+Noether, E., -’s theorem, 55, 56, 230, 403
+Nolting, W., 530
+normal subgroup, 236
+nuclear fission, 103, 431
+nuclear fusion, 103, 429, 431
+number of measure, 2, 5, 8, 15, 79, 176–177
+
+O
+observables, 264–265, 268, 270–271, 274–
+
+275, 281
+Oerstedt, H.C., -s law, 189, 201, 203
+Oerstedt (unit of measure), 201
+Ohm, G.S., 192, 197, 201, 223
+
+-s law, 192, 223
+-s resistance, 197
+
+Ohm (unit of measure), 192
+operator, 261, 263–265, 267–268, 275–279,
+
+277––281, 287
+- function, 274
+angular momentum -, 277–280, 285, 299
+annihilation -, 278–279
+creation -, 278–279
+Hermitean -, 267, 271–272
+Laplace -, 258, 274, 282
+momentum -, 268, 274–275, 277, 299
+space -, 70, 268, 272
+spin -, 280, 285
+
+Otting, G, 68, 72, 530
+
+P
+pair production, 67
+Pais, A., 55, 530
+Papapetrou, A., 87, 531
+
+paradox of length contraction, 113,
+116––117, 145–147, 419
+
+paramagnetism, 203
+Pauli, W., 251, 257–259, 261–263, 280,
+
+285, 287, 289, 291, 294, 296, 476,
+478
+
+- equation, 289, 292, 294, 296
+- matrix, 251, 257, 259, 261–262, 280
+- principle, 362
+
+perihel shift, 356
+permeability, 189, 202–203, 210
+
+- of vacuum, 202
+permutation, 238, 304
+
+- group, 238
+phase (s. alsowave), 43, 129–130, 132–133–
+
+135, 207–208, 219, 435
+Phillips, D. (s. Gabrielse, G.), 528
+Picasso, E. (s. Farley, F.J.M.), 528
+Planck, M., -s constant, -s length, -s mass,
+
+-s time, 263, 326–327
+Poincaré, H., 7, 27, 530
+Poisson, S. D., - bracket, 270
+power, 98, 185, 215, 422, 431
+precession of gyroscopes, 359
+principle of relativity, 22–23, 27–28–30, 33,
+
+38, 42, 60, 61, 64, 80, 81, 87, 95, 107,
+146, 149, 177–178, 188, 211, 224,
+233, 324, 326, 396, 479, 534
+
+- of (Newton) mechanics, 81, 87, 95
+Einstein’s -, 22–23, 26, 64, 80, 107, 149,
+177, 211, 224, 233
+
+Einstein’s - in Minkowski-space, 177
+elementary - (elementary relativity), 27–
+28, 38––39, 60–61, 64, 75, 80, 110–
+111, 324, 326, 396–397, 418
+
+Galilei -, 42, 80
+metrical, -(metrical relativity), 30, 33–
+34, 60
+
+probability, density of -, 265, 267–268, 270,
+273, 281–282
+
+amplitude of -, 268, 273, 281–282
+- density, 285
+
+pseudo-orthogonal, pseudo-orthogonality, -
+rotation, 156–157, 159–160, 162,
+166, 170
+
+-orthonormalised, 505
+pseudotensor, 509, 510, 512
+Ptolemäus, C., 2
+pulsar, 73, 364, 371
+Pythagoras, P. von Samos, 154
+
+Q
+quadrupol formula of Einstein, 370
+
+540 Index
+
+quantum fluctuations, 385
+quantum-mechanics, -mechanical, -theory,
+
+67–68, 112, 191, 201, 251, 263–271,
+274–275, 281–282, 286–287, 292,
+297–299, 327, 444
+
+- number, 277–278, 286
+quarks, 211, 379
+quasi-mass, - particle, 315, 316
+Quint, W. (s. Gabrielse), 528
+
+R
+radioactivity, 431
+Raschewski, P.K., 496, 530
+Rawls, J.M., 73, 530
+reciprocity, 28, 33, 37, 60
+
+- theorem, 28, 33, 323
+Reichenbach, H., 25, 146–147, 418–419,
+
+421, 479–486, 531
+- transformation, 146, 147, 418, 421,
+480–481, 484, 486
+
+-s addition theorem of velocities,
+481-482
+
+repulsion, - energy, - momentum, 69––70
+red shift, 51, 68
+
+-, gravitational, 354––356
+-, cosmological, 374ff.
+
+reference system (cp. also inertial system),
+2, 6, 23, 28, 29, 95
+
+accelerated -, 171, 393
+distinguished -, 23, 28––29, 37, 43, 79,
+146, 188–189, 204, 233, 326
+
+refraction index, 107–108, 210
+relative velocity, 9–10, 11, 31–32, 39, 46, 52,
+
+62, 111, 162, 432, 434
+relativity, - of reference systems, 29
+
+- of length and time measurements, 30
+of Lorentz contraction, 175
+- of simultaneity, 25, 63–64, 75, 117,
+141–142, 145, 419
+
+representation - of Dirac-equation, 287,
+289, 293
+
+- of groups, 235, 241, 242, 255, 275
+- space, 245–247, 250, 253, 259
+spatial -, 273–277, 281
+
+resonance, 70ff., 123
+-absorption, 70
+
+rest energy (cp. also energy), 101–103, 427–
+428, 442–443
+
+rest length, 17–18, 27, 30–31, 34, 114, 147,
+390, 396
+
+rest mass (cp. mass)
+- density, 472
+
+Riemann, B., 339
+- geometry, 329
+- integral, 525
+-Christoffel tensor, s. curvature tensor
+
+Rindler, W., 21, 530
+Ritson, D. M. (s. Burrowes), 527
+Rot, rot, 457–459, 512–514
+rotation, 154ff.
+Rotation, s. Rot
+Ruderman, H. (s. Brown, B. C.), 528
+
+S
+Salié, N. (s Herlt), 531
+Disalle, R., 5, 77
+scalar field, 171
+scalar, - function, - field, 149, 171, 215, 410,
+
+507, 511–514
+- density, 509
+- multiplication, - product, 97, 504–505
+- potential, 209–210
+
+scattering, - of measuring data, 299, 353
+- of waves, 299
+
+Schluter, R.A. (s. Burrowes, H.G.), 527
+Schmidt, E., -’s orthogonalisation, 510
+Schmidt, M. (s. Grieser, R.), 528
+Schrödinger, E., 271–276, 281, 288–289,
+
+291––292, 294
+- equation, 272, 274, 281, 288–291, 294
+- picture, 275
+
+Schubert, M., 531
+Schwabel, F., 531
+Schwalm, D. (s. Grieser, R.), 528
+Schwarzschild, K. solution, 349
+
+inner -, 361
+Sebastian, V. (s. Grieser, R), 528
+Seeger, A., 316, 530
+secondary relativistic effects, 67
+second, 2, 3, 190, 228
+set, 235–237
+Shankar, R., 531
+Shankland, R.S., 68, 530
+shift, Doppler -, energy -, frequence -, red-,
+
+51, 68–71, 118, 120–121, 123, 125,
+221
+
+signal, - velocity, 7–9, 25–26, 40, 52, 118,
+123, 125, 172, 389, 396–397, 413,
+419, 433
+
+light -, 8, 25, 52––53, 172, 389, 392, 396–
+398, 419
+
+signature, 151, 172, 259, 263, 282, 291–292,
+307–309
+
+
+
+Index 541
+
+simultaneity, 7ff., 14ff., 23ff., 27–30, 34,
+117, 133–134, 145, 392, 396, 417–
+419, 420––421, 430
+
+absolute -, 34, 38, 60, 76–77, 117, 134,
+147
+
+conventional -, 29, 41, 64, 75–76, 145
+definition of -, 8, 14–18, 23, 26, 43, 116,
+134, 324
+
+Einstein’s - (= Lorentz’s -), 23, 25, 60
+non-conventional -, 29, 41, 64, 65, 75–
+77, 134, 145, 418
+
+relativity of -, 25, 63–64, 75, 141
+sine-Gordon equation, 317–320, 323–326
+Sommerfeld, A., 51, 209, 530
+sound, - velocity, - waves, 26, 44, 54, 118,
+
+120, 123–124, 135, 327
+- clock, 54
+
+space, 1–2, 5, 13, 16, 26
+absolute -, 121
+representation -, 241–247, 253, 259
+
+space-time, 7–9, 13, 18, 20, 22, 26ff., 55
+classical -, 13, 28–37ff.
+- diagramme, 9
+relativistic -, 13, 18, 20, 29, 43, 59ff.
+
+speed of light s. light velocity
+spin, 112, 178, 191, 230, 259, 275, 285–286,
+
+294, 296, 491
+- operator, 280, 285
+
+spinor, -field, 243ff., 252ff., 259, 280, 283ff.,
+289
+
+- calculus, 252–255
+Dirac-, 260, 283–286, 289
+- metric, 253
+
+state vector, 265–267, 271–273, 275, 278
+stellar matter, 123–125
+Stieltjes, T. J., - integral, 525
+Stilwell, G.J. (s. Ives, H.J.), 68, 72, 529
+Stokes, G.G., -’ law, 197, 203, 307, 459,
+
+521
+storage ring experiments, 72
+stress (mechanical), cp. also line -, 315–316,
+
+473
+stress tensor in mechanics, 232
+
+- of electromagnetic field, 233
+string, - theory, 317, 327
+summation convention, Einstein’s -, 151,
+
+156, 240, 503
+superclusters of galaxies, 388
+susceptibility, electrical -, 201
+
+magnetical -, 203
+symmetry, - principle, 27, 55–57, 78, 190,
+
+217, 226, 230, 233, 326, 462
+
+synchronisation function, 14––15, 18, 31,
+61, 392
+
+linear -, 15, 18, 392
+synchronisation, (cp. also Lorentz’-), syn-
+
+chronise, 6ff., 15ff., 18, 22ff., 25ff.,
+38ff., 41, 60ff., 64, 75ff., 134, 136,
+389ff., 395, 398, 441
+
+linear -, 15, 18, 22, 79, 390–392
+non-linear -, 392
+
+synchronisation parameter, 15, 75–76
+system of units, 2, 38ff., 82, 189–190, 199,
+
+201–202, 228–229, 451, 462
+absolute -, 82, 189–190, 199, 218, 226,
+228–229, 451, 462, 464–465
+
+Gaussian - (cgs system), 190, 194
+modern absolute -, 83, 190, 226
+SI - (SI-system), 2, 81–83, 176, 189–190,
+194, 198, 201–202, 204, 208, 217, 228,
+230, 426, 440, 451, 462
+
+T
+tachyon, 401–403, 406–415
+
+- parameter, 409f.
+Tannenbaum, M. (s. Farley, F.J.M.), 528
+Taylor, B., - approximation, - series, 48,
+
+74, 98, 104, 159, 163, 164, 316, 437,
+457
+
+tensor (cp. also angular momentum -
+, energy-momentum -, metrical -,
+stress -, spin -), 151, 152, 170–171,
+177, 178, 182, 201, 203, 211, 213–
+218, 224–226, 229–233, 449, 504–
+514
+
+- calculus, 170, 503ff.
+- equation, 156, 177–178, 182, 189, 201,
+203, 211, 224–226
+
+- field, 171, 511, 514
+field strength -, 214, 215, 218, 229, 452
+pseudo -, 509, 512
+
+Tesla (unit of measure), 194
+Then, V. (s. Grieser, R.), 528
+Thirring, W., 25, 65, 134, 146, 359, 479,
+
+530
+Thomas, L.H., - effect, - precession, 74,
+
+109–113, 166, 169–170
+Thorndike, E.M (s.Kennedy, R.J), 68, 529
+time, 1ff.
+
+- dilatation, 4, 22, 26, 35, 51, 54–59, 64,
+67f., 71, 72, 78, 118, 119, 123–126,
+136ff., 173–175, 313, 393, 395, 439,
+479, 489f.
+
+absolute -, 41
+
+542 Index
+
+eigen - (cp. also eigen period), 19, 151,
+179, 180, 181, 441–442
+
+measuring of -, 1, 6, 7, 11, 30, 33, 37, 59,
+79, 316, 389
+
+time delay, 358f., 382
+Tolman, R.C., - experiment, -s thought -
+
+experiment, 84, 87ff., 178, 183, 423
+Tolman, Oppenheimer, Volkoff equa-
+
+tion, 361
+Tonnelat, M.-A., 30, 42, 530
+transformation, - group, 237–239
+
+- matrix, 235, 334, 445, 450, 503
+- of Dirac-matrices, 261f.
+- of Pauli-matrices, 257–258, 262
+coordinate -, 239, 301, 480–481
+Lorentz -, 236, 241, 242, 247–248, 249,
+251–253, 262, 477–479, 485
+
+Reichenbach -, 480–481, 482, 486
+transversal, transversality (of electromag-
+
+netic waves) (cp. also Doppler
+effect), 187, 208, 317, 325, 461–462,
+465, 474
+
+Treder, H.-J., 402, 530
+twin inequality, 144
+twin paradox, 136ff., 145, 147, 162, 419
+
+U
+unimodular, unimodularity, 243, 246, 252f.,
+
+475–477
+uncertainty relation, 268
+unit of mass, 82, 429
+unit of measure (c p. also Ampere,
+
+Coulomb, Dyn, Gauß, Gram, Kilo-
+gram, Kilopond, Metre, Newton,
+Oerstedt, Ohm, Second, Tesla, Volt,
+Centimetre), 81–82, 177, 178, 189–
+194, 196, 198, 201–202, 226
+
+V
+vacuum, 26, 67, 78f., 108, 190–192, 198–
+
+210, 217, 219, 223––233, 286f., 313,
+314, 323, 327, 450, 454, 457, 464–
+465
+
+light velocity in - (cp. also light velocity),
+8, 205, 208, 210, 217
+
+- permittivity, 199
+- polarisation, 67
+
+vector, -field, 171, 189f., 194–203, 209,
+504-514, 517
+
+- potential, 209–211, 213, 292, 456, 459
+- product, 275, 510, 519
+basis, 504–506, 507–509, 510
+
+Burgers, 314
+contravariant, 170–171, 180–182, 213–
+214, 505–506, 507
+
+covariant, 171, 505–506, 507, 511
+displacement, 19, 198–199, 203, 462
+energy-momentum, 186–187
+four -, 180ff., 187, 211ff., 229, 257,
+309ff., 407, 444, 453–454, 461
+
+unit - (normal–), 133, 220, 462, 521–522
+wave -, 207, 220, 465, 467–468, 475
+zero -, 172, 219, 505
+
+Vernon, W. (s. Brown, B.C.), 527
+VLBI (very long baseline interferometry),
+
+129, 131
+Volt (unit of measure), 69, 192–194, 196
+voltage (electrical), 192, 196–198, 216
+
+induction -, 196f., 216
+
+W
+Wallin, J. (s. Alvänger, T.), 528
+wave, 8ff., 43ff., 63, 104, 107ff., 118––135,
+
+203ff., 220ff.
+- equation, 149ff., 188, 205, 219, 229,
+259f., 317
+
+- front, 107f., 131ff., 220
+- length, 50, 72, 207, 433
+- operator, 152, 205, 258, 263, 283, 513
+- packet, 135
+- picture, 129–130
+- train, 68, 129
+- vector, 207, 220, 340, 368, 465ff., 475
+carrier medium of a -, 120, 435
+electromagnetic -, 104, 109, 121ff., 135,
+203ff., 219, 299, 327, 461f.
+
+gravitational -, 368ff.
+light -, 8–10, 108, 127, 460, 465
+phase of a - -, 137, 207
+sound -, 26, 44, 54, 120, 123–125, 136
+
+wedge product, 299–305
+Weizsäcker, C.F.v, 314
+Weyl, H., - equation, 235, 243, 255, 261,
+
+281, 531
+- spinor, 281
+
+White Dwarfs, 348, 355, 363f.
+Will, C.M. (s. Haughan, M.P.), 67, 529
+work, 98, 175, 185, 232, 422, 431f., 463f.
+world line, 173ff., 335ff., 366f., 440–441
+world radius, 374ff., 500
+
+Z
+Zel’dovich, Y.B. pancakes, 386

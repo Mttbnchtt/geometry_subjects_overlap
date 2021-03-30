@@ -1,0 +1,541 @@
+
+INDEX
+
+A
+
+Action of V on X, 6
+Adjacent side, 304
+Affine coordinate system, 17
+Affine coordinates, 17
+Affine plane, intuitive notion, 1
+Affine space, metric, 372
+Affine subspace, 11
+Affine transformation, 71
+Algebraic number field, 177
+Analytic geometry, 20
+Angle, 420
+Anisotropie, 150, 378
+Antiautomorphism, 271
+Artinian coordinate system, 187, 409
+Artinian four-space, 161
+Artinian plane, 186
+Artinian space, 189
+Artinian subspace, maximal, 208
+Automorphism, linear, 133
+Axiomatic method, 427
+Axis, 244, 252, 316
+
+coordinate, 17
+
+B
+
+Basis
+ordered, 16
+orthogonal, 153
+orthonormal, 158
+
+Birotation, 338
+Bisector, 253
+
+perpendicular, 377
+
+C
+
+Cardinality, same, 283
+Cartan-Dieudonne theorem, 254
+
+for affine spaces, 405
+for anisotropic spaces, 405
+for rotations, 332
+
+Cauchy sequences, 428
+
+Center, 342
+of division ring, 51
+of magnification, 38
+
+Centralizer, 342
+Characteristic root, 212, 229
+Characteristic vector, 212, 229
+Circle, 283
+
+group, 307
+Classification of dilations, 41
+Clockwise, 299
+Commutator, 333
+
+factor group, 336
+subgroup, 335
+
+Complement
+Frobenius, 53
+orthogonal, 116, 148
+
+Congruent, 410
+angles, 420
+matrices, 124
+
+Conic, 283
+Coordinate axis, 17
+Coordinate system
+
+affine, 17
+Artinian, 187, 409
+negatively oriented, 298
+orthonormal, 158
+positively oriented, 298
+rectangular, 153
+
+Coordinates, affine, 17
+Correspondence, one-to-one, 16
+Cosine (Cos), 310
+cosine (cos), 291
+Counterclockwise, 299
+
+D
+
+Dedekind cuts, 428
+Degenerate hexagon, 105
+Dependent points, 33
+Desargues' theorem, affine part, 99
+Determinant, 215
+Dilation(s), 37, 58
+
+classification of, 41
+group of, 36
+ratio, 46, 58
+trace of, 46
+
+431
+
+432 INDEX
+
+Dimension
+of affine subspaces, 11
+of X, 6
+
+Direct product, 367
+Direct similarity, 368, 418
+Direction
+
+space, 14
+of translation, 54
+
+Discriminant, 125
+Distance, square, 373
+Division ring, 6
+
+E
+
+Eigenvector, 212, 230
+Elliptic line, 181
+Elliptic plane, 182
+Elliptic three-space, 183
+Equation of hyperplane, 22
+Epimorphism, 52
+Euclidean group, 382
+Euclidean space, 117, 126, 372
+Euclidean transformation, 382
+Exact sequence, 52
+Exceptional plane, 279
+Extended geometry, 211, 273
+Extension of isometry, 196
+
+F
+
+Faithful representation, 354
+Fermat's last theorem, 288
+Field, 6
+Fifth parallel axiom, 29
+First quadrant, 302
+Formally real fields, 290
+Fourth quadrant, 302
+Frobenius complement, 53
+Frobenius groups, 52
+Frobenius kernel, 53
+Functional, 21
+
+G
+
+General linear group, 90, 214
+Generators of group, 251
+Geometric method, 428
+
+Geometry, 114
+solid, 315
+
+Glide reflection, 397, 399
+Group(s)
+
+circle, 307
+of dilations, 36
+Euclidean, 382
+Frobenius, 52
+general linear, 90, 214
+generators of, 251
+orthogonal, 214
+permutation, 10
+of rotations, 221
+
+H
+
+Half line, 293, 419
+Hexagon, 104
+
+degenerate, 105
+sides of, 104
+vertices of, 104
+
+Homothetic figures, 58
+Hyperbolic line, 181
+Hyperbolic plane, 182
+Hyperbolic three-space, 183
+Hyperplane, 11, 152, 219
+Hypotenuse, 304
+
+I
+
+Independent points, 33
+Index (Witt), 208
+Inner product, 114, 374
+Intersection of affine subspaces, 15
+Invariant subspace, 225, 354
+Involution, 251
+Irreducible representation, 354
+Isometric affine spaces, 387
+Isometric spaces, 232
+Isometry, 131, 380
+Isomorphic affine spaces, 89
+Isomorphism, linear, 133
+Isotropie (null) vector, 123
+
+L
+
+Light cone, 123
+
+
+
+Line, 11
+elliptic, 181
+hyperbolic, 181
+
+Line segment(s), 46
+oriented, 47
+orthogonal, 376
+parallel, 47
+perpendicular, 376
+
+Linear automorphism, 133
+Linear isomorphism, 133
+Linear representation, 352
+Lorentz plane, 126
+Lorentz transformations, 311
+
+M
+
+Magnification, 38, 359
+center of, 38
+ratio of, 38
+
+Matrix
+skew symmetric, 239
+symmetric, 120
+
+Maximal Artinian subspaces, 208
+Maximal negative definite subspaces, 170
+Maximal null space, 207
+Maximal positive definite subspaces, 170
+Metric affine space, 372
+Metric vector space, 114
+Minkowski space, 127
+Motion
+
+null, 407
+rigid, 379
+
+N
+
+«-dimensional affine space, 6
+«-space, 93
+Natural representation, 353
+Negative
+
+definite, 169
+semidefinite, 169
+
+Negative Euclidean space, 128
+Negative Minkowski space, 161
+Negatively oriented coordinate system, 298
+Noncollinear points, 18
+Nonsingular completion, 192
+Nonsingular metric affine space, 374
+Nonsingular metric vector space, 117
+Nonsingular semilinear transformation, 75
+Normal set, 334
+
+INDEX 433
+
+Null
+motion, 407
+vector, 123
+
+Null space(s), 116
+maximal, 207
+
+O
+
+One-to-one correspondence, 16
+Opposite orientation, 297
+Opposite side, 304
+Opposite similarity, 368, 418
+Ordered basis, 16
+Orientation
+
+opposite, 297
+same, 297
+
+Oriented line segment, 47
+Oriented vector space, 298
+Orthogonal affine subspaces, 372
+Orthogonal basis, 153
+Orthogonal complement, 116, 148
+Orthogonal group, 214
+Orthogonal line segments, 376
+Orthogonal subspaces, 115
+Orthogonal sum
+
+of isometries, 197
+of similarities, 363
+of spaces, 144
+
+Orthogonal vectors, 115
+Orthogonal basis, 153
+Orthonormal coordinate system, 158
+
+P
+
+Pappus' theorem, affine part, 105
+Parallel affine subspaces, 27, 31
+Parallel line segments, 47
+Parallel symmetries, 400
+Parallelism, 26
+Parallelograms, 45, 78
+Parametric equations of line, 20
+Permutation group Sx, 10
+Perpendicular affine subspaces, 372
+Perpendicular bisector, 378
+Perpendicular line segments, 376
+Perpendicular subspaces, 115
+Perpendicular vectors, 115
+
+434 INDEX
+
+Plane, 11
+affine, intuitive notion, 1
+Artinian, 186
+elliptic, 182
+exceptional, 279
+hyperbolic, 182
+Lorentz, 126
+reflections, 270
+rotations, 270
+
+Positive
+definite, 169, 175
+semidefinite, 169
+
+Positively oriented coordinate system,
+Preserve
+
+angles, 423
+orthogonality, 362, 417
+
+Product
+direct, 367
+inner, 114, 374
+scalar, 114
+semidirect, 390
+
+Projective space, 180
+Proportional sides, 425
+Pythagorean field, 290
+Pythagorean triple, 288
+
+Q
+
+Quadrant
+first, 302
+fourth, 302
+second, 302
+third, 302
+
+Quadratic form, 120
+
+R
+
+Radical, 142
+rank, 143
+ratio
+
+dilation, 46, 58
+magnification, 38
+square, 358, 413
+
+Rational points, 285
+Ray, 293, 419
+Real affine space, 7
+Real space, 160
+Rectangular coordinate system, 153
+
+Reflection(s), 217, 386
+glide, 397, 399
+plane, 270
+
+Representation
+faithful, 354
+irreducible, 354
+linear, 352
+natural, 353
+simple, 354
+
+Rigid motion, 379
+Rotation(s), 217, 386
+
+group, 221
+plane, 270
+180°, 218
+0°, 90°, 270°, 301
+
+S
+
+Same
+cardinality, 283
+orientation, 297
+
+Scalar product, 114
+Scherk's theorem, 260
+Second quadrant, 302
+Semiaffine transformation, 65, 88
+Semidirect product, 390
+Semidefinite
+
+negative, 169
+positive, 169
+
+Semilinear automorphism, 75
+Semilinear transformation, 73
+Sequence, exact, 52
+Side(s), 420
+
+adjacent, 304
+opposite, 304
+proportional, 425
+
+Signature, 172, 175
+Similar sets, 424
+Similarity, 358, 413
+
+direct, 368,418
+opposite, 368, 418
+transformation, 358
+
+Simple representation, 354
+Simplex, 102
+
+sides of, 102
+vertices of, 102
+
+Sine (sin), 300
+Singular metric affine space, 374
+Skew symmetric matrix, 239
+
+298
+
+
+
+Solid geometry, 315
+Space(s)
+
+Artinian, 189
+direction, 14
+Euclidean, 117, 126, 372
+isometric, 232
+isometric affine, 387
+metric affine, 372
+metric vector, 114
+Minkowski, 127
+null, 116
+projective, 180
+real, 160
+real affine, 7
+tangent, 59
+
+Splitting fields, 212
+Square
+
+distance, 373
+ratio, 358, 413
+
+Subspace(s)
+affine, 11
+dimension of, 11
+maximal Artinian, 208
+maximal negative definite, 170
+maximal positive definite, 170
+orthogonal, 115
+perpendicular, 115
+
+Sum (orthogonal)
+of isometries, 197
+of similarities, 363
+of spaces, 144
+
+Symmetric bilinear form, 120
+Symmetric bilinear function, 114
+Symmetric matrix, 119
+Symmetry, 219, 386
+
+parallel, 400
+
+T
+
+Tangent space, 59
+Third quadrant, 302
+Trace, 46
+Transformation
+
+Euclidean, 382
+Lorentz, 311
+semiaffine, 65, 88
+semilinear, 73
+similarity, 358
+
+Translation, 9
+direction of, 54
+
+Type of involution, 267
+
+V
+
+Vector(s)
+isotropic, 123
+null, 123
+orthogonal, 115
+perpendicular, 115
+
+Vector space of translations, 3
+Vertex, 420
+Vertices
+
+of parallelogram, 78
+of simplex, 102
+
+W
+
+Wedderburn's theorem, 52
+Witt index, 208
+Witt theorem, 202
+
+refinement of, 231
+
+INDEX 435

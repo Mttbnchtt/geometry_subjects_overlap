@@ -1,0 +1,118 @@
+
+
+Anisotropic, 122
+Archimedean field, 46
+Axis of a rotation, 132
+
+Canonical, 3
+Center, 29
+Centralizer, 29
+Clifford algebra, 186 ff.
+Co-dimension, 9
+Collineation, 86
+Commutator subgroup, 30
+C(V), 186
+C+CIO, C-(F), 188
+C (F), 189
+
+Desargues' theorem, 70
+Determinant, 14,151 ff.
+Dilatation, 54
+Discriminant, 107
+Dual space, 16
+
+), 191
+
+Elliptic space, 179 ff.
+Euclidean space, 178 ff.
+Exact sequence, 92
+
+General linear group, 92, 151
+GLn(k), 151, 158
+Group with 0-element, 32
+
+Hom(V, V)i 10
+Hyperbolic pair, 119
+
+Hyperbolic plane, 119
+
+Hyperbolic space, 119
+
+Hyperplane, 10
+
+Index of a space, 122
+
+Involution, 124
+
+Irreducible group, 136
+Irreducible space, 119
+Isometry, 107
+Isotropic space, 118
+Isotropic vector, 118
+J (antiautomorphism), 192
+
+Kernels of a pairing, 18
+
+Metric structure, 105
+
+Negative definite, 148
+Negative semi-definite, 148
+Non-singular, 106
+Norm, 193
+Normalizer, 29
+
+O,O+, O, 126
+0, 194
+Ordered field, 40
+Ordered geometry, 75
+Ordered group, 32
+Orthogonal group, 126
+Orthogonal geometry, 111
+Orthogonal sum, 115,117
+
+P-adic valuation, 49
+Pairing, 16
+
+Pappus* theorem, 73
+Pfaffian, 141
+Positive definite, 148
+Positive semi-definite, 148
+Projective space, 86
+Projective symplectic group, 177
+Projective unimodular group, 168
+
+168
+177
+
+Quaternion algebra, 199
+
+The Index contains the main definitional
+
+213
+
+214 INDEX
+
+Radical, 115 Symplectic group, 137
+
+Reflexion, 108 Symplectic transvection, 138
+
+Regular element, 191
+
+Rotation, 108 Trace preserving homoinorphism, 58
+180 rotation, 125 Translation, 56
+
+Transvection, 160
+Semi-linear map, 85 Two-sided space, 14
+SL*(k), 151,159
+Spinorial norm, 194 ,-,.,,
+Spn(k), 137 Ummodular,
+
+151
+
+Supplementary space, 8
+
+Symmetry, 125 Valuation, 47
+
+Symplectic basis, 137
+
+Symplectic geometry, 111 Weakly ordered field, 41

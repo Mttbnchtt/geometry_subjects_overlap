@@ -1,0 +1,1095 @@
+AalbmcndoE, 235
+Abel, Niels Henrik, 3‘32, 430
+Abel summable, 431
+Abel’s lemma, 385
+Abel’s Theorem, 431
+Absolute value, 11
+
+of a complex number, 441
+Absolutely convergent, 397, 463
+Absolutely summable, 397
+Acceleration, 137
+‘ Acla Emditorum, 124
+Addition, 3
+
+associative law for, 9
+
+commutative law of, 9
+
+of complex numbers, 438
+
+geometric interpretation of, 442
+
+Addition formula
+
+for arcsin, 270
+
+for arctan, 270
+
+for cos, 266
+
+for sin, 265, 266
+
+for tan, 269
+Additive identity, existence of, 9
+Additive inverses, existence of, 9
+Algebra, Fundamental Theorem of,
+
+317, 445, 455, 474
+
+Algebraic functions, 302
+Algebraic number, 362
+Algebraist’s real numbers, 505
+Almost lower bound, 120
+Almost upper bound, 120
+Analyst’s real numbers, 505
+Angle, 256
+
+directed, 256
+Antidiagonal, 213
+Arabic numerals, multiplication of, 8
+Arc length, 275
+Arccos, 264
+Archimedes, 116, 119, 224
+Archimedian property
+
+for the rational numbers, 490
+
+for the real numbers, 116
+Arcsec, 272, 322
+Arcsin, 263
+
+addition formula for, 270
+
+derivative of, 264
+
+Taylor series for, 429
+
+577
+
+Arctan, 264
+addition formula for, 270
+derivative of, 264
+Taylor polynomials for, 335, 342
+remainder term for, 351
+Area, 214, 219
+Arg cosh, 296
+Arg sinh, 296
+Arg tanh, 296
+Argument, 443
+Argument function, 449
+discontinuities of, 453
+Argument of the hyperbolic functions,
+296
+Arithmetic mean, 32
+Arrow, “x arrow sin(x2),” 43
+A13 canjectandi, 481
+Associative law
+for addition, 9
+for multiplication, 9
+Average velocity, 128
+Axis
+horizontal, 55
+imaginary, 441
+real, 441
+vertical, 55
+
+Bacon, Francis, vi
+
+Bandes, D., handiwork of,
+
+Basic properties of numbers, 3
+
+“Bent” graphs, 125
+
+Bernoulli, 124, 481
+
+Bernoulli numbers, 478
+
+Bernoulli polynomials, 481
+
+Bernoulli’s inequality, 31
+
+Big game hunting, mathematical theory
+of, 459
+
+Binary operation, 487
+
+Binomial coefﬁcient, 27, 357
+
+Binomial series, 409, 429
+
+Binomial theorem, 28
+
+Bisection argument, 120, 459
+
+Bohr, Harald, 328
+
+Bolzano-Weierstrass Theorem, 378,
+386, 459
+
+Bound
+
+almost lower, 120
+
+ 
+
+578 Index
+
+Bound (Com)
+
+almost upper, 120
+
+greatest lower, 112
+
+least upper, 111, 490
+
+lower, 112
+
+upper, 111, 490
+Bounded above, 100, 111, 377, 490
+Bounded below, 112, 377
+Bourbaki, Nicholas, 124
+
+Cauchy, 239
+Cauchy Condensation Theorem, 410
+Cauchy criterion, 390
+Cauchy form of the remainder, 345,
+347
+
+Cauchy Mean Value Theorem, 178
+Cauchy sequence, 379, 477
+Cauchy sequences, equivalence of, 505
+Cauchy-Hadamard formula, 476
+Cauchy-Schwartz inequality, 239
+Cesaro summable, 408
+Chain Rule, 150 H.
+
+proof of, 154
+Change, rate of, 128
+Characteristic (of a ﬁeld), 492
+Circle, 63
+
+“f circle g,” 42
+
+unit, 64
+Circle of convergence, 466
+Classical notation
+
+for derivatives, 1307131, 138, 142—
+
+143, 162, 212
+
+for integrals, 225
+Cleio, 161
+Closed interval, 55
+Closed rectangle, 454
+Closure under addition, 9
+Closure under multiplication, 9
+Commutative law
+
+for addition, 9
+
+for multiplication, 9
+Comparison test, 391, 407
+Comparison Theorem, Sturm, 275
+Complete induction, 23
+Complete ordered ﬁeld, 490, 509
+Completing the square, 18, 318
+Complex analysis, 473
+
+Complex function
+
+continuous, 453
+
+differentiable, 457
+
+graph of, 449
+
+limit of, 449
+
+nondiﬂerentiable, 458
+
+Taylor series for, 469
+Complex nth root, 443
+Complex numbers, 433, 438
+
+absolute value of, 441
+
+addition of, 438
+
+geometric interpretation of, 442
+
+geometric interpretation of, 442
+
+imaginary part of, 438
+
+logarithm of, 477
+
+modulus of, 441
+
+multiplication of, 438
+
+geometric interpretation of, 442—
+443
+
+real part of, 438
+
+sequence of, 462
+Complex plane, 440
+Complex power series, 464
+
+circle of convergence of, 466
+
+radius of convergence of, 466
+Complex sequences, 462—463
+Complex series, 463
+Complex-valued functions, 448
+Composition of functions, 42
+Concave function, 192
+Conditionally convergent series, 398
+Conjugate, 441, 446
+Constant function, 41
+Construction of the real numbers, 494
+Continuous at a, 93, 452
+Continuous function, 93, 453
+
+nowhere differentiable, 135, 422
+Continuous on (a, b), 96
+Continuous on [(1, b], 96
+Contraction, 384
+Contraction lemma, 385
+Converge
+
+pointwise, 415
+
+uniformly, 415, 419
+Convergent sequence, 373, 462
+Convergent series, 389, 463
+
+absolutely, 397, 463
+
+conditionally, 398
+
+Convex function, 191
+Convex hull, 460
+Convex subset of the plane, 460
+Cooling, Newton’s law of, 298
+Coordinate
+ﬁrst, 55
+second, 55
+Coordinate system, 55
+origin of, 55
+“Corner,” 58
+Cos, 256, 259, 273—274, 276, 470
+addition formula for, 266
+derivative of, 148, 260
+inverse of, m Arccos
+Taylor polynomials for, 334
+remainder term for, 348
+Cosh, 296
+Cosine, hyperbolic, 296
+Cot, 263
+Countable, 369
+Counting numbers, 21
+Critical point, 165
+Critical value, 165
+Csc, 263
+Cubic equation, general solution, 435
+
+Darboux’s Theorem, 187, 242, 253
+Decimal expansion, 70, 407
+Decreasing function, 170
+Dedekind, Richard, 36
+Deﬁned implicitly, 211
+Deﬁnite integral, 304
+DEFINITION, 45
+Deﬁnition, recursive, 33
+Degree (of a polynomial), 40
+Degree measurements, 61, 257—258
+Delicate ratio test, 408
+Delicate root test, 408
+De Moivre’s Theorem, 443
+Dense, 118
+Derivative, 125 ff., 127
+
+classical notation for, 130-131, 138,
+
+142—143, 162, 212
+
+of f, 127
+
+of f at a, 127
+
+higher-order, 137
+
+“inﬁnite,” 134
+
+. Index 579
+
+Deritative, left-hand, 132
+Leibnizian notation for, see Deriva-
+tive, classical notation for
+“negative inﬁnity,” 134
+right—hand, 132
+second, 137
+Derivative of quotient, incantation for,
+147
+Diagonal, 202
+Difference operator, 479
+Differentiable, 127, 457
+Diﬂerential equation, 247, 253, 273,
+275, 301. 359
+initial conditions for, 360
+Differentiation, 144 ff.
+implicit, 211
+Differentiation operator, 479
+Directed angle, 256
+Discontinuities of a nondecreasing
+function, 370
+Discontinuity, removable, 99
+Disraeli, Benjamin, 2
+Distance, 56, 441
+shortest between two points, 276
+Distributive law, 9
+Diverge, 373, 463
+Division, 6
+Division by zero, 6
+Domain, 38, 39, 45, 507
+Double intersection, 141
+Double root, 160
+Durége, 36
+
+e, 287
+irrationality of, 353
+relation With 7r, 368, 471
+transcendentality of, 364
+value of, 288, 350
+Elementary function, 302
+Ellipse, 64
+Empty collection, 23
+Entire function, 474
+Epsilon, 19
+Equal up to order n, 340
+Equality, order of, 340 1
+Equations, differential, Iee Differential 1
+equations ‘
+
+580 Index
+
+Equivalent Cauchy sequences, 505
+Euler, 481
+Euler-Maclaurin Summation Formula,
+482
+Euler’s number, 382
+Even function, 49, 174
+Even number, 25
+Eventually inside, 462
+Exhaustion, method of, 119
+Exp, 287 11., 470
+Taylor polynomials for, 335
+remainder term for, 349—350
+Expansion, decimal, 70, 407
+Extension of a function, 93
+
+F actorial, 23
+Factorials, table of, 356
+Factorization into primes, 31
+Fibonacci, 31
+Fibonacci Association, 32
+Fibonacci Quarterly, The, 32
+Fibonacci sequence, 31, 430, 478
+F ield, 487
+characteristic of, 492
+complete ordered, 490, 509
+ordered, 489
+First coordinate, 55
+F irst F undamental Theorem of Calcu-
+lus, 240
+First Mean Value Theorem for Inte-
+grals, 237
+Fixed point of a function, 384
+Fourier series, 270, 272
+Function, 37, 45
+from A to B, 507
+absolute value, 448
+argument, 449, 453
+complex-valued, 448
+composition of, 42
+concave, 192
+conjugate, 448
+constant, 41
+continuous, 93 H.
+convex, 191
+critical point of, 165
+critical value of, 165
+decreasing, 170
+
+F unction, derivative of, 125 ff.
+differentiable, 127
+elementary, 203
+entire, 474
+even, 49, 174
+exponential, 287—288
+extension of, 93
+ﬁxed point of, 384
+graphs of, 54463, 173, 449
+hyperbolic, 296
+identity, 41
+imaginary part, 448
+increasing, 170
+integrable, 219
+integral of, 219
+inverse, 201 ff.
+linear, 56
+local maximum point of, 164
+local minimum point of, 164
+local strict maximum point of, 190
+logarithm, 285, 289
+maximum point of, 163
+maximum value of, 163
+minimum value of, 163
+most general deﬁnition of, 507
+negative part of, 49
+nondecreasing, 213
+nonincreasing, 213
+nonnegative, 49
+notation for, 43
+odd, 49, 174
+periodic, 69, 140, 252
+polynomial, 40
+positive part of, 49
+power, 58
+product of, 41
+quotient of, 41
+rational, 40
+real part, 448
+real-valued, 448
+“reasonable,” 96, 125, 156
+regulated, 431
+step, 235
+strict maximum point of, 190
+sum of, 41
+trigonometric, 256 ff.
+value of at x, 38
+
+Fundamental Theorem of Algebra, 317,
+445, 455, 474
+Fundamental Theorem of Calculus
+First, 240
+Second, 244
+
+Galileo, 124, 140
+
+Gamma function, 327, 364
+Geometric mean, 32
+Geometric series, 390
+
+Global properties, 101
+
+Goes to, “x goes to sin(x2),” 43
+Graph sketching, 171—176
+Graphs, 54%3, 72—73, 173, 449
+Greatest lower bound, 112
+Grow faster than, 292, 301
+
+Hadamard, 476
+
+Half-lifc (of radioactive substance), 298
+Hermite, 363
+
+High-school student’s real numbers, 505
+Higher-order derivatives, 137
+
+Hilbert, 363
+
+Horizontal axis, 55
+
+Hyperbola, 65
+
+Hyperbolic functions, 296
+
+Identity
+additive, 9
+multiplicative, 9
+Identity function, 41
+Identity operator, 480
+Imaginary axis, 441
+Imaginary part of complex number,
+438
+Imaginary part function, 448
+Implicit differentiation, 211
+Implicitly deﬁned, 211
+Improper integral, 254, 329
+Incantation for derivative of quotient,
+147
+Increasing at a, 189
+Increasing function, 170
+Increasinglsequence, 377
+Indeﬁnite integral, 304
+
+Index 581
+
+Indeﬁnite integrals, short table of, 304—
+305
+Induction, mathematical, 21
+complete, 23
+Inductive set of real numbers, 33
+Inequalities, 9
+in an ordered ﬁeld, 490
+Inequality
+Bernoulli’s, 31
+Cauchy-Schwartz, 239
+geometric-arithmetie mean, 32
+Jensen’s, 199
+Liouville’s, 369
+Schwartz, 18, 239
+triangle, 68
+Inﬁmum, 112
+“Inﬁnite” derivative, 134
+Inﬁnite intervals, 55
+Inﬁnite products, 282, 328
+Inﬁnite sequence, 372, 462
+Inﬁnite series, 389
+Inﬁnite sum, 354, 388
+Inﬁnitely many primes, 31
+“Inﬁnitely small,” 131, 225
+Inﬁnity, 55
+minus, 55
+Inﬂection point, 197
+Initial conditions in differential equa-
+tions, 360
+Instantaneous speed, 128
+Instantaneous velocity, 128
+Integer, 25
+Integrable, 219
+Integral, 219
+classical notation for, 225, 226
+deﬁnite, 304
+First Mean Value Theorem for, 237
+improper, 254—255, 329
+indeﬁnite, 304
+short table of, 304—305
+Leibnizian notation for, see Integral, ‘
+classical notation for 1
+lower, 249
+Second Mean Value Theorem for,
+237
+Third Mean Value Theorem for, 237
+upper, 249
+
+ 
+
+582 Index
+
+Integral form of the remainder, 345,
+346
+Integral sign, 219
+Integral test, 396
+Integration
+limits of, 219
+by parts, 305 ff.
+of rational functions, 316
+by substitution, 307 11.
+Interest (ﬁnance), 298
+Intermediate Value Theorem, 102, 109,
+1 13, 253
+Interpolation, Lagrange, 47
+Intersection of sets, 41
+Interval, 54
+closed, 55
+inﬁnite, 55
+open, 54
+see also Nested Intervals Theorem
+Inverse
+additive, 9
+multiplicative, 9
+Inverse of a function, 201 ff,
+Inverses of trigonometric functions, xee
+Trigonometric functions
+Irrational numbers, 25
+Isomorphic ﬁelds, 508
+Isomorphism, 508
+
+Jensen’s inequality, 199
+Johnson, Samuel, 514
+Jump, 58
+
+Klingenstein, K., trials and tribulations
+of,
+
+Lagrange form of the remainder, 345,
+347
+
+Lagrange interpolation formula, 47
+
+Large negative, 62
+
+Least upper bound, 111 11., 490
+
+Least upper bound property, 113
+
+Lebesgue, me Riemann—Lebesgue
+Lemma
+
+Left-hand derivative, 132
+
+Leibniz, 124, 131, 225
+Leibnizian notation for derivatives, 131,
+142~143, 162, 212
+{0r higher—order derivatives, 138
+Leibniz’s formula, 159
+Leibniz’s Theorem, 398
+Lemma, 82
+Length, 275
+L’Hépital, Marquis de, 124
+L’Hépital’s Rule, 179, 186—187
+Limit, 72 11., 78, 449
+from above, 86
+from below, 86
+“does not exist,” 81
+at inﬁnity, 87
+of integration, 219
+of a sequence, 373
+uniqueness of, 80
+Limit point, 386, 459
+Limit superior, 121, 385
+Lindemann, 367
+Line, real, 54
+Line, tangent, see Tangent line
+Linear functions, 56
+Liouville, 368
+Liouville’s inequality, 369
+Liouville’s Theorem, 474
+Local maximum point of function, 164
+highcr-order derivative test for, 339
+,second derivative test for, 176
+Local minimum point of function, 164,
+xee also Local maximum point
+Local property, 89, 101, 142
+Local strict maximum point, 190
+Log, 285
+Taylor polynomials for, 335
+remainder term for, 351
+Logarithm
+to the base 10, 283
+of a complex number, 477
+Napierian, 299
+Lower bound, 112
+almost, 120
+greatest, 112
+Lower integral, 249
+Lower limit of integration, 219
+Lower sum, 215
+Lowest terms, 71
+
+Maclaurin, 482
+Mass, rate of change of, 128
+Mathematical induction, 21
+Maximum point of a function, 163
+local, 164, see also Local maximum
+point
+local strict, 190
+Strict, 190
+Maximum of two numbers, 16
+Maximum value of function, 163
+Mean, arithmetic, 32
+geometric, 32
+Mean Value Theorem, 168, 169
+Cauchy, 178
+for integrals (First, Second, and
+Third), 237
+Method of exhaustion, 119
+Minimum of function, 163
+Minimum point of a function, local,
+164, see also Local minimum point
+Minimum of two numbers, 16
+Minus inﬁnity, 55
+Mz'riﬁci logarithmonum canonis
+description, 299
+Modulus of a complex number, 441
+Mollerup, Johannes, 328
+Multiplication, 5
+of arabic numerals, 8
+associative law for, 9
+closure under, 9
+commutative law of, 9
+of complex numbers, 438
+geometric interpretation, 442—443
+Multiplicative identity, existence of, 9
+Multiplicative inverses, existence of, 9
+Multiplicity (of a root), 108
+
+Napier, 299
+
+Napierian Logarithm, 299
+
+Natural numbers, 21, 33
+
+Negative, large, 62
+
+“Negative inﬁnity,” derivative, 134
+Negative number, 9
+
+Negative numbers, product of two, 7
+Negative part of a function, 49
+Nested Intervals Theorem, 120
+Newton, 131, 235
+
+Index 583 .
+
+Newton’s law of cooling, 298
+Newton’s laws of motibn, 137
+Nondecreasing function, 213
+Nondecreasing sequence, 377
+NondiHerentiable complex functions,
+458
+Nonincreasing function, 213
+Nonnegative function, 49
+Nonnegative sequence, 391
+Notational nonsense, 479
+Nowhere-differentiable continuous
+function, 422
+
+nth root, 69, 443
+
+existence of, 103, 443, 460
+
+primitive, 447
+Number
+
+algebraic, 362
+
+complex, 433, 438
+
+counting, 21
+
+even, 25
+
+imaginary, 433
+
+irrational, 25
+
+natural, 25, 33
+
+odd, 25
+
+prime, 31
+
+rational, 25
+
+real, 25, 441, 495
+
+transcendental, 362
+Numbers, basic properties of, 3
+Null set, 23
+
+Odd function, 49, 174
+Odd number, 25
+One-one function, 200
+Open interval, 54
+6(Or,’, 6
+Order of equality, 340
+Ordered ﬁeld, 489
+complete, 490
+Ordered pair, 45, 52
+Origin (of a coordinate system), 55
+
+Pair, 44
+
+ordered, 45, 52
+Parabola, 58
+
+area under, 224
+
+584 Index
+
+ 
+
+Partial fraction decomposition, 317
+Partial sums, 388
+Partition, 215
+Pascal’s triangle, 27
+“Peak,” 59
+Peak point, 378
+Period of a function, 69, 140, 252
+Periodic function, 69, 140, 252
+Perpendicularity of lines, 68
+Petard, H., 459
+Pig, yellow, V, 314
+Pigheaded, 161
+Plane, 56
+complex, 440
+Point, 54
+Point of contact, 192
+Point-slope form of equation of a line,
+57, 68
+Polynomial function, 40
+graph of, 58—59, 173
+multiplicity of roots, 108, 160
+Polynomials, Bernoulli, 481
+Polynomials, Taylor, 334 11., see alxo
+speciﬁc functions
+Position, rate of change of, 128
+Positive elements of an ordered ﬁeld,
+489
+Positive element of R, 500
+Positive part of a function, 49
+Positive number, 9
+Power functions, 58
+Power series, complex, 464
+Power series centered at a, 423, 471
+Power series representation, uniqueness
+of, 430
+Powers of 2, table of, 356
+Prime number, 31
+characteristic of a ﬁeld, 492
+inﬁnitely many of, 31
+unique factorization into, 31
+Primitive, 302
+Primitive nth root, 447
+Principia, 235
+Product, 5
+of functions, 41
+of two negative numbers, 7
+
+Pythagorean theorem, 25, 56
+
+1r, 258
+Arehimedes’s approximation of, 119
+irrationality of, 279
+relation to e, 471
+transcendentality of, 368
+value of, 357
+Vieta’s product for 2/1r, 282
+Wallis’s product for 1r/2, 328
+
+Quaternions, 493
+Quotient of functions, 41
+
+Rabbits, growth of population, 32
+Radian measure, 61, 257—258
+Radioactive decay, 298
+Radius of convergence of complex
+power series, 466
+Rate of Change of mass, 128
+Rate of change of position, 128
+Ratio test, 393
+delicate, 408
+Rational functions, 40
+integration of, 316
+Rational numbers, 25
+Real axis, 441
+Real line, 54
+Real number (formal deﬁnition), 495
+Real numbers, 25
+algebraist’s, 505
+analysist’s, 505
+Archimedian property of, 116, 490
+construction of, 494 H.
+high—school student’s, 505
+inductive set of, 505
+Real part of a complex number, 438
+Real part function, 448
+Real-valued function, 448
+Rearrangement of a sequence, 400
+“Reasonable” function, 66, 96, 125, 156
+Rectangle, closed, 454
+Recursive deﬁnition, 23
+Reduction formulas, 316
+Regulated function, 431
+Remainder term for Taylor poly—
+nomials, 343
+Removable discontinuity, 99
+
+Riemann—Lebesgue lemma, 272, 327
+Right-hand derivative, 132
+Rising Sun Lemma, 121
+Rolle, 161
+Rolle’s Theorem, 168
+Root of a polynomial function, 48
+double, 160
+multiplicity of, 108
+see also nth roots
+Root test, 408
+delicate, 408
+
+Same sign, 12
+Schwartz, H. A., 18, 190, 239
+Schwartz inequality, 18, 239
+Sec, 263
+inverse of, see Arcsec
+Secant line, 126
+Second coordinate, 55
+Second derivative, 137
+Second derivative test for maxima and
+minima, 176
+Second Fundamental Theorem of Cal-
+culus, 244
+Second Mean Value Theorem for inte-
+grals, 237
+Sequence
+absolutely summable, 397
+Cauchy, 379, 505
+complex, 477
+equivalence of, 505
+of complex numbers, 462
+convergent, 373
+pointwise, 415
+uniformly, 415
+decreasing, 377
+divergent, 373
+Fibonacci, 31, 430, 478
+increasing, 377
+inﬁnite, 372
+limit of, 373
+nondecreasing, 377
+nonincrcasing, 377
+rearrangement of, 400
+summable, 389
+Series
+absolutely convergent, 397
+
+Index 585
+
+Series (Cont)
+conditionally convergent, 398
+convergent, 389
+FOurier, 270, 272
+geometric, 390
+power, 423, 471
+Taylor, 424
+Set, 22
+empty, 23
+Sets
+intersection of, 41
+notation for, 41—42
+Shadow point, 121
+Sigma, 24
+Sign, 12
+Sin, 41, 256, 259, 273—274, 276, 470
+addition formula for, 266
+derivative of, 148, 260, 272—273
+inverse of, see Arcsin
+Taylor polynomials for, 334
+remainder term for, 348
+Sine, hyperbolic, 296
+Sine function, 41
+Sinh, 296
+Sketching graphs, 171—176
+Skew-ﬁeld, 493
+Slope of 'a straight line, 56
+Speed, instantaneous, 128
+Square root, 12, 434
+existence of, 102—103
+Square root in a ﬁeld, 492
+Square root function, 453
+Squaring the circle, 367
+Step function, 235
+Stirling’s formula, 483
+Straight line (analytic deﬁnition), 56
+shortest distance between two points,
+276
+slope of, 56
+Strict maximum point, 190
+Sturm Comparison Theorem, 275
+Subsequence, 378
+Substitution, world’s sneakiut, 325
+Substitution formula, 308
+Subtraction, 5
+Sum V
+ﬁnite, 3—4
+of functions, 41
+
+586 Index
+
+Sum (Cont)
+inﬁnite, 354, 388
+of an inﬁnite sequence, 389
+of an inﬁnite sequence of complex
+numbers, 462
+lower, 215
+partial, 388
+sigma notation for, 24
+upper, 215
+Sum of squares, 459
+Summable, 389, 463
+Abel, 431
+absolutely, 397
+Cesare, 408
+uniformly, 419
+Supremum, 112
+Swift, Jonathan, 486
+Symmetry in graphs, 174
+
+Tan, 263
+inverse of, see Arctan
+Taylor series for, 497
+Tangent, hyperbolic, 296
+Tangent line, 125, 127
+point of contact of, 192
+“Tangent line,” vertical, 134
+Tanh, 296
+Taylor polynomial, 334
+remainder term of, 343, 345, 346
+Taylor series, 424, 469
+Taylor’s Theorem, 345
+Third Mean Value Theorem for inte-
+grals, 237
+Transcendental number, 362
+Triangle inequality, 68
+Trichotomy law, 9
+Trigonometric functions, 256 see also
+Cos, Cot, Csc, Sec, Sin, Tan
+integration of, 315—316
+inverses of, 263 see also Arccos, Arcsec,
+Arcsin, Arctan
+
+Two-times differentiable, 137
+
+Uniform limit, 415
+Uniformly convergent sequence, 415
+Uniformly convergent series, 419
+Uniformly distributed sequence, 387
+Uniformly summable, 419
+Uniqueness
+
+of factorization into primes, 31
+
+of limits, 80
+
+of power series representations, 430
+Unit circle, 64
+Upper bound, 111, 490
+
+almost, 120
+
+least, 111, 490
+Upper integral, 249
+Upper limit of integration, 219
+Upper sum, 215
+
+“Valley,” 59
+Value, absolute, see Absolute value
+Value off at x, 38
+Vanishing condition, 390
+Velocity
+average, 128
+instantaneous, 128
+Vertical axis, 55
+Viete, Francois, 282
+
+Wallis’s product, 328
+
+Weierstrass, see Bolzano-Weierstrass
+Theorem
+
+Weierstrass M -test, 420
+
+Well-ordering principle, 23
+
+Wright, 326
+
+Zahl, 25
+Zero, division by, 6
+

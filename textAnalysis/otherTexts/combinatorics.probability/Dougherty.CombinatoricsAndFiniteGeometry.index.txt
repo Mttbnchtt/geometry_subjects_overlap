@@ -1,0 +1,255 @@
+
+Index
+
+A
+Abelian, 246
+Affine geometry, 153
+Affine plane, 327, 357
+Antisymmetric, 217
+Arc, 357
+Archimedes, 35
+Association scheme, 230, 357
+Automorphism, 357
+
+B
+Baer subplane, 176, 357
+Balanced incomplete block design, 182
+Bayes’ Theorem, 244
+Bijective, 2
+Binomial coefficient, 357
+Binomial theorem, 240
+Bipartite graph, 125, 358
+Biplane, 188, 327, 358
+Block, 181
+Blocking set, 176, 358
+Boolean algebra, 225
+Bose-Mesner algebra, 231
+
+C
+Cardinality, 2, 4
+Catalan number, 358
+Chromatic number, 358
+Chromatic polynomial, 358
+Code, 265, 317, 358
+Combination, 5
+Combinatorics, vii
+Complete graph, 124, 358
+Connected graph, 358
+
+Cross product, 84
+Cubic number, 358
+Cycle graph, 124, 358
+
+D
+Degree, 358
+Design, 181, 322, 358
+Difference set, 358
+Directed graph, 358
+Discrete graph, 124, 358
+Drawing strategy, 322
+
+E
+Equivalence class, 36
+Equivalence relation, 36
+Erdös, 121
+Euclidean algorithm, 36, 37
+Euclidean geometry, 153
+Euler, 35, 117
+Euler cycle, 119
+Euler’s generalization of Fermat’s Little
+
+Theorem, 43
+Euler tour, 119, 359
+Euler ! function, 42, 311
+
+F
+Factorial, 4
+Fermat’s Little Theorem, 43
+Fibonacci, 31
+Fibonacci sequence, 31, 359
+Field, 359
+Field homomorphism, 52
+Field isomorphism, 52
+
+© The Editor(s) (if applicable) and The Author(s), under exclusive license
+to Springer Nature Switzerland AG 2020
+S. T. Dougherty, Combinatorics and Finite Geometry,
+Springer Undergraduate Mathematics Series,
+https://doi.org/10.1007/978-3-030-56395-0
+
+367
+
+368 Index
+
+Finite field, 52, 53
+Finite set, 1
+Function, 1
+
+G
+Games, 321
+Gauss, 35
+Generalized Hadamard matrix, 212, 359
+Generalized multiplicative counting principle,
+
+3
+Generalized Pigeonhole Principle, 15
+Goppa code, 318
+Graph, 359
+Graph coloring, 130, 358
+Greatest lower bound, 221
+Group, 234, 245, 359
+
+H
+Hadamard design, 209, 328, 359
+Hadamard matrix, 203, 211, 359
+Hall plane, 180
+Hamilton cycle, 120, 359
+Hamilton tour, 120, 359
+Hamming code, 275, 277, 282, 318
+Hamming distance, 231, 265
+Hamming scheme, 232
+Hasse diagram, 217, 224
+Hypercube, 359
+Hyperoval, 279, 359
+Hyperplane, 153, 359
+
+I
+Independent, 240
+Injective, 2
+Inverse function, 2
+Isomorphic, 53
+Isomorphic graphs, 127
+
+J
+Johnson scheme, 235
+
+K
+Klein-4 group, 247
+Königsberg bridge problem, 117
+k-partite graph, 126, 359
+Kronecker product, 205
+
+L
+LaGrange’s Theorem, 249, 273
+Latin hypercube, 214
+Latin square, 246, 257, 359
+Latin square graph, 126
+Latin subsquare , 359
+
+Lattice, 221, 359, 360
+Least upper bound, 221
+Liber Abaci, 31
+Linear graph, 124, 360
+Loop, 258
+Lucas numbers, 33
+
+M
+Magic square, 83, 360
+Main class, 91, 360
+Maximal element, 220
+McEliece cryptographic system, 317
+MDS code, 360
+Minimal element, 220
+Minimum weight, 266
+Monty Hall problem, 11, 242
+Morra, 11
+Multigraph, 118, 360
+Multinomial coefficient, 360
+Multiplicative counting principle, 3
+Mutually exclusive, 239
+Mutually Orthogonal Latin Squares (MOLS),
+
+360
+
+N
+Near field, 178, 360
+Net, 182, 329, 361
+Niels Henrik Abel, 246
+
+O
+Oval, 361
+
+P
+Parallel line, 156, 361
+Parity check matrix, 275, 361
+Partial Latin square, 361
+Partially ordered set, 216, 217, 361
+Pascal’s triangle, 6, 9
+Payley construction, 206
+Perfect code, 361
+Permutation, 5, 16, 361
+Permutation matrix, 317, 319
+Pigeonhole principle, 14
+Planar graph, 361
+Primitive root, 312, 315, 361
+Probability, 237, 361
+Projective geometry, 158, 191, 280
+Projective plane, 182, 275, 326, 361
+
+Q
+Quasigroup, 257, 361
+Quotient graph, 127
+
+
+
+Index 369
+
+R
+Reflexive, 35, 217
+Regular graph, 126, 361
+Repetition code, 266
+Residual design, 362
+Resolvable, 187
+Resolvable design, 187
+RSA, 313
+
+S
+Sample space, 237
+Schröder-Bernstein Theorem, 3
+Self-dual, 270
+Self-dual code, 362
+Self-orthogonal, 270
+Self-orthogonal code, 362
+Set, 1, 157
+Shor’s algorithm, 315
+Simple graph, 123
+Singer cycle, 362
+Singleton bound, 283
+Skew lines, 156, 362
+Sphere packing bound, 362
+Square number, 362
+Steiner triple system, 330, 362
+Stirling number, 69, 70, 362
+Subgroup, 245
+Subset, 1
+Surjective, 2
+
+Symmetric, 35
+Symmetric design, 190, 328, 362
+Symmetric group, 246
+Syndrome, 362
+
+T
+Tartaglia’s triangle, 6
+Ternary ring, 177
+Tic-Tac-Toe, 322
+Tour, 119
+Towers of Hanoi, 72
+Transitive, 35, 217
+Translation line, 177
+Translation plane, 177
+Transversal, 362
+Transversal design, 362
+Triangular number, 362
+Tripartite, 126
+
+U
+Unit, 362
+
+W
+Weight function, 324
+Wheel graph, 124, 131, 362
+Winning strategy, 322
+
+Z
+Zero divisor, 362

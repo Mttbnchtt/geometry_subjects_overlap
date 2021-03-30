@@ -1,0 +1,1101 @@
+ 
+
+AA
+
+Abelian group, 133
+Absolute value, 10
+of complex number, 110
+Absorption law, 362
+Addition (see also Sum)
+of cardinal numbers, 390
+of complex numbers, 107
+of inequalities, 10
+of matrices, 220 ff.
+of polynomials, 62 if.
+of vectors, 170
+Additive group, 170, 269, 415, 446
+Additive inverse, 2
+Adjoint of matrix, 325
+Aﬁine
+—geometry, 305 ff.
+—group, 269
+—independence, 309
+—space, 305
+—subspace, 306
+—transformation, 270
+Algebraic, 421
+——extension, 422
+—function ﬁeld, 427
+—integer, 443
+—number, 435
+
+Index
+
+—number ﬁeld, 438
+
+—variety, 410
+Algebraically
+
+—closed, 437
+
+——complete, 437, 454
+
+—independent, 73
+Alias-alibi, 271
+Alternating group, 154
+Angle between vectors, 202
+Annihilator, 211
+Anti-automorphism, 232
+Anti—symmetric law, 357, 372
+Archimedean property, 99
+Argument of complex number, 110
+Arithmetic, Fundamental Theorem
+
+of, 23
+
+Associate, 76
+Associative law, 2
+
+for groups, 127, 133
+
+for matrices, 224
+
+for rings, 2
+
+for transformations, 127
+
+general—, 13
+Atom, 378
+Augmented matrix, 247
+Automorphism, 36
+
+of a group, 157
+
+inner—, 158
+
+involutory, 232
+
+489
+
+ 
+
+Index
+
+490
+
+ 
+
+outer—, 158
+of a vector space, 235
+Axiom of choice, 129, 384
+
+‘B
+
+Barycentric coordinates, 310
+Base of parallelepiped, 328
+Basis, 176, 193
+change of—, 260
+for ideals, 402, 411
+normal orthogonal—, 203 ff.
+normal unitary—, 302
+of vector spaces, 176, 193
+Bijection, 33, 129
+Bilinear form, 281
+Bilinear function, 251
+Bilinear multiplication, 225
+Bilinearity, 199
+Binary operation, 33
+Binary relation, 34
+Binomial coefﬁcients, 14
+Block multiplication, 234
+Boolean algebra, 359, 361
+free—, 377
+isomorphism 01—, 377
+Boolean function, 368
+minimal polynomial, 370
+—polynomial, 368
+Bounds (lower, upper, etc.), 96
+
+C
+
+Cancellation law, 3, 391
+for cardinal numbels, 391
+
+for groups, 134
+Canonical form, 187, 248, 277
+bilinear—, 282
+disjunctiVH, 369
+for linear forms, 281
+for matricas, 187
+for quadratic forms, 283 Ff.
+Jordan—, 355
+primary rational—, 353
+Canonical projection, 207
+Cantor’s diagonal process, 386, 436
+Cardinal number, 381, 387
+Cartesian product, 34
+Cayley’s Theorem, 139, 269, 398,
+482
+Cayley—Hamilton Theorem, 340
+Center of a group, 144
+Centroids, 308
+Chain, 376
+Characteristic, 415 ff.
+-—equation, 333
+—polynomial, 331 ff.
+—root, 265, 332
+—vector, 265, 332
+Class (see Set)
+Closure under an operation, 1
+Codomain of transformation, 33,
+241
+Cofactor, 319
+Column
+—equivalent, 249
+-—operation, 248
+—rank, 250
+—vector, 232
+Commutative group, 133
+Commutative law, 2
+general—, 14
+
+ 
+
+Index
+
+491‘
+
+ 
+
+Commutative ring, 1, 69
+Commutator, 163
+Companion matrix, 338
+Complement in a lattice, 375
+Complementarity law, 359
+Complementation, 362
+Complementary subspaces, 196
+Complete ordered domain, 98
+Complete ordered ﬁeld, 98
+Complete set of invariants, 277
+Completing the square, 119
+Complex number, 41, 107 ff.
+Complex plane, 110
+Composite, 127
+Congruence (see also Congruent),
+25, 43
+—relation, 164
+Congruent, 25, 43, 405
+—matrices, 285
+Conic, 283, 296, 316
+Conjugate
+—algebraic numbers, 448
+—complcx numbers, 117
+—diameter, 308
+in a group, 158
+—quaternions, 257
+—subﬁelds, 474
+—subgroups, 163
+—vector space, 210
+Consistency principle, 359
+Constructive proof, 92
+Contain (a set), 358
+Content of polynomial, 86
+Continuum, cardinal number of,
+387
+Coordinates
+change of—, 260 ff.
+
+homogeneous—, 313
+of vectors, 193, 209, 262
+Coset, 146, 207
+Countable set, 384, 436
+Cover (in partial order), 372
+Cramer's Rule, 325
+CritiCal points, 291
+Cubic equation, 119
+—irreducible Case, 474
+—trigonometric solution, 102
+Cut, Dedekind, 104
+Cycle, 150 '
+Cyclic
+—group, 140
+—permutation, 150
+—subspace, 344
+Cyclotomic
+—equation, 112
+—polynomial, 89
+
+D
+
+Decimals, 97
+Decomposition of ideal, 450
+Decomposition of matrices, linear
+transformations, 346 ff.
+
+Dedekind cut (axiom), 104
+Deﬁning relation, 142
+Degree, 62, 66
+
+of extension ﬁeld, 429
+
+of polynomial, 62
+De Moivre formulas, 111
+Denumerable set, 384
+Dependence, linear, 176
+Derivative, formal, 465
+
+Determinant, 48, 318 ff.
+
+ 
+
+ 
+
+Index
+
+492
+
+ 
+
+—rank, 326
+Diagonal matrix, 228
+Diagonal process, 386, 436
+Diagonally dominant, 323
+Diagram, for partial order, 372
+Dihedral groups, 143
+Dilemma, Pythagorean, 94
+Dimension of vector space, 169, 178
+Direct product, 156
+Direct sum, 195
+of matrices, 347
+of rings, 396
+of subspaces, 195, 346
+Discriminant, 117
+of cubic, 120
+Disjunctive canonical form, 369
+Distance, 201
+Distributive lattice, 363
+Distributive law, 2, 134, 170
+for Boolean algebra, 362
+for cardinal numbers, 390
+general, 14
+for matrices, 224
+right, 4
+for sets, 359
+Divisible, 16
+Division
+—algebra, 396, 414
+—Algorithm, 18, 74, 440
+—ring, 256, 401
+Divisor, 16
+greatest common—, 19
+Divisor of zero (see Zero divisor)
+Domain, 33, 241
+integral—, 3
+ordered—, 9, 98
+unique factorization—, 84
+
+Dual
+—basis, 210
+—isomorphism, 473
+—numbers, 397
+—space, 210
+Duality principle, 212, 373
+Dualization law, 359
+Duplication of cube, 434
+
+E
+
+Echelon matrix, 184, 185
+Eigenvalue, 265, 332
+Eigenvector, 265
+Eisenstein‘s irreduclbility criterion,
+88
+Elementary
+—column operation, 248
+—divisors, 353
+—matrix, 243 11., 321
+—row operation, 181
+—symmetric polynomial, 154
+Elimination, 48, 180
+Elliptic function ﬁeld, 427
+Epimorphic image, 400
+Epimorphism, 399
+Equality
+of functions, 127
+laws of—, 3, 26
+of transformations, 127
+Equations (see also Polynomial)
+simultaneous linear—, 47
+of stable type, 122
+Equivalence, 248, 277
+under a group, 277 ff.
+—relation, 34, 164
+
+ 
+
+ 
+
+ 
+
+Index
+
+493
+
+ 
+
+Erlanger Program, 132
+Euclidean Algorithm, 18
+for Gaussian integers, 441
+for polynomials, 81
+Euclidean group, 131, 276
+Euclidean vector space, 200 ff.
+Even permutation, 153
+Exponentiation of cardinal numbers,
+392
+Exponents, laws of, 14
+Extension, 45
+Extension ﬁeld, 421
+iterated—, 431 If.
+
+F
+
+Factor, 16
+—group (see Quotient—group)
+Fermat Theorem, 28, 418
+Field, 38, 133
+of quotients, 43
+of sets, 378
+Finite
+—dimensional, 178
+—extension, 429
+—ﬁeld, 456 if.
+—set, 383
+Finite induction, 13
+second principle of, 15
+Formal derivative, 465
+Four group, 151
+Full linear group, 268
+Fully reducible, 347
+Function, 32
+Fundamental Theorem
+of Algebra, 113 ff.
+
+of Arithmetic, 23
+
+of Galois theory, 472
+
+of Ideal theory, 450
+
+on symmetric polynomials, 154
+
+G
+
+Galileo paradox, 384
+Galois ﬁeld, 458
+Galois group, 459 ff.
+Gauss elimination, 48, 180
+Gauss‘ Lemma, 85
+Gaussian domain (see Unique factor-
+ization domain)
+
+Gaussian integer, 439
+Generation of subalgebras, 369
+Generators
+
+of a ﬁeld extension, 421
+
+of group, 141
+
+of vector space (see Span)
+Gram—Schmidt process, 204
+Greatest common divisor, 19, 81, 407
+Greatest lower bound, 96, 374
+Group, 124 ﬂ., 133
+
+abstract—, 133
+
+—algebra, 397
+
+cyclic—, 140
+
+of transformations, 126, 130
+
+H
+
+Hadamard determinant theorem, 331
+Hermitian form, 302
+
+Hermitian matrix, 300 11.
+
+Hilbert Basis Theorem, 412
+
+ 
+
+Index
+
+494
+
+ 
+
+Hilbert Nullstellensatz, 413
+Holomorph of a group, 313
+Homogeneous
+
+—coordinates, 313
+
+—linear equations, 51, 190, 219
+
+—quadratic forms, 283
+Homomorphism
+
+—of a group, 155
+
+—-of a lattice, 377
+
+—of a ring, 69 5., 399
+Hypercomplex numbers, 396
+Hyperplane, 191
+
+Ideal, 80, 400
+
+prime——, 405
+
+principal—, 80, 402
+
+—quotient, 410
+Idempotent law, 359
+Identity, 65
+
+—element, 2, 133
+
+—function, 65
+
+—law, 128, 133
+
+—matrix, 185, 225
+
+—transformation, 127
+Image, 33, 241
+
+of subspace, 240
+Imaginary component, 108
+
+—numbers, 107
+Improper Ideal, 401
+Inclusion, 357
+
+for Boolean algebra, 365
+
+for partial ordering, 372
+Incomparable sets, 35 8
+Independence
+
+afﬁne—, 309
+
+algebraic—, 73
+
+linear—, 176
+Indeterminate, 63
+Index of subgroup, 146
+Induction principle
+
+ﬁnite—, 13
+
+second—, 15
+Inequality, 10
+
+of cardinal numbers, 387
+
+Schwarz—, 201
+
+triangle—, 201
+Inﬁnite set, 383
+Inner automorphism, 158
+Inner product, 198 ff.
+Inseparable polynomial, 465
+Insolvability of quintic, 478
+Integers, Ch. 1
+
+algebraic—, 443
+
+positive—, 9
+Integral domain, 3
+Intersection, 358
+
+of ideals, 407
+
+of subgroups, 145
+
+of subspaces, 174
+Invariant
+
+—Subgroup, 159
+
+—subspace, 344
+Invariants, 277
+
+of a matrix, 334
+
+of quadratic functions, 287 IT.
+Inverse, 38, 47
+
+additive—, 173
+
+—law, 133
+
+left—, right—, 128
+
+of a matrix, 229, 235
+
+of a transformation, 128, 136
+
+ 
+
+Index
+
+495
+
+ 
+
+Invertible, 16, 76, 229
+Involution law, 359
+Involutory automorphism, 232, 235
+Irrational number, 95
+Irreducible element
+
+—polynomial, 76, 78 ﬂ.
+Isometry, 131
+Isomorphism, 35, 65
+
+of commutative rings, 35
+
+of groups, 137
+
+of lattices, 377
+
+of vector spaces, 194, 240
+Iterated ﬁeld extension, 431 ff.
+
+J
+
+Join, 364
+
+of ideals, 408
+
+of subgroups, 146
+Join-irreducible, 378
+Jordan matrix, 354
+
+K
+
+Kernel of homomorphism, 156, 207,
+400
+
+Kronecker delta, 275
+
+Kronecker product, 255
+
+L
+
+Lagrange interpolation formula, 68
+—theorem for groups, 146
+
+Lattice, 363, 374 ff.
+
+Leading coefﬁcient, term, 66
+
+Least common multiple, 20, 407
+
+Least upper bound, 96, 374
+Left coset, 146
+Left ideal, 413
+Left identity, 134
+Left inverse, 128, 134, 238
+Length of vector, 199, 201, 301
+Linear
+—algebra, 396
+—combination, 173
+—dependence, 176
+—equations, 47, 182
+—form, 280
+—fractional substitution, 315
+—function, 208
+—groups, 260 11., 268
+—independence, 176
+—space (see vector space)
+—sum of subspaces, 174
+—transformations, 216
+Liouville number, 439
+Lorentz transformation, 296
+Lower bounds, 96, 374
+
+M
+
+Majorizable, cardinally, 387
+
+Matn‘c polynomial (A—matrix), 340
+
+Matrix, 180 11., 214 ff.
+circulant, 340
+companion—, 338
+diagonal—, 228
+diagonally dominant, 323
+hermitian—, 300 ff.
+invertible—, 229
+Jordan—, 354
+monomial—, 228
+
+Index
+
+496
+
+ 
+
+nilpotent—, 313
+nonsingulaI—, 229
+onhogonal—, 275 '
+reduced echelon—, 184
+row-reduced—, 183
+triangular—, 229
+unimodular—, 330
+unitary—, 300 ff.
+Maximum, 291
+Maximal ideal, 405
+Meet, 363
+—irreducible, 378
+Metamathematics, 373
+Metn‘c properties, 202
+Midpoint, 305
+Minimal polynomial, 337, 423
+Boolean, 370
+Minimum, 291
+Minor of matrix, 320
+Modular lattice, 376
+Module, modulus (of a congruence),
+25 ﬂ.
+Monic polynomial, 66
+Monomial matrix, 228
+Multiple, 16
+least common—, 20
+Multiplication (see also Product)
+of matrices, 222 ff.
+scalar—, 170
+—table of group, 135
+Multiplicity of roots, 116
+
+N
+
+Natural multiple, 415
+Nilpotent matrix, 313
+
+Nonhomogeneous coordinates, 313
+Nonsingular matrix, 229, 237, 246
+Nonsingular linear transformation,
+235
+Norm, 25 7, 281
+of complex number, 439, 448
+of vector (see Length of vector)
+Normal
+—ﬁeld extension, 468
+—orthogonal basis, 203 ff.
+—subgroup, 159
+—unitary basis, 302
+Null-space, nullity, 242
+Null vector, 172
+
+0
+
+Odd permutation, 153
+One-one, 33, 128
+Onto, 33, 128
+Operation, binary, 33
+Operational calculus, 226
+Order
+of a group, 146
+of a group element, 141
+—isomorphism, 59
+of a linear algebra, 396
+Ordered domain, 9, 69
+Ordered ﬁeld, 52
+Orthogonal, 176
+—group, 275
+—matn‘x, 275
+—projection, 205
+—transformation, 273
+—vector, 119, 302
+Outer automorphism, 158
+
+ 
+
+ 
+
+Index
+
+497
+
+ 
+
+Outer product of vectors, 258
+
+P
+
+Paradox of Galileo, 384
+Parallel, 307
+Parallelepiped, 328
+Parallelogram law, 168
+Partial fractions, 90 6.
+Partial order, 371 ff.
+Partition, 165
+Peano postulates, 57
+Permutation, 130, 150
+—group, 150
+—matrix, 228
+Polynomial, 61 ff.
+form, 63
+function, 65, 411
+—ideal, 410 ff.
+inseparable, 465
+irreducible—, 76, 78 ff.
+minimal—, 337, 423
+moniC—, 66
+separable—, 465
+symmetric—, 154
+Positive deﬁnite, 289
+Positive integers (postulates), 9, 54
+Positive semi-deﬁnite, 297
+Postulates, 1
+Power (see also Exponent)
+of group element, 140
+Primary canonical form, 353
+Primary component, 348
+Prime, 17
+—ﬁeld, 419
+—ideal, 405
+
+—integer, 17
+
+relatively—, 22, 81
+Primitive polynomial, 85
+Primitive root of unity, 113
+Principal axes, 294, 333
+Principal Axis Theorem, 294, 303
+Principal ideal, 80, 402
+Principle of Finite Induction, 13
+
+Second—, 15
+Product (see also Multiplication)
+
+of cardinal numbers, 390
+
+of cosets, 161, 166, 404
+
+of determinants, 324
+
+of ideals, 409
+
+of matrices, 222, 224
+
+tensor—, 251 ff.
+
+of transformations, 127, 222 ff.
+Projective
+
+—conlc, 316
+
+—geometry, 312 11.
+
+—group, 314
+
+—line, 312 ff.
+
+—plane, 312
+
+—space, 313
+
+—subspace, 313
+
+—transformation, 314
+Proper
+
+—homomorphism, 401
+
+—ideal, 401
+
+—subgroup, 143
+Properly contain, 358
+
+Q
+
+Quadratic
+—equation, 119
+
+ 
+
+ 
+
+ 
+
+Index
+
+498
+
+ 
+
+—form, 283 ff.
+—function, 296 ff.
+—integers, 448
+Quadric, 296 ff.
+Quartic equation, 121 ff.
+Quatemion group, 258
+Quatemions, 255 IT.
+Quintic equation, 478
+Quotient, 18, 39, 43
+ﬁeld of —s, 44
+—group, 161 11.
+—ring, 403 IT.
+—space, 206 11.
+
+R
+
+Radical of an ideal, 413
+Radicals, solution by, 121
+Range (of transformations), 33
+Rank
+of bilinear form, 282
+determinant—, 326
+of matrix, 185, 241 11.
+of quadratic form, 289
+Rational
+—canonical form, 353
+—form, 63
+—functlon, 67, 411
+—integer, 443
+—number, 42 ff.
+Real numbers, 98
+Real quadratic form, 288 ff., 335
+Real symmetric matrix, 290, 294,
+335
+Rectangular matrix, 230
+Recursive deﬁnition, 14
+Reducible polynomial, 76
+
+Reﬂection, 124, 216, 273
+Reﬂexive law, 3, 34
+of congruence, 26
+for divisibility, 16
+for equivalence relations, 34, 164
+for inclusion, 357
+Relations, 34, 163
+binary—, 34
+equivalence—, 34, 164
+Relatively prime, 28, 81
+Remainder, 18, 74
+Remainder Theorem, 75
+Residue class, 20, 166, 403
+—ring, 403
+Right
+—coset, 146
+—ideal, 413
+—identity, 128
+—inverse, 134, 238
+Rigid motion, 275
+Ring, 395
+commutative—, 1, 29, 69, 402 ff.
+division—, 256, 401
+noncommutative, 395
+of sets, 378
+Root ﬁeld, 452 ff.
+—isomorphism, 455
+normal—, 468
+Roots of equations, 79, 101, 112 ff.
+cubic—, 102, 119, 474 ff.
+polynomial, 101
+quartic—, 121
+Roots of unity, 112
+primitive—, 1 13
+Rotation, 125, 214
+Row
+—equivalent, 181 11., 186, 246
+
+Index
+
+499
+
+ 
+
+—matrix, 232
+—rank, 242
+—reduced, 183
+—space, 180
+
+S
+
+Saddle-point, 291
+Scalar, 168
+
+—matrix, 229, 232
+
+—multiples (see Product)
+
+—product, 168, 172, 221
+Schroeder—Bemstein theorem, 387
+Schwarz inequality, 201
+Self-conjugate subgroup, 159
+Semidistributive laws, 375
+Separable extension, 465
+Separable polynomial, 465
+Set, 32, 357
+Shear transformation, 217, 247
+Signature of quadratic form, 289
+Signum (of permutation), 319
+Similar matrices, 264, 333
+Similarity transformation, 132, 276
+Simple extension of ﬁeld, 421
+Simple linear algebra, 414
+Simultaneous
+
+—congruences, 27, 43
+
+—indetermlnates, 73
+
+—linear equation, 47, 182, 247,
+
+318
+
+Singular matrix, 235
+Skew-linearity, 301
+Skew-symmetric matrix, 283
+Skew—symmetry, 301
+
+Solution by radicals, 121 ff., 480
+Solution space, 191
+Solvable group, 479
+Span, 174
+Spectrum, 265
+Square, group of, 124 ff.
+Stable type (equations), 122
+Subalgebra (of Boolean algebra),
+368
+Subdomain, 7
+Subﬁeld, 40
+Subgroup, 143
+normal—, 159, 473
+Sublattice, 378
+Submatrix, 233, 320, 326
+Subring, 70, 396
+Subset, 32, 357 ff.
+SubSpace, 173 ff., 185 ﬁ.
+afﬁne—, 306
+lnvariant—, 344
+parallel—, 207
+T—cyclic—, 344
+Substitution property, 26, 165
+Successor function, 57
+Sum (see also Addition, Direct sum)
+of ideals, 407
+of matrices, 221
+of subspaces, 174
+Surjection, 33
+Sylvester’s law of inertia, 288
+Symmetric
+—diﬂerence, 376
+—group, 130, 154, 481
+—law, 3, 34, 199
+—matrix, 283
+—polynomial, 154, 470
+Symmetries, 124, 131
+
+ 
+
+ 
+
+Index
+
+500
+
+ 
+
+T
+
+Tensor product, 254
+Total matrix algebra, 397
+Trace of a matrix, 336
+Transcendental extension, 422
+—number, 422
+Transformation, 126
+aﬁine—, 269 ff., 298, 330
+linear—, 216 11., 241
+one-one, onto, 128
+orthogonal—, 273
+projective—, 314
+unitary—, 300
+Transforms, set of, 241
+Transitive law, 3, 9, 26, 34
+for inclusion, 357, 372
+Transitive relation, 34
+Translation, 269
+Transpose of matrix, 219, 231, 320
+Triangle inequality, 201
+Triangular matrix, 229, 322
+Trichotomy (law of), 9, 10
+Trigonometric solution of cubic, 102
+Trisection of angle, 434
+Two-sided ideal, 413
+
+U
+
+Unary operation, 362
+Unimodular group, 330
+Union (see also Join), 358
+Unique factorization, 23 ff., 80 ﬂ.
+of algebraic integers, 450
+—domain, 84
+of Gaussian integers, 441
+of polynomials, 80 11“,
+Unit, 16, 76, 439, 449
+
+Unit vectors, 176
+Unitary basis, 302
+Unitary matrix, 300 ff, 302
+Unitary space, 301
+Unitary transformations, 300
+Unity, 2, 396
+
+for commutative rings, 2, 69
+Universal bounds, 359
+Universality, 254
+Upper bounds, 96, 374
+
+V
+
+Vandermonde determinant, 323
+Vector, 168 ff.
+—addition, 170
+characteristic (eigenvector), 265
+—equations, 188
+—product, 258
+unit—, 176
+zero—, 172
+Vector space, 172 ff.
+dimension of, 169, 178
+Venn diagram, 357
+Vieta substitution, 119
+Volume, 327
+
+W
+
+Well-ordering principle, 11
+Winding number, 115
+
+Z
+
+Zero (see also Roots of equations),
+2, 347
+—divisor, 6, 69
+—matrix, 221
+—vector, 172
+
+ 
+
+ 
+

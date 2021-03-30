@@ -1,0 +1,354 @@
+
+•
+Subject index
+
+absolute property, 47
+abstract surface, 239
+algebra, 240
+angle defect, 39
+angle excess, 10
+angle of parallelism, 46
+arc length, 79, 245
+area, 135
+astroid, 97
+asymptotic line, 180
+atlas, 239, 284
+axiomatic method, 12
+
+Beltrami disk, 255
+Bertrand mate, 114
+betweenness, 14
+Bianchi identity, 310
+binormal vector, 100
+
+catenary curve, 170
+Cauchy sequence, 197
+center of curvature, 82
+change of coordinates, 122
+Christoffel symbols, 174, 245, 295
+circle, 218
+circumference of a circle, 68
+Clairaut’s relation, 191
+colatitude, 153
+completeness, 17
+complex conjugate, 268
+conformal mapping, 140
+congruence, 15, 172
+connection, 309
+constant curvature manifold, 301
+convex surface, 170
+coordinate chart, 118
+coordinate curves, 124
+coordinates
+spherical, 4
+
+corresponding points, 49
+covariant derivative, 304
+critical point, 121
+cross product, 99
+cross ratio, 269
+curvature
+(unsigned) plane, 82
+for space curves, 100
+Gauss-Riemann, 245
+Gaussian, 165
+geodesic, 186
+mean, 169
+normal, 156
+oriented, 87
+principal, 158
+total, 209, 215
+
+curve
+catenary, 96
+parametrized, 77
+regular, 78
+reverse of, 86
+
+cycloid, 90
+
+Darboux vector, 113
+development, 171
+diffeomorphism, 123, 242
+differentiable function, 123, 239
+differentiable mapping, 285
+differentiable structure, 239, 284
+differential, 242, 286
+dihedral angle, 7
+distance, 78
+distance on a surface, 196
+dot product, 78
+Dupin indicatrix, 170
+
+elementary neighborhood, 212
+ellipsoid, 121
+elliptic integral, 79
+
+354
+
+Subject index 355
+
+embedding, 249
+energy function, 220
+equiareal mapping, 140
+equidistance, 30
+Euler-Poincaré characteristic, 208
+evolute, 92
+exponential map, 195
+
+Fano plane, 23
+figure, 172
+first fundamental form, 128
+flat torus, 244
+formula of Hazzidakis, 232
+frame, 100
+Frenet-Serret apparatus, 102
+
+G.Projector, 143
+Gauss equations, 178
+Gauss map, 160
+Gauss’s Lemma, 219
+generalized polygon, 215
+geodesic, 188, 247, 306
+geodesic equations, 188
+geodesic mapping, 251
+geodesic parallels, 223
+geodesic polar coordinates, 219
+geodesically complete, 196
+geodetic torsion, 200
+geometric property, 110
+graph, 119
+great circle, 4
+
+HAA, 38
+helix, 79
+general, 108
+
+HOA, 38
+horocycle, 49
+horosphere, 63
+HRA, 38
+hyperbolic geometry, 276
+hyperbolic plane, 47
+
+hyperbolic point, 159
+hyperbolic space, 62
+hyperbolic trigonometric functions, 52
+hyperboloid, 121
+
+incidence geometry, 13
+index of a bilinear form, 293
+integral curve, 180
+intrinsic equations, 113
+intrinsic property, 172
+involute, 92
+isometric embedding, 249
+isometry, 110, 171, 248
+
+Jacobian, 241
+Jacobian matrix, 117
+
+Koszul connection, 311
+Kronecker delta, 106
+
+Lagrange formula, 112
+Lagrange’s formula, 135
+law of sines
+hyperbolic, 67
+
+Levi-Civita connection, 310
+lift of a mapping, 212
+line
+parallel to plane, 60
+perpendicular to a plane, 56
+
+line element, 130
+polar, 154
+
+line in the direction V(q), 180
+line of curvature, 170, 179
+linear fractional transformation, 267
+local isometry, 173
+Lorentz manifold, 293
+loxodrome, 150
+
+Möbius band, 137
+Möbius transformation, 267
+Mainardi-Codazzi equations, 178
+
+
+
+356 Subject index
+
+manifold, 283
+map projection
+Lambert cylindrical, 149
+azimuthal, 153
+central, 147
+cylindrical, 148
+equirectangular, 141
+Mercator, 151
+sinusoidal, 153
+
+metric, 129
+metric space, 14
+complete, 197
+
+minimal surface, 169
+Minkowski space, 294
+moving frame, 102
+
+neutral space, 55
+nondegenerate inner product,
+
+293
+nonintersecting lines, 44
+norm, 78
+normal neighborhood, 195
+normal vector, 124
+null vector, 294
+
+open set, 117
+orthogonal group, 111
+orthogonal parametrization, 134
+osculating circle, 100
+osculating plane, 100
+
+parabolic point, 159
+parallel lines, 44
+in space, 55
+
+parallel planes, 60
+parallel transport, 308
+parametrization
+by arc length, 80
+
+Pasch’s axiom, 17
+pencil of lines, 47
+perpendicular, 15
+
+perpendicular planes, 59
+perpendicular projection, 60
+pitch, 79
+planar point, 159
+Playfair’s axiom, 28
+Poincaré disk, 264
+Poincaré half-plane, 267
+point transitive group, 224
+polarization identity, 111
+pole, 256
+pons asinorum, 24
+Postulate I, 13
+Postulate II, 13
+Postulate III, 15
+Postulate IV, 15
+Postulate V
+equivalents, 36
+
+principal directions, 158
+pseudo-Riemannian manifold,
+
+293
+pseudosphere, 228
+Pythagorean Theorem
+spherical, 6
+hyperbolic, 66
+
+Qibla, 11
+quadratic form, 163
+
+ray, 14
+Rayleigh quotient, 114
+real projective n-space, 285
+real projective plane, 238
+regular value, 121
+reparametrization, 80
+Ricci’s lemma, 310
+Riemann sphere, 268
+Riemannian metric, 243, 290
+right-hand orientation, 100
+rigid motion, 110
+ruler, 14
+
+Subject index 357
+
+Saccheri quadrilateral, 37
+second fundamental form, 163
+self-adjoint mapping, 162
+similar triangles, 34
+solving the triangle, 8
+spacelike, 294
+speed, 78
+sphere, 3
+standard orientation, 86
+stereographic projection
+inverse, 333
+
+surface
+of rotation, 119
+orientable, 126
+regular, 117
+topological, 121
+
+tangent bundle, 287
+tangent plane, 126
+tangent vector, 78, 124, 240, 285
+tautochrone, 89
+Theorem
+alternate interior angles, 19
+exterior angles, 17
+of Girard, 9
+of Saccheri-Legendre, 18
+Pythagorean
+Euclidean, 20
+
+Three Musketeers, 33
+Frenet-Serret, 102
+fundamental theorem for plane
+curves, 88
+
+fundamental theorem for regular
+surfaces, 179
+
+fundamental theorem for space
+curves, 106
+
+fundamental theorem of Riemannian
+geometry, 309
+
+Hopf–Rinow, 197
+implicit function, 120
+inverse function, 120
+of Beltrami, 251
+of Diguet, 233
+of Hilbert, 226, 231
+of Jacobi, 210
+of Liebmann, 226
+of Lobachevskiı̆–Bolyai, 64
+of Lobachevskiı̆-Bolyai, 260
+of Meusnier, 164
+of Minding, 224
+
+Theorem of sines
+spherical, 7
+
+timelike, 294
+Tissot indicatrix, 155
+torsion, 101
+torus, 121, 242
+trace
+of a curve, 77
+
+tractrix, 84, 95
+transformation groups, 172
+turning angle, 87
+
+umbilic point, 159
+unit speed curve, 80
+unrolling, 244
+
+vector field, 180, 288
+
+Wallis’s postulate, 34
+Word from our sponsors, 194
+world line, 294

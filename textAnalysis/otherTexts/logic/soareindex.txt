@@ -1,0 +1,226 @@
+Index
+
+∆2 -permitting, 128
+Π01 -class, 167
+Σ1 set, 24
+Σ3 -Representation Theorems, 89
+Σn , Πn , and ∆n sets, 79
+Σn -complete set, 85
+1-generic sets, 137
+acceptable numbering, 21
+Acceptable Numbering Theorem, 21
+Ackermann function, 231
+antibasis, 175
+arithmetical hierarchy, 79
+Arslanov Completeness Criterion, 118
+avoiding cones, 134
+Baire Category Theorem, 212
+Banach-Mazur games, 211
+basis theorems for Π01 classes, 175
+bounded reducibilities, 73
+bounded Turing reducibility, 73
+Bounded T -Reducibility Theorem, 76
+canonical index of finite set Dy , 34
+canonical simple set, 110
+Cantor space, 165
+Cantor-Bendixson rank, 172
+
+characteristic index, 33
+characterizing nonlow2 sets, 98
+Church’s Thesis, 5
+closed classes, 166
+Compactness Theorem, 168
+compatible, 142
+Complementation Theorem, 26
+computable function, 5
+computable permutation, 19
+computably bounded, 114
+Computably Dominated Basis
+Theorem, 178
+computably enumerable (c.e.) set, 13
+computably inseparable, 19
+computably invariant, 19
+computably presented, 134
+computably traceable, 192
+computation function, 126
+Cone Avoidance Theorem, 156
+countably universal, 133
+creative set, 38
+Creative Set Theorem, 39
+cylinder, 19
+d.c.e., n.c.e., and ω-c.e. sets, 75
+deficiency set, 115
+Dekker’s Theorem, 115
+
+© Springer-Verlag Berlin Heidelberg 2016
+R.I. Soare, Turing Computability, Theory and Applications of Computability,
+DOI 10.1007/978-3-642-31933-4
+
+261
+
+262
+
+Index
+
+dense open subsets, 170
+diagonally noncomputable (d.n.c.),
+185
+dominating function, 114
+domination, 64
+domination and escaping, 94
+dynamic definitions for c.e. sets, 47
+Dynamic Flow Theorem, 48
+e-splitting lemmas, 199
+e-splitting strings, 198
+eﬀective compactness theorem, 169
+eﬀectively immune, 119
+eﬀectively inseparable, 41
+Entscheidungsproblem, 4
+Enumeration Theorem, 11
+exact pair, 142
+finite extension paradigm, 214
+finite extensions, 131
+finite injury, 147
+first category, 213
+fixed point free, 118
+forcing the jump, 137
+Friedberg Completeness Criterion,
+139
+Friedberg Splitting Theorem, 49
+Friedberg-Muchnik Theorem, 152
+function tree (f-tree), 197
+Gödel-Rosser sentence, 184
+Gale Stewart games, 217
+general permitting, 122
+general recursive in, 240
+generic sets, 137
+graph of a function, 24
+Graph Theorem, 25
+halting problem, 14
+Herbrand-Gödel recursive, 232
+Hierarchy Theorem, 85
+High Domination Theorem, 96
+Hilbert’s programs, 227
+hyperimmune, 114
+hyperimmune-free degrees, 124
+hypersimple set, 113
+immune, 109
+index set, 16
+
+Index Set Theorem, 16
+injury set, 148
+inverting the jump, 139
+jump operator, 61
+Jump Theorem, 61
+Kleene Normal Form, 234
+Kleene’s µ-Recursive Functions, 233
+Kreisel Basis Theorem, 169
+Kreisel-Shoenfield Basis Theorem,
+176
+Kurtz test, 193
+Lachlan games, 43
+Lachlan notation, 57
+lattice E of c.e. sets, 27
+limit computable sets, 63
+Limit Lemma, 66
+Listing Theorem, 26
+low and high sets, 69
+Low Antibasis Theorem, 179
+Low Basis Theorem, 71
+low simple sets, 149
+lown and highn sets, 92
+majorizes, 95
+many-one degree, 15
+many-one reducible, 14
+Martin-Löf Randomness, 189
+meager and comeager sets, 211
+minimal degree, 197
+minimal indices, 32
+minimal pair, 134
+Modulus Lemma, 68
+movable markers, 87
+Myhill Isomorphism Theorem, 20
+nonbasis theorems for Π01 -classes, 176
+Nonconversion Theorem, 34
+nonprimitive recursive functions, 231
+Normal Form for C.E. Sets, 23
+nowhere dense, 213
+one-one degree, 15
+one-one reducible, 14
+open classes, 165
+oracle construction, 132
+Oracle Graph Theorem, 56
+
+Index
+oracle graphs of functionals, 54
+oracle machine, 51
+Padding Lemma, 10
+partial computable function, 4
+Peano arithmetic, 183
+permitting and simple sets, 111
+permitting as a game, 112
+permitting constructions, 57
+Post’s contributions, 241
+Post’s Problem, 107
+Post’s simple set, 109
+Post’s Theorem, 83
+prefix free graph, 54
+preservation strategy, 156
+primitive recursive functions, 229
+priority ordering of requirements, 49
+procedure, 3
+productive set, 38
+projection, 23
+Proper Lown Basis Theorem, 181
+Quantifier Contraction Theorem, 24
+r-complete, 38
+recursion terminology, 245
+Recursion Theorem, 29
+Reduction Principle, 26
+relative computability, 51
+Relativized Post’s Theorem, 92
+relativized standard theorems, 58
+restraint functions as walls, 151
+reverse permitting, 123
+Rice’s Theorem, 16
+s-m-n Theorem, 12
+Sacks minimal degree a < 0′ , 203
+Sacks Splitting Theorem, 158
+second category, 213
+self-dual, 33
+separation principle, 27
+Shoenfield Jump Inversion, 145
+simple set, 108
+simultaneous computable
+enumeration (s.c.e.), 46
+Spector minimal degree a < 0′′ , 201
+strong array of finite sets, 113
+Superlow Basis Theorem, 177
+
+thickness requirement, 142
+trees, 71
+truth-table reducibility, 74
+Truth-Table Theorem, 75
+Turing computability, 52
+Turing computable functional, 53
+Turing computation, 8
+Turing degrees, 60
+Turing machine, 7
+Turing program, 7
+Turing’s Thesis, 5
+Uniformization Theorem, 25
+uniformly c.e., 46
+Union Theorem, 26
+universal machine, 11, 12
+universal Martin-Löf test, 190
+upper and lower bounds, 141
+use function, 54
+Use Principle, 57
+Weak König’s Lemma, WKL, 168
+weakly 1-random, 193
+wtt-reducible, 73
+y-section of A, namely A[y] , 76
+
+263
+
+

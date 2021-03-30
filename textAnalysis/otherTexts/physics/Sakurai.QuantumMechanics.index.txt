@@ -1,0 +1,571 @@
+
+Index
+
+Abelian group, 154
+absorption of radiation, 347
+adiabatic approximation, 328
+Aharonov, Y., 133
+Aharonov–Bohm effect, 120, 131, 335
+Airy function, 102, 107
+ammonia maser, 326
+ammonia molecule, 262
+Anderson, C., 495
+angular momentum
+
+addition, 205
+addition of orbital plus spin 12 , 206
+addition of two spin 12 , 206
+barrier, 197
+commutation relations, 26, 154, 209
+Dirac equation, 497
+eigenvalues, 180
+orbital, 28, 188
+partial wave decomposition, 388
+quantization, 3
+
+anticommutator, 26
+anyons, 433
+Argand diagram, 396
+Aspect, A., 231
+atomic fine structure, 307, 309, 310
+atomic force microscope, 471
+atomic polarizability, 299
+
+Baker–Hausdorff lemma, 89
+Balmer formula, 204, 507
+Bell’s inequality, 227
+Bell, J. S., 227
+Berry’s phase, 138, 331
+
+Aharonov–Bohm effect, 336
+neutrons, 334
+photons, 333
+
+Berry, M. V., 331
+Bethe, H. A., 422
+Bloch’s theorem, 269
+Bloch, F., 422
+Bohm, D., 133, 226
+Bohr model, 204
+Bohr radius, 204, 318, 462
+Bohr, N., 1, 69
+Born approximation, 375, 384
+
+higher orders, 387
+
+Born, M., 45, 83, 93, 95, 180
+Bose–Einstein condensation, 434, 457
+bosons, 433, 455
+bra, 12
+
+representation as row matrix, 18
+Brillouin zone, 269
+Brillouin, L., 104
+Burke, K., 451
+
+canonical commutation relations, 45
+Casimir effect, 468
+Cayley–Klein parameters, 165
+charge conjugation symmetry, 498
+classical correspondence, 76, 79, 81, 90, 96, 116, 326
+Clebsch–Gordan coefficients, 208, 210
+
+and tensor operators, 236
+recursion relations, 212
+rotation operator, 216
+unitary matrix, 211
+
+Clifford algebra, 490
+commutator, 26
+compatibility, 27, 68
+completeness, 17, 18
+Compton effect, 1
+Compton wavelength, 480
+confluent hypergeometric function, 203
+conservation laws, 249
+
+and symmetry operators, 250
+classical Hamiltonian, 250
+
+constant of the motion, 250, 252
+continuity equation, 94, 482, 492
+Coulomb potential, 201
+covariance, 481
+CPT symmetry, 501
+cross section
+
+photoelectric effect, 351
+radiation absorption, 348
+Rutherford, 386, 424
+scattering, 373, 381
+
+Dalgarno, A., 300
+Darwin term, 311
+Davisson–Germer–Thompson experiment, 1
+de Broglie, L., 1, 43, 62, 93
+degeneracy, 27, 98, 201, 205
+
+and parity symmetry, 260
+
+!""
+
+!"! Index
+
+and perturbation theory, 300
+connection to symmetry, 251
+exchange, 430, 442
+
+density matrix, 172
+density of states, 98, 344, 350, 353, 373
+density operator, 172
+diagonalization, 28, 35
+
+in degenerate subspace, 302
+Dirac delta function, 38
+Dirac equation, 478, 491
+Dirac picture, 322
+Dirac, P. A. M., 1, 10, 15, 22, 45, 47, 78, 83, 115, 137,
+
+338, 344, 490
+Dyson, F. J., 67, 339
+
+effective potential, 196
+Ehrenberg, W., 133
+Ehrenfest theorem, 81
+Ehrenfest, P., 81
+eigenket, 11, 16, 81
+
+energy, 67, 70
+position or momentum, 38, 53
+simultaneous, 28, 181
+
+eigenvalue, 11, 16, 23
+angular momentum, 180
+continuous, 37
+
+Einstein’s locality principle, 226
+Einstein, A., 226
+Einstein–Debye theory, 1
+Einstein–Podolsky–Rosen paradox, 226
+electric dipole approximation, 348
+energy bands, 268
+energy-time uncertainty relation, 74
+ensemble, 22, 169
+
+pure, 172, 177
+time evolution, 175
+
+ensemble average, 171
+Ernzerhof, M., 451
+Euler angles, 166, 187, 194, 222
+exchange degeneracy, 430, 442
+exchange density, 436
+exchange-correlation energy, 448, 450
+expectation value, 23, 68
+
+under rotation, 155
+
+Fermi energy, 457, 462
+Fermi’s golden rule, 344, 373
+fermions, 433, 455
+Fetter, A. L., 509
+Feynman, R. P., 114, 115, 509
+Fock space, 454
+form factor, 421, 423, 428
+Fortun, M., 469
+Fourier transform, 51, 351
+Franck–Hertz experiment, 1
+free particle, 79, 98, 110, 146, 198, 479,
+
+484, 491–493
+
+gauge transformations, 120
+electromagnetism, 126
+gravitational effect, 122
+
+generating function, 99, 101, 204
+geometric phase, 331
+Gerlach, W., 2
+Glauber, R., 91, 142, 472
+Green’s function, 110
+
+Helmholtz equation, 379, 388
+scattering, 376, 424
+
+Groups
+SO(3), 163
+SO(4), 252
+SU(2), 164
+SU(2)!SU(2), 255
+
+Hamilton, W. R., 93
+Hamilton–Jacobi equation, 96, 400
+Hamiltonian, 63, 65
+Heisenberg equation of motion, 68, 78
+Heisenberg picture, 77, 321
+Heisenberg uncertainty principle, 3, 33, 43, 88
+Heisenberg, W., 1, 45, 180, 441
+helium atom, 312, 319, 437, 451
+Hermite polynomials, 99
+hidden variables, 227
+Hilbert space, 11
+Hilbert, D., 11, 93
+Hofstadter, R., 424
+Hohenberg, P., 444, 447
+Hohenberg–Kohn theorem, 447
+hydrogenlike atoms, 201
+
+degeneracy, 205, 252, 255, 260
+Dirac equation solution, 505
+energy levels, 204
+generating function, 204, 244
+Klein–Gordon equation solution, 485
+linear Stark effect, 298, 303
+perturbation, 288
+principal quantum number, 204
+quadratic Stark effect, 298
+relativistic perturbation, 306
+spin-orbit perturbation, 308
+variational principle, 318
+versus Bohr model, 204
+wave function, 205, 528
+
+inner product, 12
+interaction picture, 321, 340, 355, 371
+
+Jeffreys, H., 104
+Jordan, P., 45, 180
+
+ket, 8, 10
+representation as column matrix, 18
+
+Klein–Gordon equation, 478, 480
+Klein–Gordon field, 443, 485
+
+
+
+!"# Index
+
+Kohn, W., 443, 444, 447
+Kohn–Sham potential, 449
+Kramers degeneracy, 284
+Kramers, A., 104
+Kummer’s equation, 203
+
+Lamb shift, 305, 509
+Lamoreaux, S., 469
+Lande’s formula, 313
+Laporte’s rule, 264
+Lee, T. D., 264
+Lewis, J. T., 300
+Liouville’s theorem, 175
+Lipkin, H. J., 138
+Lippmann–Schwinger equation, 375, 382, 387, 424,
+
+427
+long wavelength approximation, 353, 355
+Lorentz force, 126
+Lorentz transformation, 481
+
+magnetic moment, 3, 4, 55, 307, 326
+from Dirac Equation, 496
+time evolution in magnetic field, 63, 66, 69, 147,
+
+157, 158, 180, 333
+magnetic monopole, 135, 337
+matrix mechanics, 45
+matrix representation, 18
+
+angular-momentum operators, 184
+diagonal matrix, 27
+eigenvalue problem, 35
+rotation operator, 185, 216
+unitary transformation, 34
+
+Maxwell’s equations, 464
+Merzbacher, E., 509
+muon g"2, 71
+
+neutrinos, 71, 138
+neutrons
+
+Berry’s phase, 334, 368
+bouncing energy eigenvalues, 103, 107
+gravitational phase, 123
+interferometry, 148, 158
+np bound state, 410
+
+normal ordering, 458
+normalization, 13, 17, 22, 292
+nuclear magnetic resonance, 326
+
+observable, 11, 16, 22
+compatible, 27, 28
+incompatible, 29
+unitary equivalent, 36
+
+operator, 13
+annihilation and creation, 84
+antiunitary, 273
+generator, 25, 42, 152, 189, 250
+Hermitian, 14, 16, 19
+ladder, 181
+
+linear, 14
+number, 84
+pair distribution, 458
+permutation, 430
+projection, 18, 292, 301
+representation as square matrix, 18
+rotation, 152, 168, 216
+symmetry, 250
+tensor, 233
+time evolution, 63, 65
+trace of, 35
+translation, 40
+unitary, 34, 75, 210
+vector, 232
+
+optical theorem, 381
+orthogonality, 13, 17
+orthohelium, 440
+outer product, 15
+
+parabolic coordinates, 300
+parahelium, 440
+parity symmetry, 256
+
+Dirac equation, 497
+one-dimensional double well, 261
+perturbation theory, 297
+violation, 264
+
+partition function, 112, 179
+Paschen–Back effect, 313
+path-integral formulation, 114
+Pauli exclusion principle, 433, 456, 494
+Pauli matrices, 160
+Pauli, W., 21, 159
+Perdew, J., 443, 451
+Peshkin, M., 138
+photoelectric effect, 98, 350, 464
+photon, 464, 467
+pion-proton scattering, 415
+Planck radiation law, 1
+Poisson brackets, 46
+polarization
+
+circular, 8
+of light, 6
+spin, 170
+
+Pople, J., 443
+Positron, 492, 495
+potential energy function
+!-function well, 144
+Coulomb potential, 201, 386, 505, 528
+double !-function, 145
+Gaussian potential, 403
+linear, 101
+local, 379
+one-dimensional finite well, 145, 521
+one-dimensional infinite well, 318, 521
+periodic, 266
+screened Coulomb, 309
+simple harmonic oscillator, 83, 99, 523
+
+!"$ Index
+
+spherical well, 198, 385
+symmetric double well, 261
+three-dimensional harmonic oscillator, 199
+Yukawa potential, 386, 387, 403
+
+precession, 69, 157
+projection theorem, 239
+propagator, 109
+
+quantum optics, 472
+quarkonium, 103
+
+Rabi, I. I., 323
+Ramsauer–Townsend effect, 407
+reduced matrix element, 239
+representations, 18
+resonance
+
+magnetic, 325
+scattering, 397, 412
+two-state system, 324
+
+rotation, 149
+finite, 153
+infinitesimal, 150
+operator, 152
+orthogonal group, 163
+orthogonal matrix, 149
+two-component formalism, 161
+unitary unimodular group, 164
+vector, 231
+
+rotational symmetry
+angular momentum conservation, 251
+
+Runge–Lenz vector, 245, 252
+
+S matrix, 372
+poles as bound states, 410
+
+scattering phase shift, 394
+scattering shadow amplitude, 405
+Schrödinger equation, 65, 82, 91
+
+energy quantization, 93
+probability density and flux, 94
+spherically symmetric potentials, 195
+
+Schrödinger picture, 77, 321, 339
+Schrödinger, E., 1, 62, 92
+Schwinger, J., 23, 42, 218
+second quantization, 443, 454, 485
+selection rules
+
+parity, 263
+Sham, L.J., 444, 447
+Siday, R.E., 133
+simple harmonic oscillator, 83
+
+as solution to the Schrödinger equation, 99
+coherent states, 91, 142, 473
+generating function, 99
+ground state, 86
+parity symmetry, 260
+propagator, 111
+quadratic perturbation, 296
+three-dimensional, 199
+
+Slater determinant, 442
+sodium atom, 309
+sodium metal, 464
+solid angle, 374
+Sommerfeld, A., 106
+space quantization, 3
+spherical Bessel function, 199
+spherical harmonics, 191, 217
+
+as spherical tensors, 233
+spin-angular functions, 216, 246, 309, 502
+spin magnetic resonance, 325
+spin-orbit interaction, 307
+spin-statistics theorem, 433
+spinor, 493
+spinor spherical harmonics, 216, 246,
+
+309, 502
+spontaneous emission of radiation, 352
+squeezed states, 474
+Stark effect, 264, 298, 329
+stationary state, 69
+statistical mechanics, 176
+statistics
+
+Bose–Einstein, 433
+Fermi–Dirac, 433
+Maxwell–Boltzmann, 434
+
+Stern, O., 1
+Stern–Gerlach experiment, 1, 54
+
+sequential, 4, 8, 24
+stimulated emission of radiation, 347
+sudden approximation, 328
+superfluid helium, 434, 474
+
+T matrix, 372, 374
+tensor operator
+
+Cartesian, 233
+irreducible spherical, 234
+reducibility, 233
+
+Thomas precession, 308
+Thomas, L. H., 308
+Thomas–Reiche–Kuhn sum rule, 349
+time reversal, 14, 270
+
+Dirac equation, 499
+totally antisymmetric symbol "ijk, 26
+transition amplitude, 339, 372
+transition probability, 340
+translation, 40
+
+finite, 43
+tritium atom, 328
+two-state systems, 2, 289, 323
+
+unitarity limit, 413–415
+units, 43, 479, 510
+Unsöld, A., 440
+
+vacuum, 454, 468
+van der Waals’ force, 314
+variational theorem, 316, 443, 447
+
+
+
+!"% Index
+
+vector, 149
+axial, 258
+operator definition, 232
+polari, 258
+rotations, 149, 152, 156
+
+vector space, 10
+bra space, 12, 15
+dual space, 12
+ket space, 10, 15
+
+virial theorem, 87, 306
+von Neumann, J., 170
+
+Walecka, J. D., 509
+wave function, 39, 47, 82, 94
+
+orbital plus spin angular momentum,
+206
+
+plane wave, 51, 97, 520
+renormalization, 295
+spherical well, 198, 397
+under parity, 258
+under time reversal, 279
+
+wave mechanics, 92
+
+wave packet, 51, 81, 111
+in scattering theory, 381
+
+Weisberger, W. I., 138
+Weisskopf, V. F., 358
+Wentzel, G., 104
+Weyl, H., 93, 131
+Wiener, N., 83
+Wigner, E. P., 185, 222, 227, 264, 270, 284, 358
+Wigner–Eckart theorem, 218, 237, 298, 393
+
+examples, 238
+projection theorem, 239
+
+Wigner–Seitz radius, 462
+Wilson, W., 106
+WKB approximation, 104
+Wu, T. T., 137
+
+Yang, C. N., 137, 264
+
+Zee, A., 509
+Zeeman effect, 311, 360, 362
+
+quadratic, 312, 364
+zero point energy, 468, 487

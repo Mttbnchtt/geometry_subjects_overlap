@@ -1,0 +1,139 @@
+
+108
+
+Index
+
+absolute conic
+affine basis
+affine map
+affine span
+affine subspace
+affinely independent
+affinity
+alternating group
+angle in Beltrami model
+angle of parallelism
+Beltrami model
+bianalytic isomorphism
+central inversion
+centrally symmetric solid
+circle
+conic
+conjugate quaternion
+convex polyhedron
+cross ratio
+crystal group
+crystallographic restriction
+cube
+curve
+
+Desargues' theorem
+dihedral group
+direct isometry
+direct symmetry group
+dodecahedron
+dual solid
+edge
+elliptic plane
+Euclidean metric
+even permutation
+face
+fractional linear transformation
+general linear group
+geodesic
+glide
+glide reflection
+golden ratio
+Gram-Schmidt process
+
+79 half turn 45
+7 harmonic 71
+8 hexahedron 24
+
+homogeneous co-ordinates 527
+horocycle 102Z
+
+Z
+hypercycle 102
+hyperplane 747
+
+28 icosahedron 25.26
+inner product 394
+inverse quaternion 4296 inversion 18
+
+79.94 isometry 4
+64 isometry group of R" 11
+29 isotropic 102
+
+22 lattice 37
+6,17 local (Poincare) metric 88
+
+65,67 meridian of torus 47
+43 metric in Beltrami model 94
+23 MObius band la
+61 MObius transformation 59
+39 norm 3
+32 octahedron 24
+
+24.30 open MObius band la
+62 open solid torus 18
+57 opposite isometry 12
+22 orbit 36
+12 orthogonal 3
+
+orthogonal group 428
+orthonormal 425,26,27,31
+
+97 Pappus's theorem 74
+parallel hyperbolic lines 8n
+
+23 parallel on torus 4Z
+63 Pascal's theorem 74
+a Platonic solid 23
+28 Poincar6 model 84
+23 point group 412
+59 polar 69
+
+polar line 69
+3 pole 35,69
+62 polyhedron 23
+
+1315 projective group 59
+13 15 projectivity 59
+
+quaternion 42
+fi
+
+109
+
+reflection 10,13,15
+regular polyhedron 23
+rotation 13,15
+rotation group 2$
+rotatory inversion 16
+rotatory relfection 16
+screw 15
+self polar triangle ZQ
+sign of permutation 26
+simple group 42
+solid torus 1Z
+special linear group 3
+special orthogonal group 4
+special unitary group 4a
+stabilizer 35
+stereographic projection 53,59.82
+symmetric group 26
+symmetry group 2]
+tangent to conic 70
+tesselation 104
+tetrahedron 24.28
+torus 1 Z
+translation 13.15
+transposition 26
+triangle of reference Z]
+ultraparallel lines $Q
+unit quaternion group 43
+unitary group 43
+upper half plane model 85.86
+Veronese surface 66
+vertex 23
