@@ -12,6 +12,8 @@ _ Mar 2021
 _ author: Matteo Bianchetti
 _ Python version: ≥ 3.7
 _ version 1
+_ folder structure: put geometry files in geometryText folder; put other files
+                    in otherTexts folder; create an output folder. 
 
 
     Input: txt files divided by category in different folders
