@@ -7,7 +7,6 @@ Mathematical practice displays a somewhat unappreciated phenomenon. On the one h
 In this repository, as part of my interest in reasoning of an "hybrid" type, I study how percentage of words appearing in a geometry book also appear in a scientific book that belongs to another subject. The following table summarizes the results of the comparison. It provides the rounded average of how many words the column category shares with the index catgory. For example, the cell with index algebra and column geometry has value 24. This means that, on average, 24% of the words that appear in the index of a geometry book also appears in the index of an algebra book.
  
 |                         | algebra | analysis.calculus | combinatorics.probability | geometry | logic | mathematical biology | number theory | physics |
-|-------------------------|---------|-------------------|---------------------------|----------|-------|----------------------|---------------|---------|
 |algebra                  |         |     21            |    13                     |    24    |  17   |    10                |    29         |  16     |
 |analysis.calculus        |  20     |                   |    14                     |    24    |  17   |    11                |    29         |  16     |
 |-------------------------|---------|-------------------|---------------------------|----------|-------|----------------------|---------------|---------|
