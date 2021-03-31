@@ -244,7 +244,7 @@ def txt_to_set_words(file_txt,
 def main():
 
     " LIST FILES "
-    path = f"{path1}otherTexts/"
+    path = f"otherTexts/"
     list_path = [
                  f"geometryTexts/",
                  f"{path}algebra/",
@@ -267,7 +267,7 @@ def main():
     " PREPARE OUTPUT "
     df_categories = dict_to_df(dct_comparison_categories)
     df_files = pd.DataFrame(dct_comparison_files)
-    filename_output = "textAnalysis/output/comparison"
+    filename_output = "output/comparison"
     df_categories.to_csv(f"{filename_output}Categories.csv")
     df_files.to_csv(f"{filename_output}Files.csv")
 
