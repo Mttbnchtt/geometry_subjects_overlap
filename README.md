@@ -21,5 +21,6 @@ In this repository, as part of my interest in reasoning of an "hybrid" type, I s
 This analysis is surely imperfect (one could discuss the grouping of the texts, their selection, and many other things). Nevertheless, it is interesting to observe that words from number theory indexes appears most often in texts about other subjects. Geometry is a (somewhat distant) second when one considers other mathematical subjects and comes in the third place otherwise.
 
 Though I will not elaborate here, concerning the roles of numbers and geometry in mathematics I want to remind the following passages:
-1. "The integer numbers are the source of all mathematics" (Hermann Minkowski, Diophantische Approximationen, 1906 p. V)
-2. "A characteristic feature of geometric concepts and methods is that they are based on _intuitive_ idas and [that they] preserve [these] advantages even though n an abstract [setting]"
+1. "The integer numbers are the source of all mathematics" (H. Minkowski, _Diophantische Approximationen_, 1906 p. V)
+2. "A characteristic feature of geometric concepts and methods is that they are based on _intuitive_ idas and [that they] preserve [these] advantages even though n an abstract [setting]" (A. D. Aleksandrov, _Mathematics. Its content, methods, and meaning_, 1963 pp. 162-3)
+3. "This language [the language of geometry], with its 'spatial' connotations, has become so fundamenta ... that to dispense with it ... would be so awkward as to be almost impossible" (J. Dieudonné, _The universal domination of geometry_, in Two-Year Colege Mathematics Journal, Vol. 12, N. 4, 1981 p. 228)
