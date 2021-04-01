@@ -17,7 +17,7 @@ In this repository, as part of my interest in reasoning of an "hybrid" type, I s
 |physics                  |  18     |     20             |     13                     |    19    |  16   |    11                |    26         |         |
 
 
-This analysis is surely imperfect (one could discuss the grouping of the texts, their selection, and many other things). Nevertheless, it is interesting to observe that words from number theory indexes appears most often in texts about other subjects. Geometry is a (somewhat distant) second when one considers other mathematical subjects and comes in the third place otherwise.
+This analysis is imperfect (one could discuss the grouping of the texts, their selection, and many other things). Nevertheless, it is interesting to observe that words from indexes of number theory books appears most often in texts about other subjects. Geometry is a (somewhat distant) second when one considers other mathematical subjects and comes in the third place otherwise.
 
 Though I will not elaborate here, concerning the roles of numbers and geometry in mathematics I want to remind the following passages:
 1. "The integer numbers are the source of all mathematics" (H. Minkowski, _Diophantische Approximationen_, 1906 p. V)
